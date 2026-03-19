@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lucas Pereira Walter — Desenvolvedor Backend</title>
+  <link rel="stylesheet" href="src/css/estilo.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <nav class="navegacao" id="navegacao">
+    <div class="navegacao__logo">lucas<span class="destaque">.</span>dev</div>
+    <button class="navegacao__menu-botao" id="menuBotao" aria-label="Abrir menu">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="navegacao__links" id="menuLinks">
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#habilidades">Habilidades</a></li>
+      <li><a href="#projetos">Projetos</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+  </nav>
+
+  <section class="heroi" id="heroi">
+    <div class="heroi__grade-fundo"></div>
+    <div class="heroi__conteudo">
+      <div class="heroi__foto-wrapper aparece-cima">
+        <div class="heroi__foto-anel">
+          <div class="heroi__foto-area">
+            <img
+              src="assets/imagens/pfp.png"
+              alt="Lucas Pereira Walter"
+              class="heroi__foto"
+              onerror="this.style.display='none'; this.parentElement.classList.add('heroi__foto-area--vazia')"
+            />
+          </div>
+        </div>
+      </div>
+      <p class="heroi__tag aparece-cima atraso-1">Desenvolvedor Backend</p>
+      <h1 class="heroi__titulo aparece-cima atraso-2">
+        Lucas Pereira <span class="destaque">Walter</span>
+      </h1>
+      <p class="heroi__subtitulo aparece-cima atraso-3">
+        Estudante de Engenharia de Software com foco em Java, Spring Boot e SQL.
+      </p>
+      <div class="heroi__acoes aparece-cima atraso-4">
+        <a href="#projetos" class="botao botao--primario">Ver Projetos</a>
+        <a href="#contato" class="botao botao--fantasma">Entrar em Contato</a>
+      </div>
+    </div>
+    <div class="heroi__indicador-scroll aparece-cima atraso-5">
+      <span></span>
+    </div>
+  </section>
+
+  <section class="secao" id="sobre">
+    <div class="container">
+      <div class="secao__cabecalho revela">
+        <span class="secao__rotulo">Sobre Mim</span>
+        <h2 class="secao__titulo">Quem Sou Eu</h2>
+      </div>
+      <div class="sobre__grade">
+        <div class="sobre__texto revela atraso-1">
+          <p>
+            Profissional com formação técnica em Desenvolvimento de Sistemas pelo <strong>SENAI</strong>,
+            atualmente cursando <strong>Engenharia de Software</strong> (1º período). Focado em
+            desenvolvimento back-end com <strong>Java</strong> e <strong>Spring Boot</strong>, construindo
+            minha base técnica através de projetos práticos e cursos especializados.
+          </p>
+          <p>
+            Tenho conhecimentos em <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>SQL</strong>,
+            <strong>Git</strong>, <strong>JavaScript</strong> e <strong>Linux</strong>. Meu objetivo é atuar
+            no desenvolvimento de aplicações back-end robustas e escaláveis, seguindo boas práticas de
+            programação.
+          </p>
+          <p>
+            Estou em constante evolução técnica e aberto a oportunidades que me permitam contribuir
+            e crescer na área de tecnologia.
+          </p>
+        </div>
+        <div class="sobre__cartoes revela atraso-2">
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">Java</span>
+            <span class="cartao-stat__rotulo">Foco Principal</span>
+          </div>
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">Linux</span>
+            <span class="cartao-stat__rotulo">Ambiente de Trabalho</span>
+          </div>
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">REST</span>
+            <span class="cartao-stat__rotulo">Arquitetura de APIs</span>
+          </div>
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">SQL</span>
+            <span class="cartao-stat__rotulo">Banco de Dados</span>
+          </div>
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">Git</span>
+            <span class="cartao-stat__rotulo">Controle de Versão</span>
+          </div>
+          <div class="cartao-stat">
+            <span class="cartao-stat__numero">JS</span>
+            <span class="cartao-stat__rotulo">JavaScript</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao--escura" id="habilidades">
+    <div class="container">
+      <div class="secao__cabecalho revela">
+        <span class="secao__rotulo">Habilidades</span>
+        <h2 class="secao__titulo">Stack & Tecnologias</h2>
+      </div>
+      <div class="habilidades__grade">
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">☕</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Java</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
+          <div class="habilidade-item__icone">🍃</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Spring Boot</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-3">
+          <div class="habilidade-item__icone">🐘</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">PostgreSQL</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🐧</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Linux</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
+          <div class="habilidade-item__icone">🔗</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">REST APIs</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-3">
+          <div class="habilidade-item__icone">🗄️</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">SQL</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🌿</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Git</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
+          <div class="habilidade-item__icone">🟨</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">JavaScript</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="secao" id="projetos">
+    <div class="container">
+      <div class="secao__cabecalho revela">
+        <span class="secao__rotulo">Portfólio</span>
+        <h2 class="secao__titulo">Projetos</h2>
+      </div>
+      <div class="projetos__lista">
+
+        <div class="projeto-card revela atraso-1">
+          <div class="projeto-card__imagem">
+            <img
+              src="assets/imagens/projetos/ferroviaria.png"
+              alt="Ferroviária LLGR"
+              onerror="this.style.display='none'; this.parentElement.classList.add('projeto-card__imagem--vazia')"
+            />
+          </div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">PHP · Sistema Ferroviário</span>
+              <span class="projeto-card__status projeto-card__status--concluido">Concluído</span>
+            </div>
+            <h3 class="projeto-card__titulo">Ferroviária LLGR</h3>
+            <p class="projeto-card__descricao">
+              Projeto final do Técnico em Desenvolvimento de Sistemas pelo <strong>SESI SENAI</strong>.
+              Sistema web desenvolvido para digitalizar e otimizar a gestão de operações ferroviárias,
+              conectando operadores e usuários com controle completo de trens, rotas, estações,
+              sensores, manutenções e itinerários.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>PHP</span><span>MVC</span><span>MySQL</span>
+            </div>
+            <div class="projeto-card__links">
+              <a href="https://github.com/lucaspwalter/ferroviaria-llgr" target="_blank" class="botao botao--pequeno">
+                GitHub
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Java · Spring Boot</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Java</span><span>Spring Boot</span><span>PostgreSQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Java · API REST</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Java</span><span>REST</span><span>SQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Backend</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Java</span><span>Spring</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao--escura" id="contato">
+    <div class="container">
+      <div class="secao__cabecalho revela">
+        <span class="secao__rotulo">Contato</span>
+        <h2 class="secao__titulo">Vamos Conversar</h2>
+      </div>
+      <div class="contato__wrapper revela atraso-1">
+        <p class="contato__texto">
+          Aberto a oportunidades de estágio, freela e trabalho remoto.
+          Se tiver um projeto interessante ou uma vaga backend, manda mensagem.
+        </p>
+        <div class="contato__links">
+          <a href="https://mail.google.com/mail/?view=cm&to=lukas.lukas.walter@gmail.com" target="_blank" class="link-contato">
+            <span class="link-contato__icone">✉</span>
+            <span>lukas.lukas.walter@gmail.com</span>
+          </a>
+          <a href="https://github.com/lucaspwalter" target="_blank" class="link-contato">
+            <span class="link-contato__icone">⌥</span>
+            <span>github.com/lucaspwalter</span>
+          </a>
+          <a href="https://linkedin.com/in/lucaspereirawalter" target="_blank" class="link-contato">
+            <span class="link-contato__icone">in</span>
+            <span>linkedin.com/in/lucaspereirawalter</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <p>Lucas Pereira Walter — lucas<span class="destaque">.</span>dev</p>
+  </footer>
+
+  <script src="src/js/principal.js"></script>
+</body>
+</html>
