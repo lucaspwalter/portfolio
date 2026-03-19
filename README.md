@@ -5,16 +5,3 @@ Tecnologias
 HTML5
 CSS3
 JavaScript Vanilla
-<h3>Estrutura</h3>
-portfolio/
-├── index.html
-├── src/
-│   ├── css/
-│   │   └── estilo.css
-│   └── js/
-│       └── principal.js
-└── assets/
-    └── imagens/
-        ├── pfp.png
-        └── projetos/
-            └── ferroviaria.png
