@@ -11,14 +11,16 @@ window.addEventListener('scroll', () => {
 });
 
 menuBotao.addEventListener('click', () => {
+  const estaAberto = menuLinks.classList.toggle('aberto');
   menuBotao.classList.toggle('aberto');
-  menuLinks.classList.toggle('aberto');
+  document.body.style.overflow = estaAberto ? 'hidden' : '';
 });
 
 menuLinks.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => {
     menuBotao.classList.remove('aberto');
     menuLinks.classList.remove('aberto');
+    document.body.style.overflow = '';
   });
 });
 
