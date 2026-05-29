@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Como Rodar o Projeto Localmente</title>
+  <link rel="stylesheet" href="src/css/estilo.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    .setup {
+      min-height: 100vh;
+      padding-top: 7rem;
+      padding-bottom: 4rem;
+    }
+
+    .setup__cabecalho {
+      max-width: 760px;
+      margin-bottom: 3rem;
+    }
+
+    .setup__titulo {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      line-height: 1.1;
+      letter-spacing: -1px;
+      margin-top: 0.75rem;
+      color: var(--cor-texto);
+    }
+
+    .setup__lista {
+      display: grid;
+      gap: 1.25rem;
+      max-width: 860px;
+    }
+
+    .setup__bloco {
+      background: var(--cor-fundo-cartao);
+      border: 1px solid var(--cor-borda);
+      border-radius: var(--raio);
+      padding: 1.5rem;
+    }
+
+    .setup__bloco h2 {
+      font-size: 1.05rem;
+      margin-bottom: 0.75rem;
+      color: var(--cor-texto);
+    }
+
+    .setup__bloco p,
+    .setup__bloco li {
+      color: var(--cor-texto-suave);
+      font-size: 0.95rem;
+    }
+
+    .setup__bloco ul {
+      display: grid;
+      gap: 0.45rem;
+      padding-left: 1.2rem;
+    }
+
+    .setup__codigo {
+      display: block;
+      margin-top: 0.8rem;
+      padding: 1rem;
+      overflow-x: auto;
+      background: #050508;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      color: var(--cor-destaque-clara);
+      font-family: var(--fonte-mono);
+      font-size: 0.85rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+    }
+
+    .setup__acoes {
+      margin-top: 2rem;
+    }
+
+    .navegacao--simples {
+      background: rgba(10, 10, 15, 0.9);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--cor-borda);
+    }
+
+    @media (max-width: 900px) {
+      .navegacao--simples .navegacao__links {
+        position: static;
+        width: auto;
+        height: auto;
+        opacity: 1;
+        pointer-events: all;
+        background: transparent;
+        flex-direction: row;
+      }
+
+      .navegacao--simples .navegacao__links a {
+        opacity: 1;
+        transform: none;
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="navegacao navegacao--simples">
+    <div class="navegacao__logo">lucas<span class="destaque">.</span>dev</div>
+    <ul class="navegacao__links">
+      <li><a href="index.html">Voltar ao Portfólio</a></li>
+    </ul>
+  </nav>
+
+  <main class="setup">
+    <div class="container">
+      <header class="setup__cabecalho aparece-cima">
+        <span class="secao__rotulo">Ferroviária LLGR</span>
+        <h1 class="setup__titulo">Como Rodar o Projeto Localmente</h1>
+      </header>
+
+      <div class="setup__lista">
+        <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Pré-requisitos</h2>
+          <ul>
+            <li>PHP 8.2+</li>
+            <li>MySQL</li>
+            <li>Git</li>
+          </ul>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-2">
+          <h2>Clonar o repositório</h2>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/ferroviaria-llgr.git</code>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-3">
+          <h2>Configurar o banco</h2>
+          <ul>
+            <li>Criar banco chamado <strong>ferrorama</strong> no MySQL</li>
+            <li>Importar o arquivo <strong>database/schema/ferrorama.sql</strong></li>
+          </ul>
+          <code class="setup__codigo">mysql -u root -p -e "CREATE DATABASE ferrorama;"
+mysql -u root -p ferrorama &lt; database/schema/ferrorama.sql</code>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-4">
+          <h2>Configurar o .env</h2>
+          <ul>
+            <li>Copiar <strong>.env.example</strong> para <strong>.env</strong></li>
+            <li>Abra o arquivo <strong>.env</strong> e preencha assim:</li>
+          </ul>
+          <code class="setup__codigo">DB_HOST=localhost
+DB_USER=root
+DB_PASS=sua_senha_do_mysql
+DB_NAME=ferrorama</code>
+          <p>Se instalou o MySQL sem senha, deixe <strong>DB_PASS</strong> vazio:</p>
+          <code class="setup__codigo">DB_PASS=</code>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-5">
+          <h2>Rodar localmente</h2>
+          <code class="setup__codigo">php -S localhost:8000 -t .</code>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Acessar no navegador</h2>
+          <code class="setup__codigo">http://localhost:8000/index.html</code>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-2">
+          <h2>Credenciais de teste</h2>
+          <ul>
+            <li>Email: <strong>operador@gmail.com</strong></li>
+            <li>Senha: <strong>Senha123</strong></li>
+            <li>Usuário: cadastre-se na tela de registro</li>
+          </ul>
+        </section>
+      </div>
+
+      <div class="setup__acoes aparece-cima atraso-3">
+        <a href="index.html" class="botao botao--primario">Voltar ao Portfólio</a>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

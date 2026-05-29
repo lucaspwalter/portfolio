@@ -38,3 +38,34 @@ const observador = new IntersectionObserver((entradas) => {
 });
 
 elementosRevela.forEach(el => observador.observe(el));
+
+const filtroBotoes = document.querySelectorAll('.filtro-btn');
+const projetoCards = document.querySelectorAll('.projeto-card');
+
+filtroBotoes.forEach(botao => {
+  botao.addEventListener('click', () => {
+    const filtro = botao.dataset.filtro;
+
+    filtroBotoes.forEach(item => item.classList.remove('filtro-btn--ativo'));
+    botao.classList.add('filtro-btn--ativo');
+
+    projetoCards.forEach(card => {
+      const linguagens = card.dataset.linguagens || '';
+      const deveMostrar = filtro === 'todos' || linguagens.split(' ').includes(filtro);
+
+      if (deveMostrar) {
+        card.style.display = 'grid';
+        requestAnimationFrame(() => {
+          card.style.opacity = '1';
+        });
+      } else {
+        card.style.opacity = '0';
+        setTimeout(() => {
+          if (card.style.opacity === '0') {
+            card.style.display = 'none';
+          }
+        }, 300);
+      }
+    });
+  });
+});

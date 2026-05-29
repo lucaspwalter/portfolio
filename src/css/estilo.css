@@ -525,6 +525,49 @@ a {
   color: var(--cor-texto);
 }
 
+.projetos__aviso {
+  max-width: 820px;
+  margin: 0 auto 40px;
+  padding: 12px 20px;
+  text-align: center;
+  color: #888;
+  font-size: 0.95em;
+  background: var(--cor-fundo-cartao);
+  border-left: 3px solid var(--cor-destaque);
+  border-radius: 6px;
+}
+
+.projetos__filtros {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.filtro-btn {
+  padding: 8px 20px;
+  border-radius: 20px;
+  border: 1px solid #444;
+  background: transparent;
+  color: #888;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: inherit;
+  font-size: 0.9em;
+}
+
+.filtro-btn:hover {
+  border-color: var(--cor-destaque);
+  color: var(--cor-branca);
+}
+
+.filtro-btn--ativo {
+  background: var(--cor-destaque);
+  border-color: var(--cor-destaque);
+  color: var(--cor-branca);
+}
+
 .projetos__lista {
   display: flex;
   flex-direction: column;

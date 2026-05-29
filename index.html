@@ -31,7 +31,7 @@
         <div class="topo__foto-anel">
           <div class="topo__foto-area">
             <img
-              src="assets/imagens/pfp.png"
+              src="public/assets/images/pfp.png"
               alt="Lucas Pereira Walter"
               class="topo__foto"
               onerror="this.style.display='none'; this.parentElement.classList.add('topo__foto-area--vazia')"
@@ -185,15 +185,63 @@
           </div>
         </div>
         <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🐘</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">PHP</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
           <div class="habilidade-item__icone">🌿</div>
           <div class="habilidade-item__info">
             <span class="habilidade-item__nome">Git</span>
           </div>
         </div>
-        <div class="habilidade-item revela atraso-2">
+        <div class="habilidade-item revela atraso-3">
           <div class="habilidade-item__icone">🐳</div>
           <div class="habilidade-item__info">
             <span class="habilidade-item__nome">Docker</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🐬</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">MySQL</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
+          <div class="habilidade-item__icone">🟩</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Node.js</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-3">
+          <div class="habilidade-item__icone">©</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">C</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🧾</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">ADVPL</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-2">
+          <div class="habilidade-item__icone">🧩</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">PO-UI</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-3">
+          <div class="habilidade-item__icone">🅰️</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Angular</span>
+          </div>
+        </div>
+        <div class="habilidade-item revela atraso-1">
+          <div class="habilidade-item__icone">🏢</div>
+          <div class="habilidade-item__info">
+            <span class="habilidade-item__nome">Protheus</span>
           </div>
         </div>
       </div>
@@ -206,19 +254,33 @@
         <span class="secao__rotulo">Portfólio</span>
         <h2 class="secao__titulo">Projetos</h2>
       </div>
+      <p class="projetos__aviso">
+        Projetos maiores e mais complexos estão disponíveis apenas para execução local
+        devido ao custo de hospedagem. Projetos menores contam com demo online disponível.
+        Todos os repositórios estão no GitHub com instruções de como rodar localmente.
+      </p>
+      <div class="projetos__filtros">
+        <button class="filtro-btn filtro-btn--ativo" data-filtro="todos">Todos</button>
+        <button class="filtro-btn" data-filtro="php">PHP</button>
+        <button class="filtro-btn" data-filtro="python">Python</button>
+        <button class="filtro-btn" data-filtro="java">Java</button>
+        <button class="filtro-btn" data-filtro="typescript">TypeScript</button>
+        <button class="filtro-btn" data-filtro="c">C</button>
+        <button class="filtro-btn" data-filtro="advpl">ADVPL</button>
+      </div>
       <div class="projetos__lista">
 
-        <div class="projeto-card revela atraso-1">
+        <div class="projeto-card revela atraso-1" data-linguagens="php">
           <div class="projeto-card__imagem">
             <img
-              src="assets/imagens/projetos/ferroviaria.png"
+              src="public/assets/images/projects/ferroviaria.png"
               alt="Ferroviária LLGR"
               onerror="this.style.display='none'; this.parentElement.classList.add('projeto-card__imagem--vazia')"
             />
           </div>
           <div class="projeto-card__conteudo">
             <div class="projeto-card__topo">
-              <span class="projeto-card__tag">PHP · Sistema Ferroviário</span>
+              <span class="projeto-card__tag">PHP · MySQL · Docker</span>
               <span class="projeto-card__status projeto-card__status--concluido">Concluído</span>
             </div>
             <h3 class="projeto-card__titulo">Ferroviária LLGR</h3>
@@ -229,9 +291,12 @@
               sensores, manutenções e itinerários.
             </p>
             <div class="projeto-card__tecnologias">
-              <span>PHP</span><span>MVC</span><span>MySQL</span>
+              <span>PHP</span><span>MySQL</span><span>Docker</span>
             </div>
             <div class="projeto-card__links">
+              <a href="setup-ferroviaria.html" target="_blank" class="botao botao--pequeno">
+                Como Rodar
+              </a>
               <a href="https://github.com/lucaspwalter/ferroviaria-llgr" target="_blank" class="botao botao--pequeno">
                 GitHub
               </a>
@@ -239,10 +304,10 @@
           </div>
         </div>
 
-        <div class="projeto-card revela atraso-2">
+        <div class="projeto-card revela atraso-2" data-linguagens="python">
           <div class="projeto-card__imagem">
             <img
-              src="assets/imagens/projetos/turnover.png"
+              src="public/assets/images/projects/turnover.png"
               alt="Dashboard de Turnover"
               onerror="this.style.display='none'; this.parentElement.classList.add('projeto-card__imagem--vazia')"
             />
@@ -270,14 +335,68 @@
           </div>
         </div>
 
-        <div class="projeto-card projeto-card--futuro revela atraso-3">
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="php">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">PHP · API</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro PHP 1</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>PHP</span><span>MySQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="php">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">PHP · Dashboard</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro PHP 2</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>PHP</span><span>Docker</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="php">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">PHP · Sistema Web</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro PHP 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>PHP</span><span>SQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="java">
           <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
           <div class="projeto-card__conteudo">
             <div class="projeto-card__topo">
               <span class="projeto-card__tag">Java · API REST</span>
               <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
             </div>
-            <h3 class="projeto-card__titulo">Projeto Futuro</h3>
+            <h3 class="projeto-card__titulo">Projeto Futuro Java 1</h3>
             <p class="projeto-card__descricao">
               Espaço reservado para projeto em desenvolvimento.
               Em breve com detalhes, tecnologias e link para o repositório.
@@ -288,20 +407,254 @@
           </div>
         </div>
 
-        <div class="projeto-card projeto-card--futuro revela atraso-1">
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="java">
           <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
           <div class="projeto-card__conteudo">
             <div class="projeto-card__topo">
-              <span class="projeto-card__tag">Backend</span>
+              <span class="projeto-card__tag">Java · Spring</span>
               <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
             </div>
-            <h3 class="projeto-card__titulo">Projeto Futuro</h3>
+            <h3 class="projeto-card__titulo">Projeto Futuro Java 2</h3>
             <p class="projeto-card__descricao">
               Espaço reservado para projeto em desenvolvimento.
               Em breve com detalhes, tecnologias e link para o repositório.
             </p>
             <div class="projeto-card__tecnologias">
               <span>Java</span><span>Spring</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="java">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Java · Backend</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro Java 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Java</span><span>PostgreSQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="typescript">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">TypeScript · React</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro TypeScript 1</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>TypeScript</span><span>React</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="typescript">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">TypeScript · API</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro TypeScript 2</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>TypeScript</span><span>Node.js</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="typescript">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">TypeScript · Fullstack</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro TypeScript 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>TypeScript</span><span>SQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="python">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Python · FastAPI</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro Python 1</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Python</span><span>FastAPI</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="python">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Python · Dados</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro Python 2</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Python</span><span>PostgreSQL</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="python">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">Python · Automação</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro Python 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>Python</span><span>APIs</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="c">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">C · Algoritmos</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro C 1</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>C</span><span>CLI</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="c">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">C · Estruturas</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro C 2</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>C</span><span>Memória</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="c">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">C · Sistemas</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro C 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>C</span><span>Linux</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-3" data-linguagens="advpl">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">ADVPL · ERP</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro ADVPL 1</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>ADVPL</span><span>ERP</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-1" data-linguagens="advpl">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">ADVPL · Rotinas</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro ADVPL 2</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>ADVPL</span><span>Protheus</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="advpl">
+          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+          <div class="projeto-card__conteudo">
+            <div class="projeto-card__topo">
+              <span class="projeto-card__tag">ADVPL · Integrações</span>
+              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+            </div>
+            <h3 class="projeto-card__titulo">Projeto Futuro ADVPL 3</h3>
+            <p class="projeto-card__descricao">
+              Espaço reservado para projeto em desenvolvimento.
+              Em breve com detalhes, tecnologias e link para o repositório.
+            </p>
+            <div class="projeto-card__tecnologias">
+              <span>ADVPL</span><span>APIs</span>
             </div>
           </div>
         </div>
