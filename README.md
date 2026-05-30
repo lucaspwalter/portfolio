@@ -8,22 +8,10 @@ O sistema funciona como um portfolio pessoal estatico, com apresentacao profissi
 
 ## Tecnologias
 
-- Back-end
-  - Nao se aplica diretamente, pois o portfolio e um site estatico
-
 - Front-end
   - HTML5
   - CSS3
   - JavaScript Vanilla
-
-- Integracoes
-  - Google Fonts
-  - GitHub
-  - Links para demos externas
-  - Paginas de setup para projetos documentados
-
-- Deploy
-  - GitHub Pages
 
 ## Estrutura do projeto
 
