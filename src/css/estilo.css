@@ -474,6 +474,8 @@ a {
   font-size: 1.2rem;
   font-weight: 600;
   color: var(--cor-destaque-clara);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .cartao-stat__rotulo {
@@ -831,6 +833,10 @@ a {
     padding: 1rem 1.5rem;
   }
 
+  .topo {
+    padding-top: 5rem;
+  }
+
   .navegacao__menu-botao {
     display: flex;
   }
@@ -905,13 +911,47 @@ a {
 }
 
 @media (max-width: 600px) {
+  .topo {
+    padding: 6rem 1.25rem 0;
+  }
+
+  .topo__conteudo {
+    width: 100%;
+    padding: 0;
+  }
+
   .topo__titulo {
     letter-spacing: -1px;
+  }
+
+  .topo__subtitulo {
+    font-size: 0.95rem;
   }
 
   .topo__foto-anel {
     width: 160px;
     height: 160px;
+  }
+
+  .topo__acoes {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .topo__acoes .botao {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .topo__indicador-scroll {
+    display: none;
+  }
+
+  .projeto-card__links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
   }
 
   .habilidades__grade {
