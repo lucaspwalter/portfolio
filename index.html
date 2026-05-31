@@ -75,32 +75,6 @@
             e crescer na área de tecnologia.
           </p>
         </div>
-        <div class="sobre__cartoes revela atraso-2">
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">Java</span>
-            <span class="cartao-stat__rotulo">Back-end</span>
-          </div>
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">Python</span>
-            <span class="cartao-stat__rotulo">Back-end</span>
-          </div>
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">TypeScript</span>
-            <span class="cartao-stat__rotulo">Front e Back</span>
-          </div>
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">React</span>
-            <span class="cartao-stat__rotulo">Front-end</span>
-          </div>
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">SQL</span>
-            <span class="cartao-stat__rotulo">Banco de Dados</span>
-          </div>
-          <div class="cartao-stat">
-            <span class="cartao-stat__numero">Linux</span>
-            <span class="cartao-stat__rotulo">Ambiente de Trabalho</span>
-          </div>
-        </div>
       </div>
     </div>
   </section>
@@ -561,20 +535,33 @@
           </div>
         </div>
 
-        <div class="projeto-card projeto-card--futuro revela atraso-2" data-linguagens="python">
-          <div class="projeto-card__imagem projeto-card__imagem--vazia"></div>
+        <div class="projeto-card revela atraso-2" data-linguagens="python">
+          <div class="projeto-card__imagem">
+            <img
+              src="public/assets/images/projects/job-scraper.png"
+              alt="Job Scraper"
+              onerror="this.style.display='none'; this.parentElement.classList.add('projeto-card__imagem--vazia')"
+            />
+          </div>
           <div class="projeto-card__conteudo">
             <div class="projeto-card__topo">
-              <span class="projeto-card__tag">Python · Automação</span>
-              <span class="projeto-card__status projeto-card__status--futuro">Em Breve</span>
+              <span class="projeto-card__tag">Python · FastAPI · React</span>
+              <span class="projeto-card__status projeto-card__status--concluido">Concluído</span>
             </div>
-            <h3 class="projeto-card__titulo">Projeto Futuro Python 3</h3>
+            <h3 class="projeto-card__titulo">Job Scraper</h3>
             <p class="projeto-card__descricao">
-              Espaço reservado para projeto em desenvolvimento.
-              Em breve com detalhes, tecnologias e link para o repositório.
+              Monitor automático de vagas remotas. Busca vagas na Remotive API a cada intervalo configurável, detecta publicações novas e envia alertas por email. Interface web para gerenciar fontes e visualizar histórico.
             </p>
             <div class="projeto-card__tecnologias">
-              <span>Python</span><span>APIs</span>
+              <span>Python</span><span>FastAPI</span><span>PostgreSQL</span><span>React</span>
+            </div>
+            <div class="projeto-card__links">
+              <a href="setup-job-scraper.html" target="_blank" class="botao botao--pequeno">
+                Como Rodar
+              </a>
+              <a href="https://github.com/lucaspwalter/job-scraper" target="_blank" class="botao botao--pequeno">
+                GitHub
+              </a>
             </div>
           </div>
         </div>
