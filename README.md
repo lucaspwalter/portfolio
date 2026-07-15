@@ -1,38 +1,38 @@
 # Lucas Pereira Walter - Portfolio
 
-## O que é
+## What it is
 
-Este projeto resolve a necessidade de centralizar, apresentar e organizar meus principais projetos de desenvolvimento em um unico lugar.
+This project centralizes, presents, and organizes my main development projects in one place.
 
-O sistema funciona como um portfolio pessoal estatico, com apresentacao profissional, secao de habilidades, listagem de projetos, filtros por tecnologia, repositorios no GitHub e paginas auxiliares com instrucoes para rodar cada projeto localmente.
+The system is a static personal portfolio featuring a professional introduction, skills section, project list, technology filters, GitHub repositories, and supporting pages with instructions for running each project locally.
 
-## Tecnologias
+## Technologies
 
-- Front-end
+- Front end
   - HTML5
   - CSS3
-  - JavaScript Vanilla
+  - Vanilla JavaScript
 
-## Estrutura do projeto
+## Project structure
 
 ```text
 .
-├── README.md                  # Documentacao do portfolio
-├── index.html                 # Pagina principal do portfolio
-├── setup-ferroviaria.html     # Guia de execucao local do projeto Ferroviaria LLGR
-├── setup-pricewatch.html      # Guia de execucao local do projeto PriceWatch
-├── setup-turnover.html        # Guia de execucao local do Dashboard de Turnover
-├── public/                    # Arquivos publicos usados pelo site
+├── README.md                  # Portfolio documentation
+├── index.html                 # Main portfolio page
+├── setup-ferroviaria.html     # Local setup guide for Ferroviaria LLGR
+├── setup-pricewatch.html      # Local setup guide for PriceWatch
+├── setup-turnover.html        # Local setup guide for Turnover Dashboard
+├── public/                    # Public files used by the website
 │   └── assets/
 │       └── images/
-│           ├── pfp.png        # Foto de perfil exibida no topo
+│           ├── pfp.png        # Profile picture displayed at the top
 │           └── projects/
-│               ├── ferroviaria.png  # Imagem do projeto Ferroviaria LLGR
-│               ├── pricewatch.png   # Imagem do projeto PriceWatch
-│               └── turnover.png     # Imagem do projeto Dashboard de Turnover
-└── src/                       # Codigo-fonte do front-end
+│               ├── ferroviaria.png  # Ferroviaria LLGR project image
+│               ├── pricewatch.png   # PriceWatch project image
+│               └── turnover.png     # Turnover Dashboard project image
+└── src/                       # Front-end source code
     ├── css/
-    │   └── estilo.css         # Estilos visuais, responsividade e componentes
+    │   └── estilo.css         # Visual styles, responsiveness, and components
     └── js/
-        └── principal.js       # Menu mobile, animacoes e filtros de projetos
+        └── principal.js       # Mobile menu, animations, and project filters
 ```
