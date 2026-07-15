@@ -133,6 +133,14 @@
 
       <div class="setup__lista">
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Opção recomendada — Docker</h2>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/support-system.git
+cd support-system
+docker compose up --build</code>
+          <p>Acesse <strong>http://localhost:3000/client</strong>. Banco, backend e frontend são iniciados automaticamente.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Sobre o projeto</h2>
           <p>Sistema de suporte ao vivo com chat em tempo real via WebSocket STOMP. Clientes abrem sessões de atendimento, entram em fila de espera e conversam diretamente com atendentes. O backend é construído em Java com Spring Boot e o frontend em Next.js.</p>
         </section>
@@ -141,8 +149,6 @@
           <h2>Pré-requisitos</h2>
           <ul>
             <li>Docker instalado e rodando</li>
-            <li>Java 21 ou superior</li>
-            <li>Maven 3.9 ou superior</li>
             <li>Node.js 18 ou superior</li>
             <li>Git</li>
           </ul>
@@ -160,6 +166,7 @@ cd support-system</code>
           <code class="setup__codigo">curl http://localhost:8080/agents</code>
           <p><strong>4. Em outro terminal, instale e inicie o frontend</strong></p>
           <code class="setup__codigo">cd frontend
+cp .env.example .env.local
 npm install
 npm run dev</code>
           <p><strong>5. Acesse:</strong></p>
@@ -180,6 +187,7 @@ cd support-system</code>
           <code class="setup__codigo">curl http://localhost:8080/agents</code>
           <p><strong>4. Em outro terminal, instale e inicie o frontend</strong></p>
           <code class="setup__codigo">cd frontend
+Copy-Item .env.example .env.local
 npm install
 npm run dev</code>
           <p><strong>5. Acesse:</strong></p>

@@ -4,7 +4,7 @@
 
 Este projeto resolve a necessidade de centralizar, apresentar e organizar meus principais projetos de desenvolvimento em um unico lugar.
 
-O sistema funciona como um portfolio pessoal estatico, com apresentacao profissional, secao de habilidades, listagem de projetos, filtros por tecnologia, links para demos, repositorios no GitHub e paginas auxiliares com instrucoes para rodar projetos maiores localmente.
+O sistema funciona como um portfolio pessoal estatico, com apresentacao profissional, secao de habilidades, listagem de projetos, filtros por tecnologia, repositorios no GitHub e paginas auxiliares com instrucoes para rodar cada projeto localmente.
 
 ## Tecnologias
 
@@ -21,6 +21,7 @@ O sistema funciona como um portfolio pessoal estatico, com apresentacao profissi
 ├── index.html                 # Pagina principal do portfolio
 ├── setup-ferroviaria.html     # Guia de execucao local do projeto Ferroviaria LLGR
 ├── setup-pricewatch.html      # Guia de execucao local do projeto PriceWatch
+├── setup-turnover.html        # Guia de execucao local do Dashboard de Turnover
 ├── public/                    # Arquivos publicos usados pelo site
 │   └── assets/
 │       └── images/

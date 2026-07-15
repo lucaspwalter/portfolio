@@ -133,6 +133,14 @@
 
       <div class="setup__lista">
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Opção recomendada — Docker</h2>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
+cd pricewatch
+docker compose up --build</code>
+          <p>Acesse <strong>http://localhost:3000</strong>. PostgreSQL, backend e frontend são iniciados automaticamente.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>1. Baixar o projeto do GitHub</h2>
           <p><strong>Linux/Ubuntu</strong></p>
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
@@ -288,6 +296,7 @@ docker run --rm -p 8080:8080 \
   -e DATABASE_PASSWORD=pricewatch \
   -e JWT_SECRET=pricewatch-secret-key-local-1234567890 \
   pricewatch</code>
+          <p>No PowerShell, troque cada <code>\</code> de continuação por <code>`</code>.</p>
         </section>
       </div>
 
