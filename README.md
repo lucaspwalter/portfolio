@@ -1,19 +1,38 @@
 # Lucas Pereira Walter - Portfolio
 
-## What it is
+A responsive portfolio showcasing my software development projects and technical skills.
+
+## Overview
 
 This project centralizes, presents, and organizes my main development projects in one place.
 
 The system is a static personal portfolio featuring a professional introduction, skills section, project list, technology filters, GitHub repositories, and supporting pages with instructions for running each project locally.
 
-## Technologies
+## Features
+
+- Responsive project showcase
+- Technology-based project filters
+- Links to source repositories
+- Project-specific local setup guides
+- Professional profile and skills sections
+
+## Tech Stack
 
 - Front end
   - HTML5
   - CSS3
   - Vanilla JavaScript
 
-## Project structure
+## Getting Started
+
+No build step or dependency installation is required. Clone the repository and open `index.html` in a browser:
+
+```bash
+git clone https://github.com/lucaspwalter/portfolio.git
+cd portfolio
+```
+
+## Project Structure
 
 ```text
 .
