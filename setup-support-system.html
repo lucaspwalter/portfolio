@@ -141,6 +141,21 @@ docker compose up --build</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida</h2>
+          <p>Use Docker apenas para banco e backend; execute frontend no computador:</p>
+          <p><strong>Terminal 1</strong></p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/support-system.git
+cd support-system
+docker compose up -d db backend</code>
+          <p><strong>Terminal 2</strong></p>
+          <code class="setup__codigo">cd support-system/frontend
+cp .env.example .env.local
+npm install
+npm run dev</code>
+          <p>Windows: troque <code>cp</code> por <code>Copy-Item</code>. Acesse <strong>http://localhost:3000/client</strong>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Sobre o projeto</h2>
           <p>Sistema de suporte ao vivo com chat em tempo real via WebSocket STOMP. Clientes abrem sessões de atendimento, entram em fila de espera e conversam diretamente com atendentes. O backend é construído em Java com Spring Boot e o frontend em Next.js.</p>
         </section>

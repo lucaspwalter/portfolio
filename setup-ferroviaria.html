@@ -128,6 +128,19 @@ docker compose up --build</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida</h2>
+          <p>Com PHP 8.2, MySQL e Git instalados:</p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/ferroviaria-llgr.git
+cd ferroviaria-llgr
+mysql -u root -p -e "CREATE DATABASE ferrorama;"
+mysql -u root -p ferrorama &lt; database/schema/ferrorama.sql
+cp .env.example .env
+php -S localhost:8000 -t .</code>
+          <p>No Windows PowerShell, use <code>cmd /c "mysql -u root -p ferrorama &lt; database\schema\ferrorama.sql"</code> e <code>Copy-Item .env.example .env</code>.</p>
+          <p>Edite apenas usuário e senha em <code>.env</code>. Acesse <strong>http://localhost:8000</strong>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
             <li>Docker, para instalação recomendada</li>

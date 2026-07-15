@@ -141,6 +141,31 @@ docker compose up --build</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida</h2>
+          <p>Após instalar Java 17, Maven, Node.js e PostgreSQL, crie banco e usuário:</p>
+          <code class="setup__codigo">psql -U postgres -c "CREATE USER pricewatch WITH PASSWORD 'pricewatch';"
+psql -U postgres -c "CREATE DATABASE pricewatch OWNER pricewatch;"</code>
+          <p><strong>Terminal 1 — Backend no Linux/macOS</strong></p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
+cd pricewatch
+export DATABASE_USERNAME=pricewatch DATABASE_PASSWORD=pricewatch
+export JWT_SECRET=pricewatch-secret-key-local-1234567890
+mvn spring-boot:run</code>
+          <p><strong>Terminal 1 — Backend no Windows PowerShell</strong></p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
+cd pricewatch
+$env:DATABASE_USERNAME="pricewatch"
+$env:DATABASE_PASSWORD="pricewatch"
+$env:JWT_SECRET="pricewatch-secret-key-local-1234567890"
+mvn spring-boot:run</code>
+          <p><strong>Terminal 2 — Frontend</strong></p>
+          <code class="setup__codigo">cd pricewatch/frontend
+npm install
+npm run dev</code>
+          <p>Acesse <strong>http://localhost:3000</strong>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>1. Baixar o projeto do GitHub</h2>
           <p><strong>Linux/Ubuntu</strong></p>
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git

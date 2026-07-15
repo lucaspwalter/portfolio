@@ -141,6 +141,25 @@ docker compose up</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida — SQLite</h2>
+          <p>Não exige Docker nem PostgreSQL. Email e WhatsApp são opcionais.</p>
+          <p><strong>Terminal 1 — API</strong></p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
+cd job-scraper/backend
+cp .env.example .env
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 seed.py
+python3 main.py</code>
+          <p><strong>Terminal 2 — Frontend</strong></p>
+          <code class="setup__codigo">cd job-scraper/frontend
+npm install
+npm start</code>
+          <p>Windows: troque <code>python3</code> por <code>py</code>, ativação por <code>.\.venv\Scripts\Activate.ps1</code> e <code>cp</code> por <code>Copy-Item</code>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
             <li>Docker instalado e rodando</li>

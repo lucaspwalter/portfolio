@@ -52,6 +52,23 @@ docker compose up</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida</h2>
+          <p><strong>Terminal 1 — API</strong></p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/turnover-dashboard.git
+cd turnover-dashboard/backend
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 main.py</code>
+          <p><strong>Terminal 2 — Frontend</strong></p>
+          <code class="setup__codigo">cd turnover-dashboard/frontend
+cp .env.example .env
+npm install
+npm start</code>
+          <p>Windows: troque <code>python3</code> por <code>py</code>, ativação por <code>.\.venv\Scripts\Activate.ps1</code> e <code>cp</code> por <code>Copy-Item</code>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Sobre o projeto</h2>
           <p>Dashboard para identificar funcionários com maior risco de saída por meio de um score baseado em seis fatores auditáveis.</p>
         </section>

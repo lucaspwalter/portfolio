@@ -141,6 +141,25 @@ docker compose up</code>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Instalação manual rápida</h2>
+          <p>Com Node.js, Docker e Git instalados, suba somente o PostgreSQL:</p>
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/barbershop-scheduler.git
+cd barbershop-scheduler
+docker run -d --name barbershop-db -e POSTGRES_USER=barbershop -e POSTGRES_PASSWORD=barbershop -e POSTGRES_DB=barbershop -p 5433:5432 postgres:16</code>
+          <p><strong>Terminal 1 — Backend</strong></p>
+          <code class="setup__codigo">cp .env.example .env
+npm install
+npm run migrate
+npm run dev</code>
+          <p><strong>Terminal 2 — Frontend</strong></p>
+          <code class="setup__codigo">cd barbershop-scheduler/frontend
+cp .env.example .env.local
+npm install
+npm run dev</code>
+          <p>Windows: troque <code>cp</code> por <code>Copy-Item</code>. WhatsApp é opcional; credenciais Evolution API podem ficar vazias.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
             <li>Docker instalado e rodando</li>
