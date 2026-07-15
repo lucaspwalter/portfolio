@@ -150,56 +150,10 @@ php -S localhost:8000 -t .</code>
           </ul>
         </section>
 
-        <section class="setup__bloco aparece-cima atraso-2">
-          <h2>Clonar o repositório</h2>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/ferroviaria-llgr.git
-cd ferroviaria-llgr</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-3">
-          <h2>Linux / macOS — Configurar o banco</h2>
-          <ul>
-            <li>Criar banco chamado <strong>ferrorama</strong> no MySQL</li>
-            <li>Importar o arquivo <strong>database/schema/ferrorama.sql</strong></li>
-          </ul>
-          <code class="setup__codigo">mysql -u root -p -e "CREATE DATABASE ferrorama;"
-mysql -u root -p ferrorama &lt; database/schema/ferrorama.sql</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-4">
-          <h2>Linux / macOS — Configurar o .env</h2>
-          <ul>
-            <li>Copiar <strong>.env.example</strong> para <strong>.env</strong></li>
-            <li>Abra o arquivo <strong>.env</strong> e preencha assim:</li>
-          </ul>
-          <code class="setup__codigo">DB_HOST=localhost
-DB_USER=root
-DB_PASS=sua_senha_do_mysql
-DB_NAME=ferrorama</code>
-          <p>Se instalou o MySQL sem senha, deixe <strong>DB_PASS</strong> vazio:</p>
-          <code class="setup__codigo">DB_PASS=</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-5">
-          <h2>Linux / macOS — Rodar localmente</h2>
-          <code class="setup__codigo">php -S localhost:8000 -t .</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-5">
-          <h2>Windows — Passo a passo no PowerShell</h2>
-          <p><strong>1. Crie o banco e importe a estrutura</strong></p>
-          <code class="setup__codigo">mysql -u root -p -e "CREATE DATABASE ferrorama;"
-cmd /c "mysql -u root -p ferrorama &lt; database\schema\ferrorama.sql"</code>
-          <p><strong>2. Crie e configure o arquivo .env</strong></p>
-          <code class="setup__codigo">Copy-Item .env.example .env</code>
-          <p>Abra o <strong>.env</strong> e informe usuário e senha do MySQL:</p>
-          <code class="setup__codigo">DB_HOST=localhost
-DB_USER=root
-DB_PASS=sua_senha_do_mysql
-DB_NAME=ferrorama</code>
-          <p><strong>3. Inicie o servidor</strong></p>
-          <code class="setup__codigo">php -S localhost:8000 -t .</code>
-        </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Acessar no navegador</h2>

@@ -152,6 +152,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python3 seed.py
 python3 main.py</code>
+          <p>Se não usar notificações, deixe todas as variáveis <code>SMTP_*</code> e <code>NOTIFY_*</code> vazias no <code>.env</code>.</p>
           <p><strong>Terminal 2 — Frontend</strong></p>
           <code class="setup__codigo">cd job-scraper/frontend
 npm install
@@ -162,96 +163,16 @@ npm start</code>
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
-            <li>Docker instalado e rodando</li>
+            <li>Docker, somente para opção recomendada</li>
             <li>Python 3.11 ou superior</li>
             <li>Node.js 18 ou superior</li>
             <li>Git</li>
-            <li>Conta Gmail com senha de app para notificações por email</li>
+            <li>Conta Gmail com senha de app, somente se quiser notificações por email</li>
           </ul>
           <p>Link para criar senha de app: <a href="https://myaccount.google.com/apppasswords" target="_blank">https://myaccount.google.com/apppasswords</a></p>
         </section>
 
-        <section class="setup__bloco aparece-cima atraso-2">
-          <h2>Linux / macOS — Passo a passo</h2>
-          <p><strong>1. Clone o repositório</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
-cd job-scraper</code>
-          <p><strong>2. Suba o banco de dados</strong></p>
-          <code class="setup__codigo">docker run -d \
-  --name jobscraper-db \
-  -e POSTGRES_USER=jobscraper \
-  -e POSTGRES_PASSWORD=jobscraper \
-  -e POSTGRES_DB=jobscraper \
-  -p 5434:5432 \
-  postgres:16</code>
-          <p><strong>3. Configure o ambiente</strong></p>
-          <code class="setup__codigo">cp backend/.env.example backend/.env</code>
-          <p><strong>4. Abra o backend/.env e preencha:</strong></p>
-          <code class="setup__codigo">DATABASE_URL=postgresql+psycopg://jobscraper:jobscraper@localhost:5434/jobscraper
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USER=seu@gmail.com
-SMTP_PASSWORD=sua-senha-de-app
-NOTIFY_EMAIL=destino@gmail.com</code>
-          <p><strong>5. Instale as dependências do back-end</strong></p>
-          <code class="setup__codigo">cd backend
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt</code>
-          <p><strong>6. Popule o banco com as sources padrão</strong></p>
-          <code class="setup__codigo">python3 seed.py</code>
-          <p><strong>7. Inicie o back-end</strong></p>
-          <code class="setup__codigo">python3 main.py</code>
-          <p><strong>8. Em outro terminal, inicie o front-end</strong></p>
-          <code class="setup__codigo">cd ../frontend
-npm install
-npm start</code>
-          <p><strong>9. Acesse:</strong></p>
-          <code class="setup__codigo">Back-end: http://localhost:8000
-Front-end: http://localhost:5173
-Docs da API: http://localhost:8000/docs</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-3">
-          <h2>Windows — Passo a passo</h2>
-          <p><strong>1. Clone o repositório</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
-cd job-scraper</code>
-          <p><strong>2. Suba o banco de dados (PowerShell)</strong></p>
-          <code class="setup__codigo">docker run -d `
-  --name jobscraper-db `
-  -e POSTGRES_USER=jobscraper `
-  -e POSTGRES_PASSWORD=jobscraper `
-  -e POSTGRES_DB=jobscraper `
-  -p 5434:5432 `
-  postgres:16</code>
-          <p><strong>3. Configure o ambiente</strong></p>
-          <code class="setup__codigo">copy backend\.env.example backend\.env</code>
-          <p><strong>4. Abra o backend\.env e preencha:</strong></p>
-          <code class="setup__codigo">DATABASE_URL=postgresql+psycopg://jobscraper:jobscraper@localhost:5434/jobscraper
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USER=seu@gmail.com
-SMTP_PASSWORD=sua-senha-de-app
-NOTIFY_EMAIL=destino@gmail.com</code>
-          <p><strong>5. Instale as dependências do back-end</strong></p>
-          <code class="setup__codigo">cd backend
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt</code>
-          <p><strong>6. Popule o banco com as sources padrão</strong></p>
-          <code class="setup__codigo">python seed.py</code>
-          <p><strong>7. Inicie o back-end</strong></p>
-          <code class="setup__codigo">python main.py</code>
-          <p><strong>8. Em outro terminal, inicie o front-end</strong></p>
-          <code class="setup__codigo">cd ..\frontend
-npm install
-npm start</code>
-          <p><strong>9. Acesse:</strong></p>
-          <code class="setup__codigo">Back-end: http://localhost:8000
-Front-end: http://localhost:5173
-Docs da API: http://localhost:8000/docs</code>
-        </section>
 
         <section class="setup__bloco aparece-cima atraso-4">
           <h2>Testando as notificações</h2>

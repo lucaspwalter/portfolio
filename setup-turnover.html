@@ -76,6 +76,7 @@ npm start</code>
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
+            <li>Docker, somente para opção recomendada</li>
             <li>Git</li>
             <li>Python 3.10 ou superior</li>
             <li>Node.js 18 ou superior</li>
@@ -83,43 +84,7 @@ npm start</code>
           <p>PostgreSQL é opcional. Sem <code>DATABASE_URL</code>, o projeto usa SQLite automaticamente.</p>
         </section>
 
-        <section class="setup__bloco aparece-cima atraso-2">
-          <h2>Linux / macOS — Passo a passo</h2>
-          <p><strong>1. Clone o repositório</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/turnover-dashboard.git
-cd turnover-dashboard</code>
-          <p><strong>2. Prepare e inicie a API</strong></p>
-          <code class="setup__codigo">cd backend
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python3 main.py</code>
-          <p><strong>3. Em outro terminal, configure o frontend</strong></p>
-          <code class="setup__codigo">cd turnover-dashboard/frontend
-cp .env.example .env</code>
-          <p><strong>4. Instale e inicie o frontend</strong></p>
-          <code class="setup__codigo">npm install
-npm start</code>
-        </section>
 
-        <section class="setup__bloco aparece-cima atraso-3">
-          <h2>Windows — Passo a passo</h2>
-          <p><strong>1. Clone o repositório</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/turnover-dashboard.git
-cd turnover-dashboard</code>
-          <p><strong>2. Prepare e inicie a API no PowerShell</strong></p>
-          <code class="setup__codigo">cd backend
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-py main.py</code>
-          <p><strong>3. Em outro terminal, configure o frontend</strong></p>
-          <code class="setup__codigo">cd turnover-dashboard\frontend
-Copy-Item .env.example .env</code>
-          <p><strong>4. Instale e inicie o frontend</strong></p>
-          <code class="setup__codigo">npm install
-npm start</code>
-        </section>
 
         <section class="setup__bloco aparece-cima atraso-4">
           <h2>Acessos</h2>
