@@ -128,7 +128,7 @@
       <header class="setup__cabecalho aparece-cima">
         <span class="secao__rotulo">Job Scraper</span>
         <h1 class="setup__titulo">Job Scraper — Como Rodar Localmente</h1>
-        <p class="setup__texto">Monitor automático de vagas remotas. Conecta à Remotive API, detecta vagas novas a cada intervalo configurável por fonte e envia notificação por email. WhatsApp é opcional via Evolution API. Interface web para gerenciar fontes de busca e ver histórico de vagas encontradas.</p>
+        <p class="setup__texto">Monitor automático de vagas com FastAPI, React, PostgreSQL no Docker e SQLite no modo manual. Inclui workflows feitos para Codex pesquisar, classificar e apoiar candidaturas.</p>
       </header>
 
       <div class="setup__lista">
@@ -138,6 +138,14 @@
 cd job-scraper
 docker compose up</code>
           <p>Acesse <strong>http://localhost:5173</strong>. Banco, API e frontend são iniciados automaticamente. Email e WhatsApp permanecem opcionais.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Usar com Codex</h2>
+          <code class="setup__codigo">cd job-scraper
+codex
+$setup</code>
+          <p>Depois use <code>$scrape</code>, <code>$rank</code>, <code>$apply &lt;URL&gt;</code> e <code>$interview</code>. Dados pessoais ficam ignorados pelo Git.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
@@ -164,8 +172,8 @@ npm start</code>
           <h2>Pré-requisitos</h2>
           <ul>
             <li>Docker, somente para opção recomendada</li>
-            <li>Python 3.11 ou superior</li>
-            <li>Node.js 18 ou superior</li>
+            <li>Python 3.10 ou superior</li>
+            <li>Node.js 20 ou superior</li>
             <li>Git</li>
             <li>Conta Gmail com senha de app, somente se quiser notificações por email</li>
           </ul>
