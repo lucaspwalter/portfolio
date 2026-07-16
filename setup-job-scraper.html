@@ -128,7 +128,7 @@
       <header class="setup__cabecalho aparece-cima">
         <span class="secao__rotulo">Job Scraper</span>
         <h1 class="setup__titulo">Job Scraper — Como Rodar Localmente</h1>
-        <p class="setup__texto">Monitor automático de vagas com FastAPI, React, PostgreSQL no Docker e SQLite no modo manual. Inclui workflows feitos para Codex pesquisar, classificar e apoiar candidaturas.</p>
+        <p class="setup__texto">Aplicativo web para monitorar vagas e workspace do Codex para pesquisar, classificar, adaptar documentos e preparar entrevistas.</p>
       </header>
 
       <div class="setup__lista">
@@ -136,16 +136,22 @@
           <h2>Opção recomendada — Docker</h2>
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
 cd job-scraper
-docker compose up</code>
-          <p>Acesse <strong>http://localhost:5173</strong>. Banco, API e frontend são iniciados automaticamente. Email e WhatsApp permanecem opcionais.</p>
+docker compose up --build</code>
+          <p>Acesse a interface em <strong>http://localhost:5173</strong>, a API em <strong>http://localhost:8000</strong> e a documentação em <strong>http://localhost:8000/docs</strong>.</p>
+          <p>PostgreSQL, API, frontend e agendador são iniciados automaticamente.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
-          <h2>Usar com Codex</h2>
+          <h2>Configurar os workflows do Codex</h2>
+          <p>Instale Codex CLI, Bun e uma distribuição LaTeX. Na raiz do projeto, instale as dependências das ferramentas de busca:</p>
+          <code class="setup__codigo">for tool in jobbank-search jobdanmark-search jobindex-search jobnet-search linkedin-search freehire-search; do
+  cd .agents/skills/$tool/cli &amp;&amp; bun install &amp;&amp; cd ../../../..
+done</code>
+          <p>Depois inicie o Codex:</p>
           <code class="setup__codigo">cd job-scraper
 codex
 $setup</code>
-          <p>Depois use <code>$scrape</code>, <code>$rank</code>, <code>$apply &lt;URL&gt;</code> e <code>$interview</code>. Dados pessoais ficam ignorados pelo Git.</p>
+          <p>O <code>$setup</code> pode ler CV, LinkedIn, diplomas e referências colocados em <code>documents/</code>. Depois use <code>$scrape</code>, <code>$rank</code>, <code>$apply &lt;URL&gt;</code> e <code>$interview</code>.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
@@ -171,26 +177,28 @@ npm start</code>
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Pré-requisitos</h2>
           <ul>
-            <li>Docker, somente para opção recomendada</li>
-            <li>Python 3.10 ou superior</li>
-            <li>Node.js 20 ou superior</li>
             <li>Git</li>
-            <li>Conta Gmail com senha de app, somente se quiser notificações por email</li>
+            <li>Docker com Compose para o aplicativo web</li>
+            <li>Codex CLI autenticado para os workflows</li>
+            <li>Bun para as ferramentas de busca</li>
+            <li>LaTeX para gerar CV e carta em PDF</li>
+            <li>Python 3.10+ e Node.js 20+ somente no modo manual</li>
+            <li><code>pdftotext</code> é opcional para validação ATS</li>
           </ul>
-          <p>Link para criar senha de app: <a href="https://myaccount.google.com/apppasswords" target="_blank">https://myaccount.google.com/apppasswords</a></p>
+          <p>Email e WhatsApp são opcionais. Dados pessoais, documentos, credenciais e resultados locais ficam fora do Git.</p>
         </section>
 
 
 
         <section class="setup__bloco aparece-cima atraso-4">
-          <h2>Testando as notificações</h2>
-          <p>Após subir o projeto, clique em Rodar agora na interface web. O sistema vai buscar vagas na Remotive e enviar um email para cada vaga nova encontrada. Você pode acompanhar o histórico de vagas na página Jobs.</p>
+          <h2>Validar execução</h2>
+          <p>Após subir o projeto, abra a interface e use <strong>Rodar agora</strong>. A API também deve responder <code>{"status":"ok"}</code> em <strong>http://localhost:8000</strong>.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-5">
-          <h2>Notificações WhatsApp (opcional)</h2>
-          <p>As notificações via WhatsApp são opcionais. Para ativar, preencha as variáveis EVOLUTION_API_URL, EVOLUTION_API_KEY, EVOLUTION_INSTANCE e NOTIFY_PHONE no .env.</p>
-          <p>Documentação: <a href="https://doc.evolution-api.com" target="_blank">https://doc.evolution-api.com</a></p>
+          <h2>Parar</h2>
+          <code class="setup__codigo">docker compose down</code>
+          <p>Use <code>docker compose down -v</code> somente para apagar também o banco PostgreSQL local.</p>
         </section>
       </div>
 

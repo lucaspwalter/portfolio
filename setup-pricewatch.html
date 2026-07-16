@@ -127,8 +127,8 @@
     <div class="container">
       <header class="setup__cabecalho aparece-cima">
         <span class="secao__rotulo">PriceWatch</span>
-        <h1 class="setup__titulo">Como Rodar Localmente no Linux/Ubuntu e Windows</h1>
-        <p class="setup__texto">Escolha Docker ou instalação manual rápida para Linux, macOS e Windows.</p>
+        <h1 class="setup__titulo">Como Rodar o PriceWatch Localmente</h1>
+        <p class="setup__texto">Use Docker para iniciar frontend, API, PostgreSQL e Chromium com a configuração correta.</p>
       </header>
 
       <div class="setup__lista">
@@ -136,34 +136,26 @@
           <h2>Opção recomendada — Docker</h2>
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
 cd pricewatch
+cp .env.example .env
 docker compose up --build</code>
-          <p>Acesse <strong>http://localhost:3000</strong>. PostgreSQL, backend e frontend são iniciados automaticamente.</p>
+          <p>Acesse <strong>http://localhost:3000</strong>. A API fica em <strong>http://localhost:8080</strong>.</p>
+          <p>Docker inicia PostgreSQL, backend, frontend e Chromium. Amazon, KaBuM e AliExpress funcionam sem credenciais adicionais.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
-          <h2>Instalação manual rápida</h2>
-          <p>Após instalar Java 17, Maven, Node.js e PostgreSQL, crie banco e usuário.</p>
-          <p><strong>Linux:</strong> acrescente <code>sudo -u postgres</code> antes de cada comando <code>psql</code>. Windows:</p>
-          <code class="setup__codigo">psql -U postgres -c "CREATE USER pricewatch WITH PASSWORD 'pricewatch';"
-psql -U postgres -c "CREATE DATABASE pricewatch OWNER pricewatch;"</code>
-          <p><strong>Terminal 1 — Backend no Linux/macOS</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
-cd pricewatch
-export DATABASE_USERNAME=pricewatch DATABASE_PASSWORD=pricewatch
-export JWT_SECRET=pricewatch-secret-key-local-1234567890
-mvn spring-boot:run</code>
-          <p><strong>Terminal 1 — Backend no Windows PowerShell</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/pricewatch.git
-cd pricewatch
-$env:DATABASE_USERNAME="pricewatch"
-$env:DATABASE_PASSWORD="pricewatch"
-$env:JWT_SECRET="pricewatch-secret-key-local-1234567890"
-mvn spring-boot:run</code>
-          <p><strong>Terminal 2 — Frontend</strong></p>
-          <code class="setup__codigo">cd pricewatch/frontend
-npm install
-npm run dev</code>
-          <p>Acesse <strong>http://localhost:3000</strong>.</p>
+          <h2>Mercado Livre — API obrigatória</h2>
+          <p>Crie uma aplicação no portal de desenvolvedores do Mercado Livre e preencha o arquivo <code>.env</code>:</p>
+          <code class="setup__codigo">MERCADOLIVRE_ACCESS_TOKEN=
+MERCADOLIVRE_CLIENT_ID=
+MERCADOLIVRE_CLIENT_SECRET=</code>
+          <p>Sem essas credenciais, produtos do Mercado Livre não podem ser monitorados. Nunca publique o arquivo <code>.env</code>.</p>
+        </section>
+
+        <section class="setup__bloco aparece-cima atraso-1">
+          <h2>Parar e reiniciar</h2>
+          <code class="setup__codigo">docker compose down
+docker compose up --build</code>
+          <p>Use <code>docker compose down -v</code> somente se quiser apagar também o banco local.</p>
         </section>
 
 
