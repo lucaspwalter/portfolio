@@ -696,14 +696,6 @@ a {
   letter-spacing: 2px;
 }
 
-.projeto-card--futuro .projeto-card__imagem--vazia {
-  background: var(--cor-branca);
-}
-
-.projeto-card--futuro .projeto-card__imagem--vazia::after {
-  color: #cccccc;
-}
-
 .projeto-card__conteudo {
   padding: 2rem;
   display: flex;
@@ -739,12 +731,6 @@ a {
   border: 1px solid rgba(34, 197, 94, 0.2);
 }
 
-.projeto-card__status--futuro {
-  background: rgba(100, 116, 139, 0.1);
-  color: var(--cor-texto-fraco);
-  border: 1px solid rgba(100, 116, 139, 0.15);
-}
-
 .projeto-card__titulo {
   font-size: 1.2rem;
   font-weight: 600;
@@ -752,20 +738,11 @@ a {
   letter-spacing: -0.3px;
 }
 
-.projeto-card--futuro .projeto-card__titulo {
-  color: var(--cor-texto-fraco);
-}
-
 .projeto-card__descricao {
   font-size: 0.9rem;
   color: var(--cor-texto-suave);
   line-height: 1.7;
   flex: 1;
-}
-
-.projeto-card--futuro .projeto-card__descricao {
-  color: var(--cor-texto-fraco);
-  font-style: italic;
 }
 
 .projeto-card__tecnologias {
