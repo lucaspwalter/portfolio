@@ -582,7 +582,6 @@ a {
 }
 
 .habilidades-outras {
-  grid-column: 1 / -1;
   background: var(--cor-fundo-cartao);
   border: 1px solid var(--cor-borda);
   border-radius: var(--raio);
@@ -590,10 +589,30 @@ a {
 }
 
 .habilidades-outras summary {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
   color: var(--cor-texto);
   cursor: pointer;
   font-size: 0.9rem;
   font-weight: 500;
+  list-style: none;
+}
+
+.habilidades-outras summary::-webkit-details-marker {
+  display: none;
+}
+
+.habilidades-outras summary::before {
+  content: '➡️';
+  flex-shrink: 0;
+  width: 40px;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.habilidades-outras[open] summary::before {
+  content: '⬇️';
 }
 
 .habilidades-outras__lista {
