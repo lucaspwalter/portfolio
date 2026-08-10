@@ -582,6 +582,8 @@ a {
 }
 
 .habilidades-outras {
+  grid-column: 2;
+  grid-row: 3 / span 2;
   background: var(--cor-fundo-cartao);
   border: 1px solid var(--cor-borda);
   border-radius: var(--raio);
@@ -1038,6 +1040,11 @@ a {
 
   .habilidades__grade {
     grid-template-columns: 1fr;
+  }
+
+  .habilidades-outras {
+    grid-column: auto;
+    grid-row: auto;
   }
 
   .sobre__cartoes {
