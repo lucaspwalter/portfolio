@@ -581,6 +581,38 @@ a {
   color: var(--cor-texto);
 }
 
+.habilidades-outras {
+  grid-column: 1 / -1;
+  background: var(--cor-fundo-cartao);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--raio);
+  padding: 1.25rem 1.5rem;
+}
+
+.habilidades-outras summary {
+  color: var(--cor-texto);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.habilidades-outras__lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.habilidades-outras__lista span {
+  padding: 0.3rem 0.7rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--cor-borda);
+  border-radius: 100px;
+  color: var(--cor-texto-fraco);
+  font-family: var(--fonte-mono);
+  font-size: 0.7rem;
+}
+
 .projetos__aviso {
   max-width: 820px;
   margin: 0 auto 40px;
