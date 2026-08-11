@@ -6,7 +6,8 @@ a { color: inherit; text-decoration: none; }
 .aviso { padding: .55rem 5vw; color: rgba(255,255,255,.75); background: var(--tinta); text-align: center; font-size: .7rem; }
 .aviso a { color: white; margin-left: 1rem; text-decoration: underline; }
 header { height: 82px; padding: 0 6vw; display: flex; align-items: center; justify-content: space-between; background: var(--claro); }
-.logo { color: var(--cor); font-size: 1.25rem; font-weight: 800; letter-spacing: -.04em; }
+.logo { display: inline-flex; align-items: center; gap: .7rem; color: var(--cor); font-size: 1.1rem; font-weight: 800; letter-spacing: -.04em; }
+.logo[data-mark]::before { content: attr(data-mark); width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid var(--acao); border-radius: 12px; color: var(--acao); font-size: 1rem; transform: rotate(-4deg); }
 .logo span { color: var(--acao); }
 nav { display: flex; align-items: center; gap: 2rem; font-size: .78rem; font-weight: 600; }
 nav .nav-acao { padding: .8rem 1.1rem; color: white; background: var(--cor); border-radius: 999px; }
@@ -16,8 +17,9 @@ nav .nav-acao { padding: .8rem 1.1rem; color: white; background: var(--cor); bor
 h1 { max-width: 800px; margin: 1rem 0 1.5rem; color: var(--tinta); font-size: clamp(3rem, 7vw, 6rem); line-height: 1; letter-spacing: -.07em; }
 .hero p { max-width: 560px; color: var(--suave); font-size: 1.02rem; line-height: 1.8; }
 .botao { display: inline-block; margin-top: 2rem; padding: 1rem 1.35rem; color: white; background: var(--acao); border-radius: 999px; font-size: .82rem; font-weight: 700; }
-.hero__arte { position: relative; min-height: 380px; display: grid; place-items: center; }
-.forma { width: min(32vw, 390px); aspect-ratio: 1; display: grid; place-items: center; color: white; background: var(--cor); border-radius: 35% 65% 55% 45% / 45% 40% 60% 55%; box-shadow: 28px 28px 0 color-mix(in srgb, var(--acao) 45%, transparent); font-size: clamp(3rem, 8vw, 6rem); font-weight: 800; }
+.hero__foto { height: 460px; overflow: hidden; border-radius: 28px; box-shadow: 24px 24px 0 color-mix(in srgb, var(--acao) 35%, transparent); }
+.hero__foto img { width: 100%; height: 100%; display: block; object-fit: cover; transition: transform .7s ease; }
+.hero__foto:hover img { transform: scale(1.035); }
 .faixa { padding: 1.2rem 8vw; display: flex; justify-content: center; gap: 8vw; color: white; background: var(--cor); font-size: .75rem; }
 .conteudo { padding: 7rem 8vw; text-align: center; }
 h2 { max-width: 760px; margin: .8rem auto 3rem; color: var(--tinta); font-size: clamp(2.2rem, 5vw, 4rem); line-height: 1.08; letter-spacing: -.055em; }
@@ -38,12 +40,12 @@ body.tema-mercado { --cor: #176b43; --acao: #f1a62c; --claro: #fffaf0; --tinta: 
 body.tema-clinica { --cor: #367d91; --acao: #dd6c7b; --claro: #f3fbfc; --tinta: #193e49; }
 body.tema-restaurante { --cor: #7a302c; --acao: #d99d55; --claro: #fff8ee; --tinta: #3f1c19; }
 body.tema-academia { --cor: #1e293b; --acao: #e9ff4f; --claro: #f5f6f2; --tinta: #101827; }
-body.tema-academia .botao, body.tema-academia .forma { color: #101827; }
+body.tema-academia .botao { color: #101827; }
 body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tinta: #102d40; }
 @media (max-width: 800px) {
   header { height: 72px; padding: 0 1.25rem; }.menu { display: block; }
   nav { display: none; position: absolute; z-index: 5; top: 105px; left: 0; right: 0; padding: 2rem; flex-direction: column; background: var(--claro); } nav.aberto { display: flex; }
-  .hero { min-height: auto; padding: 5rem 1.5rem; grid-template-columns: 1fr; }.hero__arte { min-height: 300px; }.forma { width: 250px; }
+  .hero { min-height: auto; padding: 5rem 1.5rem; grid-template-columns: 1fr; }.hero__foto { width: 100%; height: 300px; box-shadow: 12px 12px 0 color-mix(in srgb, var(--acao) 35%, transparent); }
   .faixa { overflow-x: auto; justify-content: flex-start; white-space: nowrap; }
   .conteudo, .destaque { padding: 5rem 1.5rem; }.grade, .destaque { grid-template-columns: 1fr; }
   .destaque__arte { max-width: 460px; width: 100%; }.cta { padding: 4rem 1.5rem; align-items: flex-start; flex-direction: column; }

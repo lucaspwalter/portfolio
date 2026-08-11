@@ -16,6 +16,7 @@ The system is a static personal portfolio featuring a professional introduction,
 - Project-specific local setup guides
 - Business website sample gallery with seven responsive segment demos
 - Animated preview images generated from the actual demo pages
+- Segment-specific visual identities and original photorealistic hero images
 - Layout request form that prepares a Gmail message with visitor details
 - Animated transitions between internal pages with reduced-motion support
 - Professional profile and skills sections
