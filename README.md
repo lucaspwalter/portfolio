@@ -15,6 +15,7 @@ The system is a static personal portfolio featuring a professional introduction,
 - Links to source repositories
 - Project-specific local setup guides
 - Business website sample gallery with seven responsive segment demos
+- Layout request form that prepares a Gmail message with visitor details
 - Animated transitions between internal pages with reduced-motion support
 - Professional profile and skills sections
 
@@ -69,5 +70,6 @@ cd portfolio
     └── js/
         ├── principal.js       # Mobile menu, animations, and project filters
         ├── demo-menu.js       # Shared mobile navigation for demos
+        ├── formulario-amostras.js # Layout request form behavior
         └── transicoes.js      # Internal page transition behavior
 ```

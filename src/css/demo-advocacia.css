@@ -6,10 +6,8 @@ body { color: var(--texto); background: var(--claro); font-family: 'DM Sans', sa
 .aviso a { color: #dbc18e; margin-left: 1rem; }
 header { height: 92px; padding: 0 6vw; display: flex; align-items: center; justify-content: space-between; background: var(--claro); }
 a { color: inherit; text-decoration: none; }
-.marca { display: flex; align-items: center; gap: .8rem; }
-.marca > span { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid var(--ouro); color: var(--azul); font-family: 'Playfair Display', serif; }
-.marca strong { color: var(--azul); font: 600 1rem 'Playfair Display', serif; }
-.marca small { display: block; color: #7e898b; margin-top: .2rem; font: 400 .58rem 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase; }
+.logo { color: var(--azul); font: 700 1.25rem 'DM Sans', sans-serif; letter-spacing: -.04em; }
+.logo span { color: var(--ouro); }
 nav { display: flex; align-items: center; gap: 2.2rem; font-size: .78rem; }
 nav a:hover { color: #8b6b36; }
 .contato { padding: .75rem 1.1rem; border: 1px solid var(--azul); }

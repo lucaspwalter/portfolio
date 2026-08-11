@@ -22,13 +22,13 @@
       <span class="rotulo">Sites demonstrativos</span>
       <h1>Escolha uma experiência para explorar</h1>
       <p>Exemplos conceituais e responsivos com marcas anônimas, criados para demonstrar identidade visual, organização de conteúdo e experiência de navegação.</p>
+      <a class="atalho-form" href="#solicitar">Solicitar layout</a>
     </section>
 
     <section class="grade" aria-label="Amostras disponíveis">
       <article class="cartao cartao--advocacia">
         <div class="cartao__visual">
-          <span class="cartao__monograma">AX</span>
-          <div class="cartao__linhas"><i></i><i></i><i></i></div>
+          <span class="cartao__simbolo">AX</span>
         </div>
         <div class="cartao__conteudo">
           <span class="cartao__tipo">Advocacia</span>
@@ -40,8 +40,7 @@
 
       <article class="cartao cartao--petshop">
         <div class="cartao__visual">
-          <span class="cartao__pet">Pet Shop <span>XXX</span></span>
-          <div class="cartao__bolhas"><i></i><i></i><i></i></div>
+          <span class="cartao__simbolo">PX</span>
         </div>
         <div class="cartao__conteudo">
           <span class="cartao__tipo">Pet shop</span>
@@ -78,7 +77,36 @@
     </section>
 
     <p class="nota">Marcas, endereços, contatos e informações destas amostras são fictícios.</p>
+
+    <section class="solicitacao" id="solicitar">
+      <div class="solicitacao__intro">
+        <span class="rotulo">Personalização</span>
+        <h2>Solicite um layout para seu negócio</h2>
+        <p>Preencha informações básicas. Ao enviar, seu navegador abrirá mensagem pronta no Gmail.</p>
+      </div>
+      <form id="formSolicitacao">
+        <label>Nome
+          <input type="text" name="nome" autocomplete="name" required />
+        </label>
+        <label>E-mail
+          <input type="email" name="email" autocomplete="email" required />
+        </label>
+        <label>Segmento
+          <input type="text" name="segmento" placeholder="Ex.: mercado, clínica ou loja" required />
+        </label>
+        <label>Layout de referência
+          <select name="layout" required>
+            <option value="">Selecione</option><option>Advocacia</option><option>Pet shop</option><option>Mercado</option><option>Clínica</option><option>Restaurante</option><option>Academia</option><option>Imobiliária</option><option>Outro</option>
+          </select>
+        </label>
+        <label class="campo-largo">Detalhes
+          <textarea name="detalhes" rows="5" placeholder="Conte objetivo, páginas e recursos desejados." required></textarea>
+        </label>
+        <button type="submit">Preparar solicitação</button>
+      </form>
+    </section>
   </main>
   <script src="src/js/transicoes.js"></script>
+  <script src="src/js/formulario-amostras.js"></script>
 </body>
 </html>
