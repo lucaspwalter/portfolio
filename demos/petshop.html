@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Amostra fictícia de site para pet shop." />
+  <title>PetViva — Demonstração</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../src/css/demo-petshop.css" />
+</head>
+<body>
+  <div class="aviso">Site demonstrativo — dados fictícios <a href="../amostras.html">Voltar às amostras</a></div>
+  <header>
+    <a class="logo" href="#inicio">Pet<span>Viva</span><i>●</i></a>
+    <button class="menu" aria-label="Abrir menu" aria-expanded="false">Menu</button>
+    <nav><a href="#servicos">Serviços</a><a href="#sobre">Sobre</a><a href="#depoimentos">Depoimentos</a><a class="agendar" href="#contato">Agendar horário</a></nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero__texto"><span class="tag">Cuidado que faz bem</span><h1>Seu pet feliz,<br />saudável e <em>radiante.</em></h1><p>Banho, tosa e cuidados especiais feitos por quem entende que cada pet é único.</p><a class="botao" href="#contato">Agendar atendimento</a></div>
+      <div class="hero__arte" aria-hidden="true"><div class="sol"></div><div class="pet"><span>•ᴥ•</span></div><i class="pata pata--1">●</i><i class="pata pata--2">●</i></div>
+    </section>
+
+    <section class="beneficios"><span>✓ Profissionais especializados</span><span>✓ Produtos selecionados</span><span>✓ Ambiente seguro</span></section>
+
+    <section class="servicos" id="servicos">
+      <span class="tag">Nossos serviços</span><h2>Tudo que seu melhor amigo precisa</h2>
+      <div class="servicos__grade">
+        <article><div>✦</div><h3>Banho & Tosa</h3><p>Higiene completa, hidratação e corte adequado para cada raça.</p><a href="#contato">Agendar</a></article>
+        <article><div>♡</div><h3>Cuidados especiais</h3><p>Atendimento atencioso para filhotes, idosos e pets sensíveis.</p><a href="#contato">Conhecer</a></article>
+        <article><div>⌂</div><h3>Pet shop</h3><p>Alimentos, brinquedos e acessórios escolhidos com carinho.</p><a href="#contato">Visitar loja</a></article>
+      </div>
+    </section>
+
+    <section class="sobre" id="sobre"><div class="sobre__arte"><span>PetViva</span></div><div><span class="tag">Jeito PetViva</span><h2>Cuidado leve, responsável e cheio de carinho.</h2><p>Respeitamos tempo, personalidade e necessidades de cada animal. Nossa equipe trabalha com técnicas seguras e atendimento transparente para deixar tutores tranquilos.</p><ul><li>Atendimento individualizado</li><li>Espaços higienizados</li><li>Acompanhamento próximo</li></ul></div></section>
+
+    <section class="depoimentos" id="depoimentos"><span class="tag">Quem conhece recomenda</span><blockquote>“A Mel sempre volta linda, cheirosa e tranquila. Dá para perceber carinho da equipe em cada atendimento.”</blockquote><p>— Ana, tutora da Mel</p></section>
+
+    <section class="cta" id="contato"><div><span class="tag">Vamos cuidar do seu pet?</span><h2>Agende um horário.</h2><p>Atendimento de segunda a sábado, com hora marcada.</p></div><a class="botao" href="mailto:contato@exemplo.com">Falar com a PetViva</a></section>
+  </main>
+  <footer><span class="logo">Pet<span>Viva</span></span><span>Demonstração criada por Lucas Pereira Walter</span></footer>
+  <script>
+    const button = document.querySelector('.menu');
+    const nav = document.querySelector('nav');
+    button.addEventListener('click', () => {
+      const open = nav.classList.toggle('aberto');
+      button.setAttribute('aria-expanded', open);
+    });
+  </script>
+</body>
+</html>

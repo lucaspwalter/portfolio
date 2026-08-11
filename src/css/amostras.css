@@ -1,0 +1,69 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --fundo: #09090e;
+  --cartao: #12121c;
+  --texto: #f1f3f9;
+  --suave: #9ca3b5;
+  --destaque: #7c6af7;
+}
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at 50% 0, #19152d 0, var(--fundo) 42%);
+  color: var(--texto);
+  font-family: Inter, sans-serif;
+}
+
+.cabecalho {
+  width: min(1120px, calc(100% - 3rem));
+  margin: auto;
+  padding: 1.6rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo, .voltar, .cartao a { color: inherit; text-decoration: none; }
+.logo { font: 600 1.05rem 'JetBrains Mono', monospace; }
+.logo span, .rotulo { color: var(--destaque); }
+.voltar { color: var(--suave); font-size: .85rem; transition: color .2s; }
+.voltar:hover { color: var(--texto); }
+
+main { width: min(1120px, calc(100% - 3rem)); margin: auto; padding: 6rem 0 3rem; }
+.apresentacao { max-width: 760px; margin-bottom: 4rem; }
+.rotulo { font: 500 .75rem 'JetBrains Mono', monospace; letter-spacing: .15em; text-transform: uppercase; }
+h1 { margin: .9rem 0 1.2rem; font-size: clamp(2.2rem, 6vw, 4.8rem); line-height: 1.05; letter-spacing: -.055em; }
+.apresentacao p { max-width: 650px; color: var(--suave); font-size: 1.05rem; line-height: 1.75; }
+
+.grade { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
+.cartao { overflow: hidden; background: var(--cartao); border: 1px solid rgba(255,255,255,.08); border-radius: 22px; transition: transform .3s, border-color .3s; }
+.cartao:hover { transform: translateY(-6px); border-color: rgba(124,106,247,.45); }
+.cartao__visual { height: 250px; position: relative; display: grid; place-items: center; overflow: hidden; }
+.cartao--advocacia .cartao__visual { background: linear-gradient(135deg, #081923, #123142); }
+.cartao__monograma { width: 100px; height: 100px; border: 1px solid #c9a96e; display: grid; place-items: center; color: #dbc18e; font-family: Georgia, serif; font-size: 2rem; }
+.cartao__linhas i { position: absolute; width: 180%; height: 1px; background: rgba(201,169,110,.12); transform: rotate(-24deg); }
+.cartao__linhas i:nth-child(2) { transform: rotate(24deg); }
+.cartao__linhas i:nth-child(3) { transform: rotate(90deg); }
+.cartao--petshop .cartao__visual { background: linear-gradient(135deg, #e9fff9, #c9f5e9); }
+.cartao__pet { z-index: 1; color: #243d38; font-size: 2.2rem; font-weight: 800; letter-spacing: -.06em; }
+.cartao__pet span { color: #ea7657; }
+.cartao__bolhas i { position: absolute; border-radius: 50%; background: rgba(234,118,87,.28); }
+.cartao__bolhas i:nth-child(1) { width: 110px; height: 110px; top: -20px; right: 8%; }
+.cartao__bolhas i:nth-child(2) { width: 60px; height: 60px; bottom: 20px; left: 10%; }
+.cartao__bolhas i:nth-child(3) { width: 25px; height: 25px; bottom: 35px; right: 20%; }
+.cartao__conteudo { padding: 2rem; }
+.cartao__tipo { color: var(--destaque); font: 500 .7rem 'JetBrains Mono', monospace; text-transform: uppercase; letter-spacing: .12em; }
+.cartao h2 { margin: .65rem 0 .8rem; font-size: 1.55rem; }
+.cartao p { color: var(--suave); line-height: 1.65; font-size: .92rem; }
+.cartao a { display: inline-flex; gap: .6rem; margin-top: 1.5rem; color: #b8adff; font-size: .88rem; font-weight: 600; }
+.cartao a:hover span { transform: translate(2px, -2px); }
+.cartao a span { transition: transform .2s; }
+.nota { margin-top: 2rem; color: #656b7a; font-size: .75rem; text-align: center; }
+
+@media (max-width: 720px) {
+  main { padding-top: 3.5rem; }
+  .grade { grid-template-columns: 1fr; }
+  .cartao__visual { height: 200px; }
+  .voltar { font-size: .75rem; }
+}

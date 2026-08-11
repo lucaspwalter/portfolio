@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Amostra fictícia de site para escritório de advocacia." />
+  <title>Martins & Associados — Demonstração</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../src/css/demo-advocacia.css" />
+</head>
+<body>
+  <div class="aviso">Site demonstrativo — dados fictícios <a href="../amostras.html">Voltar às amostras</a></div>
+  <header>
+    <a class="marca" href="#inicio"><span>MA</span><strong>Martins & Associados<small>Advocacia estratégica</small></strong></a>
+    <button class="menu" aria-label="Abrir menu" aria-expanded="false">Menu</button>
+    <nav><a href="#escritorio">Escritório</a><a href="#atuacao">Atuação</a><a href="#equipe">Equipe</a><a class="contato" href="#contato">Fale conosco</a></nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero__conteudo">
+        <span class="sobretitulo">Soluções jurídicas com clareza</span>
+        <h1>Estratégia, confiança e compromisso com seus direitos.</h1>
+        <p>Atuação jurídica próxima e responsável para pessoas e empresas que buscam decisões seguras.</p>
+        <div class="acoes"><a class="botao" href="#contato">Agendar consulta</a><a class="link" href="#atuacao">Conhecer áreas de atuação</a></div>
+      </div>
+      <aside><span>15+</span><p>anos de experiência combinada</p><hr /><span>04</span><p>áreas de atuação especializada</p></aside>
+    </section>
+
+    <section class="introducao" id="escritorio">
+      <div><span class="sobretitulo">Nosso escritório</span><h2>Direito praticado com atenção a cada detalhe.</h2></div>
+      <p>Unimos conhecimento técnico, comunicação transparente e análise cuidadosa para construir caminhos jurídicos adequados a cada realidade.</p>
+    </section>
+
+    <section class="areas" id="atuacao">
+      <span class="sobretitulo">Áreas de atuação</span>
+      <div class="areas__grade">
+        <article><b>01</b><h3>Direito Civil</h3><p>Contratos, responsabilidade civil, família e sucessões.</p></article>
+        <article><b>02</b><h3>Direito Empresarial</h3><p>Consultoria preventiva, sociedades e conflitos empresariais.</p></article>
+        <article><b>03</b><h3>Direito Trabalhista</h3><p>Orientação estratégica para empresas e profissionais.</p></article>
+        <article><b>04</b><h3>Direito Imobiliário</h3><p>Negócios, regularização e proteção patrimonial.</p></article>
+      </div>
+    </section>
+
+    <section class="equipe" id="equipe"><span class="monograma">MA</span><div><span class="sobretitulo">Atendimento próximo</span><h2>Seu caso compreendido antes de ser conduzido.</h2><p>Cada atendimento começa pela escuta. Explicamos cenários, riscos e próximos passos em linguagem clara.</p></div></section>
+
+    <section class="cta" id="contato"><span class="sobretitulo">Entre em contato</span><h2>Vamos conversar sobre seu caso?</h2><p>Atendimento presencial e on-line, mediante agendamento.</p><a class="botao" href="mailto:contato@exemplo.com">Solicitar atendimento</a></section>
+  </main>
+  <footer><span>Martins & Associados</span><span>Demonstração criada por Lucas Pereira Walter</span></footer>
+  <script>
+    const button = document.querySelector('.menu');
+    const nav = document.querySelector('nav');
+    button.addEventListener('click', () => {
+      const open = nav.classList.toggle('aberto');
+      button.setAttribute('aria-expanded', open);
+    });
+  </script>
+</body>
+</html>

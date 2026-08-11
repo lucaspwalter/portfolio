@@ -817,6 +817,22 @@ a {
   margin-top: 0.25rem;
 }
 
+.amostras-chamada {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+.amostras-chamada .secao__titulo {
+  margin-bottom: 1rem;
+}
+
+.amostras-chamada p {
+  max-width: 650px;
+  color: var(--cor-texto-suave);
+}
+
 .contato__wrapper {
   max-width: 640px;
   margin: 0 auto;
@@ -969,6 +985,7 @@ a {
   .navegacao__links.aberto li:nth-child(2) a { transition-delay: 0.14s; }
   .navegacao__links.aberto li:nth-child(3) a { transition-delay: 0.20s; }
   .navegacao__links.aberto li:nth-child(4) a { transition-delay: 0.26s; }
+  .navegacao__links.aberto li:nth-child(5) a { transition-delay: 0.32s; }
 
   .sobre__grade {
     grid-template-columns: 1fr;
@@ -990,6 +1007,11 @@ a {
   .projeto-card__imagem {
     width: 100%;
     min-height: 200px;
+  }
+
+  .amostras-chamada {
+    align-items: flex-start;
+    flex-direction: column;
   }
 }
 

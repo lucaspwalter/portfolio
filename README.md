@@ -6,7 +6,7 @@ A responsive portfolio showcasing my software development projects and technical
 
 This project centralizes, presents, and organizes my main development projects in one place.
 
-The system is a static personal portfolio featuring a professional introduction, skills section, project list, technology filters, GitHub repositories, and supporting pages with instructions for running each project locally.
+The system is a static personal portfolio featuring a professional introduction, skills section, project list, technology filters, GitHub repositories, business website samples, and supporting pages with instructions for running each project locally.
 
 ## Features
 
@@ -14,6 +14,7 @@ The system is a static personal portfolio featuring a professional introduction,
 - Technology-based project filters
 - Links to source repositories
 - Project-specific local setup guides
+- Business website sample gallery with law firm and pet shop demos
 - Professional profile and skills sections
 
 ## Tech Stack
@@ -38,6 +39,10 @@ cd portfolio
 .
 ├── README.md                  # Portfolio documentation
 ├── index.html                 # Main portfolio page
+├── amostras.html              # Business website sample gallery
+├── demos/
+│   ├── advocacia.html         # Law firm website demo
+│   └── petshop.html           # Pet shop website demo
 ├── setup-ferroviaria.html     # Local setup guide for Ferroviaria LLGR
 ├── setup-pricewatch.html      # Local setup guide for PriceWatch
 ├── setup-turnover.html        # Local setup guide for Turnover Dashboard
