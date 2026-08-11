@@ -4,16 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Amostra fictícia de site para pet shop." />
-  <title>PetViva — Demonstração</title>
+  <title>Pet Shop XXX — Demonstração</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="../src/css/demo-petshop.css" />
+  <link rel="stylesheet" href="../src/css/transicoes.css" />
 </head>
 <body>
   <div class="aviso">Site demonstrativo — dados fictícios <a href="../amostras.html">Voltar às amostras</a></div>
   <header>
-    <a class="logo" href="#inicio">Pet<span>Viva</span><i>●</i></a>
+    <a class="logo" href="#inicio">Pet Shop <span>XXX</span><i>●</i></a>
     <button class="menu" aria-label="Abrir menu" aria-expanded="false">Menu</button>
     <nav><a href="#servicos">Serviços</a><a href="#sobre">Sobre</a><a href="#depoimentos">Depoimentos</a><a class="agendar" href="#contato">Agendar horário</a></nav>
   </header>
@@ -35,20 +36,14 @@
       </div>
     </section>
 
-    <section class="sobre" id="sobre"><div class="sobre__arte"><span>PetViva</span></div><div><span class="tag">Jeito PetViva</span><h2>Cuidado leve, responsável e cheio de carinho.</h2><p>Respeitamos tempo, personalidade e necessidades de cada animal. Nossa equipe trabalha com técnicas seguras e atendimento transparente para deixar tutores tranquilos.</p><ul><li>Atendimento individualizado</li><li>Espaços higienizados</li><li>Acompanhamento próximo</li></ul></div></section>
+    <section class="sobre" id="sobre"><div class="sobre__arte"><span>Pet XXX</span></div><div><span class="tag">Jeito Pet Shop XXX</span><h2>Cuidado leve, responsável e cheio de carinho.</h2><p>Respeitamos tempo, personalidade e necessidades de cada animal. Nossa equipe trabalha com técnicas seguras e atendimento transparente para deixar tutores tranquilos.</p><ul><li>Atendimento individualizado</li><li>Espaços higienizados</li><li>Acompanhamento próximo</li></ul></div></section>
 
     <section class="depoimentos" id="depoimentos"><span class="tag">Quem conhece recomenda</span><blockquote>“A Mel sempre volta linda, cheirosa e tranquila. Dá para perceber carinho da equipe em cada atendimento.”</blockquote><p>— Ana, tutora da Mel</p></section>
 
-    <section class="cta" id="contato"><div><span class="tag">Vamos cuidar do seu pet?</span><h2>Agende um horário.</h2><p>Atendimento de segunda a sábado, com hora marcada.</p></div><a class="botao" href="mailto:contato@exemplo.com">Falar com a PetViva</a></section>
+    <section class="cta" id="contato"><div><span class="tag">Vamos cuidar do seu pet?</span><h2>Agende um horário.</h2><p>Atendimento de segunda a sábado, com hora marcada.</p></div><a class="botao" href="mailto:contato@exemplo.com">Falar com Pet Shop XXX</a></section>
   </main>
-  <footer><span class="logo">Pet<span>Viva</span></span><span>Demonstração criada por Lucas Pereira Walter</span></footer>
-  <script>
-    const button = document.querySelector('.menu');
-    const nav = document.querySelector('nav');
-    button.addEventListener('click', () => {
-      const open = nav.classList.toggle('aberto');
-      button.setAttribute('aria-expanded', open);
-    });
-  </script>
+  <footer><span class="logo">Pet Shop <span>XXX</span></span><span>Demonstração criada por Lucas Pereira Walter</span></footer>
+  <script src="../src/js/transicoes.js"></script>
+  <script src="../src/js/demo-menu.js"></script>
 </body>
 </html>

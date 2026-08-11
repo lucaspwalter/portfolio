@@ -1,0 +1,41 @@
+body {
+  animation: paginaEntrar 0.55s cubic-bezier(.22, 1, .36, 1) both;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  background: linear-gradient(135deg, #7c6af7, #21184f);
+  transform: translateX(-102%);
+}
+
+body.pagina-saindo::after {
+  animation: paginaCobrir 0.42s cubic-bezier(.65, 0, .35, 1) forwards;
+}
+
+body.pagina-saindo > *:not(script) {
+  animation: paginaConteudoSair 0.3s ease forwards;
+}
+
+@keyframes paginaEntrar {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes paginaCobrir {
+  from { transform: translateX(-102%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes paginaConteudoSair {
+  to { opacity: .5; transform: translateY(-8px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body { animation: none; }
+  body.pagina-saindo::after,
+  body.pagina-saindo > *:not(script) { animation-duration: .01ms; }
+}

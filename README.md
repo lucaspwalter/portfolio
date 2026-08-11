@@ -14,7 +14,8 @@ The system is a static personal portfolio featuring a professional introduction,
 - Technology-based project filters
 - Links to source repositories
 - Project-specific local setup guides
-- Business website sample gallery with law firm and pet shop demos
+- Business website sample gallery with seven responsive segment demos
+- Animated transitions between internal pages with reduced-motion support
 - Professional profile and skills sections
 
 ## Tech Stack
@@ -42,7 +43,12 @@ cd portfolio
 ├── amostras.html              # Business website sample gallery
 ├── demos/
 │   ├── advocacia.html         # Law firm website demo
-│   └── petshop.html           # Pet shop website demo
+│   ├── petshop.html           # Pet shop website demo
+│   ├── mercado.html           # Market website demo
+│   ├── clinica.html           # Clinic website demo
+│   ├── restaurante.html       # Restaurant website demo
+│   ├── academia.html          # Gym website demo
+│   └── imobiliaria.html       # Real estate website demo
 ├── setup-ferroviaria.html     # Local setup guide for Ferroviaria LLGR
 ├── setup-pricewatch.html      # Local setup guide for PriceWatch
 ├── setup-turnover.html        # Local setup guide for Turnover Dashboard
@@ -56,7 +62,12 @@ cd portfolio
 │               └── turnover.png     # Turnover Dashboard project image
 └── src/                       # Front-end source code
     ├── css/
-    │   └── estilo.css         # Visual styles, responsiveness, and components
+    │   ├── estilo.css         # Main portfolio styles and components
+    │   ├── amostras.css       # Sample gallery styles
+    │   ├── demo-*.css         # Responsive demo styles
+    │   └── transicoes.css     # Shared page transition animation
     └── js/
-        └── principal.js       # Mobile menu, animations, and project filters
+        ├── principal.js       # Mobile menu, animations, and project filters
+        ├── demo-menu.js       # Shared mobile navigation for demos
+        └── transicoes.js      # Internal page transition behavior
 ```

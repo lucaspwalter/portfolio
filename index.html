@@ -19,6 +19,7 @@
   <meta name="twitter:image" content="https://lucaspwalter.github.io/portfolio/public/assets/images/pfp.png" />
   <title>Lucas Pereira Walter — Desenvolvedor Fullstack</title>
   <link rel="stylesheet" href="src/css/estilo.css" />
+  <link rel="stylesheet" href="src/css/transicoes.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
@@ -33,8 +34,8 @@
     <ul class="navegacao__links" id="menuLinks">
       <li><a href="#sobre">Sobre</a></li>
       <li><a href="#habilidades">Habilidades</a></li>
-      <li><a href="#projetos">Projetos</a></li>
       <li><a href="amostras.html">Amostras</a></li>
+      <li><a href="#projetos">Projetos</a></li>
       <li><a href="#contato">Contato</a></li>
     </ul>
   </nav>
@@ -181,7 +182,18 @@
     </div>
   </section>
 
-  <section class="secao" id="projetos">
+  <section class="secao" id="amostras">
+    <div class="container amostras-chamada revela">
+      <div>
+        <span class="secao__rotulo">Sites demonstrativos</span>
+        <h2 class="secao__titulo">Amostras para negócios</h2>
+        <p>Sete layouts completos e responsivos para diferentes segmentos, com marcas genéricas prontas para personalização.</p>
+      </div>
+      <a href="amostras.html" class="botao botao--primario">Explorar amostras</a>
+    </div>
+  </section>
+
+  <section class="secao secao--escura" id="projetos">
     <div class="container">
       <div class="secao__cabecalho revela">
         <span class="secao__rotulo">Portfólio</span>
@@ -394,17 +406,6 @@
     </div>
   </section>
 
-  <section class="secao secao--escura" id="amostras">
-    <div class="container amostras-chamada revela">
-      <div>
-        <span class="secao__rotulo">Sites demonstrativos</span>
-        <h2 class="secao__titulo">Amostras para negócios</h2>
-        <p>Layouts completos para visualizar como um site profissional pode apresentar diferentes empresas.</p>
-      </div>
-      <a href="amostras.html" class="botao botao--primario">Explorar amostras</a>
-    </div>
-  </section>
-
   <section class="secao" id="contato">
     <div class="container">
       <div class="secao__cabecalho revela">
@@ -439,5 +440,6 @@
   </footer>
 
   <script src="src/js/principal.js"></script>
+  <script src="src/js/transicoes.js"></script>
 </body>
 </html>
