@@ -818,10 +818,10 @@ a {
 }
 
 .amostras-chamada {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(360px, 0.72fr);
   align-items: center;
-  justify-content: space-between;
-  gap: 3rem;
+  gap: clamp(3rem, 8vw, 7rem);
 }
 
 .amostras-chamada .secao__titulo {
@@ -831,6 +831,95 @@ a {
 .amostras-chamada p {
   max-width: 650px;
   color: var(--cor-texto-suave);
+  margin-bottom: 1.75rem;
+}
+
+.amostras-chamada__vitrine {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 260px;
+  isolation: isolate;
+}
+
+.amostras-chamada__vitrine::before {
+  content: "";
+  position: absolute;
+  inset: 12% 8%;
+  z-index: -1;
+  border-radius: 50%;
+  background: rgba(124, 92, 246, 0.2);
+  filter: blur(48px);
+}
+
+.amostra-miniatura {
+  position: absolute;
+  width: 68%;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 12px;
+  background: var(--cor-superficie);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.42);
+  transition: transform 0.35s ease, border-color 0.35s ease;
+}
+
+.amostra-miniatura img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: top;
+}
+
+.amostra-miniatura--mercado {
+  top: 4%;
+  left: 0;
+  transform: rotate(-5deg);
+}
+
+.amostra-miniatura--petshop {
+  top: 18%;
+  right: 0;
+  z-index: 2;
+  transform: rotate(5deg);
+}
+
+.amostra-miniatura--clinica {
+  bottom: 0;
+  left: 14%;
+  z-index: 3;
+  transform: rotate(-1deg);
+}
+
+.amostras-chamada__vitrine:hover .amostra-miniatura {
+  border-color: rgba(139, 114, 255, 0.7);
+}
+
+.amostras-chamada__vitrine:hover .amostra-miniatura--mercado {
+  transform: translate(-8px, -5px) rotate(-7deg);
+}
+
+.amostras-chamada__vitrine:hover .amostra-miniatura--petshop {
+  transform: translate(8px, -7px) rotate(7deg);
+}
+
+.amostras-chamada__vitrine:hover .amostra-miniatura--clinica {
+  transform: translateY(7px) rotate(0);
+}
+
+.amostras-chamada__quantidade {
+  position: absolute;
+  right: 2%;
+  bottom: 1%;
+  z-index: 4;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid rgba(139, 114, 255, 0.4);
+  border-radius: 999px;
+  background: rgba(13, 13, 20, 0.9);
+  color: #c6baff;
+  font-family: var(--fonte-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
 }
 
 .contato__wrapper {
@@ -1010,12 +1099,31 @@ a {
   }
 
   .amostras-chamada {
-    align-items: flex-start;
-    flex-direction: column;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .amostras-chamada__vitrine {
+    width: min(100%, 480px);
+    min-height: 260px;
+    margin: 0 auto;
   }
 }
 
 @media (max-width: 600px) {
+  .amostras-chamada {
+    gap: 2rem;
+  }
+
+  .amostras-chamada__vitrine {
+    min-height: clamp(190px, 62vw, 250px);
+  }
+
+  .amostra-miniatura {
+    width: 72%;
+    border-radius: 9px;
+  }
+
   .topo {
     padding: 6rem 1.25rem 0;
   }
