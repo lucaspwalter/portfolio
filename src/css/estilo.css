@@ -71,16 +71,28 @@ body > *:not(.cursor-brilho):not(script) {
   }
 
   a,
+  a *,
   button,
+  button *,
   summary,
-  [role='button'] {
-    cursor: url('../../public/assets/icons/cursor-roxo.svg') 4 3, pointer;
+  summary *,
+  select,
+  label,
+  [role='button'],
+  [role='button'] * {
+    cursor: url('../../public/assets/icons/cursor-clique.svg') 8 3, pointer;
   }
 
   input,
   textarea,
-  [contenteditable='true'] {
-    cursor: text;
+  [contenteditable='true'],
+  p,
+  h1,
+  h2,
+  h3,
+  span,
+  strong {
+    cursor: url('../../public/assets/icons/cursor-texto.svg') 9 11, text;
   }
 }
 
