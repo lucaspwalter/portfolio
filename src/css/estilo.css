@@ -59,7 +59,7 @@ body {
   opacity: 1;
 }
 
-body > *:not(.cursor-brilho):not(script) {
+body > *:not(script) {
   position: relative;
   z-index: 1;
 }

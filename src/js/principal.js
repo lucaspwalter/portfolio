@@ -8,7 +8,7 @@ const aceitaCursorAnimado = window.matchMedia('(pointer: fine)').matches &&
 if (aceitaCursorAnimado) {
   const brilho = document.createElement('div');
   brilho.className = 'cursor-brilho';
-  document.body.appendChild(brilho);
+  document.documentElement.appendChild(brilho);
 
   let alvoX = window.innerWidth / 2;
   let alvoY = window.innerHeight / 2;
