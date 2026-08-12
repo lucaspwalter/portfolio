@@ -48,9 +48,14 @@ blockquote { max-width: 850px; margin: 1.5rem auto; color: var(--verde); font-si
 .cta p { color: #b7d0c9; }.cta .botao { flex-shrink: 0; margin: 0; }
 footer { padding: 2rem 6vw; display: flex; justify-content: space-between; align-items: center; color: #81918d; font-size: .7rem; }
 @media (max-width: 800px) {
+  body { overflow-x: hidden; }
   .aviso { position: static; padding: .45rem 1rem; background: var(--verde); color: white; text-align: center; }
   header { width: calc(100% - 1rem); height: 74px; margin: .5rem; padding: 0 1rem; border-radius: 16px 36px 16px 36px; }
-  .menu { display: block; }
+  .menu { width: 44px; height: 44px; display: grid; padding: 10px; place-content: center; gap: 5px; border-radius: 50%; background: var(--verde); }
+  .menu span { width: 21px; height: 2px; display: block; background: white; transition: .25s; }
+  .menu.aberto span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .menu.aberto span:nth-child(2) { opacity: 0; }
+  .menu.aberto span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
   nav { display: none; position: absolute; z-index: 3; top: 121px; left: .5rem; right: .5rem; padding: 2rem; flex-direction: column; background: var(--creme); border: 2px solid var(--verde); border-radius: 22px; }
   nav.aberto { display: flex; }
   .hero { min-height: auto; padding: 5rem 1.5rem; grid-template-columns: 1fr; }
