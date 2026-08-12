@@ -67,7 +67,7 @@ body > *:not(.cursor-brilho):not(script) {
 @media (pointer: fine) {
   html,
   body {
-    cursor: url('../../public/assets/icons/cursor-roxo.svg') 4 3, auto;
+    cursor: url('../../public/assets/icons/cursor-roxo.png') 4 3, auto;
   }
 
   input,
@@ -79,7 +79,7 @@ body > *:not(.cursor-brilho):not(script) {
   h3,
   span,
   strong {
-    cursor: url('../../public/assets/icons/cursor-texto.svg') 9 11, text;
+    cursor: url('../../public/assets/icons/cursor-texto.png') 9 11, text;
   }
 
   a,
@@ -92,7 +92,7 @@ body > *:not(.cursor-brilho):not(script) {
   label,
   [role='button'],
   [role='button'] * {
-    cursor: url('../../public/assets/icons/cursor-clique.svg') 8 3, pointer;
+    cursor: url('../../public/assets/icons/cursor-clique.png') 8 3, pointer;
   }
 }
 
