@@ -72,6 +72,25 @@ const observador = new IntersectionObserver((entradas) => {
 
 elementosRevela.forEach(el => observador.observe(el));
 
+if (aceitaCursorAnimado) {
+  document.querySelectorAll('.projeto-card__imagem').forEach(imagem => {
+    imagem.addEventListener('pointermove', evento => {
+      const area = imagem.getBoundingClientRect();
+      const x = (evento.clientX - area.left) / area.width;
+      const y = (evento.clientY - area.top) / area.height;
+      imagem.style.setProperty('--foto-x', `${x * 100}%`);
+      imagem.style.setProperty('--foto-y', `${y * 100}%`);
+      imagem.style.setProperty('--foto-rx', `${(0.5 - y) * 7}deg`);
+      imagem.style.setProperty('--foto-ry', `${(x - 0.5) * 7}deg`);
+    });
+
+    imagem.addEventListener('pointerleave', () => {
+      imagem.style.removeProperty('--foto-rx');
+      imagem.style.removeProperty('--foto-ry');
+    });
+  });
+}
+
 const filtroBotoes = document.querySelectorAll('.filtro-btn');
 const projetoCards = document.querySelectorAll('.projeto-card');
 

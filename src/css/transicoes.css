@@ -134,7 +134,9 @@ body.pagina-saindo > *:not(script) {
   .amostra-miniatura { animation: none; }
   .topo__titulo,
   .botao--primario::after,
-  .habilidade-item__icone { animation: none; }
+  .habilidade-item__icone,
+  .topo__foto-wrapper,
+  .projeto-card__imagem img { animation: none; }
   body.pagina-saindo::after,
   body.pagina-saindo > *:not(script) { animation-duration: .01ms; }
 }
