@@ -42,6 +42,65 @@ body.tema-restaurante { --cor: #7a302c; --acao: #d99d55; --claro: #fff8ee; --tin
 body.tema-academia { --cor: #1e293b; --acao: #e9ff4f; --claro: #f5f6f2; --tinta: #101827; }
 body.tema-academia .botao { color: #101827; }
 body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tinta: #102d40; }
+
+/* Mercado: campanha varejista, foto panorâmica e ofertas em cartões coloridos */
+.tema-mercado .hero { min-height: 680px; grid-template-columns: .75fr 1.25fr; padding-right: 0; background: #fff8e8; }
+.tema-mercado .hero__foto { height: 680px; border-radius: 80px 0 0 80px; box-shadow: none; }
+.tema-mercado .conteudo { background: #176b43; color: white; }
+.tema-mercado .conteudo h2 { color: white; }
+.tema-mercado .grade article { color: var(--tinta); transform: rotate(-1deg); }
+.tema-mercado .grade article:nth-child(2) { transform: translateY(22px) rotate(1deg); background: #fff0bd; }
+.tema-mercado .destaque { grid-template-columns: 1fr 1.4fr; background: #fff8e8; }
+
+/* Clínica: editorial leve, hero em cartão suspenso e especialidades circulares */
+.tema-clinica .hero { margin: 3rem 6vw 6rem; min-height: 580px; padding: 5rem; border-radius: 42px; background: white; box-shadow: 0 25px 80px rgba(54,125,145,.12); }
+.tema-clinica .hero__foto { height: 520px; border-radius: 260px 260px 30px 30px; box-shadow: none; }
+.tema-clinica .faixa { margin: -8rem auto 4rem; width: min(900px,90%); position: relative; border-radius: 999px; }
+.tema-clinica .grade article { text-align: center; border: 0; border-radius: 999px 999px 30px 30px; padding: 3rem 2rem; }
+.tema-clinica .grade b { margin: auto; border-radius: 50%; }
+.tema-clinica .destaque { background: #dff4f7; }
+
+/* Restaurante: capa escura cinematográfica e cardápio como menu impresso */
+.tema-restaurante header { position: absolute; top: 31px; z-index: 4; width: 100%; color: white; background: transparent; }
+.tema-restaurante .logo { color: white; }
+.tema-restaurante .hero { min-height: 780px; position: relative; display: flex; color: white; background: #24110f; }
+.tema-restaurante .hero > div:first-child { position: relative; z-index: 2; max-width: 760px; }
+.tema-restaurante .hero h1 { color: white; font-family: Georgia, serif; font-weight: 400; }
+.tema-restaurante .hero p { color: #e0cbc2; }
+.tema-restaurante .hero__foto { position: absolute; inset: 0; height: 100%; border-radius: 0; box-shadow: none; opacity: .58; }
+.tema-restaurante .hero__foto::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg,#24110f 5%,transparent 75%); }
+.tema-restaurante .hero__foto img { position: relative; }
+.tema-restaurante .faixa { background: #d99d55; color: #3f1c19; }
+.tema-restaurante .conteudo { background: #fff8ee; }
+.tema-restaurante .grade { border-top: 1px solid #d9b98e; border-bottom: 1px solid #d9b98e; gap: 0; }
+.tema-restaurante .grade article { border: 0; border-radius: 0; background: transparent; border-right: 1px solid #d9b98e; }
+
+/* Academia: brutalista escuro, tipografia inclinada e blocos sem arredondamento */
+.tema-academia { background: #0b1019; color: white; }
+.tema-academia header { color: white; background: #0b1019; border-bottom: 1px solid #263140; }
+.tema-academia .logo { color: white; text-transform: uppercase; font-style: italic; }
+.tema-academia .hero { min-height: 720px; color: white; background: #0b1019; }
+.tema-academia .hero h1 { color: white; text-transform: uppercase; font-style: italic; }
+.tema-academia .hero p { color: #9da6b5; }
+.tema-academia .hero__foto { height: 600px; border-radius: 0; box-shadow: 18px 18px 0 #e9ff4f; clip-path: polygon(12% 0,100% 0,88% 100%,0 100%); }
+.tema-academia .faixa { color: #101827; background: #e9ff4f; font-weight: 800; }
+.tema-academia .conteudo { color: white; background: #111827; }
+.tema-academia .conteudo h2 { color: white; }
+.tema-academia .grade article { border-radius: 0; color: white; background: #1e293b; border-color: #334155; }
+.tema-academia .grade b { border-radius: 0; color: #101827; background: #e9ff4f; }
+.tema-academia .grade p { color: #aab3c2; }
+
+/* Imobiliária: revista arquitetônica com foto dominante e conteúdo sobreposto */
+.tema-imobiliaria .hero { min-height: 760px; grid-template-columns: 1fr; position: relative; padding: 0; background: #102d40; }
+.tema-imobiliaria .hero > div:first-child { z-index: 2; max-width: 720px; margin: 7rem 8vw; padding: 3rem; color: white; background: rgba(16,45,64,.88); backdrop-filter: blur(8px); }
+.tema-imobiliaria .hero h1 { color: white; font-family: Georgia, serif; font-weight: 400; }
+.tema-imobiliaria .hero p { color: #cbd9e0; }
+.tema-imobiliaria .hero__foto { position: absolute; inset: 0; height: 100%; border-radius: 0; box-shadow: none; }
+.tema-imobiliaria .conteudo { text-align: left; }
+.tema-imobiliaria .conteudo h2 { margin-left: 0; }
+.tema-imobiliaria .grade { grid-template-columns: 1.4fr .8fr .8fr; }
+.tema-imobiliaria .grade article:first-child { min-height: 320px; background: #1d4d6b; color: white; }
+.tema-imobiliaria .grade article:first-child p { color: #c8d7df; }
 @media (max-width: 800px) {
   header { height: 72px; padding: 0 1.25rem; }.menu { display: block; }
   nav { display: none; position: absolute; z-index: 5; top: 105px; left: 0; right: 0; padding: 2rem; flex-direction: column; background: var(--claro); } nav.aberto { display: flex; }
@@ -50,4 +109,9 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
   .conteudo, .destaque { padding: 5rem 1.5rem; }.grade, .destaque { grid-template-columns: 1fr; }
   .destaque__arte { max-width: 460px; width: 100%; }.cta { padding: 4rem 1.5rem; align-items: flex-start; flex-direction: column; }
   footer { gap: 1rem; flex-direction: column; }
+  .tema-mercado .hero { padding-right: 1.5rem; }.tema-mercado .hero__foto { height: 320px; border-radius: 35px; }
+  .tema-clinica .hero { margin: 1rem; padding: 3rem 1.25rem; border-radius: 25px; }.tema-clinica .hero__foto { border-radius: 180px 180px 20px 20px; }.tema-clinica .faixa { margin: 1rem 0; width: 100%; border-radius: 0; }
+  .tema-restaurante header { top: 33px; }.tema-restaurante .hero { padding-top: 8rem; }.tema-restaurante .hero__foto { position: absolute; height: 100%; }.tema-restaurante .hero > div:first-child { z-index: 2; }
+  .tema-academia .hero__foto { height: 330px; clip-path: polygon(8% 0,100% 0,92% 100%,0 100%); }.tema-academia .hero h1 { font-size: 2.7rem; }
+  .tema-imobiliaria .hero { min-height: 740px; }.tema-imobiliaria .hero > div:first-child { margin: auto 1rem 2rem; padding: 2rem; }.tema-imobiliaria .hero__foto { position: absolute; height: 100%; }.tema-imobiliaria .grade { grid-template-columns: 1fr; }
 }
