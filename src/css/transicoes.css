@@ -132,6 +132,9 @@ body.pagina-saindo > *:not(script) {
   body { animation: none; }
   .cursor-brilho { display: none; }
   .amostra-miniatura { animation: none; }
+  .topo__titulo,
+  .botao--primario::after,
+  .habilidade-item__icone { animation: none; }
   body.pagina-saindo::after,
   body.pagina-saindo > *:not(script) { animation-duration: .01ms; }
 }

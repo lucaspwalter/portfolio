@@ -42,14 +42,15 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 0;
-  width: 340px;
-  height: 340px;
+  z-index: 90;
+  width: 460px;
+  height: 460px;
   border-radius: 50%;
   pointer-events: none;
   opacity: 0;
-  background: radial-gradient(circle, rgba(124, 106, 247, 0.13) 0%, rgba(124, 106, 247, 0.05) 38%, transparent 70%);
-  filter: blur(8px);
+  background: radial-gradient(circle, rgba(167, 139, 250, 0.28) 0%, rgba(124, 106, 247, 0.13) 28%, transparent 68%);
+  filter: blur(12px);
+  mix-blend-mode: screen;
   transition: opacity 0.35s ease;
   will-change: transform;
 }
@@ -61,6 +62,25 @@ body {
 body > *:not(.cursor-brilho):not(script) {
   position: relative;
   z-index: 1;
+}
+
+.topo__titulo.aparece-cima {
+  background: linear-gradient(100deg, var(--cor-texto) 25%, #b9a8ff 50%, var(--cor-texto) 75%);
+  background-size: 220% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: aparecer 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards,
+             brilhoTitulo 7s linear infinite 1s;
+}
+
+.topo__titulo .destaque {
+  color: var(--cor-destaque);
+  -webkit-text-fill-color: var(--cor-destaque);
+}
+
+@keyframes brilhoTitulo {
+  to { background-position: -220% center; }
 }
 
 a {
@@ -901,6 +921,38 @@ a {
 @keyframes miniaturaFlutuar {
   0%, 100% { translate: 0 0; }
   50% { translate: 0 -6px; }
+}
+
+.botao--primario {
+  position: relative;
+  overflow: hidden;
+}
+
+.botao--primario::after {
+  content: "";
+  position: absolute;
+  inset: -60% auto -60% -45%;
+  width: 28%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: skewX(-22deg);
+  animation: reflexoBotao 4.5s ease-in-out infinite;
+}
+
+@keyframes reflexoBotao {
+  0%, 65% { left: -45%; }
+  85%, 100% { left: 130%; }
+}
+
+.habilidade-item__icone {
+  animation: iconeRespirar 3.6s ease-in-out infinite;
+}
+
+.habilidade-item:nth-child(2n) .habilidade-item__icone { animation-delay: -1.2s; }
+.habilidade-item:nth-child(3n) .habilidade-item__icone { animation-delay: -2.4s; }
+
+@keyframes iconeRespirar {
+  0%, 100% { transform: translateY(0) rotate(0); }
+  50% { transform: translateY(-4px) rotate(4deg); }
 }
 
 .amostra-miniatura img {
