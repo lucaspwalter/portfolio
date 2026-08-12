@@ -38,34 +38,94 @@ body.pagina-saindo > *:not(script) {
   .menu,
   .menu-button {
     position: relative;
-    width: 44px;
-    min-width: 44px;
-    height: 44px;
+    display: block;
+    width: 48px;
+    min-width: 48px;
+    max-width: 48px;
+    height: 48px;
+    min-height: 48px;
     padding: 0;
-    overflow: visible;
-    flex: 0 0 44px;
+    overflow: hidden;
+    flex: 0 0 48px;
+    line-height: 0;
+    font-size: 0;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    appearance: none;
   }
 
   .menu span,
   .menu-button span {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin: 0;
-    transform-origin: center;
+    display: none !important;
   }
 
-  .menu span:nth-child(1) { transform: translate(-50%, -8px); }
-  .menu span:nth-child(2) { transform: translate(-50%, -50%); }
-  .menu span:nth-child(3) { transform: translate(-50%, 6px); }
-  .menu[aria-expanded="true"] span:nth-child(1) { transform: translate(-50%, -50%) rotate(45deg); }
-  .menu[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
-  .menu[aria-expanded="true"] span:nth-child(3) { transform: translate(-50%, -50%) rotate(-45deg); }
+  .menu::before,
+  .menu::after,
+  .menu-button::before,
+  .menu-button::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 24px;
+    height: 2px;
+    background: currentColor;
+    transform: translateX(-50%);
+    transform-origin: center;
+    transition: top .2s ease, transform .2s ease;
+  }
 
-  .menu-button span:nth-child(1) { transform: translate(-50%, -5px); }
-  .menu-button span:nth-child(2) { transform: translate(-50%, 5px); }
-  .menu-button[aria-expanded="true"] span:nth-child(1) { transform: translate(-50%, -50%) rotate(45deg); }
-  .menu-button[aria-expanded="true"] span:nth-child(2) { transform: translate(-50%, -50%) rotate(-45deg); }
+  .menu::before,
+  .menu-button::before {
+    top: 18px;
+    box-shadow: 0 10px 0 currentColor;
+  }
+
+  .menu::after,
+  .menu-button::after { top: 23px; }
+
+  .menu[aria-expanded="true"]::before,
+  .menu-button[aria-expanded="true"]::before {
+    top: 23px;
+    box-shadow: none;
+    transform: translateX(-50%) rotate(45deg);
+  }
+
+  .menu[aria-expanded="true"]::after,
+  .menu-button[aria-expanded="true"]::after {
+    top: 23px;
+    transform: translateX(-50%) rotate(-45deg);
+  }
+
+  .topo,
+  .cabecalho,
+  .lateral,
+  header.header,
+  body > header {
+    padding-left: max(14px, env(safe-area-inset-left));
+    padding-right: max(14px, env(safe-area-inset-right));
+  }
+
+  .marca,
+  .brand,
+  .logo {
+    min-width: 0;
+    max-width: calc(100% - 58px);
+  }
+}
+
+@media (max-width: 380px) {
+  .marca,
+  .brand,
+  .logo { font-size: 16px !important; }
+
+  .marca b,
+  .brand-mark,
+  .logo[data-mark]::before {
+    width: 36px !important;
+    min-width: 36px;
+    height: 36px !important;
+    padding: 0 !important;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -51,7 +51,7 @@ footer { padding: 2rem 6vw; display: flex; justify-content: space-between; align
   body { overflow-x: hidden; }
   .aviso { position: static; padding: .45rem 1rem; background: var(--verde); color: white; text-align: center; }
   header { width: calc(100% - 1rem); height: 74px; margin: .5rem; padding: 0 1rem; border-radius: 16px 36px 16px 36px; }
-  .menu { width: 44px; height: 44px; display: grid; padding: 10px; place-content: center; gap: 5px; border-radius: 50%; background: var(--verde); }
+  .menu { width: 44px; height: 44px; display: grid; padding: 10px; place-content: center; gap: 5px; border-radius: 50%; color: white; background: var(--verde); }
   .menu span { width: 21px; height: 2px; display: block; background: white; transition: .25s; }
   .menu.aberto span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
   .menu.aberto span:nth-child(2) { opacity: 0; }
