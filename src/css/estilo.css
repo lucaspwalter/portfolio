@@ -819,9 +819,9 @@ a {
 
 .amostras-chamada {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(360px, 0.72fr);
+  grid-template-columns: minmax(280px, 1fr) minmax(320px, 0.8fr);
   align-items: center;
-  gap: clamp(3rem, 8vw, 7rem);
+  gap: clamp(2.5rem, 6vw, 5rem);
 }
 
 .amostras-chamada .secao__titulo {
@@ -836,9 +836,13 @@ a {
 
 .amostras-chamada__vitrine {
   position: relative;
-  display: block;
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
   width: 100%;
-  min-height: 260px;
+  aspect-ratio: 16 / 10;
+  min-width: 0;
   isolation: isolate;
 }
 
@@ -853,8 +857,10 @@ a {
 }
 
 .amostra-miniatura {
-  position: absolute;
-  width: 68%;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.14);
   border-radius: 12px;
@@ -866,51 +872,37 @@ a {
 .amostra-miniatura img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  height: 100%;
   object-fit: cover;
   object-position: top;
 }
 
 .amostra-miniatura--mercado {
-  top: 4%;
-  left: 0;
-  transform: rotate(-5deg);
+  grid-row: 1 / 3;
 }
 
 .amostra-miniatura--petshop {
-  top: 18%;
-  right: 0;
-  z-index: 2;
-  transform: rotate(5deg);
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .amostra-miniatura--clinica {
-  bottom: 0;
-  left: 14%;
-  z-index: 3;
-  transform: rotate(-1deg);
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .amostras-chamada__vitrine:hover .amostra-miniatura {
   border-color: rgba(139, 114, 255, 0.7);
 }
 
-.amostras-chamada__vitrine:hover .amostra-miniatura--mercado {
-  transform: translate(-8px, -5px) rotate(-7deg);
-}
-
-.amostras-chamada__vitrine:hover .amostra-miniatura--petshop {
-  transform: translate(8px, -7px) rotate(7deg);
-}
-
-.amostras-chamada__vitrine:hover .amostra-miniatura--clinica {
-  transform: translateY(7px) rotate(0);
+.amostras-chamada__vitrine:hover .amostra-miniatura {
+  transform: translateY(-3px);
 }
 
 .amostras-chamada__quantidade {
   position: absolute;
-  right: 2%;
-  bottom: 1%;
+  right: 0.75rem;
+  bottom: 0.75rem;
   z-index: 4;
   padding: 0.45rem 0.75rem;
   border: 1px solid rgba(139, 114, 255, 0.4);
@@ -1105,7 +1097,6 @@ a {
 
   .amostras-chamada__vitrine {
     width: min(100%, 480px);
-    min-height: 260px;
     margin: 0 auto;
   }
 }
@@ -1115,12 +1106,7 @@ a {
     gap: 2rem;
   }
 
-  .amostras-chamada__vitrine {
-    min-height: clamp(190px, 62vw, 250px);
-  }
-
   .amostra-miniatura {
-    width: 72%;
     border-radius: 9px;
   }
 
