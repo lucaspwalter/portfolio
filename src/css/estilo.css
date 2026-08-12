@@ -70,6 +70,18 @@ body > *:not(.cursor-brilho):not(script) {
     cursor: url('../../public/assets/icons/cursor-roxo.svg') 4 3, auto;
   }
 
+  input,
+  textarea,
+  [contenteditable='true'],
+  p,
+  h1,
+  h2,
+  h3,
+  span,
+  strong {
+    cursor: url('../../public/assets/icons/cursor-texto.svg') 9 11, text;
+  }
+
   a,
   a *,
   button,
@@ -81,18 +93,6 @@ body > *:not(.cursor-brilho):not(script) {
   [role='button'],
   [role='button'] * {
     cursor: url('../../public/assets/icons/cursor-clique.svg') 8 3, pointer;
-  }
-
-  input,
-  textarea,
-  [contenteditable='true'],
-  p,
-  h1,
-  h2,
-  h3,
-  span,
-  strong {
-    cursor: url('../../public/assets/icons/cursor-texto.svg') 9 11, text;
   }
 }
 
