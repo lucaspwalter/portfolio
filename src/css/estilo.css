@@ -92,7 +92,7 @@ body > *:not(.cursor-brilho):not(script) {
   label,
   [role='button'],
   [role='button'] * {
-    cursor: url('../../public/assets/icons/cursor-clique.png') 8 3, pointer;
+    cursor: url('../../public/assets/icons/cursor-clique.png') 8 3, pointer !important;
   }
 }
 
