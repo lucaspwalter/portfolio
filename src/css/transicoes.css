@@ -34,6 +34,40 @@ body.pagina-saindo > *:not(script) {
   to { opacity: .5; transform: translateY(-8px); }
 }
 
+@media (max-width: 900px) {
+  .menu,
+  .menu-button {
+    position: relative;
+    width: 44px;
+    min-width: 44px;
+    height: 44px;
+    padding: 0;
+    overflow: visible;
+    flex: 0 0 44px;
+  }
+
+  .menu span,
+  .menu-button span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 0;
+    transform-origin: center;
+  }
+
+  .menu span:nth-child(1) { transform: translate(-50%, -8px); }
+  .menu span:nth-child(2) { transform: translate(-50%, -50%); }
+  .menu span:nth-child(3) { transform: translate(-50%, 6px); }
+  .menu[aria-expanded="true"] span:nth-child(1) { transform: translate(-50%, -50%) rotate(45deg); }
+  .menu[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+  .menu[aria-expanded="true"] span:nth-child(3) { transform: translate(-50%, -50%) rotate(-45deg); }
+
+  .menu-button span:nth-child(1) { transform: translate(-50%, -5px); }
+  .menu-button span:nth-child(2) { transform: translate(-50%, 5px); }
+  .menu-button[aria-expanded="true"] span:nth-child(1) { transform: translate(-50%, -50%) rotate(45deg); }
+  .menu-button[aria-expanded="true"] span:nth-child(2) { transform: translate(-50%, -50%) rotate(-45deg); }
+}
+
 @media (prefers-reduced-motion: reduce) {
   body { animation: none; }
   body.pagina-saindo::after,
