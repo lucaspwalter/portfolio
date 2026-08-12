@@ -44,7 +44,12 @@ body.tema-academia .botao { color: #101827; }
 body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tinta: #102d40; }
 
 /* Mercado: campanha varejista, foto panorâmica e ofertas em cartões coloridos */
+.tema-mercado header { height: 104px; margin: 0 4vw; padding: 0; border-bottom: 2px solid #176b43; }
+.tema-mercado .logo { font-size: 1.4rem; }
+.tema-mercado nav .nav-acao { border-radius: 10px; background: #f1a62c; color: #123b2a; }
 .tema-mercado .hero { min-height: 680px; grid-template-columns: .75fr 1.25fr; padding-right: 0; background: #fff8e8; }
+.tema-mercado .hero > div:first-child { grid-column: 2; grid-row: 1; padding-right: 8vw; }
+.tema-mercado .hero__foto { grid-column: 1; grid-row: 1; }
 .tema-mercado .hero__foto { height: 680px; border-radius: 80px 0 0 80px; box-shadow: none; }
 .tema-mercado .conteudo { background: #176b43; color: white; }
 .tema-mercado .conteudo h2 { color: white; }
@@ -53,6 +58,9 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
 .tema-mercado .destaque { grid-template-columns: 1fr 1.4fr; background: #fff8e8; }
 
 /* Clínica: editorial leve, hero em cartão suspenso e especialidades circulares */
+.tema-clinica header { width: min(1180px,92%); margin: 1.2rem auto 0; padding: 0 2rem; border-radius: 999px; background: white; box-shadow: 0 12px 35px rgba(54,125,145,.08); }
+.tema-clinica .logo[data-mark]::before { border-radius: 50%; }
+.tema-clinica nav .nav-acao { background: #dd6c7b; }
 .tema-clinica .hero { margin: 3rem 6vw 6rem; min-height: 580px; padding: 5rem; border-radius: 42px; background: white; box-shadow: 0 25px 80px rgba(54,125,145,.12); }
 .tema-clinica .hero__foto { height: 520px; border-radius: 260px 260px 30px 30px; box-shadow: none; }
 .tema-clinica .faixa { margin: -8rem auto 4rem; width: min(900px,90%); position: relative; border-radius: 999px; }
@@ -61,7 +69,9 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
 .tema-clinica .destaque { background: #dff4f7; }
 
 /* Restaurante: capa escura cinematográfica e cardápio como menu impresso */
-.tema-restaurante header { position: absolute; top: 31px; z-index: 4; width: 100%; color: white; background: transparent; }
+.tema-restaurante header { position: absolute; top: 31px; left: 5vw; right: 5vw; z-index: 4; width: auto; height: 105px; padding: 0; color: white; background: transparent; border-bottom: 1px solid rgba(255,255,255,.3); }
+.tema-restaurante .logo[data-mark]::before { border-radius: 50%; font-family: Georgia,serif; }
+.tema-restaurante nav { text-transform: uppercase; letter-spacing: .12em; }
 .tema-restaurante .logo { color: white; }
 .tema-restaurante .hero { min-height: 780px; position: relative; display: flex; color: white; background: #24110f; }
 .tema-restaurante .hero > div:first-child { position: relative; z-index: 2; max-width: 760px; }
@@ -77,7 +87,10 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
 
 /* Academia: brutalista escuro, tipografia inclinada e blocos sem arredondamento */
 .tema-academia { background: #0b1019; color: white; }
-.tema-academia header { color: white; background: #0b1019; border-bottom: 1px solid #263140; }
+.tema-academia header { height: 108px; color: white; background: #0b1019; border-bottom: 5px solid #e9ff4f; }
+.tema-academia .logo[data-mark]::before { border-radius: 0; transform: skew(-8deg); }
+.tema-academia nav { text-transform: uppercase; font-style: italic; }
+.tema-academia nav .nav-acao { border-radius: 0; background: #e9ff4f; }
 .tema-academia .logo { color: white; text-transform: uppercase; font-style: italic; }
 .tema-academia .hero { min-height: 720px; color: white; background: #0b1019; }
 .tema-academia .hero h1 { color: white; text-transform: uppercase; font-style: italic; }
@@ -91,8 +104,13 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
 .tema-academia .grade p { color: #aab3c2; }
 
 /* Imobiliária: revista arquitetônica com foto dominante e conteúdo sobreposto */
+.tema-imobiliaria header { position: absolute; top: 31px; left: 0; z-index: 4; width: 270px; height: 729px; padding: 3rem 2rem; align-items: flex-start; flex-direction: column; color: white; background: rgba(16,45,64,.94); }
+.tema-imobiliaria .logo { color: white; }
+.tema-imobiliaria .logo[data-mark]::before { border-radius: 0; }
+.tema-imobiliaria nav { width: 100%; align-items: flex-start; flex-direction: column; border-top: 1px solid rgba(255,255,255,.2); padding-top: 2rem; }
+.tema-imobiliaria nav .nav-acao { width: 100%; text-align: center; border-radius: 0; background: #d49b58; }
 .tema-imobiliaria .hero { min-height: 760px; grid-template-columns: 1fr; position: relative; padding: 0; background: #102d40; }
-.tema-imobiliaria .hero > div:first-child { z-index: 2; max-width: 720px; margin: 7rem 8vw; padding: 3rem; color: white; background: rgba(16,45,64,.88); backdrop-filter: blur(8px); }
+.tema-imobiliaria .hero > div:first-child { z-index: 2; max-width: 720px; margin: auto 7vw 4rem auto; padding: 3rem; color: white; background: rgba(16,45,64,.88); backdrop-filter: blur(8px); }
 .tema-imobiliaria .hero h1 { color: white; font-family: Georgia, serif; font-weight: 400; }
 .tema-imobiliaria .hero p { color: #cbd9e0; }
 .tema-imobiliaria .hero__foto { position: absolute; inset: 0; height: 100%; border-radius: 0; box-shadow: none; }
@@ -109,9 +127,10 @@ body.tema-imobiliaria { --cor: #1d4d6b; --acao: #d49b58; --claro: #f4f7f8; --tin
   .conteudo, .destaque { padding: 5rem 1.5rem; }.grade, .destaque { grid-template-columns: 1fr; }
   .destaque__arte { max-width: 460px; width: 100%; }.cta { padding: 4rem 1.5rem; align-items: flex-start; flex-direction: column; }
   footer { gap: 1rem; flex-direction: column; }
-  .tema-mercado .hero { padding-right: 1.5rem; }.tema-mercado .hero__foto { height: 320px; border-radius: 35px; }
-  .tema-clinica .hero { margin: 1rem; padding: 3rem 1.25rem; border-radius: 25px; }.tema-clinica .hero__foto { border-radius: 180px 180px 20px 20px; }.tema-clinica .faixa { margin: 1rem 0; width: 100%; border-radius: 0; }
-  .tema-restaurante header { top: 33px; }.tema-restaurante .hero { padding-top: 8rem; }.tema-restaurante .hero__foto { position: absolute; height: 100%; }.tema-restaurante .hero > div:first-child { z-index: 2; }
+  .tema-mercado header { height: 72px; margin: 0; padding: 0 1.25rem; border-bottom-width: 1px; }.tema-mercado .hero { padding-right: 1.5rem; }.tema-mercado .hero > div:first-child { grid-column: 1; grid-row: 1; padding: 0; }.tema-mercado .hero__foto { grid-column: 1; grid-row: 2; height: 320px; border-radius: 35px; }
+  .tema-clinica header { width: 100%; margin: 0; padding: 0 1.25rem; border-radius: 0; }.tema-clinica .hero { margin: 1rem; padding: 3rem 1.25rem; border-radius: 25px; }.tema-clinica .hero__foto { border-radius: 180px 180px 20px 20px; }.tema-clinica .faixa { margin: 1rem 0; width: 100%; border-radius: 0; }
+  .tema-restaurante header { top: 33px; left: 1.25rem; right: 1.25rem; height: 72px; }.tema-restaurante .hero { padding-top: 8rem; }.tema-restaurante .hero__foto { position: absolute; height: 100%; }.tema-restaurante .hero > div:first-child { z-index: 2; }
+  .tema-academia header { height: 72px; border-bottom-width: 3px; }
   .tema-academia .hero__foto { height: 330px; clip-path: polygon(8% 0,100% 0,92% 100%,0 100%); }.tema-academia .hero h1 { font-size: 2.7rem; }
-  .tema-imobiliaria .hero { min-height: 740px; }.tema-imobiliaria .hero > div:first-child { margin: auto 1rem 2rem; padding: 2rem; }.tema-imobiliaria .hero__foto { position: absolute; height: 100%; }.tema-imobiliaria .grade { grid-template-columns: 1fr; }
+  .tema-imobiliaria header { position: relative; top: auto; width: 100%; height: 72px; padding: 0 1.25rem; align-items: center; flex-direction: row; }.tema-imobiliaria nav { position: absolute; top: 72px; width: auto; align-items: center; border: 0; padding: 2rem; }.tema-imobiliaria .hero { min-height: 740px; }.tema-imobiliaria .hero > div:first-child { margin: auto 1rem 2rem; padding: 2rem; }.tema-imobiliaria .hero__foto { position: absolute; height: 100%; }.tema-imobiliaria .grade { grid-template-columns: 1fr; }
 }
