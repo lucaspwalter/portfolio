@@ -130,6 +130,8 @@ body.pagina-saindo > *:not(script) {
 
 @media (prefers-reduced-motion: reduce) {
   body { animation: none; }
+  .cursor-brilho { display: none; }
+  .amostra-miniatura { animation: none; }
   body.pagina-saindo::after,
   body.pagina-saindo > *:not(script) { animation-duration: .01ms; }
 }

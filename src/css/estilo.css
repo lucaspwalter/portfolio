@@ -38,6 +38,31 @@ body {
   overflow-x: hidden;
 }
 
+.cursor-brilho {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  background: radial-gradient(circle, rgba(124, 106, 247, 0.13) 0%, rgba(124, 106, 247, 0.05) 38%, transparent 70%);
+  filter: blur(8px);
+  transition: opacity 0.35s ease;
+  will-change: transform;
+}
+
+.cursor-brilho--visivel {
+  opacity: 1;
+}
+
+body > *:not(.cursor-brilho):not(script) {
+  position: relative;
+  z-index: 1;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -867,6 +892,15 @@ a {
   background: var(--cor-superficie);
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.42);
   transition: transform 0.35s ease, border-color 0.35s ease;
+  animation: miniaturaFlutuar 5s ease-in-out infinite;
+}
+
+.amostra-miniatura--petshop { animation-delay: -1.7s; }
+.amostra-miniatura--clinica { animation-delay: -3.4s; }
+
+@keyframes miniaturaFlutuar {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 -6px; }
 }
 
 .amostra-miniatura img {

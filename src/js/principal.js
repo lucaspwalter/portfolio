@@ -2,6 +2,39 @@ const navegacao = document.getElementById('navegacao');
 const menuBotao = document.getElementById('menuBotao');
 const menuLinks = document.getElementById('menuLinks');
 
+const aceitaCursorAnimado = window.matchMedia('(pointer: fine)').matches &&
+  !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+if (aceitaCursorAnimado) {
+  const brilho = document.createElement('div');
+  brilho.className = 'cursor-brilho';
+  document.body.appendChild(brilho);
+
+  let alvoX = window.innerWidth / 2;
+  let alvoY = window.innerHeight / 2;
+  let atualX = alvoX;
+  let atualY = alvoY;
+
+  window.addEventListener('pointermove', evento => {
+    alvoX = evento.clientX;
+    alvoY = evento.clientY;
+    brilho.classList.add('cursor-brilho--visivel');
+  }, { passive: true });
+
+  document.documentElement.addEventListener('mouseleave', () => {
+    brilho.classList.remove('cursor-brilho--visivel');
+  });
+
+  const acompanharCursor = () => {
+    atualX += (alvoX - atualX) * 0.14;
+    atualY += (alvoY - atualY) * 0.14;
+    brilho.style.transform = `translate3d(${atualX}px, ${atualY}px, 0) translate(-50%, -50%)`;
+    requestAnimationFrame(acompanharCursor);
+  };
+
+  acompanharCursor();
+}
+
 window.addEventListener('scroll', () => {
   if (window.scrollY > 40) {
     navegacao.classList.add('rolada');
