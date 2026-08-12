@@ -1039,21 +1039,6 @@ a {
   transform: translateY(-3px);
 }
 
-.amostras-chamada__quantidade {
-  position: absolute;
-  right: 0.75rem;
-  bottom: 0.75rem;
-  z-index: 4;
-  padding: 0.45rem 0.75rem;
-  border: 1px solid rgba(139, 114, 255, 0.4);
-  border-radius: 999px;
-  background: rgba(13, 13, 20, 0.9);
-  color: #c6baff;
-  font-family: var(--fonte-mono);
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-}
-
 .contato__wrapper {
   max-width: 640px;
   margin: 0 auto;
