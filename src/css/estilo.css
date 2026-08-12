@@ -1235,8 +1235,8 @@ a {
     border-radius: 9px;
   }
 
-  .topo__foto-wrapper {
-    animation: perfilFlutuar 4.5s ease-in-out infinite;
+  .topo__foto-anel {
+    animation: girarAnel 4s linear infinite, perfilFlutuar 4.5s ease-in-out infinite;
   }
 
   @keyframes perfilFlutuar {

@@ -200,7 +200,7 @@ body.pagina-saindo > *:not(script) {
   .topo__titulo,
   .botao--primario::after,
   .habilidade-item__icone,
-  .topo__foto-wrapper,
+  .topo__foto-anel,
   .projeto-card__imagem img { animation: none; }
   .secao__rotulo,
   .projeto-card.visivel .projeto-card__imagem::before { animation: none; }
