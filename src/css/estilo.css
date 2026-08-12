@@ -64,6 +64,26 @@ body > *:not(.cursor-brilho):not(script) {
   z-index: 1;
 }
 
+@media (pointer: fine) {
+  html,
+  body {
+    cursor: url('../../public/assets/icons/cursor-roxo.svg') 4 3, auto;
+  }
+
+  a,
+  button,
+  summary,
+  [role='button'] {
+    cursor: url('../../public/assets/icons/cursor-roxo.svg') 4 3, pointer;
+  }
+
+  input,
+  textarea,
+  [contenteditable='true'] {
+    cursor: text;
+  }
+}
+
 .topo__titulo.aparece-cima {
   background: linear-gradient(100deg, var(--cor-texto) 25%, #b9a8ff 50%, var(--cor-texto) 75%);
   background-size: 220% auto;
