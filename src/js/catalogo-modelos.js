@@ -18,8 +18,8 @@ function renderizar() {
   grade.innerHTML = itens.map(modelo => {
     const cat = CATEGORIAS[modelo.categoria];
     const total = MODELOS.filter(item => item.categoria === modelo.categoria).length;
-    return `<article class="cartao" style="--card-cor:${modelo.cor};--card-fundo:${modelo.fundo};--card-cols:${total};--card-index:${modelo.posicao};--card-pos:${modelo.posicao / (total - 1) * 100}%">
-      <a class="cartao__visual" href="demos/modelo.html?tipo=${modelo.id}" aria-label="Abrir modelo ${modelo.nome}"><img src="public/assets/images/samples/categories/${cat.imagem}" alt="Prévia de ${modelo.nome}" loading="lazy"></a>
+    return `<article class="cartao" style="--card-cor:${modelo.cor};--card-fundo:${modelo.fundo}">
+      <a class="cartao__visual" href="demos/modelo.html?tipo=${modelo.id}" aria-label="Abrir modelo ${modelo.nome}"><img src="public/assets/images/samples/catalog/${cat.imagem}" alt="Prévia de ${modelo.nome}" loading="lazy" width="1280" height="720"></a>
       <div class="cartao__conteudo"><span class="cartao__tipo">${cat.nome}</span><h3>${modelo.nome} XXX</h3><p>${modelo.descricao}</p><a href="demos/modelo.html?tipo=${modelo.id}">Explorar modelo <span>↗</span></a></div>
     </article>`;
   }).join('');

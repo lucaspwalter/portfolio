@@ -6,7 +6,9 @@
 }
 
 .cartao__visual img {
-  width: calc(var(--card-cols) * 100%);
-  max-width: none;
-  margin-left: calc(var(--card-index) * -100%);
+  width: 100%;
+  max-width: 100%;
+  margin-left: 0;
+  object-fit: cover;
+  object-position: center;
 }
