@@ -59,6 +59,9 @@ Veterinária apareceu também em Saúde na lista original; será mantida somente
 - Inspeção visual feita em odontologia, oficina, pizzaria, arquitetura, manicure e hotel.
 - Publicação principal: commit `2ea3caf`, workflow GitHub Pages `31729761366` concluído com sucesso.
 - Produção validada em `https://lucaspwalter.github.io/portfolio/amostras.html`; catálogo, dados e imagem WebP responderam corretamente.
+- Foram gerados 47 PDFs A4, com cinco páginas cada, em `propostas/pdfs/`, incluindo capturas completas de computador e celular sem recortes.
+- Foram geradas 47 mensagens personalizadas por segmento em `propostas/catalogo-mensagens.csv`.
+- PDFs enviados ao Google Drive na pasta `Propostas de Sites — PDFs` e cadastrados com links, amostras e mensagens na aba `Modelos e mensagens` da planilha `Prospecção de Sites — Joinville`.
 
 ## Próximo passo exato
 

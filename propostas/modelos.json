@@ -1,0 +1,331 @@
+[
+  {
+    "id": "clinica-medica",
+    "nome": "Clínica Médica",
+    "categoria": "saude",
+    "descricao": "Consultas, prevenção e acompanhamento próximo.",
+    "cor": "#0f766e"
+  },
+  {
+    "id": "odontologia",
+    "nome": "Odontologia",
+    "categoria": "saude",
+    "descricao": "Tecnologia, conforto e atendimento sem pressa.",
+    "cor": "#075985"
+  },
+  {
+    "id": "clinica-estetica",
+    "nome": "Clínica Estética",
+    "categoria": "saude",
+    "descricao": "Protocolos personalizados e resultados naturais.",
+    "cor": "#9f5f68"
+  },
+  {
+    "id": "fisioterapia",
+    "nome": "Fisioterapia",
+    "categoria": "saude",
+    "descricao": "Reabilitação ativa para cada fase da vida.",
+    "cor": "#256d5b"
+  },
+  {
+    "id": "psicologia",
+    "nome": "Psicologia",
+    "categoria": "saude",
+    "descricao": "Escuta qualificada, vínculo e desenvolvimento.",
+    "cor": "#7c5c46"
+  },
+  {
+    "id": "laboratorio",
+    "nome": "Laboratório",
+    "categoria": "saude",
+    "descricao": "Exames com agilidade, segurança e clareza.",
+    "cor": "#155e75"
+  },
+  {
+    "id": "mercado",
+    "nome": "Mercado",
+    "categoria": "comercio",
+    "descricao": "Ofertas, variedade e praticidade no bairro.",
+    "cor": "#166534"
+  },
+  {
+    "id": "loja",
+    "nome": "Loja",
+    "categoria": "comercio",
+    "descricao": "Curadoria simples, compra fácil e novidades.",
+    "cor": "#b45309"
+  },
+  {
+    "id": "farmacia",
+    "nome": "Farmácia",
+    "categoria": "comercio",
+    "descricao": "Conveniência, orientação e entrega rápida.",
+    "cor": "#0369a1"
+  },
+  {
+    "id": "otica",
+    "nome": "Ótica",
+    "categoria": "comercio",
+    "descricao": "Armações, lentes e atendimento especializado.",
+    "cor": "#7c3aed"
+  },
+  {
+    "id": "moveis",
+    "nome": "Móveis",
+    "categoria": "comercio",
+    "descricao": "Mobiliário para viver, trabalhar e receber.",
+    "cor": "#78350f"
+  },
+  {
+    "id": "roupas",
+    "nome": "Roupas",
+    "categoria": "comercio",
+    "descricao": "Peças versáteis e coleções com personalidade.",
+    "cor": "#be123c"
+  },
+  {
+    "id": "advocacia",
+    "nome": "Advocacia",
+    "categoria": "servicos",
+    "descricao": "Proteção para pessoas, patrimônio e empresas.",
+    "cor": "#1e293b"
+  },
+  {
+    "id": "contabilidade",
+    "nome": "Contabilidade",
+    "categoria": "servicos",
+    "descricao": "Gestão contábil próxima e orientada ao crescimento.",
+    "cor": "#164e63"
+  },
+  {
+    "id": "imobiliaria",
+    "nome": "Imobiliária",
+    "categoria": "servicos",
+    "descricao": "Curadoria de imóveis e negociação segura.",
+    "cor": "#0c4a6e"
+  },
+  {
+    "id": "oficina",
+    "nome": "Oficina",
+    "categoria": "servicos",
+    "descricao": "Diagnóstico transparente e serviço confiável.",
+    "cor": "#b91c1c"
+  },
+  {
+    "id": "eletrica",
+    "nome": "Elétrica",
+    "categoria": "servicos",
+    "descricao": "Instalações e manutenção para casas e empresas.",
+    "cor": "#ca8a04"
+  },
+  {
+    "id": "limpeza",
+    "nome": "Limpeza",
+    "categoria": "servicos",
+    "descricao": "Limpeza profissional com cuidado em cada detalhe.",
+    "cor": "#0891b2"
+  },
+  {
+    "id": "restaurante",
+    "nome": "Restaurante",
+    "categoria": "alimentacao",
+    "descricao": "Cozinha autoral, ingredientes frescos e atmosfera.",
+    "cor": "#7f1d1d"
+  },
+  {
+    "id": "pizzaria",
+    "nome": "Pizzaria",
+    "categoria": "alimentacao",
+    "descricao": "Fermentação lenta e sabores que aproximam.",
+    "cor": "#c2410c"
+  },
+  {
+    "id": "cafeteria",
+    "nome": "Cafeteria",
+    "categoria": "alimentacao",
+    "descricao": "Cafés especiais, encontros e pequenos rituais.",
+    "cor": "#713f12"
+  },
+  {
+    "id": "padaria",
+    "nome": "Padaria",
+    "categoria": "alimentacao",
+    "descricao": "Pães artesanais e fornadas frescas diariamente.",
+    "cor": "#a16207"
+  },
+  {
+    "id": "confeitaria",
+    "nome": "Confeitaria",
+    "categoria": "alimentacao",
+    "descricao": "Doces delicados e criações sob encomenda.",
+    "cor": "#db2777"
+  },
+  {
+    "id": "salao",
+    "nome": "Salão",
+    "categoria": "beleza",
+    "descricao": "Corte, cor e cuidado com assinatura própria.",
+    "cor": "#a8556b"
+  },
+  {
+    "id": "barbearia",
+    "nome": "Barbearia",
+    "categoria": "beleza",
+    "descricao": "Barba, cabelo e experiência sem pressa.",
+    "cor": "#292524"
+  },
+  {
+    "id": "manicure",
+    "nome": "Manicure",
+    "categoria": "beleza",
+    "descricao": "Nail art, cuidado e acabamento impecável.",
+    "cor": "#7e22ce"
+  },
+  {
+    "id": "spa",
+    "nome": "Spa",
+    "categoria": "beleza",
+    "descricao": "Rituais de bem-estar para corpo e mente.",
+    "cor": "#3f6212"
+  },
+  {
+    "id": "escola",
+    "nome": "Escola",
+    "categoria": "educacao",
+    "descricao": "Formação humana, curiosidade e comunidade.",
+    "cor": "#1d4ed8"
+  },
+  {
+    "id": "cursos",
+    "nome": "Cursos",
+    "categoria": "educacao",
+    "descricao": "Formações práticas para transformar conhecimento em ação.",
+    "cor": "#c2410c"
+  },
+  {
+    "id": "idiomas",
+    "nome": "Idiomas",
+    "categoria": "educacao",
+    "descricao": "Aulas vivas para comunicação real.",
+    "cor": "#0f766e"
+  },
+  {
+    "id": "reforco",
+    "nome": "Reforço Escolar",
+    "categoria": "educacao",
+    "descricao": "Acompanhamento individual e evolução no próprio ritmo.",
+    "cor": "#7c3aed"
+  },
+  {
+    "id": "petshop",
+    "nome": "Pet Shop",
+    "categoria": "animais",
+    "descricao": "Produtos, serviços e uma rotina mais feliz para seu pet.",
+    "cor": "#166534"
+  },
+  {
+    "id": "banho-tosa",
+    "nome": "Banho e Tosa",
+    "categoria": "animais",
+    "descricao": "Bem-estar, higiene e estética com manejo gentil.",
+    "cor": "#0f766e"
+  },
+  {
+    "id": "veterinaria",
+    "nome": "Clínica Veterinária",
+    "categoria": "animais",
+    "descricao": "Atendimento clínico, prevenção e emergência.",
+    "cor": "#0369a1"
+  },
+  {
+    "id": "agropecuaria",
+    "nome": "Agropecuária",
+    "categoria": "animais",
+    "descricao": "Soluções para criação, cultivo e rotina rural.",
+    "cor": "#4d7c0f"
+  },
+  {
+    "id": "arquitetura",
+    "nome": "Arquitetura",
+    "categoria": "construcao",
+    "descricao": "Projetos com contexto, função e identidade.",
+    "cor": "#334155"
+  },
+  {
+    "id": "engenharia",
+    "nome": "Engenharia",
+    "categoria": "construcao",
+    "descricao": "Planejamento técnico e execução responsável.",
+    "cor": "#1e40af"
+  },
+  {
+    "id": "materiais",
+    "nome": "Materiais de Construção",
+    "categoria": "construcao",
+    "descricao": "Materiais, orientação e entrega para cada etapa.",
+    "cor": "#c2410c"
+  },
+  {
+    "id": "reformas",
+    "nome": "Reformas",
+    "categoria": "construcao",
+    "descricao": "Planejamento, execução e acabamento em um só time.",
+    "cor": "#92400e"
+  },
+  {
+    "id": "hotel",
+    "nome": "Hotel",
+    "categoria": "hospedagem",
+    "descricao": "Conforto contemporâneo e hospitalidade atenta.",
+    "cor": "#064e3b"
+  },
+  {
+    "id": "pousada",
+    "nome": "Pousada",
+    "categoria": "hospedagem",
+    "descricao": "Natureza, acolhimento e tempo sem pressa.",
+    "cor": "#a16207"
+  },
+  {
+    "id": "buffet",
+    "nome": "Buffet",
+    "categoria": "hospedagem",
+    "descricao": "Gastronomia, produção e serviço para celebrar.",
+    "cor": "#9f1239"
+  },
+  {
+    "id": "fotografia",
+    "nome": "Fotografia",
+    "categoria": "hospedagem",
+    "descricao": "Fotografia sensível para pessoas, marcas e eventos.",
+    "cor": "#18181b"
+  },
+  {
+    "id": "academia",
+    "nome": "Academia",
+    "categoria": "fitness",
+    "descricao": "Estrutura, orientação e consistência para evoluir.",
+    "cor": "#65a30d"
+  },
+  {
+    "id": "pilates",
+    "nome": "Pilates",
+    "categoria": "fitness",
+    "descricao": "Movimento preciso, respiração e equilíbrio.",
+    "cor": "#a16207"
+  },
+  {
+    "id": "danca",
+    "nome": "Dança",
+    "categoria": "fitness",
+    "descricao": "Aulas para expressão, técnica e alegria.",
+    "cor": "#c026d3"
+  },
+  {
+    "id": "personal",
+    "nome": "Personal Trainer",
+    "categoria": "fitness",
+    "descricao": "Treino individual, acompanhamento e resultado sustentável.",
+    "cor": "#0284c7"
+  }
+]
