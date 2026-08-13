@@ -1,0 +1,12 @@
+.hero-imagem img,
+.familia-3 .hero-imagem img {
+  width: calc(var(--colunas) * 100%);
+  max-width: none;
+  margin-left: calc(var(--indice) * -100%);
+}
+
+.cartao__visual img {
+  width: calc(var(--card-cols) * 100%);
+  max-width: none;
+  margin-left: calc(var(--card-index) * -100%);
+}

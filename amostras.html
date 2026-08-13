@@ -1,111 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Amostras de sites profissionais desenvolvidos por Lucas Pereira Walter." />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Catálogo de sites demonstrativos responsivos para empresas.">
   <title>Amostras de Sites — Lucas Pereira Walter</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="src/css/amostras.css" />
-  <link rel="stylesheet" href="src/css/transicoes.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/amostras.css">
+  <link rel="stylesheet" href="src/css/crop-modelos.css">
+  <link rel="stylesheet" href="src/css/transicoes.css">
 </head>
 <body>
-  <header class="cabecalho">
-    <a href="index.html" class="logo">lucas<span>.</span>dev</a>
-    <a href="index.html" class="voltar">← Voltar ao portfólio</a>
-  </header>
-
+  <header class="cabecalho"><a href="index.html" class="logo">lucas<span>.</span>dev</a><a href="index.html" class="voltar">← Voltar ao portfólio</a></header>
   <main>
-    <section class="apresentacao">
-      <span class="rotulo">Sites demonstrativos</span>
-      <h1>Escolha uma experiência para explorar</h1>
-      <p>Exemplos conceituais e responsivos com marcas anônimas, criados para demonstrar identidade visual, organização de conteúdo e experiência de navegação.</p>
-      <a class="atalho-form" href="#solicitar">Solicitar layout</a>
+    <section class="apresentacao"><span class="rotulo">Catálogo demonstrativo</span><h1>Uma identidade para cada negócio.</h1><p>Escolha categoria e explore modelos fictícios com conteúdo, composição e estética próprios. Todos preparados para celular, tablet e computador.</p><div class="resumo"><strong>47</strong><span>modelos em 10 categorias</span></div></section>
+    <section class="explorador" aria-labelledby="titulo-modelos">
+      <div class="explorador-topo"><div><span class="rotulo">Encontre seu segmento</span><h2 id="titulo-modelos">Modelos disponíveis</h2></div><label class="busca"><span>Buscar</span><input id="buscaModelos" type="search" placeholder="Ex.: odontologia" autocomplete="off"></label></div>
+      <div class="filtros" role="group" aria-label="Filtrar modelos"></div>
+      <p class="resultado" aria-live="polite"></p>
+      <div class="grade" aria-label="Amostras disponíveis"></div>
     </section>
-
-    <section class="grade" aria-label="Amostras disponíveis">
-      <article class="cartao cartao--advocacia">
-        <div class="cartao__visual">
-          <img src="public/assets/images/samples/previews/advocacia.webp?v=2" alt="Prévia animada do site Advocacia XXX" loading="lazy" />
-        </div>
-        <div class="cartao__conteudo">
-          <span class="cartao__tipo">Advocacia</span>
-          <h2>Advocacia XXX</h2>
-          <p>Presença institucional sóbria, áreas de atuação e contato direto para potenciais clientes.</p>
-          <a href="demos/advocacia.html">Abrir demonstração <span>↗</span></a>
-        </div>
-      </article>
-
-      <article class="cartao cartao--petshop">
-        <div class="cartao__visual">
-          <img src="public/assets/images/samples/previews/petshop.webp?v=2" alt="Prévia animada do site Pet Shop XXX" loading="lazy" />
-        </div>
-        <div class="cartao__conteudo">
-          <span class="cartao__tipo">Pet shop</span>
-          <h2>Pet Shop XXX</h2>
-          <p>Site acolhedor para serviços, produtos, agendamentos e relacionamento com tutores.</p>
-          <a href="demos/petshop.html">Abrir demonstração <span>↗</span></a>
-        </div>
-      </article>
-
-      <article class="cartao cartao--mercado">
-        <div class="cartao__visual"><img src="public/assets/images/samples/previews/mercado.webp?v=2" alt="Prévia animada do site Mercado XXX" loading="lazy" /></div>
-        <div class="cartao__conteudo"><span class="cartao__tipo">Mercado</span><h2>Mercado XXX</h2><p>Vitrine para ofertas, departamentos, serviços e informações de atendimento.</p><a href="demos/mercado.html">Abrir demonstração <span>↗</span></a></div>
-      </article>
-
-      <article class="cartao cartao--clinica">
-        <div class="cartao__visual"><img src="public/assets/images/samples/previews/clinica.webp?v=2" alt="Prévia animada do site Clínica XXX" loading="lazy" /></div>
-        <div class="cartao__conteudo"><span class="cartao__tipo">Saúde</span><h2>Clínica XXX</h2><p>Apresentação acolhedora para especialidades, equipe e agendamento de consultas.</p><a href="demos/clinica.html">Abrir demonstração <span>↗</span></a></div>
-      </article>
-
-      <article class="cartao cartao--restaurante">
-        <div class="cartao__visual"><img src="public/assets/images/samples/previews/restaurante.webp?v=2" alt="Prévia animada do site Restaurante XXX" loading="lazy" /></div>
-        <div class="cartao__conteudo"><span class="cartao__tipo">Gastronomia</span><h2>Restaurante XXX</h2><p>Experiência visual para cardápio, reservas e apresentação do ambiente.</p><a href="demos/restaurante.html">Abrir demonstração <span>↗</span></a></div>
-      </article>
-
-      <article class="cartao cartao--academia">
-        <div class="cartao__visual"><img src="public/assets/images/samples/previews/academia.webp?v=2" alt="Prévia animada do site Academia XXX" loading="lazy" /></div>
-        <div class="cartao__conteudo"><span class="cartao__tipo">Fitness</span><h2>Academia XXX</h2><p>Layout energético para modalidades, estrutura, planos e aula experimental.</p><a href="demos/academia.html">Abrir demonstração <span>↗</span></a></div>
-      </article>
-
-      <article class="cartao cartao--imobiliaria">
-        <div class="cartao__visual"><img src="public/assets/images/samples/previews/imobiliaria.webp?v=2" alt="Prévia animada do site Imobiliária XXX" loading="lazy" /></div>
-        <div class="cartao__conteudo"><span class="cartao__tipo">Imóveis</span><h2>Imobiliária XXX</h2><p>Site para busca de imóveis, apresentação de serviços e contato comercial.</p><a href="demos/imobiliaria.html">Abrir demonstração <span>↗</span></a></div>
-      </article>
-    </section>
-
-    <p class="nota">Marcas, endereços, contatos e informações destas amostras são fictícios.</p>
-
-    <section class="solicitacao" id="solicitar">
-      <div class="solicitacao__intro">
-        <span class="rotulo">Personalização</span>
-        <h2>Solicite um layout para seu negócio</h2>
-        <p>Preencha informações básicas. Ao enviar, seu navegador abrirá mensagem pronta no Gmail.</p>
-      </div>
-      <form id="formSolicitacao">
-        <label>Nome
-          <input type="text" name="nome" autocomplete="name" required />
-        </label>
-        <label>E-mail
-          <input type="email" name="email" autocomplete="email" required />
-        </label>
-        <label>Segmento
-          <input type="text" name="segmento" placeholder="Ex.: mercado, clínica ou loja" required />
-        </label>
-        <label>Layout de referência
-          <select name="layout" required>
-            <option value="">Selecione</option><option>Advocacia</option><option>Pet shop</option><option>Mercado</option><option>Clínica</option><option>Restaurante</option><option>Academia</option><option>Imobiliária</option><option>Outro</option>
-          </select>
-        </label>
-        <label class="campo-largo">Detalhes
-          <textarea name="detalhes" rows="5" placeholder="Conte objetivo, páginas e recursos desejados." required></textarea>
-        </label>
-        <button type="submit">Preparar solicitação</button>
-      </form>
-    </section>
+    <p class="nota">Marcas, endereços, contatos e informações são fictícios. Imagens criadas exclusivamente para estas demonstrações.</p>
+    <section class="solicitacao" id="solicitar"><div class="solicitacao__intro"><span class="rotulo">Personalização</span><h2>Solicite seu projeto</h2><p>Escolha referência e conte o necessário. Seu navegador abrirá mensagem pronta no Gmail.</p></div><form id="formSolicitacao"><label>Nome<input type="text" name="nome" autocomplete="name" required></label><label>E-mail<input type="email" name="email" autocomplete="email" required></label><label>Segmento<input type="text" name="segmento" placeholder="Ex.: odontologia" required></label><label>Layout de referência<select name="layout" id="layoutSelect" required><option value="">Selecione</option></select></label><label class="campo-largo">Detalhes<textarea name="detalhes" rows="5" placeholder="Objetivo, páginas e recursos desejados." required></textarea></label><button type="submit">Preparar solicitação</button></form></section>
   </main>
+  <script src="src/js/modelos-data.js"></script>
+  <script src="src/js/catalogo-modelos.js"></script>
   <script src="src/js/transicoes.js"></script>
   <script src="src/js/formulario-amostras.js"></script>
 </body>

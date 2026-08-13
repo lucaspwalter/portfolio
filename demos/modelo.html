@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Site demonstrativo fictício e responsivo.">
+  <title>Modelo XXX — Demonstração</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../src/css/modelo.css">
+  <link rel="stylesheet" href="../src/css/crop-modelos.css">
+  <link rel="stylesheet" href="../src/css/transicoes.css">
+</head>
+<body>
+  <div class="demo-aviso">PROJETO FICTÍCIO <a href="../amostras.html">← catálogo</a></div>
+  <header class="site-header">
+    <a class="marca" href="#inicio"><span class="marca-simbolo"></span><span class="marca-texto"></span></a>
+    <button class="menu" aria-label="Abrir menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <nav aria-label="Navegação principal"><a href="#servicos">Serviços</a><a href="#sobre">Sobre</a><a href="#contato">Contato</a><a class="nav-cta" href="#contato">Solicitar atendimento</a></nav>
+  </header>
+  <main id="inicio">
+    <section class="hero">
+      <div class="hero-copy"><span class="sobretitulo"></span><h1></h1><p class="hero-descricao"></p><div class="acoes"><a class="botao" href="#contato">Quero conversar</a><a class="link" href="#servicos">Explorar serviços</a></div></div>
+      <figure class="hero-imagem"><img alt="Ambiente demonstrativo do segmento"></figure>
+      <span class="numero">01</span>
+    </section>
+    <div class="faixa" aria-label="Diferenciais"><span>Atendimento próximo</span><span>Experiência personalizada</span><span>Informação clara</span></div>
+    <section class="servicos" id="servicos"><header><span class="sobretitulo">O que fazemos</span><h2>Soluções pensadas para você.</h2></header><div class="servicos-grade"></div></section>
+    <section class="sobre" id="sobre"><div class="sobre-marca"></div><div><span class="sobretitulo">Nossa forma de fazer</span><h2>Detalhes constroem confiança.</h2><p>Este conteúdo é demonstrativo. Estrutura pronta para receber história, diferenciais, equipe, galeria e informações reais de cada negócio.</p><ul><li>Contato simples e direto</li><li>Conteúdo organizado</li><li>Experiência fluida em qualquer tela</li></ul></div></section>
+    <section class="depoimento"><blockquote>“Uma presença digital que traduz cuidado, personalidade e profissionalismo.”</blockquote><span>Mensagem ilustrativa • XXX</span></section>
+    <section class="contato" id="contato"><div><span class="sobretitulo">Próximo passo</span><h2>Vamos conversar?</h2><p>Agende uma conversa ou peça mais informações.</p></div><form><label>Nome<input required autocomplete="name" placeholder="Seu nome"></label><label>Telefone<input required inputmode="tel" autocomplete="tel" placeholder="(XX) XXXXX-XXXX"></label><button class="botao" type="submit">Enviar interesse</button><output aria-live="polite"></output></form></section>
+  </main>
+  <footer><a class="marca" href="#inicio"><span class="marca-simbolo"></span><span class="marca-texto"></span></a><span>Site demonstrativo • dados fictícios</span><a href="../amostras.html">Outras amostras</a></footer>
+  <script src="../src/js/modelos-data.js"></script>
+  <script src="../src/js/modelo.js"></script>
+  <script src="../src/js/transicoes.js"></script>
+</body>
+</html>
