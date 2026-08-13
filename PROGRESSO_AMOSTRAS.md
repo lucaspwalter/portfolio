@@ -62,6 +62,7 @@ Veterinária apareceu também em Saúde na lista original; será mantida somente
 - Foram gerados 47 PDFs A4, com cinco páginas cada, em `propostas/pdfs/`, incluindo capturas completas de computador e celular sem recortes.
 - Foram geradas 47 mensagens personalizadas por segmento em `propostas/catalogo-mensagens.csv`.
 - PDFs enviados ao Google Drive na pasta `Propostas de Sites — PDFs` e cadastrados com links, amostras e mensagens na aba `Modelos e mensagens` da planilha `Prospecção de Sites — Joinville`.
+- Mapeamento amplo do Google Maps concluído para os 45 segmentos autorizados, excluindo advocacia e pet shop: mais de 200 perfis analisados por segmento, com relatórios individuais em `propostas/mapeamentos/` e contatos únicos cadastrados como `Pendente`.
 
 ## Próximo passo exato
 

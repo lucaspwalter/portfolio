@@ -1,0 +1,785 @@
+{
+  "id": "pilates",
+  "nome": "Pilates",
+  "terms": [
+    "pilates",
+    "estúdio de pilates"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "Recentralize Studio de Pilates",
+      "href": "https://www.google.com/maps/place/Recentralize+Studio+de+Pilates/data=!4m7!3m6!1s0x94deb1aff4876be5:0xaeaa48f351e331ea!8m2!3d-26.3637847!4d-48.8292483!16s%2Fg%2F11h3dwksx_!19sChIJ5WuH9K-x3pQR6jHjUfNIqq4",
+      "phone": "(47) 99608-2470",
+      "address": "R. Adolfo da Veiga, 355 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TEF Fisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/TEF+Fisioterapia+e+Pilates/data=!4m7!3m6!1s0x94deb73c3b4cd019:0x180ef8bacb0ab02c!8m2!3d-26.3787319!4d-48.8253613!16s%2Fg%2F11hfjz134p!19sChIJGdBMOzy33pQRLLAKy7r4Dhg",
+      "phone": "(47) 3454-5883",
+      "address": "R. Waldemiro José Borges, 3453 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dai Pilates Floresta",
+      "href": "https://www.google.com/maps/place/Dai+Pilates+Floresta/data=!4m7!3m6!1s0x94deb1b524351af7:0xdb89027a6535161!8m2!3d-26.3455056!4d-48.8446921!16s%2Fg%2F11s5fhmjvf!19sChIJ9xo1JLWx3pQRYVFTpieQuA0",
+      "phone": "(47) 99978-0914",
+      "address": "R. Paulo Boehm, 246 - Floresta, Joinville - SC, 89212-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vivendo Pilates",
+      "href": "https://www.google.com/maps/place/Vivendo+Pilates/data=!4m7!3m6!1s0x94deb15dc6c527f3:0x52abc060ad63fc00!8m2!3d-26.3365131!4d-48.8578182!16s%2Fg%2F11m9vggl58!19sChIJ8yfFxl2x3pQRAPxjrWDAq1I",
+      "phone": "(47) 99213-9242",
+      "address": "R. Copacabana, 1482 - 1 andar - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pilatessilvanamachado",
+      "href": "https://www.google.com/maps/place/Pilatessilvanamachado/data=!4m7!3m6!1s0x94deb1397393b2d5:0xf5cf9125893081e3!8m2!3d-26.3391421!4d-48.8476583!16s%2Fg%2F11h5s2j0jf!19sChIJ1bKTczmx3pQR44EwiSWRz_U",
+      "phone": "(47) 99228-8366",
+      "address": "R. Santa Catarina, 1788 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Efeito Pilates e Consultoria Ltda",
+      "href": "https://www.google.com/maps/place/Efeito+Pilates+e+Consultoria+Ltda/data=!4m7!3m6!1s0x94deb1c25c1733dd:0x8a1bc2eb0f3d1797!8m2!3d-26.3402419!4d-48.8229076!16s%2Fg%2F11mbwpwxtb!19sChIJ3TMXXMKx3pQRlxc9D-vCG4o",
+      "phone": "(47) 99239-1617",
+      "address": "R. Monsenhor Gercino, 3215 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vitax Studio Pilates e Treinamento Funcional",
+      "href": "https://www.google.com/maps/place/Vitax+Studio+Pilates+e+Treinamento+Funcional/data=!4m7!3m6!1s0x94deb046202682c9:0xa68beebe1075ab02!8m2!3d-26.3061067!4d-48.8492819!16s%2Fg%2F1th0clhz!19sChIJyYImIEaw3pQRAqt1EL7ui6Y",
+      "phone": "(47) 99651-5221",
+      "address": "Rua Conselheiro Mafra, R. Jaguaruna, 209 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Físio & Movement",
+      "href": "https://www.google.com/maps/place/Studio+F%C3%ADsio+%26+Movement/data=!4m7!3m6!1s0x94deb1679f6f8fdf:0x28f1ce5e8f43d62a!8m2!3d-26.3054235!4d-48.8440241!16s%2Fg%2F11fnpnk5k9!19sChIJ349vn2ex3pQRKtZDj17O8Sg",
+      "phone": "(47) 99107-0008",
+      "address": "R. Abdon Batista, 121 - Sala 902 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapia e Movimento Studio de Pilates e Fisioterapia",
+      "href": "https://www.google.com/maps/place/Terapia+e+Movimento+Studio+de+Pilates+e+Fisioterapia/data=!4m7!3m6!1s0x94deb19dee32c757:0x29f9b55160509e69!8m2!3d-26.3110422!4d-48.8444648!16s%2Fg%2F11lv27wr25!19sChIJV8cy7p2x3pQRaZ5QYFG1-Sk",
+      "phone": "(47) 98927-5121",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 984 - Bucarein, Joinville - SC, 89202-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jorge Santos - Centro de Fisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/Jorge+Santos+-+Centro+de+Fisioterapia+e+Pilates/data=!4m7!3m6!1s0x94deb1973d9adf17:0x3f675c3268d7a4df!8m2!3d-26.2895754!4d-48.8488658!16s%2Fg%2F11rqlqlr73!19sChIJF9-aPZex3pQR36TXaDJcZz8",
+      "phone": "(47) 99601-4789",
+      "address": "R. Dr. João Colin, 1285 - Sala Grécia e Sala Islândia, R. Dr. João Colin, 1285 - Sl Islândia - América, Joinville - SC, 89204-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "New Pilates Studio",
+      "href": "https://www.google.com/maps/place/New+Pilates+Studio/data=!4m7!3m6!1s0x94deb036cd8d1237:0x880b2962fe344457!8m2!3d-26.2960099!4d-48.8465059!16s%2Fg%2F11bv2fmldj!19sChIJNxKNzTaw3pQRV0Q0_mIpC4g",
+      "phone": "(47) 3027-4457",
+      "address": "R. Tijucas, 115 - América, Joinville - SC, 89204-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Formus Studio Pilates",
+      "href": "https://www.google.com/maps/place/Formus+Studio+Pilates/data=!4m7!3m6!1s0x94deb04f6bcedc0b:0x7b55aedbc34f091!8m2!3d-26.3075919!4d-48.8487854!16s%2Fg%2F11bv6pcyl3!19sChIJC9zOa0-w3pQRkfA0vO1atQc",
+      "phone": "(47) 99151-1112",
+      "address": "R. Min. Calógeras, 896 - 3. Andar - Centro, Joinville - SC, 89201-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Unique Studio Pilates",
+      "href": "https://www.google.com/maps/place/Unique+Studio+Pilates/data=!4m7!3m6!1s0x94deb03b41746155:0xd32687014dadea48!8m2!3d-26.2945516!4d-48.8537325!16s%2Fg%2F11b_3cvtqd!19sChIJVWF0QTuw3pQRSOqtTQGHJtM",
+      "phone": "(47) 3455-1050",
+      "address": "R. Max Colin, 1143 - Sl 08 - América, Joinville - SC, 89204-041",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Voll Pilates Studios América",
+      "href": "https://www.google.com/maps/place/Voll+Pilates+Studios+Am%C3%A9rica/data=!4m7!3m6!1s0x94deb1bc1d9707f7:0xe0ca9d70bd2f0c4f!8m2!3d-26.2977913!4d-48.8610185!16s%2Fg%2F11yhy2py3y!19sChIJ9weXHbyx3pQRTwwvvXCdyuA",
+      "phone": "(47) 99239-7192",
+      "address": "R. XV de Novembro, 1927 - América, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fitness Studio",
+      "href": "https://www.google.com/maps/place/Fitness+Studio/data=!4m7!3m6!1s0x94deb1da83f6c1e3:0x9c0ab1299439b6d6!8m2!3d-26.2928398!4d-48.8487654!16s%2Fg%2F11ng5kf_r6!19sChIJ48H2g9qx3pQR1rY5lCmxCpw",
+      "phone": "(47) 99292-7400",
+      "address": "R. Emílio Artmann, 56 - América, Joinville - SC, 89204-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Revoo Pilates",
+      "href": "https://www.google.com/maps/place/Revoo+Pilates/data=!4m7!3m6!1s0x94deb1ce59d7e965:0xa6bd7ef95da12710!8m2!3d-26.2883879!4d-48.8483475!16s%2Fg%2F11yr12w4wl!19sChIJZenXWc6x3pQRECehXfl-vaY",
+      "phone": "(47) 99212-6768",
+      "address": "R. Dr. João Colin, 1364 - América, Joinville - SC, 89204-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stúdio 3 Pilates - Equilíbrio e Bem-Estar",
+      "href": "https://www.google.com/maps/place/St%C3%BAdio+3+Pilates+-+Equil%C3%ADbrio+e+Bem-Estar/data=!4m7!3m6!1s0x94deafd95f674519:0x917e2a4d59c96012!8m2!3d-26.2787887!4d-48.8538207!16s%2Fg%2F11b823y_d2!19sChIJGUVnX9mv3pQREmDJWU0qfpE",
+      "phone": "(47) 99284-9032",
+      "address": "R. Alvarenga Peixoto, 415 B - América, Joinville - SC, 89204-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "My Pilates/PatiBelato",
+      "href": "https://www.google.com/maps/place/My+Pilates%2FPatiBelato/data=!4m7!3m6!1s0x22159822df388243:0xdbf4d6f9e0f484b2!8m2!3d-26.2851937!4d-48.8446134!16s%2Fg%2F11sbxl3b8r!19sChIJQ4I43yKYFSIRsoT04PnW9Ns",
+      "phone": "(47) 99692-1023",
+      "address": "R. Alm. Tamandaré, 472 - América, Joinville - SC, 89204-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Limfit academia",
+      "href": "https://www.google.com/maps/place/Limfit+academia/data=!4m7!3m6!1s0x94deb76b324c7865:0x4f2e08d55f92ae5!8m2!3d-26.3637847!4d-48.8292483!16s%2Fg%2F11ypst88y6!19sChIJZXhMMmu33pQR5Sr5VY3g8gQ",
+      "phone": "(47) 99152-0853",
+      "address": "R. Adolfo da Veiga, 355 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio K Freitas",
+      "href": "https://www.google.com/maps/place/Studio+K+Freitas/data=!4m7!3m6!1s0x94deaf5385fd629f:0x831287f075f30107!8m2!3d-26.2780346!4d-48.8556179!16s%2Fg%2F11fd6n3r8g!19sChIJn2L9hVOv3pQRBwHzdfCHEoM",
+      "phone": "(47) 98806-7261",
+      "address": "R. João Pessoa, 925 - 04 - América, Joinville - SC, 89204-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Pilates Mais",
+      "href": "https://www.google.com/maps/place/Studio+Pilates+Mais/data=!4m7!3m6!1s0x94deb02afcf07b43:0x4eb409208c000947!8m2!3d-26.2819909!4d-48.8424079!16s%2Fg%2F11gfk122w_!19sChIJQ3vw_Cqw3pQRRwkAjCAJtE4",
+      "phone": "(47) 99914-2013",
+      "address": "R. Joaçaba, 54 - Saguaçu, Joinville - SC, 89221-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estúdio Ametista - Yoga e Pilates Joinville",
+      "href": "https://www.google.com/maps/place/Est%C3%BAdio+Ametista+-+Yoga+e+Pilates+Joinville/data=!4m7!3m6!1s0x94deb18e0a41281f:0x4dc77a302a021961!8m2!3d-26.3184043!4d-48.8517082!16s%2Fg%2F11hyndzhp9!19sChIJHyhBCo6x3pQRYRkCKjB6x00",
+      "phone": "(47) 99744-0932",
+      "address": "R. Alagoas, 137 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Upgrade Pilates",
+      "href": "https://www.google.com/maps/place/Studio+Upgrade+Pilates/data=!4m7!3m6!1s0x94deb050fd439e7b:0x7c84b937f7677900!8m2!3d-26.3192828!4d-48.8613987!16s%2Fg%2F11ggw8h58v!19sChIJe55D_VCw3pQRAHln9ze5hHw",
+      "phone": "(47) 99728-6331",
+      "address": "R. Benjamin Willian Frank, 94 - Anita Garibaldi, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Casagrande pilates e reabilitação",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Casagrande+pilates+e+reabilita%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb18ddc387e51:0x76cb21495ae4fb94!8m2!3d-26.2957823!4d-48.8664169!16s%2Fg%2F11z5pg7rws!19sChIJUX443I2x3pQRlPvkWkkhy3Y",
+      "phone": "(47) 99901-2520",
+      "address": "R. Luiz Delfino - Glória, Joinville - SC, 89216-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio de Pilates RB",
+      "href": "https://www.google.com/maps/place/Studio+de+Pilates+RB/data=!4m7!3m6!1s0x94deb0573d66e53f:0x6b5fe39daa303ce5!8m2!3d-26.3168285!4d-48.8479194!16s%2Fg%2F11bv2gzh0g!19sChIJP-VmPVew3pQR5Twwqp3jX2s",
+      "phone": "(47) 99971-7597",
+      "address": "R. Anita Garibaldi, 269 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moratelli Saúde Integrada",
+      "href": "https://www.google.com/maps/place/Moratelli+Sa%C3%BAde+Integrada/data=!4m7!3m6!1s0x94deb10c5d5377eb:0x1fe08190be763de0!8m2!3d-26.3149456!4d-48.8513902!16s%2Fg%2F11tczc8b85!19sChIJ63dTXQyx3pQR4D12vpCB4B8",
+      "phone": "(47) 3030-3498",
+      "address": "R. Cel. Santiago, 627 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marja Souto Pilates",
+      "href": "https://www.google.com/maps/place/Marja+Souto+Pilates/data=!4m7!3m6!1s0x94deb118e70724a9:0x92587fd4d91b4cfb!8m2!3d-26.3294783!4d-48.8771484!16s%2Fg%2F11x1tchvwc!19sChIJqSQH5xix3pQR-0wb2dR_WJI",
+      "phone": "(47) 99138-4925",
+      "address": "R. Tupy, 2072 - Nova Brasília, Joinville - SC, 89214-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Essence Vitali - Saúde Integrada",
+      "href": "https://www.google.com/maps/place/Essence+Vitali+-+Sa%C3%BAde+Integrada/data=!4m7!3m6!1s0x94deb1f5efb35ddf:0x10463a38edf6fc7a!8m2!3d-26.3180202!4d-48.8520321!16s%2Fg%2F11vjpkczjw!19sChIJ312z7_Wx3pQRevz27Tg6RhA",
+      "phone": "(47) 99271-5170",
+      "address": "R. Alagoas, 185 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Vasti",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Vasti/data=!4m7!3m6!1s0x94deb0573d8040e7:0x12793e72262f14cd!8m2!3d-26.3168812!4d-48.8480885!16s%2Fg%2F11bv2bj31g!19sChIJ50CAPVew3pQRzRQvJnI-eRI",
+      "phone": "(47) 3454-1006",
+      "address": "R. Anita Garibaldi, 293 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Zoe Pilates",
+      "href": "https://www.google.com/maps/place/Zoe+Pilates/data=!4m7!3m6!1s0x94deaf5d6da68b8f:0xef17c62a557b01d8!8m2!3d-26.273495!4d-48.8322637!16s%2Fg%2F11xgrjmypl!19sChIJj4umbV2v3pQR2AF7VSrGF-8",
+      "phone": "(47) 99743-5306",
+      "address": "R. Francisco Gomes de Oliveira, 65 - Saguaçu, Joinville - SC, 89221-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panato Saúde e Estética",
+      "href": "https://www.google.com/maps/place/Panato+Sa%C3%BAde+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deafbb773bf72f:0x86e1ec8583f31bc5!8m2!3d-26.2777636!4d-48.8468756!16s%2Fg%2F11qmr_yzrt!19sChIJL_c7d7uv3pQRxRvzg4Xs4YY",
+      "phone": "(47) 99619-6646",
+      "address": "R. Natal, 60 - Saguaçu, Joinville - SC, 89221-640",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amaitê Clínica Integrada",
+      "href": "https://www.google.com/maps/place/Amait%C3%AA+Cl%C3%ADnica+Integrada/data=!4m7!3m6!1s0x94deb16d38a9d6f7:0x1796a389aaeec93c!8m2!3d-26.2843894!4d-48.8348686!16s%2Fg%2F11vs_ws99w!19sChIJ99apOG2x3pQRPMnuqomjlhc",
+      "phone": "(47) 98477-0873",
+      "address": "R. dos Capuchinhos, 173 - Saguaçu, Joinville - SC, 89221-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stúdio Karla Accordi",
+      "href": "https://www.google.com/maps/place/St%C3%BAdio+Karla+Accordi/data=!4m7!3m6!1s0x94deb10b9bac3b39:0x43e84e8712f6ba55!8m2!3d-26.2787292!4d-48.8358016!16s%2Fg%2F11fsqp2n74!19sChIJOTusmwux3pQRVbr2EodO6EM",
+      "phone": "(47) 99675-7868",
+      "address": "R. Iririú, 736 - Sl 10 - Saguaçu, Joinville - SC, 89221-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Pilates + Saúde Comasa - Pilates, Fisioterapia e Pole Sport",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Pilates+%2B+Sa%C3%BAde+Comasa+-+Pilates,+Fisioterapia+e+Pole+Sport/data=!4m7!3m6!1s0x94deb12ac6b67521:0x246e78078546237e!8m2!3d-26.2835529!4d-48.8035037!16s%2Fg%2F11t4tcxxsm!19sChIJIXW2xiqx3pQRfiNGhQd4biQ",
+      "phone": "(47) 99663-2755",
+      "address": "Lateral da Farmácia Preço Popular - R. Pref. Baltasar Buschle, 675 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RE.FORM Espaço Pilates",
+      "href": "https://www.google.com/maps/place/RE.FORM+Espa%C3%A7o+Pilates/data=!4m7!3m6!1s0x94deaf995e58eb51:0xf86c15f22b84a42f!8m2!3d-26.2678496!4d-48.874108!16s%2Fg%2F11x7wp758v!19sChIJUetYXpmv3pQRL6SEK_IVbPg",
+      "phone": "(47) 99605-0141",
+      "address": "R. das Andorinhas, 549 - Sl 02 - Costa e Silva, Joinville - SC, 89220-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Core Up Estúdio de Pilates",
+      "href": "https://www.google.com/maps/place/Core+Up+Est%C3%BAdio+de+Pilates/data=!4m7!3m6!1s0x94deaff0b39b6b43:0x469e1e9a7628d48d!8m2!3d-26.2803167!4d-48.8747828!16s%2Fg%2F11hd4zfhrq!19sChIJQ2ubs_Cv3pQRjdQodpoenkY",
+      "phone": "(47) 3278-6616",
+      "address": "R. Dona Elza Meinert, 800 - Sl 2 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dal Farra Studio de Musculação",
+      "href": "https://www.google.com/maps/place/Dal+Farra+Studio+de+Muscula%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deaffc9be2363b:0x27ab1062ad55be42!8m2!3d-26.2845948!4d-48.8734588!16s%2Fg%2F11b8jd15gh!19sChIJOzbim_yv3pQRQr5VrWIQqyc",
+      "phone": "(47) 3028-6500",
+      "address": "R. Benjamin Constant, 2380 - Sala 2 - Costa e Silva, Joinville - SC, 89217-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Keer Pilates e Fisioterapia",
+      "href": "https://www.google.com/maps/place/Studio+Keer+Pilates+e+Fisioterapia/data=!4m7!3m6!1s0x94dea54e30a566af:0xd36fec686542e199!8m2!3d-26.2921775!4d-48.913708!16s%2Fg%2F11j1m6tm_z!19sChIJr2alME6l3pQRmeFCZWjsb9M",
+      "phone": "(47) 99902-5557",
+      "address": "R. São Firmino, 823 - Vila Nova, Joinville - SC, 89237-394",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bruna Zuchi Melchioretto - Microfisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/Bruna+Zuchi+Melchioretto+-+Microfisioterapia+e+Pilates/data=!4m7!3m6!1s0x94dea59ae0474755:0x8a85486545bd680e!8m2!3d-26.2864688!4d-48.9071997!16s%2Fg%2F11mkc2fn7h!19sChIJVUdH4Jql3pQRDmi9RWVIhYo",
+      "phone": "(47) 98459-1824",
+      "address": "R. XV de Novembro, 7426 - Glória, Joinville - SC, 89254-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia FitWay",
+      "href": "https://www.google.com/maps/place/Academia+FitWay/data=!4m7!3m6!1s0x94dea5001d3974f9:0xa32b3ab85ab3c9d2!8m2!3d-26.2924763!4d-48.9061382!16s%2Fg%2F11mf4fp5yz!19sChIJ-XQ5HQCl3pQR0smzWrg6K6M",
+      "phone": "(47) 3305-6540",
+      "address": "R. Dante Nazato, 533 - Vila Nova, Joinville - SC, 89237-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Roberta Godoy - Pole Aéreos e Pilates",
+      "href": "https://www.google.com/maps/place/Studio+Roberta+Godoy+-+Pole+A%C3%A9reos+e+Pilates/data=!4m7!3m6!1s0x94deafff1d884f7f:0x2b19e984fde38bfe!8m2!3d-26.2916571!4d-48.8968559!16s%2Fg%2F11c1mzvycv!19sChIJf0-IHf-v3pQR_ovj_YTpGSs",
+      "phone": "(47) 98913-7441",
+      "address": "R. Amália Manfrini Tambosi, 238 - Vila Nova, Joinville - SC, 89237-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia GRID",
+      "href": "https://www.google.com/maps/place/Academia+GRID/data=!4m7!3m6!1s0x94dea52dec64d797:0xa9afc0c71bc1ae90!8m2!3d-26.2870652!4d-48.9002293!16s%2Fg%2F11tg9dxcns!19sChIJl9dk7C2l3pQRkK7BG8fAr6k",
+      "phone": "(47) 99170-0039",
+      "address": "R. XV de Novembro, 5992 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Gicélia Lima | Cursos Cílios e Sobrancelhas | Joinville",
+      "href": "https://www.google.com/maps/place/Studio+Gic%C3%A9lia+Lima+%7C+Cursos+C%C3%ADlios+e+Sobrancelhas+%7C+Joinville/data=!4m7!3m6!1s0x94dea534743c04bb:0x9c4a4cbab3630a8f!8m2!3d-26.2894949!4d-48.9001731!16s%2Fg%2F11mzt3_4n3!19sChIJuwQ8dDSl3pQRjwpjs7pMSpw",
+      "phone": "(47) 99674-1140",
+      "address": "R. Bento Torquato da Rocha, 241 - Sala 3 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Way Academia",
+      "href": "https://www.google.com/maps/place/Way+Academia/data=!4m7!3m6!1s0x94dea53c665e47d3:0xf7f45fbdd5c3c343!8m2!3d-26.2864843!4d-48.9072045!16s%2Fg%2F11b8jc_6kq!19sChIJ00deZjyl3pQRQ8PD1b1f9Pc",
+      "phone": "(47) 99767-9546",
+      "address": "R. XV de Novembro, 7426 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FIT LIFE STUDIO",
+      "href": "https://www.google.com/maps/place/FIT+LIFE+STUDIO/data=!4m7!3m6!1s0x94deb119088a7bc5:0x1560993bd095e325!8m2!3d-26.3314276!4d-48.8323262!16s%2Fg%2F11gd1x3w5n!19sChIJxXuKCBmx3pQRJeOV0DuZYBU",
+      "phone": "(47) 99952-1282",
+      "address": "CSU- CENTRO SOCIAL URBANO - R. Arlindo Pereira de Macedo, 225 - Itaum, Joinville - SC, 89210-173",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Equilíbrio",
+      "href": "https://www.google.com/maps/place/Academia+Equil%C3%ADbrio/data=!4m7!3m6!1s0x94deb140d7ec9c4d:0xc3aa7ef3d7e4c2a4!8m2!3d-26.3334869!4d-48.8171125!16s%2Fg%2F11b88pbd2y!19sChIJTZzs10Cx3pQRpMLk1_N-qsM",
+      "phone": "(47) 3463-5312",
+      "address": "R. Fátima, 703 - Itaum, Joinville - SC, 89210-681",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "2e studio de treinamento",
+      "href": "https://www.google.com/maps/place/2e+studio+de+treinamento/data=!4m7!3m6!1s0x94deb1e979f269ad:0xa11e3d6f3c93106f!8m2!3d-26.3407456!4d-48.8229488!16s%2Fg%2F11gjm7cpn9!19sChIJrWnyeemx3pQRbxCTPG89HqE",
+      "phone": "(47) 99962-4201",
+      "address": "R. Monsenhor Gercino, 3186 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Attivus Studio",
+      "href": "https://www.google.com/maps/place/Attivus+Studio/data=!4m7!3m6!1s0x94deb16b3ba423e9:0x48de10c3516ea8b0!8m2!3d-26.3417702!4d-48.8166213!16s%2Fg%2F11xg7j6c1_!19sChIJ6SOkO2ux3pQRsKhuUcMQ3kg",
+      "phone": "(47) 99614-6013",
+      "address": "R. João da Costa Júnior - João Costa, Joinville - SC, 89209-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PILATES - SANI ITAUM",
+      "href": "https://www.google.com/maps/place/PILATES+-+SANI+ITAUM/data=!4m7!3m6!1s0x94deb1ac4f6c5f79:0x1be17cbd428c2e83!8m2!3d-26.3411611!4d-48.8223048!16s%2Fg%2F11xthd8xwd!19sChIJeV9sT6yx3pQRgy6MQr184Rs",
+      "phone": "(47) 3423-0063",
+      "address": "R. Monsenhor Gercino, 3304 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ACADEMIA TRIBUS GYM",
+      "href": "https://www.google.com/maps/place/ACADEMIA+TRIBUS+GYM/data=!4m7!3m6!1s0x94deb148593b75e3:0xd881d065171bfc6c!8m2!3d-26.3408635!4d-48.8172523!16s%2Fg%2F11c5rv3mx7!19sChIJ43U7WUix3pQRbPwbF2XQgdg",
+      "phone": "(47) 98826-6812",
+      "address": "R. Monsenhor Gercino, 3686 - João Costa, Joinville - SC, 89231-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Club Fitness Sul Academia",
+      "href": "https://www.google.com/maps/place/Club+Fitness+Sul+Academia/data=!4m7!3m6!1s0x94deb1516b759089:0x968537ae91fa9d9f!8m2!3d-26.3390147!4d-48.8060999!16s%2Fg%2F11gfd30svx!19sChIJiZB1a1Gx3pQRn536ka43hZY",
+      "phone": "(47) 3034-7738",
+      "address": "R. Monsenhor Gercino, 4990 - Itaum, Joinville - SC, 89230-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ritmo da Forma",
+      "href": "https://www.google.com/maps/place/Ritmo+da+Forma/data=!4m7!3m6!1s0x94deb11e21432009:0x9426e27a353242e8!8m2!3d-26.3329582!4d-48.8393359!16s%2Fg%2F1v3_3vcy!19sChIJCSBDIR6x3pQR6EIyNXriJpQ",
+      "phone": "(47) 3426-6750",
+      "address": "R. Guarujá, 290 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Analú Pilates & Estética",
+      "href": "https://www.google.com/maps/place/Anal%C3%BA+Pilates+%26+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb15c251fa893:0xdf1ce832def1efe5!8m2!3d-26.321628!4d-48.8327533!16s%2Fg%2F11gmh7trts!19sChIJk6gfJVyx3pQR5e_x3jLoHN8",
+      "phone": "(47) 99603-6421",
+      "address": "R. Graciosa, 704 - 2 - 704 - 2 - Guanabara, Joinville - SC, 89207-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OVJ Fit Academia",
+      "href": "https://www.google.com/maps/place/OVJ+Fit+Academia/data=!4m7!3m6!1s0x94deb74c08a93e89:0x68ca0e4e3232d187!8m2!3d-26.3556628!4d-48.8064047!16s%2Fg%2F11ss1fsqq5!19sChIJiT6pCEy33pQRh9EyMk4Oymg",
+      "phone": "(47) 99610-6938",
+      "address": "Av. Firmino da Silva, 765 - Parque Guarani, Joinville - SC, 89209-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yellow Studio Personal",
+      "href": "https://www.google.com/maps/place/Yellow+Studio+Personal/data=!4m7!3m6!1s0x94deaf32d904e0d3:0xfff3df99ed427003!8m2!3d-26.2624089!4d-48.8187943!16s%2Fg%2F11j_tds8jl!19sChIJ0-AE2TKv3pQRA3BC7Znf8_8",
+      "phone": "(47) 99648-9419",
+      "address": "R. Tuiuti, 1010 - Aventureiro, Joinville - SC, 89227-473",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agora Vai",
+      "href": "https://www.google.com/maps/place/Agora+Vai/data=!4m7!3m6!1s0x94deaf24a4698ee1:0xdf1222ac373f3c3c!8m2!3d-26.2535969!4d-48.8402336!16s%2Fg%2F11y8dm9bmp!19sChIJ4Y5ppCSv3pQRPDw_N6wiEt8",
+      "phone": "(47) 99722-8911",
+      "address": "R. Itajubá, 768 - Sl 30 - Bom Retiro, Joinville - SC, 89223-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Samus Pilates",
+      "href": "https://www.google.com/maps/place/Samus+Pilates/data=!4m7!3m6!1s0x94deb142c2546a33:0x1e0f5e7b1aa3fc82!8m2!3d-26.266421!4d-48.8000167!16s%2Fg%2F11wvrr7hx_!19sChIJM2pUwkKx3pQRgvyjGnteDx4",
+      "phone": "(47) 99217-9353",
+      "address": "Rua Areia Branca n⁰340 - Jardim Iririú, Joinville - SC, 89224-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "3Mpilates",
+      "href": "https://www.google.com/maps/place/3Mpilates/data=!4m7!3m6!1s0x94deb1e9b26b60ed:0x719ef9f54650d6ef!8m2!3d-26.2661752!4d-48.8097397!16s%2Fg%2F11ylsqz6dg!19sChIJ7WBrsumx3pQR79ZQRvX5nnE",
+      "phone": "(47) 98466-1551",
+      "address": "R. Morretes, 98 - Jardim Iririú, Joinville - SC, 89224-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio K Freitas Pilates",
+      "href": "https://www.google.com/maps/place/Studio+K+Freitas+Pilates/data=!4m7!3m6!1s0x94deafcc09f630c3:0x90fc608f01f9bab1!8m2!3d-26.2653979!4d-48.8438465!16s%2Fg%2F11f4rd2sqy!19sChIJwzD2Ccyv3pQRsbr5AY9g_JA",
+      "phone": "(47) 3043-0550",
+      "address": "R. Barriga Verde, 85 - Bom Retiro, Joinville - SC, 89222-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio MOVIMENT Treinamento funcional",
+      "href": "https://www.google.com/maps/place/Studio+MOVIMENT+Treinamento+funcional/data=!4m7!3m6!1s0x94deaf7841d73cb9:0xb3056e3002450acb!8m2!3d-26.26203!4d-48.8166587!16s%2Fg%2F11wj6tk0m7!19sChIJuTzXQXiv3pQRywpFAjBuBbM",
+      "phone": "(47) 99629-3238",
+      "address": "R. Martinho Van Biene, 297 - Jardim Iririú, Joinville - SC, 89224-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marinho Studio Barber",
+      "href": "https://www.google.com/maps/place/Marinho+Studio+Barber/data=!4m7!3m6!1s0x94deaf2f774b0699:0x5f85b57d21877994!8m2!3d-26.2511538!4d-48.8194581!16s%2Fg%2F11n44x4_47!19sChIJmQZLdy-v3pQRlHmHIX21hV8",
+      "phone": "(47) 98854-1218",
+      "address": "R. Tuiuti, 2350 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VF Studio",
+      "href": "https://www.google.com/maps/place/VF+Studio/data=!4m7!3m6!1s0x94deaf1b3ed44279:0x52bc8c232fee4fc2!8m2!3d-26.2501901!4d-48.8179675!16s%2Fg%2F11ht448kc5!19sChIJeULUPhuv3pQRwk_uLyOMvFI",
+      "phone": "(47) 99792-0629",
+      "address": "Rua Emílio Landmann, 243 - Aventureiro, Joinville - SC, 89226-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Everlym Santos",
+      "href": "https://www.google.com/maps/place/Studio+Everlym+Santos/data=!4m7!3m6!1s0x94deaf1ac4d7ac71:0x52381413362283d8!8m2!3d-26.256137!4d-48.8169925!16s%2Fg%2F11msl6qk2c!19sChIJcazXxBqv3pQR2IMiNhMUOFI",
+      "phone": "(47) 99625-6877",
+      "address": "R. Rouxinol, 401 - Aventureiro, Joinville - SC, 89225-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eleve Pilates e Fisioterapia",
+      "href": "https://www.google.com/maps/place/Eleve+Pilates+e+Fisioterapia/data=!4m7!3m6!1s0x94deb1e9a3147c67:0x533c0ba0f5b08697!8m2!3d-26.2718504!4d-48.8170469!16s%2Fg%2F11vbdwyc_l!19sChIJZ3wUo-mx3pQRl4aw9aALPFM",
+      "phone": "(47) 99667-8148",
+      "address": "R. Soure, 197 - Iririú, Joinville - SC, 89227-053",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cássia Terapeuta Manual / Quiropraxia Japonesa",
+      "href": "https://www.google.com/maps/place/C%C3%A1ssia+Terapeuta+Manual+%2F+Quiropraxia+Japonesa/data=!4m7!3m6!1s0x94deb1b5199aa74f:0x1e66b9ad7205e20e!8m2!3d-26.2694218!4d-48.8029594!16s%2Fg%2F11wfpp10gw!19sChIJT6eaGbWx3pQRDuIFcq25Zh4",
+      "phone": "(47) 99717-2244",
+      "address": "R. Reinaldo Schossland, 214 Jardim - Jardim Iririú, Joinville - SC, 89224-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Performance Fitness",
+      "href": "https://www.google.com/maps/place/Academia+Performance+Fitness/data=!4m7!3m6!1s0x94deb1ddc48de0e1:0x821452966f561def!8m2!3d-26.2780409!4d-48.8213316!16s%2Fg%2F11bv381drd!19sChIJ4eCNxN2x3pQR7x1Wb5ZSFII",
+      "phone": "(47) 3278-0506",
+      "address": "R. Papa João XXIII, 998 - Iririú, Joinville - SC, 89227-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "viva Pilates em casa",
+      "href": "https://www.google.com/maps/place/viva+Pilates+em+casa/data=!4m7!3m6!1s0x94deb1ceeea4964b:0x71541c5cc2883c57!8m2!3d-26.2997543!4d-48.8139855!16s%2Fg%2F11lp6lfbk2!19sChIJS5ak7s6x3pQRVzyIwlwcVHE",
+      "phone": "(47) 99670-9524",
+      "address": "R. São Borja, 599 - Boa Vista, Joinville - SC, 89206-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Mega Fit",
+      "href": "https://www.google.com/maps/place/Academia+Mega+Fit/data=!4m7!3m6!1s0x94deb1bb413cecdd:0xe7a4c9738245bd6a!8m2!3d-26.3021058!4d-48.8256889!16s%2Fg%2F11bv3y23ty!19sChIJ3ew8Qbux3pQRar1FgnPJpOc",
+      "phone": "(47) 99662-4186",
+      "address": "R. Pref. Helmuth Fallgatter, 1203 - Boa Vista, Joinville - SC, 89206-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Seth Jiu-Jitsu Boa Vista Joinville",
+      "href": "https://www.google.com/maps/place/Seth+Jiu-Jitsu+Boa+Vista+Joinville/data=!4m7!3m6!1s0x94deb1318e569851:0xed724357ccfd9bad!8m2!3d-26.301251!4d-48.8223628!16s%2Fg%2F11myj54jdm!19sChIJUZhWjjGx3pQRrZv9zFdDcu0",
+      "phone": "(47) 97400-0145",
+      "address": "R. Albano Schmidt, 1554 - Boa Vista, Joinville - SC, 89205-098",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atitude Física Academia",
+      "href": "https://www.google.com/maps/place/Atitude+F%C3%ADsica+Academia/data=!4m7!3m6!1s0x94deb1a49d831eb3:0x3d250cd3b21e2fa6!8m2!3d-26.3043733!4d-48.8249682!16s%2Fg%2F1td39dbt!19sChIJsx6DnaSx3pQRpi8estMMJT0",
+      "phone": "(47) 3433-5368",
+      "address": "R. Albano Schmidt, 1125 - Boa Vista, Joinville - SC, 89205-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Aerobic Dancing",
+      "href": "https://www.google.com/maps/place/Academia+Aerobic+Dancing/data=!4m7!3m6!1s0x94deb16af424c7cd:0x43390bcc3ae5f2ea!8m2!3d-26.3276171!4d-48.8173704!16s%2Fg%2F11bv30h3np!19sChIJzcck9Gqx3pQR6vLlOswLOUM",
+      "phone": "(47) 3436-7343",
+      "address": "R. Fátima - Fátima, Joinville - SC, 89299-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gold Fitness",
+      "href": "https://www.google.com/maps/place/Gold+Fitness/data=!4m7!3m6!1s0x94deb10ee7059b25:0xac2a8c1602d08ae9!8m2!3d-26.3194029!4d-48.8266876!16s%2Fg%2F11bv3rlmfr!19sChIJJZsF5w6x3pQR6YrQAhaMKqw",
+      "phone": "(47) 3025-6836",
+      "address": "R. Ursa Maior, 559 - Guanabara, Joinville - SC, 89207-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alongue Estúdio de Pilates",
+      "href": "https://www.google.com/maps/place/Alongue+Est%C3%BAdio+de+Pilates/data=!4m7!3m6!1s0x94deb197d1795ac7:0xc35ae1a7935b245b!8m2!3d-26.2637698!4d-48.805197!16s%2Fg%2F11pzv471t4!19sChIJx1p50Zex3pQRWyRbk6fhWsM",
+      "phone": "(47) 99638-0188",
+      "address": "R. Janaúba, 685 - Jardim Iririú, Joinville - SC, 89224-281",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Korporal",
+      "href": "https://www.google.com/maps/place/Academia+Korporal/data=!4m7!3m6!1s0x94deae19d966399b:0x64532bd2c788732d!8m2!3d-26.261042!4d-48.8163424!16s%2Fg%2F1tlbq97r!19sChIJmzlm2Rmu3pQRLXOIx9IrU2Q",
+      "phone": "(47) 99752-1225",
+      "address": "R. Áries, 96 - Jardim Iririú, Joinville - SC, 89224-017",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESTÚDIO +FIT - Treinos Personalizados",
+      "href": "https://www.google.com/maps/place/EST%C3%9ADIO+%2BFIT+-+Treinos+Personalizados/data=!4m7!3m6!1s0x94dea55635586413:0x436dc7ca3a8eb595!8m2!3d-26.2616924!4d-48.7993491!16s%2Fg%2F11pf2dk2cv!19sChIJE2RYNVal3pQRlbWOOsrHbUM",
+      "phone": "(47) 99200-4318",
+      "address": "R. Augusto Gessner, 725 - Jardim Iririú, Joinville - SC, 89224-363",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Yokohama Jardim Iririú",
+      "href": "https://www.google.com/maps/place/Academia+Yokohama+Jardim+Iriri%C3%BA/data=!4m7!3m6!1s0x94deae0428d98573:0x1c26126427abd796!8m2!3d-26.2615548!4d-48.8067611!16s%2Fg%2F11c5_94xjs!19sChIJc4XZKASu3pQRlterJ2QSJhw",
+      "phone": "(47) 3278-0328",
+      "address": "R. Frontin, 1780 - Jardim Iririú, Joinville - SC, 89227-575",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Muay Thai Ivan Santos - Jardim Iririú",
+      "href": "https://www.google.com/maps/place/Muay+Thai+Ivan+Santos+-+Jardim+Iriri%C3%BA/data=!4m7!3m6!1s0x94deb1eb4a90cf8d:0xd38ac51e6f7774c!8m2!3d-26.2693474!4d-48.8068952!16s%2Fg%2F11yrn1flbk!19sChIJjc-QSuux3pQRTHf35lGsOA0",
+      "phone": "(47) 99743-4165",
+      "address": "R. José Antônio Sales, 357 - Jardim Iririú, Joinville - SC, 89224-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Renata Costa Cabeleireira",
+      "href": "https://www.google.com/maps/place/Studio+Renata+Costa+Cabeleireira/data=!4m7!3m6!1s0x94deaf36f1e9a6b9:0x1a38ff45ec6f9b4!8m2!3d-26.2604439!4d-48.8072031!16s%2Fg%2F11zk7m69dr!19sChIJuabp8Tav3pQRtPnGXvSPowE",
+      "phone": "(47) 99948-4497",
+      "address": "R. Rocha Pombo, 1780 - Jardim Iririú, Joinville - SC, 89224-041",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luciana Lashes Joinville",
+      "href": "https://www.google.com/maps/place/Luciana+Lashes+Joinville/data=!4m7!3m6!1s0x94deafe983040e41:0xd85f2d02941a5d70!8m2!3d-26.2665462!4d-48.8110857!16s%2Fg%2F11ynfqw54g!19sChIJQQ4Eg-mv3pQRcF0alAItX9g",
+      "phone": "(47) 99936-9712",
+      "address": "Casa de esquina - R. José Antônio Sales, 06 - complemento C - Jardim Iririú, Joinville - SC, 89224-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pilates Studio",
+      "href": "https://www.google.com/maps/place/Pilates+Studio/data=!4m7!3m6!1s0x94dea78d575da3b1:0x618be1e38d3ccb13!8m2!3d-26.2108955!4d-48.908205!16s%2Fg%2F11fpl4zkv_!19sChIJsaNdV42n3pQRE8s8jePhi2E",
+      "phone": "(47) 3453-0673",
+      "address": "R. Ver. Guilherme Zuege, 173 - Sl 2 - Pirabeiraba, Joinville - SC, 89239-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio APS Pilates",
+      "href": "https://www.google.com/maps/place/Studio+APS+Pilates/data=!4m7!3m6!1s0x94dea7f08e29bd2d:0x5d3204354365cf27!8m2!3d-26.2057307!4d-48.9081174!16s%2Fg%2F11mymk7r5s!19sChIJLb0pjvCn3pQRJ89lQzUEMl0",
+      "phone": "(47) 99933-5029",
+      "address": "R. Pastor Dommel, 36 - Sl 104 - Pirabeiraba, Joinville - SC, 89239-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella & Along Saúde e Reabilitação",
+      "href": "https://www.google.com/maps/place/Bella+%26+Along+Sa%C3%BAde+e+Reabilita%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea66886f68809:0x5c1ad0eb0a70ec06!8m2!3d-26.2103429!4d-48.9095617!16s%2Fg%2F11fylqry5x!19sChIJCYj2hmim3pQRBuxwCuvQGlw",
+      "phone": "(47) 99613-6591",
+      "address": "R. Vinte e Sete de Maio, 493 - Centro (Pirabeiraba), Joinville - SC, 89239-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estilo Fitness Joinville",
+      "href": "https://www.google.com/maps/place/Estilo+Fitness+Joinville/data=!4m7!3m6!1s0x94deb1e1fd16c907:0x107aeec6c9e9f822!8m2!3d-26.3198777!4d-48.8017189!16s%2Fg%2F11m7n_xwhb!19sChIJB8kW_eGx3pQRIvjpycbuehA",
+      "phone": "(47) 99273-5528",
+      "address": "R. Ayrton Senna, 746 - Adhemar Garcia, Joinville - SC, 89230-749",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Boni Gym",
+      "href": "https://www.google.com/maps/place/Academia+Boni+Gym/data=!4m7!3m6!1s0x94deb1b71d4c1dc5:0x49e9830b26a64c5b!8m2!3d-26.3275778!4d-48.8064829!16s%2Fg%2F11hy9qk9vh!19sChIJxR1MHbex3pQRW0ymJguD6Uk",
+      "phone": "(47) 98462-1213",
+      "address": "R. Jarivatuba, 1267 - Jarivatuba, Joinville - SC, 89230-870",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Ginásio Lisboa",
+      "href": "https://www.google.com/maps/place/Academia+Gin%C3%A1sio+Lisboa/data=!4m7!3m6!1s0x94deb1405545edfb:0xbe72c3a972844315!8m2!3d-26.3309048!4d-48.8177742!16s%2Fg%2F1tjz4jdh!19sChIJ--1FVUCx3pQRFUOEcqnDcr4",
+      "phone": "(47) 99694-7850",
+      "address": "R. Fátima, 1053 - Jarivatuba, Joinville - SC, 89229-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia GW Fitness",
+      "href": "https://www.google.com/maps/place/Academia+GW+Fitness/data=!4m7!3m6!1s0x94deb5bef45f23c9:0x245089c501eaedbf!8m2!3d-26.3470905!4d-48.7912175!16s%2Fg%2F11twr6tntr!19sChIJySNf9L613pQRv-3qAcWJUCQ",
+      "phone": "(47) 3305-4527",
+      "address": "R. Monsenhor Gercino, 6974 - Paranaguamirim, Joinville - SC, 89231-502",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

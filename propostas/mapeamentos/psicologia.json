@@ -1,0 +1,633 @@
+{
+  "id": "psicologia",
+  "nome": "Psicologia",
+  "terms": [
+    "psicólogo",
+    "psicologia",
+    "clínica de psicologia"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "IDEAR CLÍNICA DE PSICOLOGIA",
+      "href": "https://www.google.com/maps/place/IDEAR+CL%C3%8DNICA+DE+PSICOLOGIA/data=!4m7!3m6!1s0x94deb1ba83ae79bd:0x83a531422474a6cf!8m2!3d-26.2851937!4d-48.8446135!16s%2Fg%2F11rj6cw81p!19sChIJvXmug7qx3pQRz6Z0JEIxpYM",
+      "phone": "(47) 99696-3723",
+      "address": "R. Alm. Tamandaré, n°472 - Sl 07 - América, Joinville - SC, 89204-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Psicologia AB",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Psicologia+AB/data=!4m7!3m6!1s0x94deb1806c86ba7b:0xac71a692dad0048a!8m2!3d-26.3065597!4d-48.848675!16s%2Fg%2F11fk0mjgjs!19sChIJe7qGbICx3pQRigTQ2pKmcaw",
+      "phone": "(47) 99933-8473",
+      "address": "R. Conselheiro Mafra, 111 - Centro, Joinville - SC, 89201-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PRÓ VIDA CLÍNICA INTEGRADA DE SAÚDE",
+      "href": "https://www.google.com/maps/place/PR%C3%93+VIDA+CL%C3%8DNICA+INTEGRADA+DE+SA%C3%9ADE/data=!4m7!3m6!1s0x94deb16fac6170a5:0xd9996d9f2504e853!8m2!3d-26.3051866!4d-48.849517!16s%2Fg%2F11h_6x3_x2!19sChIJpXBhrG-x3pQRU-gEJZ9tmdk",
+      "phone": "(47) 99635-6908",
+      "address": "R. Sen. Felipe Schmidt, 229 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personalitté Clínica de Psicologia",
+      "href": "https://www.google.com/maps/place/Personalitt%C3%A9+Cl%C3%ADnica+de+Psicologia/data=!4m7!3m6!1s0x94deb04c50c455c1:0xef42bf0abbe8c377!8m2!3d-26.3066506!4d-48.8429097!16s%2Fg%2F1ptx1yvrr!19sChIJwVXEUEyw3pQRd8Pouwq_Qu8",
+      "phone": "(47) 98819-6463",
+      "address": "R. Profa. Laura Andrade, 72 - Centro, Joinville - SC, 89201-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Psicologia Caminhos Gestálticos",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Psicologia+Caminhos+Gest%C3%A1lticos/data=!4m7!3m6!1s0x94deb1dae2835595:0x2eb774072871dc74!8m2!3d-26.2844677!4d-48.8523655!16s%2Fg%2F11jhv64mq0!19sChIJlVWD4tqx3pQRdNxxKAd0ty4",
+      "phone": "(47) 99258-7475",
+      "address": "R. Benjamin Constant, 297 - Sl 3 - Glória, Joinville - SC, 89204-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tatiane Felicio - Psicóloga Clínica",
+      "href": "https://www.google.com/maps/place/Tatiane+Felicio+-+Psic%C3%B3loga+Cl%C3%ADnica/data=!4m7!3m6!1s0x94deb12a55b0b891:0x4bc9ced4b981c80a!8m2!3d-26.3017362!4d-48.8488255!16s%2Fg%2F11j9csh9n6!19sChIJkbiwVSqx3pQRCsiBudTOyUs",
+      "phone": "(47) 98907-1753",
+      "address": "Edifício Turim - R. 9 de Março, 737 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Giovanna Bini",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Giovanna+Bini/data=!4m7!3m6!1s0x94deb1e5bdb9a89b:0x7e2915ad8586095b!8m2!3d-26.3014567!4d-48.8459757!16s%2Fg%2F11njz8gpn3!19sChIJm6i5veWx3pQRWwmGha0VKX4",
+      "phone": "(47) 99661-3120",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicólogo João Victor da Maia (Psicologia do Esporte e Clínica)",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3logo+Jo%C3%A3o+Victor+da+Maia+%28Psicologia+do+Esporte+e+Cl%C3%ADnica%29/data=!4m7!3m6!1s0x94deb11cb5893479:0x88c1df82dafbb240!8m2!3d-26.298372!4d-48.8503852!16s%2Fg%2F11zcngvs74!19sChIJeTSJtRyx3pQRQLL72oLfwYg",
+      "phone": "(47) 98878-5196",
+      "address": "R. Blumenau, 178 - Centro, Joinville - SC, 89204-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rosalvo Psicologia",
+      "href": "https://www.google.com/maps/place/Rosalvo+Psicologia/data=!4m7!3m6!1s0x94deb1552251af33:0x285207de33537bfd!8m2!3d-26.2932956!4d-48.8536496!16s%2Fg%2F11yv8wp5z5!19sChIJM69RIlWx3pQR_XtTM94HUig",
+      "phone": "(47) 99293-8888",
+      "address": "R. Jaraguá, 604 - América, Joinville - SC, 89204-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DDV Clínica e Avaliações Psicológicas",
+      "href": "https://www.google.com/maps/place/DDV+Cl%C3%ADnica+e+Avalia%C3%A7%C3%B5es+Psicol%C3%B3gicas/data=!4m7!3m6!1s0x94deb103031d4c4f:0xb2271271d4b86dba!8m2!3d-26.2825528!4d-48.8515481!16s%2Fg%2F11fr7czk8b!19sChIJT0wdAwOx3pQRum241HESJ7I",
+      "phone": "(47) 3227-9700",
+      "address": "R. Alm. Barroso, 855 - Sl 06 - América, Joinville - SC, 89204-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório de Psicologia e Psicanálise",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+de+Psicologia+e+Psican%C3%A1lise/data=!4m7!3m6!1s0x94deb1df2e2c5a63:0xeb8222c0cdff6aef!8m2!3d-26.3002598!4d-48.8532216!16s%2Fg%2F11hfxv2ns_!19sChIJY1osLt-x3pQR72r_zcAigus",
+      "phone": "(47) 99110-0396",
+      "address": "R. Expedicionário Holz, 550 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Edcléia Souza - Psicóloga Clínica",
+      "href": "https://www.google.com/maps/place/Edcl%C3%A9ia+Souza+-+Psic%C3%B3loga+Cl%C3%ADnica/data=!4m7!3m6!1s0x94deb153e1337017:0xfe1c7fa5c3f28b73!8m2!3d-26.3002598!4d-48.8532216!16s%2Fg%2F11h4632m0f!19sChIJF3Az4VOx3pQRc4vyw6V_HP4",
+      "phone": "(47) 99621-3969",
+      "address": "R. Expedicionário Holz, 550 - Sl 708 - Centro, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adriana Casas Psicóloga",
+      "href": "https://www.google.com/maps/place/Adriana+Casas+Psic%C3%B3loga/data=!4m7!3m6!1s0x2a67d8149d26e8b5:0xa6c8d09229b70c71!8m2!3d-26.305087!4d-48.8495067!16s%2Fg%2F11yzyn6jtv!19sChIJtegmnRTYZyoRcQy3KZLQyKY",
+      "phone": "(47) 99707-0805",
+      "address": "R. Sen. Felipe Schmidt, 219 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cognicare: avaliação neuropsicológica e psicoterapia Ltda.",
+      "href": "https://www.google.com/maps/place/Cognicare:+avalia%C3%A7%C3%A3o+neuropsicol%C3%B3gica+e+psicoterapia+Ltda./data=!4m7!3m6!1s0x94deb1929769e12f:0xdca22de4d9a140d7!8m2!3d-26.3101676!4d-48.8491237!16s%2Fg%2F11xfkht4zl!19sChIJL-Fpl5Kx3pQR10Ch2eQtotw",
+      "phone": "(47) 99244-0763",
+      "address": "R. Dr. Plácido Gomes, 610 - Sl 104 - Anita Garibaldi, Joinville - SC, 89202-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Espaço Desenvolver",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Espa%C3%A7o+Desenvolver/data=!4m7!3m6!1s0x94deb1bcc4c6cc63:0x58cab909af396ad!8m2!3d-26.3075611!4d-48.8625903!16s%2Fg%2F11n122q9fx!19sChIJY8zGxLyx3pQRrZbzmpCrjAU",
+      "phone": "(47) 3423-0147",
+      "address": "R. Alberto Kroehne, 76 - Atiradores, Joinville - SC, 89203-115",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicólogo Jurídico Thiago Lima",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3logo+Jur%C3%ADdico+Thiago+Lima/data=!4m7!3m6!1s0x94deb162a07cbdef:0xc67deb0f564dd840!8m2!3d-26.31985!4d-48.8516294!16s%2Fg%2F11pxlfy16n!19sChIJ7718oGKx3pQRQNhNVg_rfcY",
+      "phone": "(47) 99166-9668",
+      "address": "R. Anita Garibaldi, 788 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Flavia Martins Consultoria",
+      "href": "https://www.google.com/maps/place/Flavia+Martins+Consultoria/data=!4m7!3m6!1s0x94deb1ed03c5ca0b:0x29b4937d298e910c!8m2!3d-26.3163293!4d-48.8531428!16s%2Fg%2F11z1tf06t9!19sChIJC8rFA-2x3pQRDJGOKX2TtCk",
+      "phone": "(47) 99948-0788",
+      "address": "R. Major Navarro Lins - Anita Garibaldi, Joinville - SC, 89203-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Francine Macedo",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Francine+Macedo/data=!4m7!3m6!1s0xa8693ac2785e9997:0x251128dd33b94bc6!8m2!3d-26.3166293!4d-48.8501239!16s%2Fg%2F11y73_zy36!19sChIJl5leeMI6aagRxku5M90oESU",
+      "phone": "(47) 99611-3463",
+      "address": "R. Cel. Santiago, 768 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CAC (Centro de Avaliação de Condutores) Clínica Libertare",
+      "href": "https://www.google.com/maps/place/CAC+%28Centro+de+Avalia%C3%A7%C3%A3o+de+Condutores%29+Cl%C3%ADnica+Libertare/data=!4m7!3m6!1s0x94deb1fb713d314f:0x3d67cc36d67b469e!8m2!3d-26.3213264!4d-48.8593616!16s%2Fg%2F11qj00mvbn!19sChIJTzE9cfux3pQRnkZ71jbMZz0",
+      "phone": "(47) 3085-9449",
+      "address": "R. Concórdia, 1135 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cognitive - Neuropsicologia Infantil",
+      "href": "https://www.google.com/maps/place/Cognitive+-+Neuropsicologia+Infantil/data=!4m7!3m6!1s0x94deb1b8814d9e73:0x715f33e497a38217!8m2!3d-26.3167109!4d-48.8482988!16s%2Fg%2F11j_03_mp0!19sChIJc55Ngbix3pQRF4Kjl-QzX3E",
+      "phone": "(47) 99943-3220",
+      "address": "R. Rio Grande do Sul, 891 - 1˚Andar - Sala 01 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CERFISA - Centro de Reabilitação Física e Saúde",
+      "href": "https://www.google.com/maps/place/CERFISA+-+Centro+de+Reabilita%C3%A7%C3%A3o+F%C3%ADsica+e+Sa%C3%BAde/data=!4m7!3m6!1s0x94deb050dc863535:0x93e4319b2de9a588!8m2!3d-26.3146322!4d-48.8478216!16s%2Fg%2F11d_9kw323!19sChIJNTWG3FCw3pQRiKXpLZsx5JM",
+      "phone": "(47) 3271-1991",
+      "address": "R. Eugênio Moreira, 400 - Anita Garibaldi, Joinville - SC, 89202-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Soul Psicologia Clínica e do Esporte",
+      "href": "https://www.google.com/maps/place/Soul+Psicologia+Cl%C3%ADnica+e+do+Esporte/data=!4m7!3m6!1s0x94deb1b1b6e6fd15:0x5043111b7d6aedc7!8m2!3d-26.3111548!4d-48.8473231!16s%2Fg%2F11y36rvcdy!19sChIJFf3mtrGx3pQRx-1qfRsRQ1A",
+      "phone": "(47) 99692-8928",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 1272 - Sl 01 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "IPP - Clínica de Psicologia",
+      "href": "https://www.google.com/maps/place/IPP+-+Cl%C3%ADnica+de+Psicologia/data=!4m7!3m6!1s0x94deb04e51905a9b:0x72e70924ed5d8a44!8m2!3d-26.3092141!4d-48.8473212!16s%2Fg%2F1tm2bv1y!19sChIJm1qQUU6w3pQRRIpd7SQJ53I",
+      "phone": "(47) 3453-3000",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Nathally Alexandre",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Nathally+Alexandre/data=!4m7!3m6!1s0x94deb1b4f65c7727:0x9cc50b8efeae757e!8m2!3d-26.2862298!4d-48.8394649!16s%2Fg%2F11zh0ytbdx!19sChIJJ3dc9rSx3pQRfnWu_o4LxZw",
+      "phone": "(47) 99979-3654",
+      "address": "R. Dona Francisca, 1930 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nesso Psicologia",
+      "href": "https://www.google.com/maps/place/Nesso+Psicologia/data=!4m7!3m6!1s0x94deb10fb79d8073:0x772189c87bcb52e8!8m2!3d-26.295175!4d-48.8407175!16s%2Fg%2F11nqr6jk3d!19sChIJc4Cdtw-x3pQR6FLLe8iJIXc",
+      "phone": "(47) 99209-5258",
+      "address": "R. Saguaçu, 40 - Saguaçu, Joinville - SC, 89221-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Joinville Natália Rosa",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Joinville+Nat%C3%A1lia+Rosa/data=!4m7!3m6!1s0x94deafef438bb499:0xad77e0729c64e281!8m2!3d-26.2742513!4d-48.8439181!16s%2Fg%2F11nq8t6w0y!19sChIJmbSLQ--v3pQRgeJknHLgd60",
+      "phone": "(47) 98852-8970",
+      "address": "R. Matinhos, 78 - Saguaçu, Joinville - SC, 89221-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mariana Kurth - Psicóloga",
+      "href": "https://www.google.com/maps/place/Mariana+Kurth+-+Psic%C3%B3loga/data=!4m7!3m6!1s0x94deb1bf7f101a8b:0x8e93b420bb165d12!8m2!3d-26.2938452!4d-48.8401222!16s%2Fg%2F11n51m30ql!19sChIJixoQf7-x3pQREl0WuyC0k44",
+      "phone": "(47) 99180-4442",
+      "address": "R. Chapecó, 101 - Saguaçu, Joinville - SC, 89221-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Ana Carolina Schmalz",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Ana+Carolina+Schmalz/data=!4m7!3m6!1s0x94deaf457b9011ed:0x21fc5c659e5437a8!8m2!3d-26.2755263!4d-48.8403492!16s%2Fg%2F11vz04br2f!19sChIJ7RGQe0Wv3pQRqDdUnmVc_CE",
+      "phone": "(47) 99964-4230",
+      "address": "R. Ewaldo Quandt, 81 - Saguaçu, Joinville - SC, 89221-470",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicólogo Cássio Rafaeli",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3logo+C%C3%A1ssio+Rafaeli/data=!4m7!3m6!1s0x94deb152425c6583:0x40bbe7cd1669ef6c!8m2!3d-26.2768422!4d-48.847871!16s%2Fg%2F11v5dfxvxc!19sChIJg2VcQlKx3pQRbO9pFs3nu0A",
+      "phone": "(47) 99228-4363",
+      "address": "R. Aracaju, 855 - Saguaçu, Joinville - SC, 89221-637",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Viviane Moehlecke",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Viviane+Moehlecke/data=!4m7!3m6!1s0x94deafec8bf774df:0xece22710872b59e9!8m2!3d-26.2755263!4d-48.8403492!16s%2Fg%2F11y3wnr3k8!19sChIJ33T3i-yv3pQR6VkrhxAn4uw",
+      "phone": "(47) 3435-4256",
+      "address": "R. Ewaldo Quandt, 81 - Saguaçu, Joinville - SC, 89221-470",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Ludere - Psicologia e Psicanálise",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Ludere+-+Psicologia+e+Psican%C3%A1lise/data=!4m7!3m6!1s0x94deb195d4b9a82d:0xe4079cc83e4dce03!8m2!3d-26.2817949!4d-48.8418821!16s%2Fg%2F11xmkrd097!19sChIJLai51JWx3pQRA85NPsicB-Q",
+      "phone": "(47) 98457-0509",
+      "address": "R. Joaçaba, 84 - Saguaçu, Joinville - SC, 89221-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Amélia Silva – Psicoterapia e Terapia de Casal / Bairro Costa e Silva",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Am%C3%A9lia+Silva+%E2%80%93+Psicoterapia+e+Terapia+de+Casal+%2F+Bairro+Costa+e+Silva/data=!4m7!3m6!1s0x94deafc729ce8eb1:0x15768914639f84df!8m2!3d-26.2740439!4d-48.8746882!16s%2Fg%2F11fvhx26gv!19sChIJsY7OKcev3pQR34SfYxSJdhU",
+      "phone": "(47) 98900-0228",
+      "address": "Av. Alm. Jaceguay, 2899 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Naski Psicologia & Saúde Mental",
+      "href": "https://www.google.com/maps/place/Naski+Psicologia+%26+Sa%C3%BAde+Mental/data=!4m7!3m6!1s0x94dea5ed10fb26bb:0x92c3ce93e839510b!8m2!3d-26.2733213!4d-48.8889187!16s%2Fg%2F11yy2xq1vz!19sChIJuyb7EO2l3pQRC1E56JPOw5I",
+      "phone": "(47) 98843-0438",
+      "address": "R. Guilhermina Heidemann de Oliveira - Costa e Silva, Joinville - SC, 89220-865",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapeuta de Mulheres Fernanda Palodetto",
+      "href": "https://www.google.com/maps/place/Terapeuta+de+Mulheres+Fernanda+Palodetto/data=!4m7!3m6!1s0x94deaf3fbae5a541:0xa01990c23c851f5d!8m2!3d-26.2750025!4d-48.8725477!16s%2Fg%2F11m_3h_sw2!19sChIJQaXluj-v3pQRXR-FPMKQGaA",
+      "phone": "(47) 98479-3480",
+      "address": "R. Cmte. Telles de Mendonça - Costa e Silva, Joinville - SC, 89218-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Terapêutico São Francisco de Assis",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Terap%C3%AAutico+S%C3%A3o+Francisco+de+Assis/data=!4m7!3m6!1s0x94dea5d98db00cdd:0xe8a1a38d3025d49a!8m2!3d-26.2663862!4d-48.8841085!16s%2Fg%2F11yn9ky33t!19sChIJ3Qywjdml3pQRmtQlMI2joeg",
+      "phone": "(47) 99246-8802",
+      "address": "R. Souza Lobo, 223 - Costa e Silva, Joinville - SC, 89220-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tarot Carvalho",
+      "href": "https://www.google.com/maps/place/Tarot+Carvalho/data=!4m7!3m6!1s0x94deb176813014ab:0x6a934085ee5a1c3e!8m2!3d-26.2758053!4d-48.8838007!16s%2Fg%2F11vqh3lgfr!19sChIJqxQwgXax3pQRPhxa7oVAk2o",
+      "phone": "(47) 99682-0923",
+      "address": "R. das Domésticas, 140 - Costa e Silva, Joinville - SC, 89202-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vanessa Sander - Psicologia e Neuropsicologia",
+      "href": "https://www.google.com/maps/place/Vanessa+Sander+-+Psicologia+e+Neuropsicologia/data=!4m7!3m6!1s0x94dea53e0873b2c7:0x9fcdb5ccf9edfc80!8m2!3d-26.2908398!4d-48.8762071!16s%2Fg%2F11f3vjxgcz!19sChIJx7JzCD6l3pQRgPzt-cy1zZ8",
+      "phone": "(47) 99751-4301",
+      "address": "R. Bananal, 372 - Glória, Joinville - SC, 89239-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bem-Querer Espaço Terapêutico",
+      "href": "https://www.google.com/maps/place/Bem-Querer+Espa%C3%A7o+Terap%C3%AAutico/data=!4m7!3m6!1s0x94deafd6bcc35c97:0x17daef53dc1ba5a5!8m2!3d-26.2837549!4d-48.8751387!16s%2Fg%2F11frml7ln_!19sChIJl1zDvNav3pQRpaUb3FPv2hc",
+      "phone": "(47) 99937-5412",
+      "address": "R. Dona Elza Meinert, 1142 - Sl 01 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Fisioterapia Costa e Silva",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+Costa+e+Silva/data=!4m7!3m6!1s0x94deaff4c2cba66b:0x82f1e26f599421f4!8m2!3d-26.273359!4d-48.8763741!16s%2Fg%2F1wl4rrmv!19sChIJa6bLwvSv3pQR9CGUWW_i8YI",
+      "phone": "(47) 3473-8444",
+      "address": "R. Inambu, 427 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rosa Psicoterapia",
+      "href": "https://www.google.com/maps/place/Rosa+Psicoterapia/data=!4m7!3m6!1s0x94dea58fed868d8b:0x8dd58f7c40e76486!8m2!3d-26.2797491!4d-48.8845121!16s%2Fg%2F11z0mpz8c2!19sChIJi42G7Y-l3pQRhmTnQHyP1Y0",
+      "phone": "(47) 98875-3883",
+      "address": "R. Willy Affonso Jacob, 609 - A. Jacob, Joinville - SC, 89220-720",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Fisioterapia e Hidroterapia Joinville-SC",
+      "href": "https://www.google.com/maps/place/Centro+de+Fisioterapia+e+Hidroterapia+Joinville-SC/data=!4m7!3m6!1s0x94deaf00548eb85d:0x65c5f956e04d1a81!8m2!3d-26.2688264!4d-48.8704658!16s%2Fg%2F11yq1z5826!19sChIJXbiOVACv3pQRgRpN4Fb5xWU",
+      "phone": "(47) 3422-2463",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 1105 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Mariana Vanzuita",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Mariana+Vanzuita/data=!4m7!3m6!1s0x94dea51ba01a09ad:0x4dd8e9ab0e6d0c59!8m2!3d-26.286895!4d-48.9208245!16s%2Fg%2F11rk5g6nqr!19sChIJrQkaoBul3pQRWQxtDqvp2E0",
+      "phone": "(47) 98478-7267",
+      "address": "R. Júlio Stolf, 645 - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicologia Clínica - Angelita Ferreira Meira Blazius",
+      "href": "https://www.google.com/maps/place/Psicologia+Cl%C3%ADnica+-+Angelita+Ferreira+Meira+Blazius/data=!4m7!3m6!1s0x94dea5d3be8dfb63:0x7aa2b006ca51248a!8m2!3d-26.2820722!4d-48.8983878!16s%2Fg%2F11qzxbzlvj!19sChIJY_uNvtOl3pQRiiRRygawono",
+      "phone": "(47) 99683-2715",
+      "address": "R. Santa Marina, 117 - Vila Nova, Joinville - SC, 89237-255",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Rosângela Marchiorato em Joinville",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Ros%C3%A2ngela+Marchiorato+em+Joinville/data=!4m7!3m6!1s0x94deb14af78e4aef:0x6e4963066f071447!8m2!3d-26.2979628!4d-48.8647206!16s%2Fg%2F11yx30_zcx!19sChIJ70qO90qx3pQRRxQHbwZjSW4",
+      "phone": "(47) 99270-4570",
+      "address": "R. Evaristo da Veiga, 156 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapeuta Maria Lucimar",
+      "href": "https://www.google.com/maps/place/Terapeuta+Maria+Lucimar/data=!4m7!3m6!1s0x94deb1c3247eef09:0x4a0f7f299480bfeb!8m2!3d-26.2961458!4d-48.873883!16s%2Fg%2F11tdzc4_km!19sChIJCe9-JMOx3pQR67-AlCl_D0o",
+      "phone": "(47) 98816-6142",
+      "address": "R. Cristiano Lueders - Glória, Joinville - SC, 89216-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dorianny Melo",
+      "href": "https://www.google.com/maps/place/Dorianny+Melo/data=!4m7!3m6!1s0x94deb1f49c5e6eaf:0x229c27ae00c60770!8m2!3d-26.3342851!4d-48.8459245!16s%2Fg%2F11hzjgb58_!19sChIJr25enPSx3pQRcAfGAK4nnCI",
+      "phone": "(47) 99745-2220",
+      "address": "Av. Antônio Ramos Alvim, 1350 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga e Neuropsicopedagoga Pâmela Papadópulos",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+e+Neuropsicopedagoga+P%C3%A2mela+Papad%C3%B3pulos/data=!4m7!3m6!1s0x94deb1d25c4ce3a3:0x3abaa7a39f72a06b!8m2!3d-26.3207527!4d-48.844101!16s%2Fg%2F11ntp8mwk7!19sChIJo-NMXNKx3pQRa6Byn6Onujo",
+      "phone": "(47) 99128-4636",
+      "address": "R. Piauí, 93 - Bucarein, Joinville - SC, 89202-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Serviço de Psicologia Univille",
+      "href": "https://www.google.com/maps/place/Servi%C3%A7o+de+Psicologia+Univille/data=!4m7!3m6!1s0x94deb1accca41117:0xa77067b596ae56da!8m2!3d-26.3112247!4d-48.8396847!16s%2Fg%2F11c806hj8m!19sChIJFxGkzKyx3pQR2laulrVncKc",
+      "phone": "(47) 3431-0641",
+      "address": "R. Urussanga, 444 - Bucarein, Joinville - SC, 89202-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CAC Floresta",
+      "href": "https://www.google.com/maps/place/CAC+Floresta/data=!4m7!3m6!1s0x94deb11f0f3281a9:0xc1522d8ce883817d!8m2!3d-26.3255699!4d-48.8495093!16s%2Fg%2F11w7mhg551!19sChIJqYEyDx-x3pQRfYGD6IwtUsE",
+      "phone": "(47) 98820-7094",
+      "address": "R. Diamantina, 281 - Floresta, Joinville - SC, 89211-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Quéops",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Qu%C3%A9ops/data=!4m7!3m6!1s0x94deb11e178174f7:0x12a766719b979ee8!8m2!3d-26.3330804!4d-48.8390941!16s%2Fg%2F11c509ncc9!19sChIJ93SBFx6x3pQR6J6Xm3FmpxI",
+      "phone": "(47) 3034-6150",
+      "address": "R. Guarujá, 291 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Terapêutico Alquimestres",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Terap%C3%AAutico+Alquimestres/data=!4m7!3m6!1s0x94deb148c1a557fd:0xbf45dcc65fd0ced0!8m2!3d-26.3315979!4d-48.8386615!16s%2Fg%2F11s3txb_zx!19sChIJ_VelwUix3pQR0M7QX8bcRb8",
+      "phone": "(47) 99951-8120",
+      "address": "R. Pres. Gaspar Dutra, 45 - Itaum, Joinville - SC, 89210-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MASSAGEM - SANI SUL",
+      "href": "https://www.google.com/maps/place/MASSAGEM+-+SANI+SUL/data=!4m7!3m6!1s0x94deb1589abbed95:0x95bb47f1a4d3c2a2!8m2!3d-26.3411611!4d-48.8223048!16s%2Fg%2F11z9f8hvng!19sChIJle27mlix3pQRosLTpPFHu5U",
+      "phone": "(47) 3423-0063",
+      "address": "R. Monsenhor Gercino, 3304 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Acupuntura e Psicologia Moises Silva CRT-12/08362",
+      "href": "https://www.google.com/maps/place/Acupuntura+e+Psicologia+Moises+Silva+CRT-12%2F08362/data=!4m7!3m6!1s0x94deb6d0e150c6b9:0xfbf35ed8de733580!8m2!3d-26.3617161!4d-48.8325632!16s%2Fg%2F1tm1rly5!19sChIJucZQ4dC23pQRgDVz3the8_s",
+      "phone": "(47) 98477-6320",
+      "address": "R. da União, 67 - Itinga, Joinville - SC, 89232-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapêutica",
+      "href": "https://www.google.com/maps/place/Terap%C3%AAutica/data=!4m7!3m6!1s0x94dbf146f41326d3:0xaa00ce256a9008d2!8m2!3d-26.3601862!4d-48.8148261!16s%2Fg%2F11jmlvzbrb!19sChIJ0yYT9Ebx25QR0giQaiXOAKo",
+      "phone": "(47) 99719-9167",
+      "address": "R. Orlando, 11 - Parque Guarani, Joinville - SC, 89209-630",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Esmalteria Néia Belas Unhas",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Esmalteria+N%C3%A9ia+Belas+Unhas/data=!4m7!3m6!1s0x94deb6c5493efc25:0x3fea65c255d86c67!8m2!3d-26.3625302!4d-48.8297772!16s%2Fg%2F11bvcv202v!19sChIJJfw-ScW23pQRZ2zYVcJl6j8",
+      "phone": "(47) 99988-9837",
+      "address": "R. Adolfo da Veiga, 226 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Bruna Priester",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Bruna+Priester/data=!4m7!3m6!1s0x94deb184e4211d87:0x3b54eea254e1fc46!8m2!3d-26.3112418!4d-48.8397796!16s%2Fg%2F11g2zyrstt!19sChIJhx0h5ISx3pQRRvzhVKLuVDs",
+      "phone": "(47) 99171-4332",
+      "address": "R. Urussanga, 444 - Boa Vista, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Clínica e Jurídica - Andréia Stahelski",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Cl%C3%ADnica+e+Jur%C3%ADdica+-+Andr%C3%A9ia+Stahelski/data=!4m7!3m6!1s0x94deb115d8b93f35:0xf83e4c727e92c14d!8m2!3d-26.2514077!4d-48.8207854!16s%2Fg%2F11z4_d1_4b!19sChIJNT-52BWx3pQRTcGSfnJMPvg",
+      "phone": "(47) 99974-0101",
+      "address": "Pátio Rodrigues - Rua: Tuiuti, 2295 - Galeria Izimall, Segundo Andar, Sala 301 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cintia Berthier | Ampliar Psicologia",
+      "href": "https://www.google.com/maps/place/Cintia+Berthier+%7C+Ampliar+Psicologia/data=!4m7!3m6!1s0x94deb1475f145145:0xb65e08e4dcb1854c!8m2!3d-26.2794207!4d-48.8340343!16s%2Fg%2F11zc391vbx!19sChIJRVEUX0ex3pQRTIWx3OQIXrY",
+      "phone": "(47) 99923-3614",
+      "address": "R. São Carlos, 209 - Sala 4 - Iririú, Joinville - SC, 89227-016",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Daniela Eyng Schneider | Terapia Cognitivo Comportamental para adultos e casais",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Daniela+Eyng+Schneider+%7C+Terapia+Cognitivo+Comportamental+para+adultos+e+casais/data=!4m7!3m6!1s0x94deb1163f67b8ef:0xd9a0dfa639a0c539!8m2!3d-26.270671!4d-48.8120739!16s%2Fg%2F11mstrr546!19sChIJ77hnPxax3pQROcWgOabfoNk",
+      "phone": "(47) 99643-2096",
+      "address": "R. Iririú, 3525 - Iririú, Joinville - SC, 89227-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapeuta Olistico",
+      "href": "https://www.google.com/maps/place/Terapeuta+Olistico/data=!4m7!3m6!1s0x94deafb7ef2a6e09:0x92b1cd6897e70db6!8m2!3d-26.2490798!4d-48.8077008!16s%2Fg%2F11tg5d31dj!19sChIJCW4q77ev3pQRtg3nl2jNsZI",
+      "phone": "(47) 99971-2518",
+      "address": "R. Alois Finder, 1091 - Aventureiro, Joinville - SC, 89225-621",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Bruna Lypczinski",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Bruna+Lypczinski/data=!4m7!3m6!1s0x94deaf102d9d174f:0x3a1b1dc1da09542d!8m2!3d-26.2851718!4d-48.8445773!16s%2Fg%2F11xt9blgs5!19sChIJTxedLRCv3pQRLVQJ2sEdGzo",
+      "phone": "(47) 98925-0342",
+      "address": "R. Alm. Tamandaré, n° 472 - América, Joinville - SC, 89204-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Patrícia Pickler",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Patr%C3%ADcia+Pickler/data=!4m7!3m6!1s0x94deaf976854ddd7:0x30d1cf725f6da7e2!8m2!3d-26.2725059!4d-48.8250392!16s%2Fg%2F11t7rgvv7c!19sChIJ191UaJev3pQR4qdtX3LP0TA",
+      "phone": "(47) 3278-8164",
+      "address": "R. Jorge Augusto Emílio Müller, 82 - sala 02 - Iririú, Joinville - SC, 89227-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapia e Psicanálise Sinara Boeing",
+      "href": "https://www.google.com/maps/place/Terapia+e+Psican%C3%A1lise+Sinara+Boeing/data=!4m7!3m6!1s0x94deb1865daf9ecd:0xd90e333ef5600a0a!8m2!3d-26.2837904!4d-48.8434737!16s%2Fg%2F11npv6p7ww!19sChIJzZ6vXYax3pQRCgpg9T4zDtk",
+      "phone": "(47) 99616-1817",
+      "address": "Av. José Vieira, 1280 - Saguaçu, Joinville - SC, 89204-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eliziane terapeuta TRG",
+      "href": "https://www.google.com/maps/place/Eliziane+terapeuta+TRG/data=!4m7!3m6!1s0x94deb15a448187a1:0xbdae11cdc2d8452a!8m2!3d-26.3034868!4d-48.8139042!16s%2Fg%2F11n3d8ksn1!19sChIJoYeBRFqx3pQRKkXYws0Rrr0",
+      "phone": "(47) 99712-9718",
+      "address": "R. Raul Borges, 64 - Boa Vista, Joinville - SC, 89206-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CRAS Comasa - Secretaria de Assistência Social",
+      "href": "https://www.google.com/maps/place/CRAS+Comasa+-+Secretaria+de+Assist%C3%AAncia+Social/data=!4m7!3m6!1s0x94deb1f1bdd4fe17:0xf9f0f5079cbc008b!8m2!3d-26.2809261!4d-48.8077534!16s%2Fg%2F119tjyz0h!19sChIJF_7UvfGx3pQRiwC8nAf18Pk",
+      "phone": "(47) 3422-3483",
+      "address": "R. Maracujá, 620 - Comasa, Joinville - SC, 89228-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terapeuta Manual | Stephany Caroline",
+      "href": "https://www.google.com/maps/place/Terapeuta+Manual+%7C+Stephany+Caroline/data=!4m7!3m6!1s0x94deb1d7d41ad191:0xa6349aef98cf009f!8m2!3d-26.3262587!4d-48.8167727!16s%2Fg%2F11yzbbw54d!19sChIJkdEa1Nex3pQRnwDPmO-aNKY",
+      "phone": "(47) 93389-1198",
+      "address": "R. Assunção, 62 - Apto 204 - Fátima, Joinville - SC, 89229-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marilda ulbrich terapeuta",
+      "href": "https://www.google.com/maps/place/Marilda+ulbrich+terapeuta/data=!4m7!3m6!1s0x94deb10aa6b8dd5d:0xa60ca8e12f238777!8m2!3d-26.3185499!4d-48.8152466!16s%2Fg%2F11yrcfy2jr!19sChIJXd24pgqx3pQRd4cjL-GoDKY",
+      "phone": "(47) 99756-3397",
+      "address": "R. Fátima, 2770 - Fátima, Joinville - SC, 89229-102",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LuquanticaTerapias",
+      "href": "https://www.google.com/maps/place/LuquanticaTerapias/data=!4m7!3m6!1s0x94deb19be7e70d0d:0x45865d348809bca4!8m2!3d-26.3426438!4d-48.8272647!16s%2Fg%2F11v0cgwk9x!19sChIJDQ3n55ux3pQRpLwJiDRdhkU",
+      "phone": "(47) 99652-0935",
+      "address": "R. Salvador Gomes de Oliveira, 475 - Petrópolis, Joinville - SC, 89208-880",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Psicóloga Lais de Resende",
+      "href": "https://www.google.com/maps/place/Psic%C3%B3loga+Lais+de+Resende/data=!4m7!3m6!1s0x94deb12be5a746b5:0x7ba07a75e6d80adf!8m2!3d-26.3207527!4d-48.844101!16s%2Fg%2F11l2p2s3qq!19sChIJtUan5Sux3pQR3wrY5nV6oHs",
+      "phone": "(47) 99725-4548",
+      "address": "R. Piauí, 93 - Bucarein, Joinville - SC, 89202-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

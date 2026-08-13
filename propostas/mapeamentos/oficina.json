@@ -1,0 +1,1200 @@
+{
+  "id": "oficina",
+  "nome": "Oficina",
+  "terms": [
+    "Oficina mecânica",
+    "mecânica automotiva",
+    "auto center"
+  ],
+  "profiles": 260,
+  "qualified": [
+    {
+      "name": "Mecânica DW",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+DW/data=!4m7!3m6!1s0x94deb71d5e2a966b:0xc9b8a717988e3e6f!8m2!3d-26.3669351!4d-48.8350835!16s%2Fg%2F11ft0wjwbm!19sChIJa5YqXh233pQRbz6OmBenuMk",
+      "phone": "(47) 99600-2691",
+      "address": "R. João Tavares, 542 - Escolinha, Joinville - SC, 89232-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fernando Mecânica Automotiva",
+      "href": "https://www.google.com/maps/place/Fernando+Mec%C3%A2nica+Automotiva/data=!4m7!3m6!1s0x94deb7000e278805:0xb76bc1a9a23b5393!8m2!3d-26.3649852!4d-48.828912!16s%2Fg%2F11w20hd_rm!19sChIJBYgnDgC33pQRk1M7oqnBa7c",
+      "phone": "(47) 98476-9270",
+      "address": "R. dos Economistas, 50 - Boehmerwald, Joinville - SC, 89235-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Medeiros",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Medeiros/data=!4m7!3m6!1s0x94deb79149b7e293:0x90a0a82b312c7e4d!8m2!3d-26.3598812!4d-48.8300342!16s%2Fg%2F11v3q733g6!19sChIJk-K3SZG33pQRTX4sMSuooJA",
+      "phone": "(47) 3801-4304",
+      "address": "R. Ramiro Bueno da Rocha, 40 - Boehmerwald, Joinville - SC, 89232-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MECÂNICA BLACKCAR",
+      "href": "https://www.google.com/maps/place/MEC%C3%82NICA+BLACKCAR/data=!4m7!3m6!1s0x94deb6c5a7ec44e3:0x80f21b8565422ec1!8m2!3d-26.3628696!4d-48.8271451!16s%2Fg%2F11gbx91r0z!19sChIJ40Tsp8W23pQRwS5CZYUb8oA",
+      "phone": "(47) 99651-2240",
+      "address": "R. Sérgio Luiz Soares, 202 - Boehmerwald, Joinville - SC, 89235-564",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Serrana",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Serrana/data=!4m7!3m6!1s0x94deb6d9d6b22b19:0x4e38164d62380b57!8m2!3d-26.3655393!4d-48.8368619!16s%2Fg%2F11c6dllx6z!19sChIJGSuy1tm23pQRVws4Yk0WOE4",
+      "phone": "(47) 3026-6244",
+      "address": "R. Waldemiro José Borges, 1319 - Boehmerwald, Joinville - SC",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica do Alemão",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+do+Alem%C3%A3o/data=!4m7!3m6!1s0x94deb6c161916911:0x93d31f9ca538095a!8m2!3d-26.3673015!4d-48.8245517!16s%2Fg%2F11bv6pnxw3!19sChIJEWmRYcG23pQRWgk4pZwf05M",
+      "phone": "(47) 3465-0457",
+      "address": "R. dos Agrônomos, 461 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Autoelétrica e Mecânica São Pedro",
+      "href": "https://www.google.com/maps/place/Autoel%C3%A9trica+e+Mec%C3%A2nica+S%C3%A3o+Pedro/data=!4m7!3m6!1s0x94deb6dacb4c8215:0xce88b6b1f99f77c4!8m2!3d-26.364195!4d-48.8296333!16s%2Fg%2F11bv6wpn4b!19sChIJFYJMy9q23pQRxHef-bG2iM4",
+      "phone": "(47) 3465-1759",
+      "address": "R. Adolfo da Veiga, 398 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MECÂNICA Clinicarro",
+      "href": "https://www.google.com/maps/place/MEC%C3%82NICA+Clinicarro/data=!4m7!3m6!1s0x94deb6db843add3b:0x689afee53aba9bfd!8m2!3d-26.3684325!4d-48.8324318!16s%2Fg%2F11f3rg7sfd!19sChIJO906hNu23pQR_Zu6OuX-mmg",
+      "phone": "(47) 99651-7805",
+      "address": "R. Ricardo Eccel, 100 - Itinga, Joinville - SC, 89235-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Center e Mecânica Valdicar",
+      "href": "https://www.google.com/maps/place/Auto+Center+e+Mec%C3%A2nica+Valdicar/data=!4m7!3m6!1s0x94deb6c7076ec203:0xd2e76cef8fa2ef8f!8m2!3d-26.3623385!4d-48.8217642!16s%2Fg%2F11c2nt8kr_!19sChIJA8JuB8e23pQRj--ij-9s59I",
+      "phone": "(47) 3465-3919",
+      "address": "R. Boehmerwald, 1647 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MECÂNICA DO NECO",
+      "href": "https://www.google.com/maps/place/MEC%C3%82NICA+DO+NECO/data=!4m7!3m6!1s0x94deb72c944e3401:0xfffcb6ac40132129!8m2!3d-26.3600476!4d-48.8458283!16s%2Fg%2F11fzb0jd1v!19sChIJATROlCy33pQRKSETQKy2_P8",
+      "phone": "(47) 3438-0381",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nandus Car Mecânica Automotiva",
+      "href": "https://www.google.com/maps/place/Nandus+Car+Mec%C3%A2nica+Automotiva/data=!4m7!3m6!1s0x94deb6d5fb1e6679:0xa74b152ff95fe7bb!8m2!3d-26.360761!4d-48.8392221!16s%2Fg%2F11bv6pn3wd!19sChIJeWYe-9W23pQRu-df-S8VS6c",
+      "phone": "(47) 3417-2765",
+      "address": "R. João Filete de Oliveira, 70 - Boehmerwald, Joinville - SC, 89232-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BrunoCar Mecânica",
+      "href": "https://www.google.com/maps/place/BrunoCar+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deb6d2fb988b43:0xd7ea9a81f16e60b3!8m2!3d-26.3557294!4d-48.8317514!16s%2Fg%2F11gbkhkknc!19sChIJQ4uY-9K23pQRs2Bu8YGa6tc",
+      "phone": "(47) 99631-1687",
+      "address": "Av. Paulo Schroeder, 1581 - Boehmerwald, Joinville - SC, 89232-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina Mecânica Marco Mar",
+      "href": "https://www.google.com/maps/place/Oficina+Mec%C3%A2nica+Marco+Mar/data=!4m7!3m6!1s0x94deb76a7e32c4d5:0xb8fbf89955cdf5d4!8m2!3d-26.3661145!4d-48.8372242!16s%2Fg%2F11w1lxzcsp!19sChIJ1cQyfmq33pQR1PXNVZn4-7g",
+      "phone": "(47) 99128-4182",
+      "address": "R. Áustria, 4 - Profipo, Joinville - SC, 89232-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Deiche",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Deiche/data=!4m7!3m6!1s0x94deb74b4c1dc1d5:0x7c5d9ef68e40d4fb!8m2!3d-26.367989!4d-48.833692!16s%2Fg%2F11l292p4g8!19sChIJ1cEdTEu33pQR-9RAjvaeXXw",
+      "phone": "(47) 99672-3139",
+      "address": "R. Waldemiro José Borges, 1781 - Boehmerwald, Joinville - SC, 89208",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ÉDER MOTO SERVICE",
+      "href": "https://www.google.com/maps/place/%C3%89DER+MOTO+SERVICE/data=!4m7!3m6!1s0x94deb7000326343f:0x9ae5aef70b03c474!8m2!3d-26.3634545!4d-48.8293114!16s%2Fg%2F11m6wb5hqb!19sChIJPzQmAwC33pQRdMQDC_eu5Zo",
+      "phone": "(47) 98806-9442",
+      "address": "R. Adolfo da Veiga, 301 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "M.M Borracharia",
+      "href": "https://www.google.com/maps/place/M.M+Borracharia/data=!4m7!3m6!1s0x94deb7c201cb5521:0x2b328d06d104e661!8m2!3d-26.3675075!4d-48.8302404!16s%2Fg%2F11z6nnjrdn!19sChIJIVXLAcK33pQRYeYE0QaNMis",
+      "phone": "(47) 99750-3228",
+      "address": "R. Afonso Moreira, 493 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica automotiva",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+automotiva/data=!4m7!3m6!1s0x94deb70019bf1279:0x3bde370749c3a2c!8m2!3d-26.3645572!4d-48.8241843!16s%2Fg%2F11xds2sfh9!19sChIJeRK_GQC33pQRLDqcdHDjvQM",
+      "phone": "(47) 99197-6774",
+      "address": "R. dos Agrônomos, 81 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MG centro automotivo",
+      "href": "https://www.google.com/maps/place/MG+centro+automotivo/data=!4m7!3m6!1s0x94deb582802cff1f:0x364f9835343aada3!8m2!3d-26.3545376!4d-48.8345838!16s%2Fg%2F11p9pbkr3g!19sChIJH_8sgIK13pQRo606NDWYTzY",
+      "phone": "(47) 99253-4041",
+      "address": "R. Alfredo Colin, 355 - Boehmerwald, Joinville - SC, 89232-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Arcanjo Car - pintura e estética automotiva",
+      "href": "https://www.google.com/maps/place/Arcanjo+Car+-+pintura+e+est%C3%A9tica+automotiva/data=!4m7!3m6!1s0x94deb7ed25019f5d:0x496efb022bcf5f8c!8m2!3d-26.3649732!4d-48.8320737!16s%2Fg%2F11jfs7pjpv!19sChIJXZ8BJe233pQRjF_PKwL7bkk",
+      "phone": "(47) 99725-7082",
+      "address": "R. Ricardo Eccel, 776 - Boehmerwald, Joinville - SC, 89232-385",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Automotivo Quatro Rodas - Mecânica | Auto Elétrica | Ar Condicionado | Câmbio Automático",
+      "href": "https://www.google.com/maps/place/Centro+Automotivo+Quatro+Rodas+-+Mec%C3%A2nica+%7C+Auto+El%C3%A9trica+%7C+Ar+Condicionado+%7C+C%C3%A2mbio+Autom%C3%A1tico/data=!4m7!3m6!1s0x94deb785bc3ee73d:0xb73f87407008f2e0!8m2!3d-26.3619929!4d-48.8185722!16s%2Fg%2F11t25gkmz2!19sChIJPec-vIW33pQR4PIIcECHP7c",
+      "phone": "(47) 99670-5719",
+      "address": "R. João da Costa Júnior, 2580 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Premium Centro Técnico Automotivo",
+      "href": "https://www.google.com/maps/place/Auto+Premium+Centro+T%C3%A9cnico+Automotivo/data=!4m7!3m6!1s0x94deb759792c8023:0xf42580fb28c6765!8m2!3d-26.3561339!4d-48.8293904!16s%2Fg%2F11h4zfwn8h!19sChIJI4AseVm33pQRZWeMsg9YQg8",
+      "phone": "(47) 99728-4060",
+      "address": "R. Ida Ana Eccel, 503 - Boehmerwald, Joinville - SC, 89232-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bilé CAR",
+      "href": "https://www.google.com/maps/place/Bil%C3%A9+CAR/data=!4m7!3m6!1s0x94deb6d6988f379b:0x1add6b3db275c342!8m2!3d-26.3604566!4d-48.8360406!16s%2Fg%2F11gfh9wstz!19sChIJmzePmNa23pQRQsN1sj1r3Ro",
+      "phone": "(47) 99195-2030",
+      "address": "R. Alvin Timm, 117 - Boehmerwald, Joinville - SC, 89232-645",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Pottmaier desde 1995.",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Pottmaier+desde+1995./data=!4m7!3m6!1s0x94deb6d45e4b0d4d:0x41bdf4091e56a83!8m2!3d-26.3578575!4d-48.8360079!16s%2Fg%2F1yfjqyfp9!19sChIJTQ1LXtS23pQRg2rlkUDfGwQ",
+      "phone": "(47) 99713-2727",
+      "address": "R. Cidade de Sobral, 322 - Boehmerwald, Joinville - SC, 89232-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Hilário Vailati",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Hil%C3%A1rio+Vailati/data=!4m7!3m6!1s0x94deb72bad4607cf:0xea2516633cbd92d1!8m2!3d-26.3603818!4d-48.8422061!16s%2Fg%2F11f15hl1kb!19sChIJzwdGrSu33pQR0ZK9PGMWJeo",
+      "phone": "(47) 3438-8390",
+      "address": "R. Waldemiro José Borges, 583 - Santa Catarina, Joinville - SC, 89233-074",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica e Mecânica Luiz",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+e+Mec%C3%A2nica+Luiz/data=!4m7!3m6!1s0x94deb140ec0a8b83:0xd9894f262e111042!8m2!3d-26.358515!4d-48.8361054!16s%2Fg%2F11dxhyjzj8!19sChIJg4sK7ECx3pQRQhARLiZPidk",
+      "phone": "(47) 99921-6275",
+      "address": "R. Cidade de Sobral, 246 - Boehmerwald, Joinville - SC, 89232-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jefkar Soluções Automotivas",
+      "href": "https://www.google.com/maps/place/Jefkar+Solu%C3%A7%C3%B5es+Automotivas/data=!4m7!3m6!1s0x94deb6d1d5af7081:0x108eba7ae0ef0a86!8m2!3d-26.3552742!4d-48.8289455!16s%2Fg%2F11g8ghrtkk!19sChIJgXCv1dG23pQRhgrv4Hq6jhA",
+      "phone": "(47) 3031-7527",
+      "address": "R. Ida Ana Eccel, 604 - Boehmerwald, Joinville - SC, 89232-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AM Auto Módulos Eletrônica Automotiva - REPARO E PROGRAMAÇÃO DE MÓDULOS DE INJEÇAO",
+      "href": "https://www.google.com/maps/place/AM+Auto+M%C3%B3dulos+Eletr%C3%B4nica+Automotiva+-+REPARO+E+PROGRAMA%C3%87%C3%83O+DE+M%C3%93DULOS+DE+INJE%C3%87AO/data=!4m7!3m6!1s0x94deb1627e60679d:0x98f5c62aa6f2f69f!8m2!3d-26.3584274!4d-48.8176166!16s%2Fg%2F11ng2j1v3c!19sChIJnWdgfmKx3pQRn_bypirG9Zg",
+      "phone": "(47) 98913-2397",
+      "address": "R. das Pitangas, 46 - Parque Guarani, Joinville - SC, 89209-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Klaus Auto Peças",
+      "href": "https://www.google.com/maps/place/Klaus+Auto+Pe%C3%A7as/data=!4m7!3m6!1s0x94deb6d6c0c0529d:0x2da51db1e0f1f870!8m2!3d-26.3626361!4d-48.8386777!16s%2Fg%2F1w96hwzp!19sChIJnVLAwNa23pQRcPjx4LEdpS0",
+      "phone": "(47) 3465-3393",
+      "address": "Atendimento Online - R. Waldemiro José Borges, 971 (49 - 99174-8511 - Boehmerwald, Joinville - SC, 89235-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Müller Auto Mecânica",
+      "href": "https://www.google.com/maps/place/M%C3%BCller+Auto+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deb12fca5ac759:0x66e145a9fc3b2131!8m2!3d-26.3460083!4d-48.8307288!16s%2Fg%2F11bv6l8s_c!19sChIJWcdayi-x3pQRMSE7_KlF4WY",
+      "phone": "(47) 99116-6330",
+      "address": "R. dos Aimorés, 325 - Petrópolis, Joinville - SC, 89208-720",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MECÂNICA AUTOLINE",
+      "href": "https://www.google.com/maps/place/MEC%C3%82NICA+AUTOLINE/data=!4m7!3m6!1s0x94deb72f7df6503f:0x6203e2fad54c0a30!8m2!3d-26.3687281!4d-48.8465486!16s%2Fg%2F11fz9x53jm!19sChIJP1D2fS-33pQRMApM1friA2I",
+      "phone": "(47) 98827-5011",
+      "address": "R. Santa Catarina, 5516 - Santa Catarina, Joinville - SC, 89233-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TRICOAT Estética Automotiva",
+      "href": "https://www.google.com/maps/place/TRICOAT+Est%C3%A9tica+Automotiva/data=!4m7!3m6!1s0x94deb7912e445fad:0x4a462f97f56876ed!8m2!3d-26.3593656!4d-48.8315032!16s%2Fg%2F11mvw0d988!19sChIJrV9ELpG33pQR7XZo9ZcvRko",
+      "phone": "(47) 99929-2988",
+      "address": "Av. Paulo Schroeder, 12 - Boehmerwald, Joinville - SC, 89235-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Center Avenida",
+      "href": "https://www.google.com/maps/place/Auto+Center+Avenida/data=!4m7!3m6!1s0x94deb6d2e796758f:0xceb9eca2ff4a3a96!8m2!3d-26.3550124!4d-48.8316184!16s%2Fg%2F11bv3yfwpc!19sChIJj3WW59K23pQRljpK_6Lsuc4",
+      "phone": "(47) 3465-1653",
+      "address": "Av. Paulo Schroeder, 1665 - Boehmerwald, Joinville - SC, 89208-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MD Auto Center",
+      "href": "https://www.google.com/maps/place/MD+Auto+Center/data=!4m7!3m6!1s0x94deb6c5f0be2f17:0xd49fb14d37466bc4!8m2!3d-26.3615186!4d-48.8251655!16s%2Fg%2F11kn6y4r0k!19sChIJFy--8MW23pQRxGtGN02xn9Q",
+      "phone": "(47) 99144-8692",
+      "address": "R. Boehmerwald, 1276 - Boehmerwald, Joinville - SC, 89232-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BW Auto Center Itinga",
+      "href": "https://www.google.com/maps/place/BW+Auto+Center+Itinga/data=!4m7!3m6!1s0x94deb6ef27aa746b:0xf307fcf674d73f9!8m2!3d-26.3772755!4d-48.8272896!16s%2Fg%2F11bx45w3zp!19sChIJa3SqJ--23pQR-XNNZ89_MA8",
+      "phone": "(47) 3017-2266",
+      "address": "R. Waldemiro José Borges, 3145 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Constantino Auto Center",
+      "href": "https://www.google.com/maps/place/Constantino+Auto+Center/data=!4m7!3m6!1s0x94deb7064b9c2403:0x3c1d8004f7108f72!8m2!3d-26.3541521!4d-48.8144238!16s%2Fg%2F11h950hgjn!19sChIJAyScSwa33pQRco8Q9wSAHTw",
+      "phone": "(47) 98453-1290",
+      "address": "R. Augusto Salfer - João Costa, Joinville - SC, 89209-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Central Auto Center",
+      "href": "https://www.google.com/maps/place/Central+Auto+Center/data=!4m7!3m6!1s0x94deaf129b5d9ec9:0x4e8bb92b5b8a0eaf!8m2!3d-26.27425!4d-48.8295103!16s%2Fg%2F11n52qdz2z!19sChIJyZ5dmxKv3pQRrw6KWyu5i04",
+      "phone": "(47) 99701-0015",
+      "address": "Rua Baercker Wagner, 1567 - Iririú, Joinville - SC, 89227-071",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Brascar Auto Center e Peças",
+      "href": "https://www.google.com/maps/place/Brascar+Auto+Center+e+Pe%C3%A7as/data=!4m7!3m6!1s0x94deb6b88c5af055:0x9bd07a3333e77a0d!8m2!3d-26.3615363!4d-48.8185881!16s%2Fg%2F11clthdv9_!19sChIJVfBajLi23pQRDXrnMzN60Js",
+      "phone": "(47) 3466-1676",
+      "address": "R. Boehmerwald, 1845 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lacra Moto Center - Loja 02",
+      "href": "https://www.google.com/maps/place/Lacra+Moto+Center+-+Loja+02/data=!4m7!3m6!1s0x94deb7a912fe5983:0x69c4aa054837aa4!8m2!3d-26.36527!4d-48.829729!16s%2Fg%2F11v62nyv43!19sChIJg1n-Eqm33pQRpHqDVKBKnAY",
+      "phone": "(47) 3202-9527",
+      "address": "R. Adolfo da Veiga, 468 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JA Pneus e Auto Center",
+      "href": "https://www.google.com/maps/place/JA+Pneus+e+Auto+Center/data=!4m7!3m6!1s0x94deb1347814748b:0x3594f21912be4fcd!8m2!3d-26.3321843!4d-48.8225922!16s%2Fg%2F11hhvmmczn!19sChIJi3QUeDSx3pQRzU--EhnylDU",
+      "phone": "(47) 3202-9102",
+      "address": "R. Florianópolis, 2604 - Itaum, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica 3 de maio",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+3+de+maio/data=!4m7!3m6!1s0x94deb04958a649a1:0xdc4ad5c8f8b1df28!8m2!3d-26.3037457!4d-48.8448786!16s%2Fg%2F11f3zwlm3v!19sChIJoUmmWEmw3pQRKN-x-MjVStw",
+      "phone": "(47) 3422-2595",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Guanabara",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Guanabara/data=!4m7!3m6!1s0x94deb11b253d7d21:0xe969377022eb73c8!8m2!3d-26.3254104!4d-48.8326875!16s%2Fg%2F1pv5vmz7n!19sChIJIX09JRux3pQRyHPrInA3aek",
+      "phone": "(47) 3436-3603",
+      "address": "R. Guanabara, 573 - Guanabara, Joinville - SC, 89207-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Automotivo Itaum",
+      "href": "https://www.google.com/maps/place/Centro+Automotivo+Itaum/data=!4m7!3m6!1s0x94deb139d829f411:0xa64dcb3e54839ba5!8m2!3d-26.3407805!4d-48.822831!16s%2Fg%2F1ptyn1k4t!19sChIJEfQp2Dmx3pQRpZuDVD7LTaY",
+      "phone": "(47) 98401-4262",
+      "address": "R. Monsenhor Gercino, 3244 - Petrópolis, Joinville - SC, 89208-397",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Afonso Auto Mecânica",
+      "href": "https://www.google.com/maps/place/Afonso+Auto+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deb10dc7f90f23:0x14c95c9b2ef7a52!8m2!3d-26.3198969!4d-48.8234069!16s%2Fg%2F11bv30g_3x!19sChIJIw_5xw2x3pQRUnrvssmVTAE",
+      "phone": "(47) 3436-0523",
+      "address": "R. Prof. João Amaral, 1901 - Guanabara, Joinville - SC, 89207-597",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MSC Mecânica São Cristóvão",
+      "href": "https://www.google.com/maps/place/MSC+Mec%C3%A2nica+S%C3%A3o+Crist%C3%B3v%C3%A3o/data=!4m7!3m6!1s0x94deb027f8d2e7f1:0x33915d043983a442!8m2!3d-26.2824024!4d-48.8499961!16s%2Fg%2F11bv2f3vfw!19sChIJ8efS-Cew3pQRQqSDOQRdkTM",
+      "phone": "(47) 3435-1822",
+      "address": "R. Alm. Barroso, 683 - América, Joinville - SC, 89204-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica União",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Uni%C3%A3o/data=!4m7!3m6!1s0x94deb055ff02f5b5:0xacfb3d26edfe7517!8m2!3d-26.3193245!4d-48.8443679!16s%2Fg%2F11bv2bs766!19sChIJtfUC_1Ww3pQRF3X-7SY9-6w",
+      "phone": "(47) 3455-4055",
+      "address": "R. Cel. Francisco Gomes, 1045 - Bucarein, Joinville - SC, 89202-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gurske Auto Mecânica",
+      "href": "https://www.google.com/maps/place/Gurske+Auto+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deafa8aeeb66c3:0xaf822f3d15afe326!8m2!3d-26.2815276!4d-48.8547313!16s%2Fg%2F11fsx68lz6!19sChIJw2brrqiv3pQRJuOvFT0vgq8",
+      "phone": "(47) 3425-2294",
+      "address": "R. Visc. de Mauá, 1224 - América, Joinville - SC, 89204-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Merckle",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Merckle/data=!4m7!3m6!1s0x94deafd881d9bb77:0x61715ad736bf1869!8m2!3d-26.2831753!4d-48.8525208!16s%2Fg%2F11bv2gzjrp!19sChIJd7vZgdiv3pQRaRi_NtdacWE",
+      "phone": "(47) 3435-1704",
+      "address": "R. Machado de Assis, 123 - América, Joinville - SC, 89204-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Center H20",
+      "href": "https://www.google.com/maps/place/Auto+Center+H20/data=!4m7!3m6!1s0x94deb031e4b76909:0xc8856456b7dff915!8m2!3d-26.2911233!4d-48.8442992!16s%2Fg%2F1tf170df!19sChIJCWm35DGw3pQRFfnft1Zkhcg",
+      "phone": "(47) 3423-0821",
+      "address": "R. Orestes Guimarães, 720 - América, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "J&F Car Service",
+      "href": "https://www.google.com/maps/place/J%26F+Car+Service/data=!4m7!3m6!1s0x94deb3fe28b4793b:0x298d418682a412b4!8m2!3d-26.2864279!4d-48.8441368!16s%2Fg%2F11gy7_k_f5!19sChIJO3m0KP6z3pQRtBKkgoZBjSk",
+      "phone": "(47) 3031-2419",
+      "address": "R. Capinzal, 436 - América, Joinville - SC, 89204-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Selo Auto Center",
+      "href": "https://www.google.com/maps/place/Selo+Auto+Center/data=!4m7!3m6!1s0x94deb03492d445f3:0xc31b24211f15dd79!8m2!3d-26.2849006!4d-48.8400146!16s%2Fg%2F1ptxs1w7g!19sChIJ80XUkjSw3pQRed0VHyEkG8M",
+      "phone": "(47) 3026-5553",
+      "address": "R. Dona Francisca, 2128 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kaffkar",
+      "href": "https://www.google.com/maps/place/Kaffkar/data=!4m7!3m6!1s0x94deb731f6921565:0xc33b28a16536f77!8m2!3d-26.3649944!4d-48.8287745!16s%2Fg%2F11y1zrzjzy!19sChIJZRWS9jG33pQRd29TFoqyMww",
+      "phone": "(47) 99912-1776",
+      "address": "R. dos Economistas, 62 - Boehmerwald, Joinville - SC, 89235-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Sasse",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Sasse/data=!4m7!3m6!1s0x94deb06fbd09c691:0xf3ab965571e5a775!8m2!3d-26.3158773!4d-48.8680956!16s%2Fg%2F1tfvv2gr!19sChIJkcYJvW-w3pQRdaflcVWWq_M",
+      "phone": "(47) 3438-6134",
+      "address": "R. Palmares, 284 - Atiradores, Joinville - SC, 89203-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Jack Oficina de Pintura e Lataria",
+      "href": "https://www.google.com/maps/place/Auto+Jack+Oficina+de+Pintura+e+Lataria/data=!4m7!3m6!1s0x94deb06eb6616d4d:0x49c3ecfaf6ead1a7!8m2!3d-26.3130369!4d-48.8653409!16s%2Fg%2F11b8238kjw!19sChIJTW1htm6w3pQRp9Hq9vrsw0k",
+      "phone": "(47) 3422-4638",
+      "address": "R. Marajó, 515 - Atiradores, Joinville - SC, 89203-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina Diesel Joinville",
+      "href": "https://www.google.com/maps/place/Oficina+Diesel+Joinville/data=!4m7!3m6!1s0x94deafc581dbd3ff:0xd2ebba05e5b6b4c3!8m2!3d-26.3327388!4d-48.8601037!16s%2Fg%2F1tks7gbl!19sChIJ_9PbgcWv3pQRw7S25QW669I",
+      "phone": "(47) 3435-1550",
+      "address": "R. Américo Vespúcio, 206 - Floresta, Joinville - SC, 89213-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ortega's Garage",
+      "href": "https://www.google.com/maps/place/Ortega%27s+Garage/data=!4m7!3m6!1s0x94deb13edea604a9:0x6791b013bec7df92!8m2!3d-26.3134516!4d-48.8575377!16s%2Fg%2F11j7jhy2sy!19sChIJqQSm3j6x3pQRkt_HvhOwkWc",
+      "phone": "(47) 99263-4499",
+      "address": "R. Paraíba, 910 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "S3 Autoservice",
+      "href": "https://www.google.com/maps/place/S3+Autoservice/data=!4m7!3m6!1s0x94deb0fea342e875:0x42837c0d19164fe1!8m2!3d-26.3234102!4d-48.8436197!16s%2Fg%2F11ckqsvsjm!19sChIJdehCo_6w3pQR4U8WGQ18g0I",
+      "phone": "(47) 3426-5202",
+      "address": "rua Governador Aderbal Ramos da Silva, R. Manoel Pedro Torrens, 65 - Floresta, Joinville - SC, 89211-315",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto impacto oficina",
+      "href": "https://www.google.com/maps/place/Auto+impacto+oficina/data=!4m7!3m6!1s0x94deb18b9f365519:0xc299838ed6b32948!8m2!3d-26.3285082!4d-48.8177406!16s%2Fg%2F11sw17s8jb!19sChIJGVU2n4ux3pQRSCmz1o6DmcI",
+      "phone": "(47) 98929-2122",
+      "address": "R. Fátima, 1191 - Fátima, Joinville - SC, 89207-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lehm Auto Mecânica",
+      "href": "https://www.google.com/maps/place/Lehm+Auto+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deb6fedd72373f:0x5e433d3482b16182!8m2!3d-26.3520355!4d-48.8480415!16s%2Fg%2F11b678ph49!19sChIJPzdy3f623pQRgmGxgjQ9Q14",
+      "phone": "(47) 3436-0791",
+      "address": "R. Santa Catarina, 3240 - Santa Catarina, Joinville - SC, 89233-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OFICINA MECÂNICA OFFMEC",
+      "href": "https://www.google.com/maps/place/OFICINA+MEC%C3%82NICA+OFFMEC/data=!4m7!3m6!1s0x94dea5674841c173:0x2d64a8b89dd234c6!8m2!3d-26.2740078!4d-48.8793145!16s%2Fg%2F11byz7nhp1!19sChIJc8FBSGel3pQRxjTSnbioZC0",
+      "phone": "(47) 99996-1218",
+      "address": "Av. Alm. Jaceguay, 2891 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina Mecânica Voss",
+      "href": "https://www.google.com/maps/place/Oficina+Mec%C3%A2nica+Voss/data=!4m7!3m6!1s0x94deb0e4bbd81179:0x1481119b2e01ca42!8m2!3d-26.3300873!4d-48.8456048!16s%2Fg%2F1vbl8r8l!19sChIJeRHYu-Sw3pQRQsoBLpsRgRQ",
+      "phone": "(47) 3426-0731",
+      "address": "R. João Pinheiro, 95 - Floresta, Joinville - SC, 89211-605",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Allvess Mecânica Automotiva",
+      "href": "https://www.google.com/maps/place/Allvess+Mec%C3%A2nica+Automotiva/data=!4m7!3m6!1s0x94deb1cbf34817d7:0x158a6a4e4e2d2ca!8m2!3d-26.3307577!4d-48.84384!16s%2Fg%2F11mrxtcqnr!19sChIJ1xdI88ux3pQRytLi5KSmWAE",
+      "phone": "(47) 92003-4508",
+      "address": "R. Pres. Arthur Bernardes, 284 - Floresta, Joinville - SC, 89211-615",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Scholze",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Scholze/data=!4m7!3m6!1s0x94deb05d1b512ceb:0x30caea2271ff986b!8m2!3d-26.3170176!4d-48.8580239!16s%2Fg%2F1ydnqf91t!19sChIJ6yxRG12w3pQRa5j_cSLqyjA",
+      "phone": "(47) 3422-4194",
+      "address": "R. Concórdia, 635 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fast Car Centro automotivo",
+      "href": "https://www.google.com/maps/place/Fast+Car+Centro+automotivo/data=!4m7!3m6!1s0x94deb5e35eeb7b23:0x8a0bdfa43b569d7b!8m2!3d-26.3770709!4d-48.8238253!16s%2Fg%2F11nmhv40ws!19sChIJI3vrXuO13pQRe51WO6TfC4o",
+      "phone": "(47) 99952-1833",
+      "address": "R. Arthur Carlos Klug, 159 - Itinga, Joinville - SC, 89235-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A.S. Soluções Automotivas",
+      "href": "https://www.google.com/maps/place/A.S.+Solu%C3%A7%C3%B5es+Automotivas/data=!4m7!3m6!1s0x94deb1235c768c8f:0xa4cb1858e91871ff!8m2!3d-26.3811262!4d-48.8234835!16s%2Fg%2F11j0s128f8!19sChIJj4x2XCOx3pQR_3EY6VgYy6Q",
+      "phone": "(47) 99921-0043",
+      "address": "R. Waldemiro José Borges, 3695 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ANDE CAR",
+      "href": "https://www.google.com/maps/place/ANDE+CAR/data=!4m7!3m6!1s0x94deb74ded4751db:0x16f7a494dbcfc58f!8m2!3d-26.3757258!4d-48.8238825!16s%2Fg%2F11zgf1_0yq!19sChIJ21FH7U233pQRj8XP25Sk9xY",
+      "phone": "(47) 98865-4166",
+      "address": "R. Adolfo da Veiga, 1856 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica 17",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+17/data=!4m7!3m6!1s0x94deb118b7289459:0xae37182125aa0f84!8m2!3d-26.3345032!4d-48.8343575!16s%2Fg%2F1tc_gdnh!19sChIJWZQotxix3pQRhA-qJSEYN64",
+      "phone": "(47) 3436-1426",
+      "address": "R. Benedito Novo, 56 - Santa Catarina, Joinville - SC, 89210-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bravos Auto Center",
+      "href": "https://www.google.com/maps/place/Bravos+Auto+Center/data=!4m7!3m6!1s0x94deb1755d5865c5:0x9590d146d557f1c!8m2!3d-26.3225731!4d-48.844878!16s%2Fg%2F11z6lycbsk!19sChIJxWVYXXWx3pQRHH9VbRQNWQk",
+      "phone": "(47) 98498-3467",
+      "address": "R. Santa Catarina, 17 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sadi Racing e Auto Center Sadicar",
+      "href": "https://www.google.com/maps/place/Sadi+Racing+e+Auto+Center+Sadicar/data=!4m7!3m6!1s0x94deb7ea15a83475:0xe7252af7c0fbbc9d!8m2!3d-26.3456884!4d-48.8468394!16s%2Fg%2F11fjvzz6jq!19sChIJdTSoFeq33pQRnbz7wPcqJec",
+      "phone": "(47) 99147-5784",
+      "address": "R. Santa Catarina, 2473 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Latoaria e Pintura Machadinho Auto Center",
+      "href": "https://www.google.com/maps/place/Latoaria+e+Pintura+Machadinho+Auto+Center/data=!4m7!3m6!1s0x94deb15be38b920d:0x7a8abae367dddc21!8m2!3d-26.3369539!4d-48.8276087!16s%2Fg%2F11qb8nh9vt!19sChIJDZKL41ux3pQRIdzdZ-O6ino",
+      "phone": "(47) 98467-3659",
+      "address": "R. Monsenhor Gercino, 2572 - Itaum, Joinville - SC, 89210-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Torrens",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Torrens/data=!4m7!3m6!1s0x94deae28fce72947:0x3cef78b39291dae9!8m2!3d-26.3233794!4d-48.8544544!16s%2Fg%2F11gh35vyfy!19sChIJRynn_Ciu3pQR6dqRkrN47zw",
+      "phone": "(47) 98852-8946",
+      "address": "R. Anita Garibaldi, 1265 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Krelling",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Krelling/data=!4m7!3m6!1s0x94deb0572fb37ad7:0x23b41e3c80a633e3!8m2!3d-26.3161062!4d-48.8477003!16s%2Fg%2F11b81v0mp1!19sChIJ13qzL1ew3pQR4zOmgDwetCM",
+      "phone": "(47) 99991-0628",
+      "address": "R. Eugênio Moreira, 574 - Anita Garibaldi, Joinville - SC, 89202-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica TioAdry",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+TioAdry/data=!4m7!3m6!1s0x94deb0e19ec8fa05:0x925df84abe712660!8m2!3d-26.3189768!4d-48.8595337!16s%2Fg%2F1td6z83l!19sChIJBfrInuGw3pQRYCZxvkr4XZI",
+      "phone": "(47) 99119-1888",
+      "address": "R. Concórdia, 920 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "borracharia movel",
+      "href": "https://www.google.com/maps/place/borracharia+movel/data=!4m7!3m6!1s0x94deb1ef69c2d1df:0x2756840544f9df5b!8m2!3d-26.3243671!4d-48.8567257!16s%2Fg%2F11v5rstxxs!19sChIJ39HCae-x3pQRW9_5RAWEVic",
+      "phone": "(47) 98432-5563",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CENTRO AUTOMOTIVO BERTOLI",
+      "href": "https://www.google.com/maps/place/CENTRO+AUTOMOTIVO+BERTOLI/data=!4m7!3m6!1s0x94deb060ee58b5e1:0x804c8492aa394064!8m2!3d-26.3240577!4d-48.8613576!16s%2Fg%2F1ptzk1x6y!19sChIJ4bVY7mCw3pQRZEA5qpKETIA",
+      "phone": "(47) 3455-2124",
+      "address": "R. João Enterlein, 49 - Anita Garibaldi, Joinville - SC, 89203-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Dalchau",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Dalchau/data=!4m7!3m6!1s0x94deb0651dd751bb:0x83b32fe2a8e9b3a5!8m2!3d-26.3197442!4d-48.868612!16s%2Fg%2F1tfts78c!19sChIJu1HXHWWw3pQRpbPpqOIvs4M",
+      "phone": "(47) 3438-8180",
+      "address": "R. Hermann Metz, 130 - Anita Garibaldi, Joinville - SC, 89203-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Euroempodico Oficina Mecânicas",
+      "href": "https://www.google.com/maps/place/Euroempodico+Oficina+Mec%C3%A2nicas/data=!4m7!3m6!1s0x94deb0601b33fe73:0x458f1e476a6725fd!8m2!3d-26.3241269!4d-48.8597661!16s%2Fg%2F1tjjqjbp!19sChIJc_4zG2Cw3pQR_SVnakcej0U",
+      "phone": "(47) 3422-2607",
+      "address": "R. Anita Garibaldi, 1828 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Mensor",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Mensor/data=!4m7!3m6!1s0x94deb0d0871bd6bb:0x365a516acf6b5b2a!8m2!3d-26.3221448!4d-48.867615!16s%2Fg%2F11b6hsxtvf!19sChIJu9Ybh9Cw3pQRKltrz2pRWjY",
+      "phone": "(47) 3465-2915",
+      "address": "R. Bagé, 342 - Anita Garibaldi, Joinville - SC, 89203-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Tiradentes",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Tiradentes/data=!4m7!3m6!1s0x94deb0f7ce08ecb9:0x5d2d6ec24bf3f00a!8m2!3d-26.3227295!4d-48.8514241!16s%2Fg%2F1th7p0yz!19sChIJuewIzvew3pQRCvDzS8JuLV0",
+      "phone": "(47) 3426-1960",
+      "address": "Rua Tiradentes, 670 - Floresta, Joinville - SC, 89203-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DukesV8",
+      "href": "https://www.google.com/maps/place/DukesV8/data=!4m7!3m6!1s0x94deb050625b799b:0x2802c93141aca769!8m2!3d-26.3183916!4d-48.849424!16s%2Fg%2F11cs3v5w2v!19sChIJm3lbYlCw3pQRaaesQTHJAig",
+      "phone": "(47) 99990-4557",
+      "address": "R. Anita Garibaldi, 509 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rodrigo Guincho - Anita Garibaldi - Joinville / SC",
+      "href": "https://www.google.com/maps/place/Rodrigo+Guincho+-+Anita+Garibaldi+-+Joinville+%2F+SC/data=!4m7!3m6!1s0x94deb18691613dcb:0x3c6f6464160e24ac!8m2!3d-26.3245947!4d-48.8641905!16s%2Fg%2F11p5jlrktf!19sChIJyz1hkYax3pQRrCQOFmRkbzw",
+      "phone": "(47) 99916-8680",
+      "address": "R. Anita Garibaldi - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RC Centro Automotivo e Estacionamento",
+      "href": "https://www.google.com/maps/place/RC+Centro+Automotivo+e+Estacionamento/data=!4m7!3m6!1s0x94deb058e7e62f3d:0x24cfe2c4ab0cb92e!8m2!3d-26.3205694!4d-48.8535086!16s%2Fg%2F11dzsw992w!19sChIJPS_m51iw3pQRLrkMq8TizyQ",
+      "phone": "(47) 99633-5848",
+      "address": "R. Henrique Dias, 255 - Anita Garibaldi, Joinville - SC, 89203-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anita Ferro velho e Auto Parts",
+      "href": "https://www.google.com/maps/place/Anita+Ferro+velho+e+Auto+Parts/data=!4m7!3m6!1s0x94deb06039b3c2cd:0x1ef0135cc8650c95!8m2!3d-26.324208!4d-48.8616486!16s%2Fg%2F11ggr9f7zm!19sChIJzcKzOWCw3pQRlQxlyFwT8B4",
+      "phone": "(47) 3438-2243",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Martelinho de Ouro Arte Risco",
+      "href": "https://www.google.com/maps/place/Martelinho+de+Ouro+Arte+Risco/data=!4m7!3m6!1s0x94deb0582cdd1bc3:0x927ff08e0532f2e9!8m2!3d-26.3182267!4d-48.8492202!16s%2Fg%2F1tnpm4jp!19sChIJwxvdLFiw3pQR6fIyBY7wf5I",
+      "phone": "(47) 3455-4105",
+      "address": "R. Anita Garibaldi, 481 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Farroupilha",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Farroupilha/data=!4m7!3m6!1s0x94deb0fa7a24fd3f:0xb5f6b56bdfbbdef5!8m2!3d-26.3285454!4d-48.8500948!16s%2Fg%2F1ptzyk1s2!19sChIJP_0kevqw3pQR9d6732u19rU",
+      "phone": "(47) 3436-0490",
+      "address": "R. Guarani, 257 - Floresta, Joinville - SC, 89211-335",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stang",
+      "href": "https://www.google.com/maps/place/Stang/data=!4m7!3m6!1s0x94deb0573f7bd9f5:0x13a19f7346e51631!8m2!3d-26.3168772!4d-48.8485173!16s%2Fg%2F11wj6gqnm5!19sChIJ9dl7P1ew3pQRMRblRnOfoRM",
+      "phone": "(47) 3028-4138",
+      "address": "R. Anita Garibaldi, 320 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lavação Anita",
+      "href": "https://www.google.com/maps/place/Lava%C3%A7%C3%A3o+Anita/data=!4m7!3m6!1s0x94deb1473e66e019:0xa9b24b5194434165!8m2!3d-26.3220617!4d-48.8534395!16s%2Fg%2F11rkftf2z5!19sChIJGeBmPkex3pQRZUFDlFFLsqk",
+      "phone": "(47) 98815-3686",
+      "address": "R. Anita Garibaldi, 1099 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MDI Usinagem",
+      "href": "https://www.google.com/maps/place/MDI+Usinagem/data=!4m7!3m6!1s0x94deb1d01639a36d:0x53da1794148efdac!8m2!3d-26.3239991!4d-48.8549362!16s%2Fg%2F11smrh23x4!19sChIJbaM5FtCx3pQRrP2OFJQX2lM",
+      "phone": "(47) 99276-8516",
+      "address": "R. Anita Garibaldi, 1345 - Sala 2 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Otto's Garage",
+      "href": "https://www.google.com/maps/place/Otto%27s+Garage/data=!4m7!3m6!1s0x94deb10047e76a0d:0xe08fbad3db518b28!8m2!3d-26.3125048!4d-48.856789!16s%2Fg%2F11vz6781z2!19sChIJDWrnRwCx3pQRKItR29O6j-A",
+      "phone": "(47) 99926-7733",
+      "address": "R. Porto União, 1259 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto BOSS Soluções Automotivas",
+      "href": "https://www.google.com/maps/place/Auto+BOSS+Solu%C3%A7%C3%B5es+Automotivas/data=!4m7!3m6!1s0x94deb1054108464f:0xfd52cf645f9d5b1d!8m2!3d-26.3224847!4d-48.8581528!16s%2Fg%2F11jmfzht8r!19sChIJT0YIQQWx3pQRHVudX2TPUv0",
+      "phone": "(47) 99245-0505",
+      "address": "R. Max Heiden, 334 - Anita Garibaldi, Joinville - SC, 89203-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Car Care estética automotiva",
+      "href": "https://www.google.com/maps/place/Car+Care+est%C3%A9tica+automotiva/data=!4m7!3m6!1s0x94deb1245edbdae9:0xef75584349a118a6!8m2!3d-26.3111441!4d-48.8486647!16s%2Fg%2F11fkdvr9_6!19sChIJ6drbXiSx3pQRphihSUNYde8",
+      "phone": "(47) 99983-1367",
+      "address": "R. Miguel Couto, número 51 - Anita Garibaldi, Joinville - SC, 89202-190",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marquinhos Auto Elétrica",
+      "href": "https://www.google.com/maps/place/Marquinhos+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x94deb10070a78ce7:0x612fb5bf126c6bcb!8m2!3d-26.317968!4d-48.8499265!16s%2Fg%2F11wc30x32x!19sChIJ54yncACx3pQRy2tsEr-1L2E",
+      "phone": "(47) 99994-1091",
+      "address": "R. Anita Garibaldi, 500 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sommer Conserto de Teto Solar",
+      "href": "https://www.google.com/maps/place/Sommer+Conserto+de+Teto+Solar/data=!4m7!3m6!1s0x94deb70bd276a50d:0x628328b31ab5ecca!8m2!3d-26.3243849!4d-48.8557839!16s%2Fg%2F11tc1r9wd0!19sChIJDaV20gu33pQRyuy1GrMog2I",
+      "phone": "(47) 99173-9576",
+      "address": "R. Anita Garibaldi, 1433 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Place Car Sound - Autosom - Autosound - Películas - Shopping Big",
+      "href": "https://www.google.com/maps/place/Place+Car+Sound+-+Autosom+-+Autosound+-+Pel%C3%ADculas+-+Shopping+Big/data=!4m7!3m6!1s0x94deb0f8d816387d:0xe6a109b53446c9d3!8m2!3d-26.3213636!4d-48.8453481!16s%2Fg%2F1tcw4s96!19sChIJfTgW2Piw3pQR08lGNLUJoeY",
+      "phone": "(47) 3455-0418",
+      "address": "R. Leite Ribeiro, 38 - Anita Garibaldi, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rota Car Limpeza Automotiva/Baterias/Transportes",
+      "href": "https://www.google.com/maps/place/Rota+Car+Limpeza+Automotiva%2FBaterias%2FTransportes/data=!4m7!3m6!1s0x94deb198424f8767:0xf68fb2da06c22ea7!8m2!3d-26.3245307!4d-48.8653997!16s%2Fg%2F11fb0qcx65!19sChIJZ4dPQpix3pQRpy7CBtqyj_Y",
+      "phone": "(47) 99129-3219",
+      "address": "R. Anita Garibaldi, 2.404 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SF Mecânica",
+      "href": "https://www.google.com/maps/place/SF+Mec%C3%A2nica/data=!4m7!3m6!1s0x94deafd657b5d473:0xc559cd1649be51e4!8m2!3d-26.2784871!4d-48.8465822!16s%2Fg%2F1tmpx3q4!19sChIJc9S1V9av3pQR5FG-SRbNWcU",
+      "phone": "(47) 99699-2564",
+      "address": "R. Fortaleza, 56 - Saguaçu, Joinville - SC, 89221-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica S3 Ltda",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+S3+Ltda/data=!4m7!3m6!1s0x94deae2bb3155c21:0x3cfb89c174729396!8m2!3d-26.2752772!4d-48.8363844!16s%2Fg%2F1tf6hswt!19sChIJIVwVsyuu3pQRlpNydMGJ-zw",
+      "phone": "(47) 3437-1996",
+      "address": "R. Francisco Nicodemus, 235 - Saguaçu, Joinville - SC, 89222-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FS Reparação Automotiva",
+      "href": "https://www.google.com/maps/place/FS+Repara%C3%A7%C3%A3o+Automotiva/data=!4m7!3m6!1s0x94deaf8bffde3c83:0x7fcc5f1ee4460498!8m2!3d-26.2751823!4d-48.836322!16s%2Fg%2F11kw8xxd36!19sChIJgzze_4uv3pQRmARG5B5fzH8",
+      "phone": "(47) 3305-9339",
+      "address": "R. Francisco Nicodemus, 235 fundos - Saguaçu, Joinville - SC, 89222-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina do Neco",
+      "href": "https://www.google.com/maps/place/Oficina+do+Neco/data=!4m7!3m6!1s0x94deb138cd0055c9:0x2de9e591f73b68db!8m2!3d-26.2879204!4d-48.8387382!16s%2Fg%2F11pwrxkkqv!19sChIJyVUAzTix3pQR22g795Hl6S0",
+      "phone": "(47) 98426-6295",
+      "address": "R. Castro Alves, 208 - Saguaçu, Joinville - SC, 89221-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Róde",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+R%C3%B3de/data=!4m7!3m6!1s0x94deae294afb9347:0xcfcec27ac778b2d8!8m2!3d-26.2707417!4d-48.8343638!16s%2Fg%2F1tj813c8!19sChIJR5P7Simu3pQR2LJ4x3rCzs8",
+      "phone": "(47) 99974-6158",
+      "address": "R. Francisco Gomes de Oliveira, 430 - Saguaçu, Joinville - SC, 89221-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Gabarito",
+      "href": "https://www.google.com/maps/place/Auto+Gabarito/data=!4m7!3m6!1s0x94deb02b5e126a3d:0xc21c147d8e8052f6!8m2!3d-26.2837604!4d-48.8410791!16s%2Fg%2F11bv2lg6hb!19sChIJPWoSXiuw3pQR9lKAjn0UHMI",
+      "phone": "(47) 3427-3397",
+      "address": "R. Dona Francisca, 2257 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina Mecânica Aleixo",
+      "href": "https://www.google.com/maps/place/Oficina+Mec%C3%A2nica+Aleixo/data=!4m7!3m6!1s0x94deae2b573afc37:0xd3a220d827a35069!8m2!3d-26.2739008!4d-48.8390581!16s%2Fg%2F1tcxqts3!19sChIJN_w6Vyuu3pQRaVCjJ9ggotM",
+      "phone": "(47) 3435-0286",
+      "address": "R. Prof. Teodoro Lauer, 46 - Saguaçu, Joinville - SC, 89221-555",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tec Auto Soluções Automotivas",
+      "href": "https://www.google.com/maps/place/Tec+Auto+Solu%C3%A7%C3%B5es+Automotivas/data=!4m7!3m6!1s0x94deb02caab6c045:0xf75a84222940813c!8m2!3d-26.2830707!4d-48.8375883!16s%2Fg%2F1ptyr82j7!19sChIJRcC2qiyw3pQRPIFAKSKEWvc",
+      "phone": "(47) 3029-0105",
+      "address": "R. Carlos Benack, 46 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ribas Eletromecânicas",
+      "href": "https://www.google.com/maps/place/Ribas+Eletromec%C3%A2nicas/data=!4m7!3m6!1s0x94deafd0e9723b33:0x99fd38baaa872e6a!8m2!3d-26.2754106!4d-48.848168!16s%2Fg%2F11f3xg57fn!19sChIJMzty6dCv3pQRai6Hqro4_Zk",
+      "phone": "(47) 3028-7402",
+      "address": "R. Coelho Neto, 14 - Saguaçu, Joinville - SC, 89221-363",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DKR OFICINA MECÂNICA",
+      "href": "https://www.google.com/maps/place/DKR+OFICINA+MEC%C3%82NICA/data=!4m7!3m6!1s0x94deb00bd3f7445f:0x1d4c5647bc6a5297!8m2!3d-26.2770834!4d-48.8408425!16s%2Fg%2F11c3l9rdv2!19sChIJX0T30wuw3pQRl1JqvEdWTB0",
+      "phone": "(47) 98455-0287",
+      "address": "R. Indaial, 518 - Saguaçu, Joinville - SC, 89221-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Multicarros",
+      "href": "https://www.google.com/maps/place/Multicarros/data=!4m7!3m6!1s0x94deb1d38a942717:0xaa0c855e0bf8b0fd!8m2!3d-26.2826142!4d-48.8374567!16s%2Fg%2F1w0h8nqj!19sChIJFyeUitOx3pQR_bD4C16FDKo",
+      "phone": "(47) 3472-1975",
+      "address": "R. Carlos Benack, 355 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Villo",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Villo/data=!4m7!3m6!1s0x94deafd2da814dd3:0x5d6e384b95183aac!8m2!3d-26.2714815!4d-48.8400743!16s%2Fg%2F1yfjmyz4s!19sChIJ002B2tKv3pQRrDoYlUs4bl0",
+      "phone": "(47) 3425-4274",
+      "address": "R. João Pieper, 170 - Saguaçu, Joinville - SC, 89222-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Juninho mecânico",
+      "href": "https://www.google.com/maps/place/Juninho+mec%C3%A2nico/data=!4m7!3m6!1s0x94deb13fe947a2f1:0x3f2668a790d19600!8m2!3d-26.2816894!4d-48.8402823!16s%2Fg%2F11njbx79yf!19sChIJ8aJH6T-x3pQRAJbRkKdoJj8",
+      "phone": "(47) 99951-6865",
+      "address": "R. Itapiranga, 178 - Saguaçu, Joinville - SC, 89221-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica AWA",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+AWA/data=!4m7!3m6!1s0x94deafba5d0a4dcf:0xcd9ab3ac62891842!8m2!3d-26.2745729!4d-48.8483278!16s%2Fg%2F11y65640v5!19sChIJz00KXbqv3pQRQhiJYqyzms0",
+      "phone": "(47) 98855-0191",
+      "address": "R. Dona Francisca, 3500 - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Elicar",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Elicar/data=!4m7!3m6!1s0x94deaf8367a385c5:0x35ea7c6916653a3c!8m2!3d-26.2713245!4d-48.8331325!16s%2Fg%2F11ghdrytdd!19sChIJxYWjZ4Ov3pQRPDplFml86jU",
+      "phone": "(47) 3437-2977",
+      "address": "R. Piratuba, 309 - Saguaçu, Joinville - SC, 89227-075",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oficina Soares Bosch Diesel Center",
+      "href": "https://www.google.com/maps/place/Oficina+Soares+Bosch+Diesel+Center/data=!4m7!3m6!1s0x94deb02caa57c8cf:0xc8cb1548a4225068!8m2!3d-26.2827843!4d-48.8379426!16s%2Fg%2F1xg5tv46!19sChIJz8hXqiyw3pQRaFAipEgVy8g",
+      "phone": "(47) 3031-8282",
+      "address": "R. Carlos Benack, 47 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "King Auto Peças",
+      "href": "https://www.google.com/maps/place/King+Auto+Pe%C3%A7as/data=!4m7!3m6!1s0x94deb719596fff17:0xfdbb5252f5fc0416!8m2!3d-26.3786486!4d-48.8255549!16s%2Fg%2F11z13h1731!19sChIJF_9vWRm33pQRFgT89VJSu_0",
+      "phone": "(47) 99739-6726",
+      "address": "R. Waldemiro José Borges, 3425 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GARAGE SOUND CAR",
+      "href": "https://www.google.com/maps/place/GARAGE+SOUND+CAR/data=!4m7!3m6!1s0x94deb6f3b0518995:0x1640b740318cb6e9!8m2!3d-26.3765885!4d-48.8274592!16s%2Fg%2F11cn92m8wg!19sChIJlYlRsPO23pQR6baMMUC3QBY",
+      "phone": "(47) 99696-2171",
+      "address": "R. Carlos Emílio Alexandre Schwartz, 55 - Itinga, Joinville - SC, 89235-188",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Carro e Cia",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Carro+e+Cia/data=!4m7!3m6!1s0x94deb146a7791c9b:0x4ddfb8d1245d07c1!8m2!3d-26.3340047!4d-48.8145956!16s%2Fg%2F11bv3v95bm!19sChIJmxx5p0ax3pQRwQddJNG4300",
+      "phone": "(47) 99109-5498",
+      "address": "R. Florianópolis, 3158 - Jarivatuba, Joinville - SC, 89230-065",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Viniks",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Viniks/data=!4m7!3m6!1s0x94deb0e615dbace1:0xc512cdc7f2268200!8m2!3d-26.3366599!4d-48.848849!16s%2Fg%2F11cnc0p1c4!19sChIJ4azbFeaw3pQRAIIm8sfNEsU",
+      "phone": "(47) 3426-4640",
+      "address": "R. Ipanema, 115 - Floresta, Joinville - SC, 89211-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carj Centro Automotivo Joinville",
+      "href": "https://www.google.com/maps/place/Carj+Centro+Automotivo+Joinville/data=!4m7!3m6!1s0x94deb158c98ce5fd:0x12337b750aeee8ee!8m2!3d-26.3207578!4d-48.8147829!16s%2Fg%2F11mly96kbq!19sChIJ_eWMyVix3pQR7ujuCnV7MxI",
+      "phone": "(47) 99137-7503",
+      "address": "R. Guanabara, 2720 - Fátima, Joinville - SC, 89229-112",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Sandro Stachon",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Sandro+Stachon/data=!4m7!3m6!1s0x94deb0e8ce7f678b:0xcf05d60a201fc7b3!8m2!3d-26.3367602!4d-48.8515598!16s%2Fg%2F11f0_cgq7p!19sChIJi2d_zuiw3pQRs8cfIArWBc8",
+      "phone": "(47) 3465-0228",
+      "address": "R. Ipanema, 495 - Floresta, Joinville - SC, 89211-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "House Meurer Estética Automotiva",
+      "href": "https://www.google.com/maps/place/House+Meurer+Est%C3%A9tica+Automotiva/data=!4m7!3m6!1s0x94deb70b806f2055:0xef870c5f7961a417!8m2!3d-26.3713574!4d-48.819732!16s%2Fg%2F11kpzrfh7_!19sChIJVSBvgAu33pQRF6RheV8Mh-8",
+      "phone": "(47) 99211-9766",
+      "address": "R. Juliano Busarello - Boehmerwald, Joinville - SC, 89235-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TGC Borracharia e Bicicletaria",
+      "href": "https://www.google.com/maps/place/TGC+Borracharia+e+Bicicletaria/data=!4m7!3m6!1s0x94deb1cabd2cfc7d:0xd8a488c29f6ea8d1!8m2!3d-26.2810526!4d-48.8375894!16s%2Fg%2F11rxg8zqmj!19sChIJffwsvcqx3pQR0ahun8KIpNg",
+      "phone": "(47) 99900-9087",
+      "address": "R. Iririú, 444 - Saguaçu, Joinville - SC, 89221-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Passos",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Passos/data=!4m7!3m6!1s0x94deaffaefffffff:0x2dce79ede5de0151!8m2!3d-26.2840306!4d-48.8718629!16s%2Fg%2F1td3sn9m!19sChIJ____7_qv3pQRUQHe5e15zi0",
+      "phone": "(47) 3425-2523",
+      "address": "R. Engelberto Hagelmann, 88 - Costa e Silva, Joinville - SC, 89217-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Irmãos Schmidt Oficina Mecânica Automotiva",
+      "href": "https://www.google.com/maps/place/Irm%C3%A3os+Schmidt+Oficina+Mec%C3%A2nica+Automotiva/data=!4m7!3m6!1s0x94deaf68c6a1cde5:0xbb2aea9fda168440!8m2!3d-26.2702878!4d-48.8752988!16s%2Fg%2F11rst7j2k_!19sChIJ5c2hxmiv3pQRQIQW2p_qKrs",
+      "phone": "(47) 98409-3759",
+      "address": "R. Canário-Belga, 296 - Costa e Silva, Joinville - SC, 89220-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Scala Auto Peças e Mecânica de veículos",
+      "href": "https://www.google.com/maps/place/Scala+Auto+Pe%C3%A7as+e+Mec%C3%A2nica+de+ve%C3%ADculos/data=!4m7!3m6!1s0x94deaf8db58d80d5:0x44699d0935fc0931!8m2!3d-26.2669944!4d-48.8721508!16s%2Fg%2F1ptw242gq!19sChIJ1YCNtY2v3pQRMQn8NQmdaUQ",
+      "phone": "(47) 3435-5535",
+      "address": "Rua Otto Pfuetzenreuter, 806 - Costa e Silva, Joinville - SC, 89219-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ferreira Auto Center",
+      "href": "https://www.google.com/maps/place/Ferreira+Auto+Center/data=!4m7!3m6!1s0x94deafeb4ec5587f:0x67899f8c4f3a43c2!8m2!3d-26.2682426!4d-48.8638085!16s%2Fg%2F1ptvqc660!19sChIJf1jFTuuv3pQRwkM6T4yfiWc",
+      "phone": "(47) 3435-3933",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 463 - Costa e Silva, Joinville - SC, 89319-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica JL",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+JL/data=!4m7!3m6!1s0x94deafaa55aed86b:0x1585cff9d958e531!8m2!3d-26.2845899!4d-48.8735514!16s%2Fg%2F11z8hg_lbc!19sChIJa9iuVaqv3pQRMeVY2fnPhRU",
+      "phone": "(47) 99942-0059",
+      "address": "ESQUINA COM - RUA MAX LEPPER, R. Benjamin Constant, 2830 - Costa e Silva, Joinville - SC, 89217-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Hoff",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+Hoff/data=!4m7!3m6!1s0x94deaf92593b7fb9:0xc2642bdb309c2309!8m2!3d-26.266399!4d-48.8684888!16s%2Fg%2F1tq6l6px!19sChIJuX87WZKv3pQRCSOcMNsrZMI",
+      "phone": "(47) 3435-3391",
+      "address": "R. Hermann Lange, 220 - Costa e Silva, Joinville - SC, 89219-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Mecânica Mário",
+      "href": "https://www.google.com/maps/place/Auto+Mec%C3%A2nica+M%C3%A1rio/data=!4m7!3m6!1s0x94dea55fc48f1837:0xafa8986bf20b36ec!8m2!3d-26.2750079!4d-48.8814943!16s%2Fg%2F1tyyy85y!19sChIJNxiPxF-l3pQR7DYL8muYqK8",
+      "phone": "(47) 3473-6699",
+      "address": "R. Albatroz, 151 - Costa e Silva, Joinville - SC, 89220-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mineiro Car",
+      "href": "https://www.google.com/maps/place/Mineiro+Car/data=!4m7!3m6!1s0x94deaf046ed886b1:0xa2cdeb3fddbc9041!8m2!3d-26.2812114!4d-48.8733902!16s%2Fg%2F11fp1l9z1r!19sChIJsYbYbgSv3pQRQZC83T_rzaI",
+      "phone": "(47) 3027-2471",
+      "address": "R. Max Lepper, 388 - Costa e Silva, Joinville - SC, 89217-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Cebolinha",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+Cebolinha/data=!4m7!3m6!1s0x94deafa9b9113d77:0x13feca2db143753b!8m2!3d-26.2743791!4d-48.8782855!16s%2Fg%2F11fdy4z_y9!19sChIJdz0Ruamv3pQRO3VDsS3K_hM",
+      "phone": "(47) 3425-3912",
+      "address": "R. Águia, 114 - Costa e Silva, Joinville - SC, 89220-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica Jóia",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+J%C3%B3ia/data=!4m7!3m6!1s0x94deaf8c2eeaac35:0xea25e0e6830f2e01!8m2!3d-26.2663109!4d-48.8728394!16s%2Fg%2F11bv6pxhw_!19sChIJNazqLoyv3pQRAS4Pg-bgJeo",
+      "phone": "(47) 3028-5256",
+      "address": "Rua Otto Pfuetzenreuter, 863 - Costa e Silva, Joinville - SC, 89219-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mecânica do Lúcio",
+      "href": "https://www.google.com/maps/place/Mec%C3%A2nica+do+L%C3%BAcio/data=!4m7!3m6!1s0x94dea565d40fe1d1:0x1d71d4ccab57df9a!8m2!3d-26.2679156!4d-48.8906726!16s%2Fg%2F11bv5t4f7f!19sChIJ0eEP1GWl3pQRmt9Xq8zUcR0",
+      "phone": "(47) 99104-1472",
+      "address": "R. Jacob, 253 - Costa e Silva, Joinville - SC, 89220-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Wanted Car Service",
+      "href": "https://www.google.com/maps/place/Wanted+Car+Service/data=!4m7!3m6!1s0x94dea50069a0ac77:0x774205cda0171166!8m2!3d-26.2653657!4d-48.8918964!16s%2Fg%2F11wy0fn0qd!19sChIJd6ygaQCl3pQRZhEXoM0FQnc",
+      "phone": "(47) 99682-7021",
+      "address": "R. Rui Barbosa, 3241 - Costa e Silva, Joinville - SC, 89220-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "House Car Centro Automotivo",
+      "href": "https://www.google.com/maps/place/House+Car+Centro+Automotivo/data=!4m7!3m6!1s0x94dea57cc82db677:0x7e42c58fc6c1d551!8m2!3d-26.2644522!4d-48.8839104!16s%2Fg%2F12cp8_47y!19sChIJd7YtyHyl3pQRUdXBxo_FQn4",
+      "phone": "(47) 3034-5001",
+      "address": "R. Rui Barbosa, 2351 - Costa e Silva, Joinville - SC, 89220-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ronaldo Francisco dos Passos",
+      "href": "https://www.google.com/maps/place/Ronaldo+Francisco+dos+Passos/data=!4m7!3m6!1s0x94deaffb73ef4ad7:0x9bdf750cf3b104fb!8m2!3d-26.2839511!4d-48.8718889!16s%2Fg%2F1ptwct6wb!19sChIJ10rvc_uv3pQR-wSx8wx135s",
+      "phone": "(47) 3028-1741",
+      "address": "R. Engelberto Hagelmann, 88 - Costa e Silva, Joinville - SC, 89217-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

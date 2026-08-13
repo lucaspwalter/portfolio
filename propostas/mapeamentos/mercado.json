@@ -1,0 +1,715 @@
+{
+  "id": "mercado",
+  "nome": "Mercado",
+  "terms": [
+    "mercado",
+    "supermercado",
+    "minimercado",
+    "mercearia"
+  ],
+  "profiles": 245,
+  "qualified": [
+    {
+      "name": "Mercado Zeu S.O.S. 24h",
+      "href": "https://www.google.com/maps/place/Mercado+Zeu+S.O.S.+24h/data=!4m7!3m6!1s0x94deb739bc099715:0xe79141dec38e39c7!8m2!3d-26.3678969!4d-48.8288559!16s%2Fg%2F11qzyz_xmq!19sChIJFZcJvDm33pQRxzmOw95Bkec",
+      "phone": "(47) 99601-3917",
+      "address": "R. Adolfo da Veiga, 660 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Kemper 2",
+      "href": "https://www.google.com/maps/place/Mercado+Kemper+2/data=!4m7!3m6!1s0x94deb6c4e12ed93f:0xae5763c3c2049126!8m2!3d-26.365154!4d-48.8296547!16s%2Fg%2F11bvctz0wk!19sChIJP9ku4cS23pQRJpEEwsNjV64",
+      "phone": "(47) 98890-1494",
+      "address": "R. Adolfo da Veiga, 488 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kauâm Supermercado",
+      "href": "https://www.google.com/maps/place/Kau%C3%A2m+Supermercado/data=!4m7!3m6!1s0x94deb6c3ab883b7d:0x691839d8d29a1074!8m2!3d-26.3686791!4d-48.8269429!16s%2Fg%2F11b73ssst2!19sChIJfTuIq8O23pQRdBCa0tg5GGk",
+      "phone": "(47) 3454-7467",
+      "address": "R. Attílio Vinotti, 27 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Escolinha",
+      "href": "https://www.google.com/maps/place/Mercado+Escolinha/data=!4m7!3m6!1s0x94deb7a1ebf7db67:0x90e82d667fd61a1c!8m2!3d-26.365154!4d-48.8296547!16s%2Fg%2F11mvr8w6sm!19sChIJZ9v366G33pQRHBrWf2Yt6JA",
+      "phone": "(47) 3278-6145",
+      "address": "Adolfo da Veiga, R. Constantino Caetano, 488 - Escolinha, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Super Bom",
+      "href": "https://www.google.com/maps/place/Supermercado+Super+Bom/data=!4m7!3m6!1s0x94deb1979b485e8f:0x6052934ab9ac757c!8m2!3d-26.3519497!4d-48.8297199!16s%2Fg%2F11tnhk1mmd!19sChIJj15Im5ex3pQRfHWsuUqTUmA",
+      "phone": "(47) 99121-1620",
+      "address": "R. Nilza Maria Santana de Moraes, 74 - Petrópolis, Joinville - SC, 89208-795",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vizinhão Atacarejo",
+      "href": "https://www.google.com/maps/place/Vizinh%C3%A3o+Atacarejo/data=!4m7!3m6!1s0x94deb7a7cd87fc6f:0xd263acc4254ba1dc!8m2!3d-26.3621122!4d-48.8118247!16s%2Fg%2F11kmst6823!19sChIJb_yHzae33pQR3KFLJcSsY9I",
+      "phone": "(47) 3465-1688",
+      "address": "R. Boehmerwald, 2282 - Parque Guarani, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Popular",
+      "href": "https://www.google.com/maps/place/Mercado+Popular/data=!4m7!3m6!1s0x94deb6d46c2ea25d:0x2d9db48f2304f0c!8m2!3d-26.358432!4d-48.835701!16s%2Fg%2F1tn06ytt!19sChIJXaIubNS23pQRDE8w8kjb2QI",
+      "phone": "(47) 3465-6981",
+      "address": "R. Cidade de Arco Verde, 315 - Boehmerwald, Joinville - SC, 89232-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado João Costa",
+      "href": "https://www.google.com/maps/place/Mercado+Jo%C3%A3o+Costa/data=!4m7!3m6!1s0x94deb6b5434fbeab:0xd7b26fd743dfa8aa!8m2!3d-26.3502862!4d-48.8189742!16s%2Fg%2F11bv5sl_nn!19sChIJq75PQ7W23pQRqqjfQ9dvstc",
+      "phone": "(47) 3436-7184",
+      "address": "R. João da Costa Júnior, 1148 - João Costa, Joinville - SC, 89235-513",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Luchese",
+      "href": "https://www.google.com/maps/place/Supermercado+Luchese/data=!4m7!3m6!1s0x94deb7a9557f0343:0x7ed7c85ddde370f3!8m2!3d-26.3696608!4d-48.8206667!16s%2Fg%2F11p0143424!19sChIJQwN_Vam33pQR83Dj3V3I134",
+      "phone": "(47) 3013-1080",
+      "address": "R. Pref. João Acácio Gomes de Oliveira, 255 - Sl 2 - Boehmerwald, Joinville - SC, 89235-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Meu Vizinho Supermercados - Itinga",
+      "href": "https://www.google.com/maps/place/Meu+Vizinho+Supermercados+-+Itinga/data=!4m7!3m6!1s0x94deb7359cb48fd9:0x1c24a9915e2cb126!8m2!3d-26.3813211!4d-48.8223095!16s%2Fg%2F11gy4rvcjy!19sChIJ2Y-0nDW33pQRJrEsXpGpJBw",
+      "phone": "(47) 3511-2191",
+      "address": "R. Adolfo da Veiga, 2595 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doca Supermercadinhos-Matriz",
+      "href": "https://www.google.com/maps/place/Doca+Supermercadinhos-Matriz/data=!4m7!3m6!1s0x94deb0d39ed9daeb:0x681faa5b0f7d0bdd!8m2!3d-26.3560804!4d-48.8459336!16s%2Fg%2F1tddtbpw!19sChIJ69rZntOw3pQR3Qt9D1uqH2g",
+      "phone": "(47) 3436-0912",
+      "address": "R. Santa Catarina, 3865 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Antigo Mercado Santana",
+      "href": "https://www.google.com/maps/place/Antigo+Mercado+Santana/data=!4m7!3m6!1s0x94deb6eaa1aa5fd9:0xba93e9e73f0d82c1!8m2!3d-26.3697713!4d-48.8206138!16s%2Fg%2F1tgcbnv6!19sChIJ2V-qoeq23pQRwYINP-fpk7o",
+      "phone": "(47) 3429-2210",
+      "address": "R. Pref. João Acácio Gomes de Oliveira, 255 - Sl 2 - Boehmerwald, Joinville - SC, 89235-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Bobato..Itaum",
+      "href": "https://www.google.com/maps/place/Supermercado+Bobato..Itaum/data=!4m7!3m6!1s0x94deb146e6d504a9:0xcb567fd76e396ef7!8m2!3d-26.334682!4d-48.8171155!16s%2Fg%2F1pty78y3s!19sChIJqQTV5kax3pQR9245btd_Vss",
+      "phone": "(47) 3429-4906",
+      "address": "R. Fátima, 583 - Fátima, Joinville - SC, 89210-681",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Conveniência Santana",
+      "href": "https://www.google.com/maps/place/Conveni%C3%AAncia+Santana/data=!4m7!3m6!1s0x94deb6bcbc378f85:0x962ba32bfc4e680d!8m2!3d-26.361863!4d-48.8105269!16s%2Fg%2F11c3n319qb!19sChIJhY83vLy23pQRDWhO_CujK5Y",
+      "phone": "(47) 3465-0371",
+      "address": "R. Boehmerwald, 2437 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercearia Marinata",
+      "href": "https://www.google.com/maps/place/Mercearia+Marinata/data=!4m7!3m6!1s0x94deb6c6b2703373:0x2cc390ffd3711e73!8m2!3d-26.3654414!4d-48.8239835!16s%2Fg%2F11b8d21f1b!19sChIJczNwssa23pQRcx5x0_-Qwyw",
+      "phone": "(47) 3429-2560",
+      "address": "R. dos Agrônomos, 285 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Cometa",
+      "href": "https://www.google.com/maps/place/Supermercado+Cometa/data=!4m7!3m6!1s0x94deb6ba1ad4743f:0x4405ca101d4aa8e0!8m2!3d-26.3579591!4d-48.8141063!16s%2Fg%2F11bv6plvsf!19sChIJP3TUGrq23pQR4KhKHRDKBUQ",
+      "phone": "(47) 3465-1349",
+      "address": "R. Daniela Peres, 399 - Parque Guarani, Joinville - SC, 89209-435",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MERCEARIA E HORTIFRUTI FRATELLI",
+      "href": "https://www.google.com/maps/place/MERCEARIA+E+HORTIFRUTI+FRATELLI/data=!4m7!3m6!1s0x94deb76ab31d897d:0xa6d62bd95d917fbc!8m2!3d-26.3630594!4d-48.8241295!16s%2Fg%2F11nbmsvkj1!19sChIJfYkds2q33pQRvH-RXdkr1qY",
+      "phone": "(47) 3436-9498",
+      "address": "Dos - R. dos Agrônomos, 26 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercearia & Conveniência Avenida",
+      "href": "https://www.google.com/maps/place/Mercearia+%26+Conveni%C3%AAncia+Avenida/data=!4m7!3m6!1s0x94deb7d94cc439c1:0xbff591060c16da39!8m2!3d-26.3598101!4d-48.8067567!16s%2Fg%2F11l2_t4bbm!19sChIJwTnETNm33pQROdoWDAaR9b8",
+      "phone": "(47) 99651-4003",
+      "address": "Av. Firmino da Silva, 310 - Parque Guarani, Joinville - SC, 89209-224",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Feirão Frutaville Escolinha",
+      "href": "https://www.google.com/maps/place/Feir%C3%A3o+Frutaville+Escolinha/data=!4m7!3m6!1s0x94deb6c54a426439:0x1c272ca05a9bdd07!8m2!3d-26.3638168!4d-48.8295405!16s%2Fg%2F11c40pbxgl!19sChIJOWRCSsW23pQRB92bWqAsJxw",
+      "phone": "(47) 3801-1113",
+      "address": "R. Adolfo da Veiga, 362 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Carolina",
+      "href": "https://www.google.com/maps/place/Mercado+Carolina/data=!4m7!3m6!1s0x94deb0ed002908d7:0x91ab1cc7ab20669a!8m2!3d-26.3359691!4d-48.8574706!16s%2Fg%2F11c3l5vj7r!19sChIJ1wgpAO2w3pQRmmYgq8ccq5E",
+      "phone": "(47) 3026-3129",
+      "address": "R. Copacabana, 1389 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Ana Júlia",
+      "href": "https://www.google.com/maps/place/Panificadora+Ana+J%C3%BAlia/data=!4m7!3m6!1s0x94deb78ab2424bad:0xd07c27e01452a7c5!8m2!3d-26.3675075!4d-48.8302404!16s%2Fg%2F11yzw0yd4k!19sChIJrUtCsoq33pQRxadSFOAnfNA",
+      "phone": "(47) 99263-7689",
+      "address": "R. Afonso Moreira, 493 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Brasília Select",
+      "href": "https://www.google.com/maps/place/Mercado+Bras%C3%ADlia+Select/data=!4m7!3m6!1s0x94deb1007dc65c11:0xd3a8405d0e2c6c9c!8m2!3d-26.3074811!4d-48.8485795!16s%2Fg%2F11m6lwsgn2!19sChIJEVzGfQCx3pQRnGwsDl1AqNM",
+      "phone": "(47) 99226-8089",
+      "address": "R. Min. Calógeras, 880 - Bucarein, Joinville - SC",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Sabor",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Sabor/data=!4m7!3m6!1s0x94deb04cda4c1825:0x9b4f2a5f115406d5!8m2!3d-26.3054857!4d-48.840522!16s%2Fg%2F11b822wfd3!19sChIJJRhM2kyw3pQR1QZUEV8qT5s",
+      "phone": "(47) 99974-4043",
+      "address": "Mercado Municipal de Joinville - R. Ricardo Stamm Gomes, 27 - Box 17 - Centro, Joinville - SC, 89202-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stammhaus Café",
+      "href": "https://www.google.com/maps/place/Stammhaus+Caf%C3%A9/data=!4m7!3m6!1s0x94deb04cd0b753a1:0x81f4389c0e657b1f!8m2!3d-26.3054975!4d-48.8404187!16s%2Fg%2F11bv2bxdxj!19sChIJoVO30Eyw3pQRH3tlDpw49IE",
+      "phone": "(47) 3026-3898",
+      "address": "Stammhaus - R. Ricardo Stamm Gomes, 395 - Box 18 - Centro, Joinville - SC, 89202-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Cézar",
+      "href": "https://www.google.com/maps/place/Supermercado+C%C3%A9zar/data=!4m7!3m6!1s0x94deb1ff801b23af:0x23f53dd19cd06bbe!8m2!3d-26.2670347!4d-48.8000079!16s%2Fg%2F1tfjxfl4!19sChIJryMbgP-x3pQRvmvQnNE99SM",
+      "phone": "(47) 3437-4827",
+      "address": "R. Areia Branca, 287 - Jardim Iririú, Joinville - SC, 89224-477",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Conveniência da Max",
+      "href": "https://www.google.com/maps/place/Conveni%C3%AAncia+da+Max/data=!4m7!3m6!1s0x94deb156201ce681:0x851eb7eb1ceb57d0!8m2!3d-26.2933254!4d-48.8679219!16s%2Fg%2F11z0kb1ym0!19sChIJgeYcIFax3pQR0FfrHOu3HoU",
+      "phone": "(47) 98841-0288",
+      "address": "R. Max Colin, 2580 - Centro, Joinville - SC, 89217-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jovens bebidas Centro",
+      "href": "https://www.google.com/maps/place/Jovens+bebidas+Centro/data=!4m7!3m6!1s0x94deb1122fdead6b:0x68d92bd514dcd84b!8m2!3d-26.2952594!4d-48.8433452!16s%2Fg%2F11x76wxzxq!19sChIJa63eLxKx3pQRS9jcFNUr2Wg",
+      "phone": "(47) 99695-2940",
+      "address": "R. Max Colin, 109 - Sl 01 - Centro, Joinville - SC, 89201-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercearia Carmel",
+      "href": "https://www.google.com/maps/place/Mercearia+Carmel/data=!4m7!3m6!1s0x94deb1001d3e4def:0x4c746e6639465e3a!8m2!3d-26.3065582!4d-48.8494064!16s%2Fg%2F11vppj2wnz!19sChIJ700-HQCx3pQROl5GOWZudEw",
+      "phone": "(47) 99107-0756",
+      "address": "R. Jaguaruna, 279 - Centro, Joinville - SC, 89201-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empório da Lê João Colin",
+      "href": "https://www.google.com/maps/place/Emp%C3%B3rio+da+L%C3%AA+Jo%C3%A3o+Colin/data=!4m7!3m6!1s0x94deb03721c55555:0x9c1daa98a9207450!8m2!3d-26.2972189!4d-48.8474889!16s%2Fg%2F11g9syyppz!19sChIJVVXFITew3pQRUHQgqZiqHZw",
+      "phone": "(47) 3432-2199",
+      "address": "R. Dr. João Colin, 446 - Sl 01 - Centro, Joinville - SC, 89218-035",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empório Raiz Natural",
+      "href": "https://www.google.com/maps/place/Emp%C3%B3rio+Raiz+Natural/data=!4m7!3m6!1s0x94deb1744768fbaf:0x7f39a883a93f37d3!8m2!3d-26.3004863!4d-48.8471404!16s%2Fg%2F11zd3y7b8b!19sChIJr_toR3Sx3pQR0zc_qYOoOX8",
+      "phone": "(47) 99711-1853",
+      "address": "R. XV de Novembro, 490 - Centro, Joinville - SC, 89201-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Brasil",
+      "href": "https://www.google.com/maps/place/Mercado+Brasil/data=!4m7!3m6!1s0x94deafd2ba8ffeff:0x1f09f9eb71b2cb7d!8m2!3d-26.2700474!4d-48.8404317!16s%2Fg%2F11bv38hf50!19sChIJ__6PutKv3pQRfcuycev5CR8",
+      "phone": "(47) 3435-0655",
+      "address": "R. Brasil, 733 - Bom Retiro, Joinville - SC, 89221-561",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empório Premium",
+      "href": "https://www.google.com/maps/place/Emp%C3%B3rio+Premium/data=!4m7!3m6!1s0x94deb1a2ac667f25:0x37f7e902ff8f229!8m2!3d-26.2927081!4d-48.8503078!16s%2Fg%2F11qsz00zfr!19sChIJJX9mrKKx3pQRKfL4L5B-fwM",
+      "phone": "(47) 3511-2858",
+      "address": "R. Blumenau, 835 - América, Joinville - SC, 89204-251",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado MiniPreço - Loja 3",
+      "href": "https://www.google.com/maps/place/Supermercado+MiniPre%C3%A7o+-+Loja+3/data=!4m7!3m6!1s0x94deafd238945ed5:0xa8cd1e0540388567!8m2!3d-26.2389315!4d-48.8452423!16s%2Fg%2F11q4kz56ml!19sChIJ1V6UONKv3pQRZ4U4QAUezag",
+      "phone": "(47) 3145-9100",
+      "address": "R. Ten. Antônio João, 2573 - Jardim Sofia, Joinville - SC, 89223-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Superville",
+      "href": "https://www.google.com/maps/place/Superville/data=!4m7!3m6!1s0x94deaf532d192923:0x96020c4a6fa42953!8m2!3d-26.2848987!4d-48.8761062!16s%2Fg%2F11g_t_lsrh!19sChIJIykZLVOv3pQRUymkb0oMApY",
+      "phone": "(47) 3432-0571",
+      "address": "R. Benjamin Constant, 3079 - Glória, Joinville - SC, 89217-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Zeppelin Mercearia - Açougue - Padaria",
+      "href": "https://www.google.com/maps/place/Zeppelin+Mercearia+-+A%C3%A7ougue+-+Padaria/data=!4m7!3m6!1s0x94deb02745643e9b:0x6f807d4cb0dc7868!8m2!3d-26.2846691!4d-48.8551692!16s%2Fg%2F1tf3q19l!19sChIJmz5kRSew3pQRaHjcsEx9gG8",
+      "phone": "(47) 3028-1811",
+      "address": "R. Benjamin Constant, 531 - Sl 01 - América, Joinville - SC, 89204-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kopenhagen América",
+      "href": "https://www.google.com/maps/place/Kopenhagen+Am%C3%A9rica/data=!4m7!3m6!1s0x94deb1313b6466f1:0x2afdc5d27417fe37!8m2!3d-26.3014937!4d-48.859368!16s%2Fg%2F11vxtzhmtc!19sChIJ8WZkOzGx3pQRN_4XdNLF_So",
+      "phone": "(47) 99187-7434",
+      "address": "R. Aquidaban, 634 - Lj 02 - América, Joinville - SC, 89201-652",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doce Aroma Café e Conveniência",
+      "href": "https://www.google.com/maps/place/Doce+Aroma+Caf%C3%A9+e+Conveni%C3%AAncia/data=!4m7!3m6!1s0x94deb1f7102ef061:0xb8094152d4cb965!8m2!3d-26.2892095!4d-48.8487995!16s%2Fg%2F11xg88dnft!19sChIJYfAuEPex3pQRZblMLRWUgAs",
+      "phone": "(47) 97400-2554",
+      "address": "R. Dr. João Colin, 1317 - América, Joinville - SC, 88204-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jeff Casa de Carnes",
+      "href": "https://www.google.com/maps/place/Jeff+Casa+de+Carnes/data=!4m7!3m6!1s0x94deb7de86e9c59b:0xf1c93f743190bddc!8m2!3d-26.3691546!4d-48.8204409!16s%2Fg%2F11gslvqv58!19sChIJm8Xpht633pQR3L2QMXQ_yfE",
+      "phone": "(47) 98907-2401",
+      "address": "R. Attílio Vinotti, 727 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ponto Mime Atiradores",
+      "href": "https://www.google.com/maps/place/Ponto+Mime+Atiradores/data=!4m7!3m6!1s0x94deb1f5e4f812bd:0x47eb85d48e1c4c99!8m2!3d-26.3036392!4d-48.8536986!16s%2Fg%2F11v5fpm4_x!19sChIJvRL45PWx3pQRmUwcjtSF60c",
+      "phone": "(47) 99293-5207",
+      "address": "R. Expedicionário Holz, 77 - Atiradores, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CELULAR SHOP Atiradores Joinville",
+      "href": "https://www.google.com/maps/place/CELULAR+SHOP+Atiradores+Joinville/data=!4m7!3m6!1s0x94deb10c0d3a7287:0x449591ff63a0c126!8m2!3d-26.3113902!4d-48.8547546!16s%2Fg%2F11z83x_3z_!19sChIJh3I6DQyx3pQRJsGgY_-RlUQ",
+      "phone": "(47) 3027-2399",
+      "address": "R. Min. Calógeras, 1639 - Atiradores, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Sarang - Restaurante Coreano e Mercearia",
+      "href": "https://www.google.com/maps/place/Casa+Sarang+-+Restaurante+Coreano+e+Mercearia/data=!4m7!3m6!1s0x94deb11e156b22c7:0x2dd380c65e7a868e!8m2!3d-26.3049561!4d-48.8594881!16s%2Fg%2F11nbh8wfx3!19sChIJxyJrFR6x3pQRjoZ6XsaA0y0",
+      "phone": "(47) 99606-2775",
+      "address": "R. Aquidaban, 227 - Glória, Joinville - SC, 89216-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercadinho Dona Iva",
+      "href": "https://www.google.com/maps/place/Mercadinho+Dona+Iva/data=!4m7!3m6!1s0x94deb058952d699f:0x2338d310735c7254!8m2!3d-26.3212698!4d-48.8532427!16s%2Fg%2F1trxfvn1!19sChIJn2ktlViw3pQRVHJccxDTOCM",
+      "phone": "(47) 3085-9091",
+      "address": "R. Gothard Kaesemodel, 32 - Anita Garibaldi, Joinville - SC, 89203-502",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Garibaldi Empório e Frutaria",
+      "href": "https://www.google.com/maps/place/Garibaldi+Emp%C3%B3rio+e+Frutaria/data=!4m7!3m6!1s0x94deb042d676728f:0x59316fdb64241113!8m2!3d-26.3160555!4d-48.8555234!16s%2Fg%2F1ydkhrc2w!19sChIJj3J21kKw3pQRExEkZNtvMVk",
+      "phone": "(47) 99142-8051",
+      "address": "R. Paraíba, 571 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercadinho Concórdia",
+      "href": "https://www.google.com/maps/place/Mercadinho+Conc%C3%B3rdia/data=!4m7!3m6!1s0x94deb1aa7acf2457:0x924167c223668dfe!8m2!3d-26.3150739!4d-48.8562162!16s%2Fg%2F11nh_w1pbh!19sChIJVyTPeqqx3pQR_o1mI8JnQZI",
+      "phone": "(47) 98493-9228",
+      "address": "Frente à Rodoviária - R. Concórdia, 311 - Sala 01 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Krüger",
+      "href": "https://www.google.com/maps/place/Comercial+Kr%C3%BCger/data=!4m7!3m6!1s0x94deb06615afb12b:0x100be302582daf1b!8m2!3d-26.3173122!4d-48.8636632!16s%2Fg%2F11b75px1wh!19sChIJK7GvFWaw3pQRG68tWALjCxA",
+      "phone": "(47) 3438-6735",
+      "address": "R. Ottokar Doerffel, 1017 - Anita Garibaldi, Joinville - SC, 89203-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GP StoreVille",
+      "href": "https://www.google.com/maps/place/GP+StoreVille/data=!4m7!3m6!1s0x94deb05bc65eaaab:0x21946c8bb25e0c4d!8m2!3d-26.3164134!4d-48.8530873!16s%2Fg%2F11s86wt0bn!19sChIJq6pexluw3pQRTQxesotslCE",
+      "phone": "(47) 99646-3769",
+      "address": "R. Major Navarro Lins, 841 - Anita Garibaldi, Joinville - SC, 89203-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nutribê Produtos Naturais",
+      "href": "https://www.google.com/maps/place/Nutrib%C3%AA+Produtos+Naturais/data=!4m7!3m6!1s0x94deb1405d5cdce9:0xbe0056378f050beb!8m2!3d-26.3212247!4d-48.8598323!16s%2Fg%2F11n3k87j8x!19sChIJ6dxcXUCx3pQR6wsFjzdWAL4",
+      "phone": "(47) 99725-2318",
+      "address": "R. Concórdia, 1140 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hortifrúti Saguaçu",
+      "href": "https://www.google.com/maps/place/Hortifr%C3%BAti+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb1d5f8f7874f:0x45149f354134b050!8m2!3d-26.2772109!4d-48.8352407!16s%2Fg%2F11s16szvs0!19sChIJT4f3-NWx3pQRULA0QTWfFEU",
+      "phone": "(47) 99782-6041",
+      "address": "R. Iririú, 901 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Alberton",
+      "href": "https://www.google.com/maps/place/Mercado+Alberton/data=!4m7!3m6!1s0x94deafd2555a0c17:0x2aad9ad47271d85b!8m2!3d-26.2723044!4d-48.8422783!16s%2Fg%2F11bv38cf7m!19sChIJFwxaVdKv3pQRW9hxctSarSo",
+      "phone": "(47) 3435-2768",
+      "address": "R. Xanxerê, 432 - Saguaçu, Joinville - SC, 89221-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "COMERCIAL JOELI",
+      "href": "https://www.google.com/maps/place/COMERCIAL+JOELI/data=!4m7!3m6!1s0x94deb02b0f4031c1:0xa6d329a8bad6ea34!8m2!3d-26.2826455!4d-48.8416078!16s%2Fg%2F1v16rg2k!19sChIJwTFADyuw3pQRNOrWuqgp06Y",
+      "phone": "(47) 3472-1778",
+      "address": "R. Dona Francisca, 2396 - Saguaçu, Joinville - SC, 89221-008",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chácara Saguaçu",
+      "href": "https://www.google.com/maps/place/Ch%C3%A1cara+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb1d35855f28d:0xcfac0532baf7927a!8m2!3d-26.2835382!4d-48.8388934!16s%2Fg%2F11gztq3yv!19sChIJjfJVWNOx3pQRepL3ujIFrM8",
+      "phone": "(47) 99740-5921",
+      "address": "R. Carlos Benack, 70 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Green Market alimentos",
+      "href": "https://www.google.com/maps/place/Green+Market+alimentos/data=!4m7!3m6!1s0x94deb1d4ebfd57cf:0x956258996f5a18b1!8m2!3d-26.2815636!4d-48.8382057!16s%2Fg%2F11f4rcvrr1!19sChIJz1f969Sx3pQRsRhab5lYYpU",
+      "phone": "(47) 3031-1535",
+      "address": "R. Iririú, 332 - Sala 4 - Saguaçu, Joinville - SC, 89221-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stok mercado",
+      "href": "https://www.google.com/maps/place/Stok+mercado/data=!4m7!3m6!1s0x94deb56da50db3b5:0xa1cb93e9e946cb0a!8m2!3d-26.348984!4d-48.7940423!16s%2Fg%2F11kj242vc4!19sChIJtbMNpW213pQRCstG6emTy6E",
+      "phone": "(47) 99616-1999",
+      "address": "R. Seis de Janeiro, 318 - Paranaguamirim, Joinville - SC, 89231-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FS BEBIDAS",
+      "href": "https://www.google.com/maps/place/FS+BEBIDAS/data=!4m7!3m6!1s0x94deaf99e459d459:0x7db8d312a7c91430!8m2!3d-26.2764693!4d-48.8472276!16s%2Fg%2F11vt7t2j19!19sChIJWdRZ5Jmv3pQRMBTJpxLTuH0",
+      "phone": "(47) 93383-0749",
+      "address": "R. Dona Francisca, 3277 - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O Mercador Distribuidora",
+      "href": "https://www.google.com/maps/place/O+Mercador+Distribuidora/data=!4m7!3m6!1s0x94deae1d137b34e5:0x7abe3aa36a3d7978!8m2!3d-26.2888726!4d-48.8420712!16s%2Fg%2F1ptx1byl0!19sChIJ5TR7Ex2u3pQReHk9aqM6vno",
+      "phone": "(47) 3028-5507",
+      "address": "Av. Hermann Algust Lepper 1587 Galpão3 - Saguaçu, Joinville - SC, 89221-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado JZ",
+      "href": "https://www.google.com/maps/place/Mercado+JZ/data=!4m7!3m6!1s0x94deaf8a1042b67f:0x58218f0779327a36!8m2!3d-26.2688275!4d-48.8792512!16s%2Fg%2F11b8t6zpmr!19sChIJf7ZCEIqv3pQRNnoyeQePIVg",
+      "phone": "(47) 98902-8585",
+      "address": "R. Caratinga, 25 - Costa e Silva, Joinville - SC, 89220-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Kalfels",
+      "href": "https://www.google.com/maps/place/Supermercado+Kalfels/data=!4m7!3m6!1s0x94dea560932187cb:0x8beef022278c729a!8m2!3d-26.2730919!4d-48.8822344!16s%2Fg%2F1tdmr638!19sChIJy4chk2Cl3pQRmnKMJyLw7os",
+      "phone": "(47) 3473-5524",
+      "address": "R. Inambu, 2962 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Gil",
+      "href": "https://www.google.com/maps/place/Mercado+Gil/data=!4m7!3m6!1s0x94dea55272a6cbf3:0xbe719aa4f4dd4ce3!8m2!3d-26.2645289!4d-48.8867773!16s%2Fg%2F11gy8gydx9!19sChIJ88umclKl3pQR40zd9KSacb4",
+      "phone": "(47) 3473-5929",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Verdureira Estação das Frutas",
+      "href": "https://www.google.com/maps/place/Verdureira+Esta%C3%A7%C3%A3o+das+Frutas/data=!4m7!3m6!1s0x94deaff4dcfd4681:0x6c438fc706cbfc1d!8m2!3d-26.2733904!4d-48.8769691!16s%2Fg%2F11b7q8s0g6!19sChIJgUb93PSv3pQRHfzLBsePQ2w",
+      "phone": "(47) 3043-6866",
+      "address": "R. Inambu, 371 - Costa e Silva, Joinville - SC, 89220-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Madalena",
+      "href": "https://www.google.com/maps/place/Mercado+Madalena/data=!4m7!3m6!1s0x94deaf1764aed197:0xaffbd5feca33a24e!8m2!3d-26.2856945!4d-48.8699931!16s%2Fg%2F11sms04vf7!19sChIJl9GuZBev3pQRTqIzyv7V-68",
+      "phone": "(47) 99984-2820",
+      "address": "R. Benjamin Constant, 2455 - Glória, Joinville - SC, 89217-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hortiville | Verdureira Costa e Silva",
+      "href": "https://www.google.com/maps/place/Hortiville+%7C+Verdureira+Costa+e+Silva/data=!4m7!3m6!1s0x94deafaad8166cdd:0x9ae94d9a617f7162!8m2!3d-26.2789861!4d-48.8659231!16s%2Fg%2F11yxmdmmml!19sChIJ3WwW2Kqv3pQRYnF_YZpN6Zo",
+      "phone": "(47) 3463-0218",
+      "address": "R. Guilherme, 597 - sala 2 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Palácio select",
+      "href": "https://www.google.com/maps/place/Pal%C3%A1cio+select/data=!4m7!3m6!1s0x94deaf289396d8d9:0x9474a264c103a505!8m2!3d-26.2709214!4d-48.8723934!16s%2Fg%2F11l2fsrqsm!19sChIJ2diWkyiv3pQRBaUDwWSidJQ",
+      "phone": "(47) 99220-1210",
+      "address": "Rua Otto Pfuetzenreuter, 371 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lanchonete e Mercearia Medeiros",
+      "href": "https://www.google.com/maps/place/Lanchonete+e+Mercearia+Medeiros/data=!4m7!3m6!1s0x94deaf8c2cfedff1:0x1fee5e83f982a0fe!8m2!3d-26.2663133!4d-48.8726359!16s%2Fg%2F11bv6p9drv!19sChIJ8d_-LIyv3pQR_qCC-YNe7h8",
+      "phone": "(47) 99942-0438",
+      "address": "Rua Otto Pfuetzenreuter, 867 - Sl A - Costa e Silva, Joinville - SC, 89219-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Bia",
+      "href": "https://www.google.com/maps/place/Mercado+Bia/data=!4m7!3m6!1s0x94deaf0845a5562f:0xab9a6379261ad9b4!8m2!3d-26.2672582!4d-48.8682248!16s%2Fg%2F11v0s46vrh!19sChIJL1alRQiv3pQRtNkaJnljmqs",
+      "phone": "(47) 99130-1453",
+      "address": "R. Hermann Lange, 45 - Costa e Silva, Joinville - SC, 89219-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Supermercado Silva",
+      "href": "https://www.google.com/maps/place/Supermercado+Silva/data=!4m7!3m6!1s0x94deb16a8f421b11:0xe6ad09cfbb1e9186!8m2!3d-26.3290712!4d-48.8176442!16s%2Fg%2F1w113b49!19sChIJERtCj2qx3pQRhpEeu88JreY",
+      "phone": "(47) 3426-6440",
+      "address": "R. Fátima, 1245 - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MERCADO SILVA",
+      "href": "https://www.google.com/maps/place/MERCADO+SILVA/data=!4m7!3m6!1s0x94dea4dff8d284ed:0x2ee219367559157c!8m2!3d-26.2875414!4d-48.9203949!16s%2Fg%2F1ptxb00gf!19sChIJ7YTS-N-k3pQRfBVZdTYZ4i4",
+      "phone": "(47) 3433-9793",
+      "address": "R. XV de Novembro, 8805 - Vila Nova, Joinville - SC, 89237-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nosso Mercadinho",
+      "href": "https://www.google.com/maps/place/Nosso+Mercadinho/data=!4m7!3m6!1s0x94dea58b4c2dc01f:0xb85562c530b3f41c!8m2!3d-26.2757005!4d-48.880456!16s%2Fg%2F11y6nsz1wz!19sChIJH8AtTIul3pQRHPSzMMViVbg",
+      "phone": "(47) 99145-4349",
+      "address": "R. Pavão, 1095 - Costa e Silva, Joinville - SC, 89220-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Mercearia Dona Erna",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Mercearia+Dona+Erna/data=!4m7!3m6!1s0x94deaff539ea0e3f:0xa8205bace95e96e1!8m2!3d-26.273096!4d-48.878671!16s%2Fg%2F1td4fp_b!19sChIJPw7qOfWv3pQR4ZZe6axbIKg",
+      "phone": "(47) 3473-8972",
+      "address": "R. Inambu, 636 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Triunfo",
+      "href": "https://www.google.com/maps/place/Mercado+Triunfo/data=!4m7!3m6!1s0x94dea5cd3fb29b3b:0x55ed6ea33e31ad7!8m2!3d-26.2781873!4d-48.9001954!16s%2Fg%2F11fcr3w1df!19sChIJO5uyP82l3pQR1xrjM-rWXgU",
+      "phone": "(47) 99192-9353",
+      "address": "R. Maria de Lurdes Bachtold, 11 - Vila Nova, Joinville - SC, 89237-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Ideal",
+      "href": "https://www.google.com/maps/place/Mercado+Ideal/data=!4m7!3m6!1s0x94dea5251319ef3d:0xce29622614bd8b93!8m2!3d-26.2928655!4d-48.9096251!16s%2Fg%2F11c3nzyp1t!19sChIJPe8ZEyWl3pQRk4u9FCZiKc4",
+      "phone": "(47) 99703-0360",
+      "address": "R. João Carlos Gomes de Oliveira, 515 - Vila Nova, Joinville - SC, 89237-375",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Vêber",
+      "href": "https://www.google.com/maps/place/Mercado+V%C3%AAber/data=!4m7!3m6!1s0x94dea59a4b379bbb:0x34ca6a18fbc774f2!8m2!3d-26.2800636!4d-48.9069912!16s%2Fg%2F11g_qqd4zh!19sChIJu5s3S5ql3pQR8nTH-xhqyjQ",
+      "phone": "(47) 3434-0227",
+      "address": "R. Paulo Schneider, 560 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado",
+      "href": "https://www.google.com/maps/place/Mercado/data=!4m7!3m6!1s0x94deb099684a9e99:0xf651ac69180cadd!8m2!3d-26.3447842!4d-48.87362!16s%2Fg%2F11g9gtv10b!19sChIJmZ5KaJmw3pQR3cqAkcYaZQ8",
+      "phone": "(47) 98839-7973",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mini Mercado e conveniência JC",
+      "href": "https://www.google.com/maps/place/Mini+Mercado+e+conveni%C3%AAncia+JC/data=!4m7!3m6!1s0x94dea525c7bfc417:0xe5c05999042e387!8m2!3d-26.2800353!4d-48.9069622!16s%2Fg%2F11z7k7dd2j!19sChIJF8S_xyWl3pQRh-NCkJkFXA4",
+      "phone": "(47) 99281-2292",
+      "address": "R. Paulo Schneider, 560 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Suthao armazém e espetaria",
+      "href": "https://www.google.com/maps/place/Suthao+armaz%C3%A9m+e+espetaria/data=!4m7!3m6!1s0x94dea5132542ad8d:0xa55f30b348b7a0c3!8m2!3d-26.2924744!4d-48.9022433!16s%2Fg%2F11ms01vdq4!19sChIJja1CJROl3pQRw6C3SLMwX6U",
+      "phone": "(47) 98432-5927",
+      "address": "R. Rudolf Baumer, 500 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TS Conveniência",
+      "href": "https://www.google.com/maps/place/TS+Conveni%C3%AAncia/data=!4m7!3m6!1s0x94dea53ce8e02d93:0x713bacc5a6d409aa!8m2!3d-26.2918745!4d-48.9071259!16s%2Fg%2F11j1jrdfv2!19sChIJky3g6Dyl3pQRqgnUpsWsO3E",
+      "phone": "(47) 99910-5767",
+      "address": "R. São Firmino, 151 - Vila Nova, Joinville - SC, 89237-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercearia do Toddy",
+      "href": "https://www.google.com/maps/place/Mercearia+do+Toddy/data=!4m7!3m6!1s0x94dea592eb0c6939:0x451dba433110c0e2!8m2!3d-26.2801388!4d-48.9069825!16s%2Fg%2F11tn7ydv6f!19sChIJOWkM65Kl3pQR4sAQMUO6HUU",
+      "phone": "(47) 99205-3195",
+      "address": "R. Paulo Schneider, 560 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Produtos Naturais Grão de Mostarda Vila Nova - Armazém Natural",
+      "href": "https://www.google.com/maps/place/Produtos+Naturais+Gr%C3%A3o+de+Mostarda+Vila+Nova+-+Armaz%C3%A9m+Natural/data=!4m7!3m6!1s0x94dea538f1e25309:0xdcb4406769a9f8f5!8m2!3d-26.2874902!4d-48.9017309!16s%2Fg%2F11bv6pz_0f!19sChIJCVPi8Til3pQR9fipaWdAtNw",
+      "phone": "(47) 99168-2800",
+      "address": "R. XV de Novembro, 6919 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empório Madri",
+      "href": "https://www.google.com/maps/place/Emp%C3%B3rio+Madri/data=!4m7!3m6!1s0x94dea514cfa0767d:0xaa05090aedede046!8m2!3d-26.2761352!4d-48.9013381!16s%2Fg%2F11c55cw7b1!19sChIJfXagzxSl3pQRRuDt7QoJBao",
+      "phone": "(47) 3031-5090",
+      "address": "R. Maria de Lurdes Bachtold, 189-205 - Vila Nova, Joinville - SC, 89237-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "laboratorio",
+  "nome": "Laboratório",
+  "terms": [
+    "laboratório clínico",
+    "laboratório de análises",
+    "exames laboratoriais"
+  ],
+  "profiles": 228,
+  "qualified": [
+    {
+      "name": "Ghanem Laboratório (Itaum)",
+      "href": "https://www.google.com/maps/place/Ghanem+Laborat%C3%B3rio+%28Itaum%29/data=!4m7!3m6!1s0x94deb1485ca118b3:0xbbc55e351e7ee1a!8m2!3d-26.3408033!4d-48.8176312!16s%2Fg%2F11f12phsvd!19sChIJsxihXEix3pQRGu7nUeNVvAs",
+      "phone": "(47) 3028-3001",
+      "address": "R. Monsenhor Gercino, 3664 - Itaum, Joinville - SC, 89231-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "KG Laboratório de Análises Clínicas",
+      "href": "https://www.google.com/maps/place/KG+Laborat%C3%B3rio+de+An%C3%A1lises+Cl%C3%ADnicas/data=!4m7!3m6!1s0x94deb04ea452d0dd:0xfa79f8c4f89339b1!8m2!3d-26.3054596!4d-48.8445942!16s%2Fg%2F1pty9dzz8!19sChIJ3dBSpE6w3pQRsTmT-MT4efo",
+      "phone": "(47) 3027-4441",
+      "address": "R. Abdon Batista, 47 - Centro, Joinville - SC, 89260-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mob Laboratório de Análises Clinicasmax Colin",
+      "href": "https://www.google.com/maps/place/Mob+Laborat%C3%B3rio+de+An%C3%A1lises+Clinicasmax+Colin/data=!4m7!3m6!1s0x94deb0dc626bf235:0x5bd074f0befe10bc!8m2!3d-26.3420149!4d-48.8470476!16s%2Fg%2F1ptx3qm7b!19sChIJNfJrYtyw3pQRvBD-vvB00Fs",
+      "phone": "(47) 3027-5965",
+      "address": "R. Santa Catarina, 2095 - Floresta, Joinville - SC, 89210-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CTA Joinville - Centro de Testagem e Aconselhamento",
+      "href": "https://www.google.com/maps/place/CTA+Joinville+-+Centro+de+Testagem+e+Aconselhamento/data=!4m7!3m6!1s0x94deb158091fb093:0x18c97d440c76383b!8m2!3d-26.3060407!4d-48.8433952!16s%2Fg%2F11gl0_xhy4!19sChIJk7AfCVix3pQROzh2DER9yRg",
+      "phone": "(47) 3417-1377",
+      "address": "R. Abdon Batista, 172 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lab Microtec Psc Floresta",
+      "href": "https://www.google.com/maps/place/Lab+Microtec+Psc+Floresta/data=!4m7!3m6!1s0x94deb0e7a96596fb:0xcbff2e78a1eb361a!8m2!3d-26.3376593!4d-48.8472265!16s%2Fg%2F11c5_bv444!19sChIJ-5Zlqeew3pQRGjbroXgu_8s",
+      "phone": "(47) 3903-1252",
+      "address": "R. Santa Catarina, 1645 - Floresta, Joinville - SC, 89212-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mob Laboratório de Análises Clinicasmax Colin",
+      "href": "https://www.google.com/maps/place/Mob+Laborat%C3%B3rio+de+An%C3%A1lises+Clinicasmax+Colin/data=!4m7!3m6!1s0x94deb04ea69d2013:0xc9a055838e8a3e99!8m2!3d-26.3054413!4d-48.8444971!16s%2Fg%2F1ptwsskx4!19sChIJEyCdpk6w3pQRmT6KjoNVoMk",
+      "phone": "(47) 3025-7759",
+      "address": "R. Abdon Batista, 63 - Centro, Joinville - SC, 89260-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Munhoz Microtec",
+      "href": "https://www.google.com/maps/place/Munhoz+Microtec/data=!4m7!3m6!1s0x94deb04c767c91eb:0x9cf16662e1b4a8e0!8m2!3d-26.3041622!4d-48.8428517!16s%2Fg%2F1tlmpgs4!19sChIJ65F8dkyw3pQR4Ki04WJm8Zw",
+      "phone": "(47) 3422-1492",
+      "address": "R. Sete de Setembro, 85 - Centro, Joinville - SC, 89201-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hospital Geral Joinville | Hapvida",
+      "href": "https://www.google.com/maps/place/Hospital+Geral+Joinville+%7C+Hapvida/data=!4m7!3m6!1s0x94deb180617f3e01:0xa9ae7aed62c69b8e!8m2!3d-26.2875296!4d-48.8480284!16s%2Fg%2F11q35_ld7x!19sChIJAT5_YYCx3pQRjpvGYu16rqk",
+      "phone": "(47) 3121-4691",
+      "address": "R. Itaiópolis, 128 - América, Joinville - SC, 89204-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Unimed Personal - Unidade Centro",
+      "href": "https://www.google.com/maps/place/Unimed+Personal+-+Unidade+Centro/data=!4m7!3m6!1s0x94deb1ff03a0693d:0xfb4a10090e226763!8m2!3d-26.2898636!4d-48.8482189!16s%2Fg%2F11j0r3bng1!19sChIJPWmgA_-x3pQRY2ciDgkQSvs",
+      "phone": "(47) 3441-4000",
+      "address": "R. Dr. João Colin, 1214 - América, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Essencial Exames",
+      "href": "https://www.google.com/maps/place/Essencial+Exames/data=!4m7!3m6!1s0x94deb11f796a67a1:0x854518c04ef040e3!8m2!3d-26.303718!4d-48.8451835!16s%2Fg%2F11mzy7g7ch!19sChIJoWdqeR-x3pQR40DwTsAYRYU",
+      "phone": "(47) 99930-7167",
+      "address": "R. 3 de Maio, 31 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BADANIE VET - Serviços em Patologia Clínica Veterinária",
+      "href": "https://www.google.com/maps/place/BADANIE+VET+-+Servi%C3%A7os+em+Patologia+Cl%C3%ADnica+Veterin%C3%A1ria/data=!4m7!3m6!1s0x94deb02abd1a3edf:0x41e336d39cd789c3!8m2!3d-26.2798532!4d-48.8408767!16s%2Fg%2F11g6njg190!19sChIJ3z4avSqw3pQRw4nXnNM240E",
+      "phone": "(47) 99186-1916",
+      "address": "R. Mondaí, 366 - Saguaçu, Joinville - SC, 89221-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CAC Floresta",
+      "href": "https://www.google.com/maps/place/CAC+Floresta/data=!4m7!3m6!1s0x94deb11f0f3281a9:0xc1522d8ce883817d!8m2!3d-26.3255699!4d-48.8495093!16s%2Fg%2F11w7mhg551!19sChIJqYEyDx-x3pQRfYGD6IwtUsE",
+      "phone": "(47) 98820-7094",
+      "address": "R. Diamantina, 281 - Floresta, Joinville - SC, 89211-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mob Laboratório de Análises Clínicas",
+      "href": "https://www.google.com/maps/place/Mob+Laborat%C3%B3rio+de+An%C3%A1lises+Cl%C3%ADnicas/data=!4m7!3m6!1s0x94dea548ae9dfbf3:0x8297659ea63c39d0!8m2!3d-26.2875147!4d-48.899802!16s%2Fg%2F1ptync9jh!19sChIJ8_udrkil3pQR0Dk8pp5ll4I",
+      "phone": "(47) 3043-6048",
+      "address": "R. XV de Novembro, 6735 - Glória, Joinville - SC, 89228-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "K&L Laboratórios de Metrologia JOI",
+      "href": "https://www.google.com/maps/place/K%26L+Laborat%C3%B3rios+de+Metrologia+JOI/data=!4m7!3m6!1s0x94deb0c2d73c80db:0x35e977c1edd33516!8m2!3d-26.343193!4d-48.8503784!16s%2Fg%2F1tslkwkm!19sChIJ24A818Kw3pQRFjXT7cF36TU",
+      "phone": "(47) 3426-1712",
+      "address": "R. Sorocaba, 265 - Floresta, Joinville - SC, 89212-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Microtec",
+      "href": "https://www.google.com/maps/place/Microtec/data=!4m7!3m6!1s0x94deae7066a47db3:0xf66acc8d04e4e548!8m2!3d-26.2393136!4d-48.8074226!16s%2Fg%2F11t7fdrj8d!19sChIJs32kZnCu3pQRSOXkBI3MavY",
+      "phone": "(47) 3278-7708",
+      "address": "R. Jacupiranga, 838 - Aventureiro, Joinville - SC, 89226-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mob Laboratório de Análises Clinicasmax Colin",
+      "href": "https://www.google.com/maps/place/Mob+Laborat%C3%B3rio+de+An%C3%A1lises+Clinicasmax+Colin/data=!4m7!3m6!1s0x94deb1e9477efa59:0x2383e7f886508015!8m2!3d-26.2832374!4d-48.8152891!16s%2Fg%2F1ptw2f7gs!19sChIJWfp-R-mx3pQRFYBQhvjngyM",
+      "phone": "(47) 3043-4714",
+      "address": "R. Xavier Arp, 15 - Iririú, Joinville - SC, 89237-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O3 Vital Clínica Integrativa \"Ozonioterapia e Biorressonância.",
+      "href": "https://www.google.com/maps/place/O3+Vital+Cl%C3%ADnica+Integrativa+%22Ozonioterapia+e+Biorresson%C3%A2ncia./data=!4m7!3m6!1s0x94deb164111df8fb:0xb67ae25d7f185e76!8m2!3d-26.3221808!4d-48.8313823!16s%2Fg%2F11rb5_qx5z!19sChIJ-_gdEWSx3pQRdl4Yf13ierY",
+      "phone": "(47) 99270-4606",
+      "address": "R. Nacar, 153 - Guanabara, Joinville - SC, 89207-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santa Sophia Toxicológico Joinville Shop",
+      "href": "https://www.google.com/maps/place/Santa+Sophia+Toxicol%C3%B3gico+Joinville+Shop/data=!4m7!3m6!1s0x94deb1a2fa88ee75:0xebed37462cf0c31!8m2!3d-26.3206336!4d-48.8457141!16s%2Fg%2F11zd3rzqcf!19sChIJde6I-qKx3pQRMQzPYnTTvg4",
+      "phone": "(47) 3207-3529",
+      "address": "Av. Getúlio Vargas, 1446 - Sl 51 - Anita Garibaldi, Joinville - SC, 89202-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Formulatto Farmácia e Manipulação Iririú",
+      "href": "https://www.google.com/maps/place/Formulatto+Farm%C3%A1cia+e+Manipula%C3%A7%C3%A3o+Iriri%C3%BA/data=!4m7!3m6!1s0x94deb1e25c53e731:0xe5d277f6c79b0af8!8m2!3d-26.2709613!4d-48.8124881!16s%2Fg%2F1tkjmbs6!19sChIJMedTXOKx3pQR-Aqbx_Z30uU",
+      "phone": "(47) 99186-7382",
+      "address": "R. Iririú, 3536 - Iririú, Joinville - SC, 89227-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Coradelli Paranaguamirim",
+      "href": "https://www.google.com/maps/place/Drogaria+Coradelli+Paranaguamirim/data=!4m7!3m6!1s0x94deb56f6e149493:0xe224e4d96dffe204!8m2!3d-26.3457129!4d-48.7869622!16s%2Fg%2F11hzwbyhct!19sChIJk5QUbm-13pQRBOL_bdnkJOI",
+      "phone": "(47) 99627-8590",
+      "address": "Av. Kurt Meinert, 400 - Paranaguamirim, Joinville - SC, 89231-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clinica Imaginar",
+      "href": "https://www.google.com/maps/place/Clinica+Imaginar/data=!4m7!3m6!1s0x94deafe3c88c2ceb:0x3d0583a9863dc0e0!8m2!3d-26.275826!4d-48.8617297!16s%2Fg%2F11yzn2tk_n!19sChIJ6yyMyOOv3pQR4MA9hqmDBT0",
+      "phone": "(47) 99193-6587",
+      "address": "R. Guilherme Kock, 622 - Santo Antônio, Joinville - SC, 89218-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Napolitana",
+      "href": "https://www.google.com/maps/place/Napolitana/data=!4m7!3m6!1s0x94deafdcb26680e3:0xa197a2e58ab17941!8m2!3d-26.2746821!4d-48.8554565!16s%2Fg%2F11b86yw0k0!19sChIJ44Bmstyv3pQRQXmxiuWil6E",
+      "phone": "(47) 3425-0099",
+      "address": "R. Pres. Prudente de Moraes, 530 - Santo Antônio, Joinville - SC, 89218-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Virtuosa - Glória",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Virtuosa+-+Gl%C3%B3ria/data=!4m7!3m6!1s0x94deb05cc9952c7b:0x5d10e545033e31ea!8m2!3d-26.2956872!4d-48.8648833!16s%2Fg%2F11cly9gxls!19sChIJeyyVyVyw3pQR6jE-A0XlEF0",
+      "phone": "(47) 99716-1180",
+      "address": "R. Evaristo da Veiga, 348 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Laboratório de Anatomia e Patológica Dr Hugo Carvalho",
+      "href": "https://www.google.com/maps/place/Laborat%C3%B3rio+de+Anatomia+e+Patol%C3%B3gica+Dr+Hugo+Carvalho/data=!4m7!3m6!1s0x94deb05217558109:0x2e19489e1749e57b!8m2!3d-26.3105014!4d-48.844128!16s%2Fg%2F1tc_57l1!19sChIJCYFVF1Kw3pQRe-VJF55IGS4",
+      "phone": "(47) 3422-5712",
+      "address": "R. Dr. Plácido Gomes, 125 - Bucarein, Joinville - SC, 89202-203",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CLAMED Health Center",
+      "href": "https://www.google.com/maps/place/CLAMED+Health+Center/data=!4m7!3m6!1s0x94deb146329159bb:0xaf33a9d502f7312e!8m2!3d-26.2353032!4d-48.8830326!16s%2Fg%2F11qgyjwwg4!19sChIJu1mRMkax3pQRLjH3AtWpM68",
+      "phone": "(47) 99283-2128",
+      "address": "Ágora Tech Park - R. Dona Francisca, 8300 - Distrito Industrial, Joinville - SC, 89219-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

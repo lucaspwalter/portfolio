@@ -1,0 +1,545 @@
+{
+  "id": "clinica-medica",
+  "nome": "Clínica Médica",
+  "terms": [
+    "clínica médica",
+    "policlínica",
+    "centro médico",
+    "consultório",
+    "médico"
+  ],
+  "profiles": 241,
+  "qualified": [
+    {
+      "name": "Edifício Medclínicas",
+      "href": "https://www.google.com/maps/place/Edif%C3%ADcio+Medcl%C3%ADnicas/data=!4m7!3m6!1s0x94deb039cd22c30d:0xbe21af17e0da0374!8m2!3d-26.2986828!4d-48.8501006!16s%2Fg%2F1tg_bm_x!19sChIJDcMizTmw3pQRdAPa4BevIb4",
+      "phone": "(47) 99937-0742",
+      "address": "R. Blumenau, 178 - Centro, Joinville - SC, 89204-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Médica RM",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+M%C3%A9dica+RM/data=!4m7!3m6!1s0x94deb04c1db30dc9:0x8367e5f41c80d781!8m2!3d-26.3054957!4d-48.8446539!16s%2Fg%2F11bzrdw84g!19sChIJyQ2zHUyw3pQRgdeAHPTlZ4M",
+      "phone": "(47) 3278-8882",
+      "address": "n°, R. Abdon Batista, 47 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Médico Joinville",
+      "href": "https://www.google.com/maps/place/Centro+M%C3%A9dico+Joinville/data=!4m7!3m6!1s0x94deb1bf136a180d:0x7dc63ff3ecea6652!8m2!3d-26.298713!4d-48.8501358!16s%2Fg%2F11y62cs75g!19sChIJDRhqE7-x3pQRUmbq7PM_xn0",
+      "phone": "(47) 98814-0442",
+      "address": "R. Blumenau, 178 - Sl 605 - Centro, Joinville - SC, 89204-248",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Médica Pamed",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+M%C3%A9dica+Pamed/data=!4m7!3m6!1s0x94deb045a6bda5bf:0xa6a31c79a9c5917b!8m2!3d-26.3093604!4d-48.851452!16s%2Fg%2F1vn19p3m!19sChIJv6W9pkWw3pQRe5HFqXkco6Y",
+      "phone": "(47) 3433-8701",
+      "address": "R. Min. Calógeras, 1223 - Anita Garibaldi, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Médica",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+M%C3%A9dica/data=!4m7!3m6!1s0x94deb039dc09f5ef:0xfa93c0466c4af6f3!8m2!3d-26.298713!4d-48.8501358!16s%2Fg%2F11bv2cvcsj!19sChIJ7_UJ3Dmw3pQR8_ZKbEbAk_o",
+      "phone": "(47) 3433-8002",
+      "address": "Edifício Med Clínicas - R. Blumenau, 178 - Sala 7 - América, Joinville - SC, 89204-248",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condomínio do Edifício Centro Médico",
+      "href": "https://www.google.com/maps/place/Condom%C3%ADnio+do+Edif%C3%ADcio+Centro+M%C3%A9dico/data=!4m7!3m6!1s0x94deb04955116bcb:0x27bb0ff86bdeb8c6!8m2!3d-26.3050296!4d-48.8445062!16s%2Fg%2F1tfc7s4s!19sChIJy2sRVUmw3pQRxrjea_gPuyc",
+      "phone": "(47) 3433-1566",
+      "address": "R. Dr. Marinho Lobo, 80 - Centro, Joinville - SC, 89201-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VitaVille - Centro Médico",
+      "href": "https://www.google.com/maps/place/VitaVille+-+Centro+M%C3%A9dico/data=!4m7!3m6!1s0x94deb0524495cb3f:0x579141ab077c1642!8m2!3d-26.3106249!4d-48.843095!16s%2Fg%2F11c5rs1wbx!19sChIJP8uVRFKw3pQRQhZ8B6tBkVc",
+      "phone": "(47) 3027-7677",
+      "address": "R. São Paulo, 348 - Bucarein, Joinville - SC, 89202-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dr. Hannu Xavier",
+      "href": "https://www.google.com/maps/place/Dr.+Hannu+Xavier/data=!4m7!3m6!1s0x94deb1e88f304eab:0x13272da983e04ac4!8m2!3d-26.314649!4d-48.847896!16s%2Fg%2F11ghtp0mmb!19sChIJq04wj-ix3pQRxErgg6ktJxM",
+      "phone": "(47) 3271-1991",
+      "address": "R. Eugênio Moreira, número 400 - Anita Garibaldi, Joinville - SC, 89202-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Médico Quality Care",
+      "href": "https://www.google.com/maps/place/Centro+M%C3%A9dico+Quality+Care/data=!4m7!3m6!1s0x94deb137a87e90f3:0x568f993650f9f2b7!8m2!3d-26.3101693!4d-48.8410062!16s%2Fg%2F11gm8sn001!19sChIJ85B-qDex3pQRt_L5UDaZj1Y",
+      "phone": "(47) 3512-0055",
+      "address": "Av. Cel. Procópio Gomes, 480 - Bucarein, Joinville - SC, 89202-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PRÓ VIDA CLÍNICA INTEGRADA DE SAÚDE",
+      "href": "https://www.google.com/maps/place/PR%C3%93+VIDA+CL%C3%8DNICA+INTEGRADA+DE+SA%C3%9ADE/data=!4m7!3m6!1s0x94deb16fac6170a5:0xd9996d9f2504e853!8m2!3d-26.3051866!4d-48.849517!16s%2Fg%2F11h_6x3_x2!19sChIJpXBhrG-x3pQRU-gEJZ9tmdk",
+      "phone": "(47) 99635-6908",
+      "address": "R. Sen. Felipe Schmidt, 229 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Médica Joinville Saúde Mental e Medicina Integral e Personalizada",
+      "href": "https://www.google.com/maps/place/M%C3%A9dica+Joinville+Sa%C3%BAde+Mental+e+Medicina+Integral+e+Personalizada/data=!4m7!3m6!1s0x94d8b75c031ec4b7:0xa1caf9ab8048e8e9!8m2!3d-26.2979628!4d-48.8647206!16s%2Fg%2F11srysrgjb!19sChIJt8QeA1y32JQR6ehIgKv5yqE",
+      "phone": "(47) 99732-3337",
+      "address": "Clini.Ko - R. Evaristo da Veiga, 156 - Glória, Joinville - SC, 88330-607",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CIC-Centro Investigações Clínicas",
+      "href": "https://www.google.com/maps/place/CIC-Centro+Investiga%C3%A7%C3%B5es+Cl%C3%ADnicas/data=!4m7!3m6!1s0x94deb03761e27457:0x3989a58955045086!8m2!3d-26.3004782!4d-48.8510393!16s%2Fg%2F1wf22_vr!19sChIJV3TiYTew3pQRhlAEVYmliTk",
+      "phone": "(47) 3433-0638",
+      "address": "R. XV de Novembro, 867 - América - Centro, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CAC América exame médico",
+      "href": "https://www.google.com/maps/place/CAC+Am%C3%A9rica+exame+m%C3%A9dico/data=!4m7!3m6!1s0x94deb150b0a9569b:0xafebe64c0a6bce64!8m2!3d-26.2910692!4d-48.8449895!16s%2Fg%2F11wmzy5n3s!19sChIJm1apsFCx3pQRZM5rCkzm668",
+      "phone": "(47) 98486-2089",
+      "address": "R. Orestes Guimarães, 720 - Sl 37/38 Piso térreo - Sams Club, Joinville - SC, 89204-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cliniville",
+      "href": "https://www.google.com/maps/place/Cliniville/data=!4m7!3m6!1s0x94deb046ff50d495:0x19d8c8952c956ebd!8m2!3d-26.304793!4d-48.852092!16s%2Fg%2F11b88qvksm!19sChIJldRQ_0aw3pQRvW6VLJXI2Bk",
+      "phone": "(47) 3433-7885",
+      "address": "R. Visc. de Taunay, 530 - Atiradores, Joinville - SC, 89203-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Visiocentro Clinica Medica Eireli",
+      "href": "https://www.google.com/maps/place/Visiocentro+Clinica+Medica+Eireli/data=!4m7!3m6!1s0x94deb04c013019a5:0x2ea68e8fdc067c89!8m2!3d-26.3028172!4d-48.8511776!16s%2Fg%2F11f3cg5w6d!19sChIJpRkwAUyw3pQRiXwG3I-Opi4",
+      "phone": "(47) 3027-4040",
+      "address": "Rua Henrique Meyer 280 Salas 1208, 1209, 1210 - Atiradores, Joinville - SC, 89201-405",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Espaço Desenvolver",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Espa%C3%A7o+Desenvolver/data=!4m7!3m6!1s0x94deb1bcc4c6cc63:0x58cab909af396ad!8m2!3d-26.3075611!4d-48.8625903!16s%2Fg%2F11n122q9fx!19sChIJY8zGxLyx3pQRrZbzmpCrjAU",
+      "phone": "(47) 3423-0147",
+      "address": "R. Alberto Kroehne, 76 - Atiradores, Joinville - SC, 89203-115",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Odontológica Dr Carlos Ferro",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Odontol%C3%B3gica+Dr+Carlos+Ferro/data=!4m7!3m6!1s0x94deb1401236d657:0xafa9e5aa4dfe14ef!8m2!3d-26.3045273!4d-48.8539082!16s%2Fg%2F11yl925wc2!19sChIJV9Y2EkCx3pQR7xT-Tarlqa8",
+      "phone": "(47) 98437-9133",
+      "address": "R. Jacob Eisenhuth, 223 - Sl 301 - Atiradores, Joinville - SC, 89203-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saúde Joinville - Administração de Serviços de Saúde",
+      "href": "https://www.google.com/maps/place/Sa%C3%BAde+Joinville+-+Administra%C3%A7%C3%A3o+de+Servi%C3%A7os+de+Sa%C3%BAde/data=!4m7!3m6!1s0x94deb039fb016c71:0x68f484ad49aacf87!8m2!3d-26.2999341!4d-48.8532691!16s%2Fg%2F1ptvxhr10!19sChIJcWwB-zmw3pQRh8-qSa2E9Gg",
+      "phone": "(47) 3804-4320",
+      "address": "R. Expedicionário Holz, 580 - América, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Odontológico Gilberto Navarro",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Odontol%C3%B3gico+Gilberto+Navarro/data=!4m7!3m6!1s0x94deb0446d8b0075:0x59184cd2904ddb27!8m2!3d-26.3095594!4d-48.8543654!16s%2Fg%2F1tf_jkmy!19sChIJdQCLbUSw3pQRJ9tNkNJMGFk",
+      "phone": "(47) 99699-4675",
+      "address": "R. Pernambuco, 585 - Atiradores, Joinville - SC, 89203-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Vasti",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Vasti/data=!4m7!3m6!1s0x94deb0573d8040e7:0x12793e72262f14cd!8m2!3d-26.3168812!4d-48.8480885!16s%2Fg%2F11bv2bj31g!19sChIJ50CAPVew3pQRzRQvJnI-eRI",
+      "phone": "(47) 3454-1006",
+      "address": "R. Anita Garibaldi, 293 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Idealle",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Idealle/data=!4m7!3m6!1s0x94deb04fe9b2d60f:0x9b85397e7ea6e038!8m2!3d-26.3102578!4d-48.8486523!16s%2Fg%2F11b8223pbz!19sChIJD9ay6U-w3pQROOCmfn45hZs",
+      "phone": "(47) 3804-9461",
+      "address": "R. Dr. Plácido Gomes, 572 - Anita Garibaldi, Joinville - SC, 89202-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nova Laser & Estética Avançada",
+      "href": "https://www.google.com/maps/place/Nova+Laser+%26+Est%C3%A9tica+Avan%C3%A7ada/data=!4m7!3m6!1s0x94deb10068d618d5:0xabce08e377c00508!8m2!3d-26.31985!4d-48.8516294!16s%2Fg%2F11mm6fhfzm!19sChIJ1RjWaACx3pQRCAXAd-MIzqs",
+      "phone": "(47) 98850-1719",
+      "address": "R. Anita Garibaldi, 788 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Essence Vitali - Saúde Integrada",
+      "href": "https://www.google.com/maps/place/Essence+Vitali+-+Sa%C3%BAde+Integrada/data=!4m7!3m6!1s0x94deb1f5efb35ddf:0x10463a38edf6fc7a!8m2!3d-26.3180202!4d-48.8520321!16s%2Fg%2F11vjpkczjw!19sChIJ312z7_Wx3pQRevz27Tg6RhA",
+      "phone": "(47) 99271-5170",
+      "address": "R. Alagoas, 185 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dental Med - Clínica Integrada",
+      "href": "https://www.google.com/maps/place/Dental+Med+-+Cl%C3%ADnica+Integrada/data=!4m7!3m6!1s0x94deb1c653bb1ae9:0xedc0b0e756dc05ca!8m2!3d-26.31127!4d-48.8484458!16s%2Fg%2F11rqlhvy2f!19sChIJ6Rq7U8ax3pQRygXcVuewwO0",
+      "phone": "(47) 3804-2104",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 1390 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CLÍNICA CETA",
+      "href": "https://www.google.com/maps/place/CL%C3%8DNICA+CETA/data=!4m7!3m6!1s0x94deb05230376af7:0xb0085e35532554c0!8m2!3d-26.3114613!4d-48.8440565!16s%2Fg%2F11c6_w2p2m!19sChIJ92o3MFKw3pQRwFQlUzVeCLA",
+      "phone": "(47) 3202-9200",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 955 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Dentário",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Dent%C3%A1rio/data=!4m7!3m6!1s0x94deb1c55bab32c9:0x9bd09efa4327bd2b!8m2!3d-26.3260001!4d-48.8643838!16s%2Fg%2F11gm56rslw!19sChIJyTKrW8Wx3pQRK70nQ_qe0Js",
+      "phone": "(47) 3455-5031",
+      "address": "R. Ijuí, 141 - Anita Garibaldi, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esteticista Vânia Grave | Anita Garibaldi - Joinville",
+      "href": "https://www.google.com/maps/place/Esteticista+V%C3%A2nia+Grave+%7C+Anita+Garibaldi+-+Joinville/data=!4m7!3m6!1s0x94deb15e7a63215b:0xc949187edc1cbfa3!8m2!3d-26.3248253!4d-48.8639988!16s%2Fg%2F11vxjmv1lk!19sChIJWyFjel6x3pQRo78c3H4YSck",
+      "phone": "(47) 98891-8465",
+      "address": "R. Anita Garibaldi, 2259 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oriente Consultorio Odontologico",
+      "href": "https://www.google.com/maps/place/Oriente+Consultorio+Odontologico/data=!4m7!3m6!1s0x253ba9c22a661dd9:0xb33e8e02e56a251b!8m2!3d-26.3120594!4d-48.8491018!16s%2Fg%2F11z8vp1nh1!19sChIJ2R1mKsKpOyURGyVq5QKOPrM",
+      "phone": "(47) 99975-5484",
+      "address": "R. Alexandre Schlemm, 816 - Anita Garibaldi, Joinville - SC, 89202-181",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vitalis",
+      "href": "https://www.google.com/maps/place/Vitalis/data=!4m7!3m6!1s0x94deb045533793d1:0x95af9798a1ed2338!8m2!3d-26.3116149!4d-48.8496972!16s%2Fg%2F1tj97kmp!19sChIJ0ZM3U0Ww3pQROCPtoZiXr5U",
+      "phone": "(47) 99644-5477",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 1536 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Artmann Odontologia",
+      "href": "https://www.google.com/maps/place/Artmann+Odontologia/data=!4m7!3m6!1s0x94deb0585ad0eb2d:0x5f6441b7c4998836!8m2!3d-26.320113!4d-48.851723!16s%2Fg%2F11d_79v3n2!19sChIJLevQWliw3pQRNoiZxLdBZF8",
+      "phone": "(47) 3026-5453",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Harlei Bussmann Odontologia",
+      "href": "https://www.google.com/maps/place/Harlei+Bussmann+Odontologia/data=!4m7!3m6!1s0x94deb0585f62178b:0x7210adea5457f263!8m2!3d-26.3206579!4d-48.8524782!16s%2Fg%2F11b86dcyhl!19sChIJixdiX1iw3pQRY_JXVOqtEHI",
+      "phone": "(47) 3227-6610",
+      "address": "R. Anita Garibaldi, 904 - 02 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amaitê Clínica Integrada",
+      "href": "https://www.google.com/maps/place/Amait%C3%AA+Cl%C3%ADnica+Integrada/data=!4m7!3m6!1s0x94deb16d38a9d6f7:0x1796a389aaeec93c!8m2!3d-26.2843894!4d-48.8348686!16s%2Fg%2F11vs_ws99w!19sChIJ99apOG2x3pQRPMnuqomjlhc",
+      "phone": "(47) 98477-0873",
+      "address": "R. dos Capuchinhos, 173 - Saguaçu, Joinville - SC, 89221-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hospital Geral Joinville | Hapvida",
+      "href": "https://www.google.com/maps/place/Hospital+Geral+Joinville+%7C+Hapvida/data=!4m7!3m6!1s0x94deb180617f3e01:0xa9ae7aed62c69b8e!8m2!3d-26.2875296!4d-48.8480284!16s%2Fg%2F11q35_ld7x!19sChIJAT5_YYCx3pQRjpvGYu16rqk",
+      "phone": "(47) 3121-4691",
+      "address": "R. Itaiópolis, 128 - América, Joinville - SC, 89204-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Sollares",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Sollares/data=!4m7!3m6!1s0x94deaf2e93bda13b:0xedd1ab4e3bd2d2ff!8m2!3d-26.273841!4d-48.8450276!16s%2Fg%2F11np3jttz2!19sChIJO6G9ky6v3pQR_9LSO06r0e0",
+      "phone": "(47) 99616-2648",
+      "address": "R. Assis Brasil, 47 - Saguaçu, Joinville - SC, 89221-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "7solucões piscinas Alto Padrão - Projetos,Instalação,Manutenção",
+      "href": "https://www.google.com/maps/place/7soluc%C3%B5es+piscinas+Alto+Padr%C3%A3o+-+Projetos,Instala%C3%A7%C3%A3o,Manuten%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb17a19be9cf5:0xfdebd6e0f930131f!8m2!3d-26.2834215!4d-48.8445864!16s%2Fg%2F11nt_csb52!19sChIJ9Zy-GXqx3pQRHxMw-eDW6_0",
+      "phone": "(47) 99630-2189",
+      "address": "R. Padre Antônio Vieira - América, Joinville - SC, 89204-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Serenité Clínica Odontológica",
+      "href": "https://www.google.com/maps/place/Serenit%C3%A9+Cl%C3%ADnica+Odontol%C3%B3gica/data=!4m7!3m6!1s0x94deb1056edd5b8f:0x6abf4221f5fbe91b!8m2!3d-26.2799347!4d-48.8371822!16s%2Fg%2F11yl40cg0s!19sChIJj1vdbgWx3pQRG-n79SFCv2o",
+      "phone": "(47) 3207-1401",
+      "address": "R. Iririú, 541 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Fisioterapia Costa e Silva",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+Costa+e+Silva/data=!4m7!3m6!1s0x94deaff4c2cba66b:0x82f1e26f599421f4!8m2!3d-26.273359!4d-48.8763741!16s%2Fg%2F1wl4rrmv!19sChIJa6bLwvSv3pQR9CGUWW_i8YI",
+      "phone": "(47) 3473-8444",
+      "address": "R. Inambu, 427 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Prontomed",
+      "href": "https://www.google.com/maps/place/Prontomed/data=!4m7!3m6!1s0x94deaff25589b799:0xe9f29dcb82598448!8m2!3d-26.2729222!4d-48.8722718!16s%2Fg%2F1pty663mr!19sChIJmbeJVfKv3pQRSIRZgsud8uk",
+      "phone": "(47) 3425-2011",
+      "address": "R. Inambu, 10 - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CAC COSTA E SILVA (AVALIAÇÃO DE CONDUTORES)",
+      "href": "https://www.google.com/maps/place/CAC+COSTA+E+SILVA+%28AVALIA%C3%87%C3%83O+DE+CONDUTORES%29/data=!4m7!3m6!1s0x94deaf8b0f80c7e3:0x3f0c4ae9a9cd716!8m2!3d-26.2671018!4d-48.8684833!16s%2Fg%2F11xnvnhq0b!19sChIJ48eAD4uv3pQRFtecmq7E8AM",
+      "phone": "(47) 99229-3539",
+      "address": "R. Hermann Lange, 288 - Sl 03 SALA 03 - Costa e Silva, Joinville - SC, 89219-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Odonto Excellence - Costa e Silva",
+      "href": "https://www.google.com/maps/place/Odonto+Excellence+-+Costa+e+Silva/data=!4m7!3m6!1s0x94deafdb2bdf6a71:0x9507fe74435c38dc!8m2!3d-26.2696724!4d-48.8729366!16s%2Fg%2F11rghm6xs0!19sChIJcWrfK9uv3pQR3DhcQ3T-B5U",
+      "phone": "(47) 3433-5152",
+      "address": "R. Pardal, 57 - Costa e Silva, Joinville - SC, 89220-080",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Geral",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Geral/data=!4m7!3m6!1s0x94deaff2f82baff7:0xf603515209e4148a!8m2!3d-26.2728262!4d-48.8718911!16s%2Fg%2F11c3n1xdt_!19sChIJ968r-PKv3pQRihTkCVJRA_Y",
+      "phone": "(47) 3435-0160",
+      "address": "Rua Otto Pfuetzenreuter, 114 - SALA 205 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Akron Clinica de Quiropraxia",
+      "href": "https://www.google.com/maps/place/Akron+Clinica+de+Quiropraxia/data=!4m7!3m6!1s0x94deb1b09ac1f769:0x3a384ef96bcc06d5!8m2!3d-26.297756!4d-48.842636!16s%2Fg%2F11z3f39jzf!19sChIJaffBmrCx3pQR1QbMa_lOODo",
+      "phone": "(47) 99179-4133",
+      "address": "Av. Dr. Albano Schulz, 865 - Sl 01 - Centro, Joinville - SC, 89201-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aria Clínica de Odontologia Avançada",
+      "href": "https://www.google.com/maps/place/Aria+Cl%C3%ADnica+de+Odontologia+Avan%C3%A7ada/data=!4m7!3m6!1s0x94dea5eeb57c1797:0x7cb904ca48eb0f54!8m2!3d-26.2733749!4d-48.8822236!16s%2Fg%2F11s2nb3q7r!19sChIJlxd8te6l3pQRVA_rSMoEuXw",
+      "phone": "(47) 98914-3119",
+      "address": "R. Inambu, 2949 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CPA ODONTOLOGIA - Dra. Cassiana Pacheco de Andrade - Excelência em odontologia e Estética Dental",
+      "href": "https://www.google.com/maps/place/CPA+ODONTOLOGIA+-+Dra.+Cassiana+Pacheco+de+Andrade+-+Excel%C3%AAncia+em+odontologia+e+Est%C3%A9tica+Dental/data=!4m7!3m6!1s0x94deaff2e0420321:0x91a9b0f251325aff!8m2!3d-26.2719535!4d-48.8724018!16s%2Fg%2F11d_x5xpj2!19sChIJIQNC4PKv3pQR_1oyUfKwqZE",
+      "phone": "(47) 3435-0334",
+      "address": "Rua Otto Pfuetzenreuter, 195 - sala 02 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Odontológico Dra. Mônica Ávila de Michels",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Odontol%C3%B3gico+Dra.+M%C3%B4nica+%C3%81vila+de+Michels/data=!4m7!3m6!1s0x94deafeda30c8325:0x2a282e4d4d3ff8a8!8m2!3d-26.2721652!4d-48.8684437!16s%2Fg%2F11bv6l5r6v!19sChIJJYMMo-2v3pQRqPg_TU0uKCo",
+      "phone": "(47) 3435-2209",
+      "address": "R. Juta W G Wendel, 150 - Costa e Silva, Joinville - SC, 89218-470",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Soeth Odontologia",
+      "href": "https://www.google.com/maps/place/Soeth+Odontologia/data=!4m7!3m6!1s0x94deaf8a73a9c639:0x7edf8c6b23fc664d!8m2!3d-26.2692641!4d-48.8794349!16s%2Fg%2F11f148mb72!19sChIJOcapc4qv3pQRTWb8I2uM334",
+      "phone": "(47) 99608-1168",
+      "address": "R. Bernardo Welter, 365 - Costa e Silva, Joinville - SC, 89220-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dents Odontologia Preventiva e Estética",
+      "href": "https://www.google.com/maps/place/Dents+Odontologia+Preventiva+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaff15a8e6423:0xc3934c25d7c4aa07!8m2!3d-26.2766201!4d-48.8742803!16s%2Fg%2F11b8c2q4p3!19sChIJI2SOWvGv3pQRB6rE1yVMk8M",
+      "phone": "(47) 3425-4030",
+      "address": "R. Dona Elza Meinert, 299 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clinica Ethos",
+      "href": "https://www.google.com/maps/place/Clinica+Ethos/data=!4m7!3m6!1s0x94dea56750083d27:0x44f24ba5a81b75a5!8m2!3d-26.2741108!4d-48.8840155!16s%2Fg%2F11z8st1wtl!19sChIJJz0IUGel3pQRpXUbqKVL8kQ",
+      "phone": "(47) 99159-9309",
+      "address": "Av. Alm. Jaceguay, 3119 - Sala 01 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Odontológico",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Odontol%C3%B3gico/data=!4m7!3m6!1s0x94dea560420e3cad:0x10aff2e162c181a4!8m2!3d-26.2726176!4d-48.881635!16s%2Fg%2F11bvt1wf6j!19sChIJrTwOQmCl3pQRpIHBYuHyrxA",
+      "phone": "(47) 3467-7721",
+      "address": "R. Luiz Bachtold, 776 - Costa e Silva, Joinville - SC, 89220-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dr. Caetano da Costa Souza",
+      "href": "https://www.google.com/maps/place/Dr.+Caetano+da+Costa+Souza/data=!4m7!3m6!1s0x94deb15137bb2ed9:0x16c21c967c6e91b!8m2!3d-26.2995541!4d-48.8503128!16s%2Fg%2F11yydydd84!19sChIJ2S67N1Gx3pQRG-nGZ8khbAE",
+      "phone": "(47) 99113-9046",
+      "address": "R. Blumenau, 64 - Sl 1006 - América, Joinville - SC, 89204-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de APS",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+APS/data=!4m7!3m6!1s0x94deb71eee711267:0xfd311c46555deaf5!8m2!3d-26.3800811!4d-48.8226546!16s%2Fg%2F11fknj9lql!19sChIJZxJx7h633pQR9epdVUYcMf0",
+      "phone": "(47) 3426-8064",
+      "address": "R. Adolfo da Veiga, 2456 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "mia bella",
+      "href": "https://www.google.com/maps/place/mia+bella/data=!4m7!3m6!1s0x94dea54b5d715fb9:0x7789a3f3983a7125!8m2!3d-26.2914911!4d-48.9035021!16s%2Fg%2F11ryhgkdm5!19sChIJuV9xXUul3pQRJXE6mPOjiXc",
+      "phone": "(47) 99106-0344",
+      "address": "R. Marcos João Serafim - Vila Nova, Joinville - SC, 89237-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Odonto Excellence Joinville- Vila Nova",
+      "href": "https://www.google.com/maps/place/Odonto+Excellence+Joinville-+Vila+Nova/data=!4m7!3m6!1s0x94dea57861f49e5b:0x8c3cfbc0fc1d70f8!8m2!3d-26.2864227!4d-48.9021339!16s%2Fg%2F11jnt8thj5!19sChIJW570YXil3pQR-HAd_MD7PIw",
+      "phone": "(47) 3013-0900",
+      "address": "R. São Brás - Vila Nova, Joinville - SC, 89237-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maria Eugênia Podologia Clínica",
+      "href": "https://www.google.com/maps/place/Maria+Eug%C3%AAnia+Podologia+Cl%C3%ADnica/data=!4m7!3m6!1s0x94deb7f64320427f:0x5b5e569e7d9bc09f!8m2!3d-26.3667846!4d-48.8271568!16s%2Fg%2F11ypd84x84!19sChIJf0IgQ_a33pQRn8CbfZ5WXls",
+      "phone": "(47) 98823-7136",
+      "address": "Rua:Dos Médicos, n° 209 - R. dos Médicos, 209 - Boehmerwald, Joinville - SC, 89235-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nutro Clínica",
+      "href": "https://www.google.com/maps/place/Nutro+Cl%C3%ADnica/data=!4m7!3m6!1s0x94dea5005e434723:0x901de2ab0cb929fa!8m2!3d-26.2877048!4d-48.9206544!16s%2Fg%2F11x0h7gll8!19sChIJI0dDXgCl3pQR-im5DKviHZA",
+      "phone": "(47) 3422-4117",
+      "address": "R. XV de Novembro, 8859 - Vila Nova, Joinville - SC, 89237-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Odontológico Dra. SÍLVIA A. C. LOZ",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Odontol%C3%B3gico+Dra.+S%C3%8DLVIA+A.+C.+LOZ/data=!4m7!3m6!1s0x2a8c8df4ebc9fead:0xb94816aa867769c!8m2!3d-26.2868966!4d-48.9125563!16s%2Fg%2F11px82rjtk!19sChIJrf7J6_SNjCoRnHZnqGqBlAs",
+      "phone": "(47) 99911-6646",
+      "address": "R. XV de Novembro, 7942 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Aline Luquini Hiebl",
+      "href": "https://www.google.com/maps/place/Dra.+Aline+Luquini+Hiebl/data=!4m7!3m6!1s0x94dea53c45e768bf:0x693c7db17c65c465!8m2!3d-26.2879466!4d-48.901566!16s%2Fg%2F11b6hjrv8k!19sChIJv2jnRTyl3pQRZcRlfLF9PGk",
+      "phone": "(47) 3804-1799",
+      "address": "R. Joaquim Girardi, 62 - Sl 6 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Via Odonto Vila Nova",
+      "href": "https://www.google.com/maps/place/Via+Odonto+Vila+Nova/data=!4m7!3m6!1s0x94dea5b93b4e3e1b:0xb5115efb9a912b9b!8m2!3d-26.2870989!4d-48.9035758!16s%2Fg%2F11ym_djgx8!19sChIJGz5OO7ml3pQRmyuRmvteEbU",
+      "phone": "(47) 98841-7462",
+      "address": "R. XV de Novembro, 7052 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LOTTU ODONTOLOGIA",
+      "href": "https://www.google.com/maps/place/LOTTU+ODONTOLOGIA/data=!4m7!3m6!1s0x94dea5c5fbb9eb31:0x1d782fa38eaca41d!8m2!3d-26.2857551!4d-48.9064413!16s%2Fg%2F11x8pkch7n!19sChIJMeu5-8Wl3pQRHaSsjqMveB0",
+      "phone": "(47) 99201-0409",
+      "address": "R. Paulo Schneider, 64 - Sl 03 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

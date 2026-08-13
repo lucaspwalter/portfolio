@@ -1,0 +1,406 @@
+{
+  "id": "hotel",
+  "nome": "Hotel",
+  "terms": [
+    "hotel",
+    "motel",
+    "hostel",
+    "hotel fazenda",
+    "hotel executivo",
+    "hotel econômico",
+    "resort",
+    "apart hotel",
+    "hospedagem",
+    "pousada"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "Pousada Floresta",
+      "href": "https://www.google.com/maps/place/Pousada+Floresta/data=!4m10!3m9!1s0x94deb0d97ee939f1:0xdb7f0196e55605a!5m2!4m1!1i2!8m2!3d-26.3458187!4d-48.8445689!16s%2Fg%2F11rlsn7jjs!19sChIJ8Tnpftmw3pQRWmBVbhnwtw0",
+      "phone": "(47) 99653-2158",
+      "address": "Sobrado com muro de vidro - R. Augusto Ernesto Boettcher, 229 - Floresta, Joinville - SC, 89212-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Cheri Ami",
+      "href": "https://www.google.com/maps/place/Hotel+Cheri+Ami/data=!4m10!3m9!1s0x94deb0da5e00ae4f:0x614ebf390862b7f8!5m2!4m1!1i2!8m2!3d-26.3478406!4d-48.8470621!16s%2Fg%2F1trchk_j!19sChIJT64AXtqw3pQR-LdiCDm_TmE",
+      "phone": "(47) 3436-2269",
+      "address": "R. Santa Catarina, 2702 - Floresta, Joinville - SC, 89212-212",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada - Valentina Ramos - Joinville -SC",
+      "href": "https://www.google.com/maps/place/Pousada+-+Valentina+Ramos+-+Joinville+-SC/data=!4m10!3m9!1s0x94deb1d6dffc0cb3:0xf4cc50cfbd4e199b!5m2!4m1!1i2!8m2!3d-26.3157695!4d-48.8678689!16s%2Fg%2F11s753wn2j!19sChIJswz839ax3pQRmxlOvc9QzPQ",
+      "phone": "(47) 99209-6416",
+      "address": "R. Palmares, 300 - Atiradores, Joinville - SC, 89203-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Motel Big",
+      "href": "https://www.google.com/maps/place/Motel+Big/data=!4m10!3m9!1s0x94deb140615691d5:0x1afe4118f14c5dba!5m2!4m1!1i2!8m2!3d-26.3317308!4d-48.818579!16s%2Fg%2F11bv5stkfb!19sChIJ1ZFWYUCx3pQRul1M8RhB_ho",
+      "phone": "(47) 3466-0103",
+      "address": "R. Cmte. Alberto Lepper, 677 - Fátima, Joinville - SC, 89229-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Motel Las Vegas",
+      "href": "https://www.google.com/maps/place/Motel+Las+Vegas/data=!4m10!3m9!1s0x94deb310d2c64537:0x86be6165a37d592d!5m2!4m1!1i2!8m2!3d-26.2852074!4d-48.7932115!16s%2Fg%2F11fl87sjkv!19sChIJN0XG0hCz3pQRLVl9o2VhvoY",
+      "phone": "(47) 99754-2176",
+      "address": "R. Pref. Baltasar Buschle, 1780 - Espinheiros, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hostel Come Home",
+      "href": "https://www.google.com/maps/place/Hostel+Come+Home/data=!4m10!3m9!1s0x94dea55ef5afffff:0x3bab76dac0429b76!5m2!4m1!1i2!8m2!3d-26.2771253!4d-48.88361!16s%2Fg%2F11rpjb0vlk!19sChIJ__-v9V6l3pQRdptCwNp2qzs",
+      "phone": "(47) 99923-3235",
+      "address": "R. das Domésticas, 387 - Costa e Silva, Joinville - SC, 89220-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Joinvillense",
+      "href": "https://www.google.com/maps/place/Hotel+Joinvillense/data=!4m10!3m9!1s0x94deb04c91208b2b:0xef4d890e87859dc5!5m2!4m1!1i2!8m2!3d-26.3041927!4d-48.8413228!16s%2Fg%2F11b6drhpn3!19sChIJK4sgkUyw3pQRxZ2Fhw6JTe8",
+      "phone": "(47) 99914-8311",
+      "address": "R. Sete de Setembro, 233 - Centro, Joinville - SC, 89201-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Graciosa",
+      "href": "https://www.google.com/maps/place/Hotel+Graciosa/data=!4m10!3m9!1s0x94deb1025a97c091:0x87151ec31fdb2989!5m2!4m1!1i2!8m2!3d-26.3237719!4d-48.8379029!16s%2Fg%2F1tfb346x!19sChIJkcCXWgKx3pQRiSnbH8MeFYc",
+      "phone": "(47) 3436-1700",
+      "address": "R. Florianópolis, 406 - Itaum, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ferdin Hostel e Pousada",
+      "href": "https://www.google.com/maps/place/Ferdin+Hostel+e+Pousada/data=!4m10!3m9!1s0x94deb169dd5258f7:0x7d9c055a3b8830ef!5m2!4m1!1i2!8m2!3d-26.3152768!4d-48.8592754!16s%2Fg%2F11wbfpnvrh!19sChIJ91hS3Wmx3pQR7zCIO1oFnH0",
+      "phone": "(47) 99255-5035",
+      "address": "R. Caçador, 320 - Anita Garibaldi, Joinville - SC, 89203-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada Central, Joinville",
+      "href": "https://www.google.com/maps/place/Pousada+Central,+Joinville/data=!4m10!3m9!1s0x94deb1b287032fdd:0x70536dbdcd49ce91!5m2!4m1!1i2!8m2!3d-26.3089277!4d-48.8435001!16s%2Fg%2F11ydn6p500!19sChIJ3S8Dh7Kx3pQRkc5Jzb1tU3A",
+      "phone": "(47) 99190-8644",
+      "address": "R. Rio do Sul, 366 - Bucarein, Joinville - SC, 89202-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada Joinville",
+      "href": "https://www.google.com/maps/place/Pousada+Joinville/data=!4m10!3m9!1s0x94deb00aca887acb:0x6743189c51389e9d!5m2!4m1!1i2!8m2!3d-26.3116499!4d-48.8788764!16s%2Fg%2F11c510c6kl!19sChIJy3qIygqw3pQRnZ44UZwYQ2c",
+      "phone": "(47) 99708-9365",
+      "address": "R. Osvaldo H Bachtold, 200 - São Marcos, Joinville - SC, 89214-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hostel Pousada Floresta em Joinville",
+      "href": "https://www.google.com/maps/place/Hostel+Pousada+Floresta+em+Joinville/data=!4m10!3m9!1s0x94deb16354411ed1:0x8e148e5fcd85177b!5m2!4m1!1i2!8m2!3d-26.3393007!4d-48.8564253!16s%2Fg%2F11tnggx1h9!19sChIJ0R5BVGOx3pQRexeFzV-OFI4",
+      "phone": "(47) 99959-7964",
+      "address": "R. Ibirapuera, 908 - Floresta, Joinville - SC, 89212-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hostel e Pousada Boa Vista",
+      "href": "https://www.google.com/maps/place/Hostel+e+Pousada+Boa+Vista/data=!4m10!3m9!1s0x94deb19a01e15555:0x87d7e102f4d56954!5m2!4m1!1i2!8m2!3d-26.2992115!4d-48.814351!16s%2Fg%2F11hksq0fpp!19sChIJVVXhAZqx3pQRVGnV9ALh14c",
+      "phone": "(47) 98914-9835",
+      "address": "R. São Borja, 532 - Boa Vista, Joinville - SC, 89206-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Recanto dos Pássaros",
+      "href": "https://www.google.com/maps/place/Recanto+dos+P%C3%A1ssaros/data=!4m10!3m9!1s0x94deb1eebf5a097b:0x244ab9ba099abd6f!5m2!4m1!1i2!8m2!3d-26.3157496!4d-48.8679592!16s%2Fg%2F11h4z7lcmf!19sChIJewlav-6x3pQRb72aCbq5SiQ",
+      "phone": "(47) 3307-9459",
+      "address": "R. Palmares, 300 - Atiradores, Joinville - SC, 89203-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada Emilly",
+      "href": "https://www.google.com/maps/place/Pousada+Emilly/data=!4m10!3m9!1s0x94deb1c2ca7dfe7d:0x310d2061407f33cb!5m2!4m1!1i2!8m2!3d-26.3073202!4d-48.8404895!16s%2Fg%2F11st_yql4b!19sChIJff59ysKx3pQRyzN_QGEgDTE",
+      "phone": "(47) 99681-9119",
+      "address": "Av. Cel. Procópio Gomes, 175 - Bucarein, Joinville - SC, 89202-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotéis XV",
+      "href": "https://www.google.com/maps/place/Hot%C3%A9is+XV/data=!4m10!3m9!1s0x94deb11fcbf4d41b:0xdeec0532a2b6c790!5m2!4m1!1i2!8m2!3d-26.296817!4d-48.8707941!16s%2Fg%2F11rclf33wk!19sChIJG9T0yx-x3pQRkMe2ojIF7N4",
+      "phone": "(47) 99977-1557",
+      "address": "R. XV de Novembro, 2915 - Glória, Joinville - SC, 89216-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loft ON!",
+      "href": "https://www.google.com/maps/place/Loft+ON!/data=!4m10!3m9!1s0x94deb14c02848ffd:0xefb9a9353cc045f5!5m2!4m1!1i2!8m2!3d-26.3016784!4d-48.8461464!16s%2Fg%2F11w3b66h9n!19sChIJ_Y-EAkyx3pQR9UXAPDWpue8",
+      "phone": "(47) 99750-7918",
+      "address": "R. 9 de Março, 485 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio H Residencial Flipchave STH000",
+      "href": "https://www.google.com/maps/place/Studio+H+Residencial+Flipchave+STH000/data=!4m10!3m9!1s0x94deb03f46b77bc1:0xddd69917ca3470f6!5m2!4m1!1i2!8m2!3d-26.302778!4d-48.855739!16s%2Fg%2F11yr23w2v8!19sChIJwXu3Rj-w3pQR9nA0yheZ1t0",
+      "phone": "(47) 99788-0123",
+      "address": "R. Otto Boehm, 525 - Centro, Joinville - SC, 89201-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HOTEL GILLAU'S",
+      "href": "https://www.google.com/maps/place/HOTEL+GILLAU%27S/data=!4m10!3m9!1s0x94deb04cf6445507:0xdc3a0136f6e28f58!5m2!4m1!1i2!8m2!3d-26.3056161!4d-48.8422493!16s%2Fg%2F11bzwppc6x!19sChIJB1VE9kyw3pQRWI_i9jYBOtw",
+      "phone": "(47) 3433-3002",
+      "address": "R. Itajaí, n°15 - Centro, Joinville - SC, 89201-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Smart Stay Lofts Joinville",
+      "href": "https://www.google.com/maps/place/Smart+Stay+Lofts+Joinville/data=!4m10!3m9!1s0x94deb19ce020c7b3:0x37705449a405b375!5m2!4m1!1i2!8m2!3d-26.3016784!4d-48.8461464!16s%2Fg%2F11ms00j6wd!19sChIJs8cg4Jyx3pQRdbMFpElUcDc",
+      "phone": "(47) 99710-0241",
+      "address": "R. 9 de Março, 485 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel de Trânsito do 62º BI",
+      "href": "https://www.google.com/maps/place/Hotel+de+Tr%C3%A2nsito+do+62%C2%BA+BI/data=!4m10!3m9!1s0x94deb15235b3eb59:0x93d8342c50ecf227!5m2!4m1!1i2!8m2!3d-26.3061334!4d-48.8526189!16s%2Fg%2F11hwf06fyq!19sChIJWeuzNVKx3pQRJ_LsUCw02JM",
+      "phone": "(47) 98809-0527",
+      "address": "R. Duque de Caxias, 375 - Atiradores, Joinville - SC, 89201-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Paraíso das Flores",
+      "href": "https://www.google.com/maps/place/Hotel+Para%C3%ADso+das+Flores/data=!4m10!3m9!1s0x94deb0447e46bbfb:0x5b9ffed3885513d1!5m2!4m1!1i2!8m2!3d-26.3104239!4d-48.8547896!16s%2Fg%2F1tcx2p9j!19sChIJ-7tGfkSw3pQR0RNViNP-n1s",
+      "phone": "(47) 3433-4707",
+      "address": "R. Min. Calógeras, 1576 - Atiradores, Joinville - SC, 89203-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hospedagem Doce Lar",
+      "href": "https://www.google.com/maps/place/Hospedagem+Doce+Lar/data=!4m10!3m9!1s0x94dea53638e1aaad:0xb625fa0fd6d21d9f!5m2!4m1!1i2!8m2!3d-26.277127!4d-48.8835873!16s%2Fg%2F11xlsptkyg!19sChIJrarhODal3pQRnx3S1g_6JbY",
+      "phone": "(47) 99665-4776",
+      "address": "R. das Domésticas, 387 - Costa e Silva, Joinville - SC, 89220-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada e Flat Joinville SC",
+      "href": "https://www.google.com/maps/place/Pousada+e+Flat+Joinville+SC/data=!4m7!3m6!1s0x94deb191304230c7:0x568e60a36fbb95c1!8m2!3d-26.3225928!4d-48.865403!16s%2Fg%2F11z43892mb!19sChIJxzBCMJGx3pQRwZW7b6NgjlY",
+      "phone": "(47) 98467-2313",
+      "address": "R. Dona Marieta Stock, 217 - Anita Garibaldi, Joinville - SC, 89203-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hostel BR",
+      "href": "https://www.google.com/maps/place/Hostel+BR/data=!4m10!3m9!1s0x94deb1ebc97f6a35:0x37eca7d637b9d401!5m2!4m1!1i2!8m2!3d-26.3235133!4d-48.8705864!16s%2Fg%2F11vpzf2jlb!19sChIJNWp_yeux3pQRAdS5N9an7Dc",
+      "phone": "(47) 99236-2093",
+      "address": "R. Botuverá - São Marcos, Joinville - SC, 89214-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada e Lanches Ipanema",
+      "href": "https://www.google.com/maps/place/Pousada+e+Lanches+Ipanema/data=!4m10!3m9!1s0x94deb1aa47de9a41:0x9d4229612358f461!5m2!4m1!1i2!8m2!3d-26.31434!4d-48.8568934!16s%2Fg%2F11ffw0x4s9!19sChIJQZreR6qx3pQRYfRYI2EpQp0",
+      "phone": "(47) 99795-6503",
+      "address": "R. Paraíba, 912 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Novo Horizonte",
+      "href": "https://www.google.com/maps/place/Hotel+Novo+Horizonte/data=!4m10!3m9!1s0x94deb05cc48cb485:0xa827864f1ef8b55c!5m2!4m1!1i2!8m2!3d-26.3146677!4d-48.8566197!16s%2Fg%2F11bzwpjf8z!19sChIJhbSMxFyw3pQRXLX4Hk-GJ6g",
+      "phone": "(47) 3025-5107",
+      "address": "R. Paraíba, 766 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CASA PORTO HOSTEL",
+      "href": "https://www.google.com/maps/place/CASA+PORTO+HOSTEL/data=!4m10!3m9!1s0x94deb1f0ebc60527:0xfa2fa8ad69a079fd!5m2!4m1!1i2!8m2!3d-26.3171339!4d-48.8518238!16s%2Fg%2F11zbgxh8fv!19sChIJJwXG6_Cx3pQR_Xmgaa2oL_o",
+      "phone": "(47) 98861-9990",
+      "address": "R. Porto União, 551 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel + Lazer",
+      "href": "https://www.google.com/maps/place/Hotel+%2B+Lazer/data=!4m10!3m9!1s0x94deb1025a8d142b:0x3185ab6cdfba3a9b!5m2!4m1!1i2!8m2!3d-26.323821!4d-48.837927!16s%2Fg%2F11y9b2fh6_!19sChIJKxSNWgKx3pQRmzq632yrhTE",
+      "phone": "(47) 98454-1533",
+      "address": "R. Florianópolis, 406 - Itaum, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GM DORMITÓRIO",
+      "href": "https://www.google.com/maps/place/GM+DORMIT%C3%93RIO/data=!4m7!3m6!1s0x94deaf13fdba4709:0x7161784619dc750e!8m2!3d-26.2639858!4d-48.8635234!16s%2Fg%2F11lylrydgg!19sChIJCUe6_ROv3pQRDnXcGUZ4YXE",
+      "phone": "(47) 99744-6345",
+      "address": "R. Rui Barbosa, 175 - And 2 - Sala b - Costa e Silva, Joinville - SC, 89219-158",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condominio Henriqueta",
+      "href": "https://www.google.com/maps/place/Condominio+Henriqueta/data=!4m7!3m6!1s0x94dea5001aa5024f:0x76b783037e13bf9e!8m2!3d-26.2737075!4d-48.8831431!16s%2Fg%2F11yklgcqk5!19sChIJTwKlGgCl3pQRnr8TfgODt3Y",
+      "phone": "(47) 98833-9697",
+      "address": "Av. Alm. Jaceguay, 3044 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hostel Casarão Mineiro",
+      "href": "https://www.google.com/maps/place/Hostel+Casar%C3%A3o+Mineiro/data=!4m10!3m9!1s0x94deb118b7b89ad1:0x61818992b1b988b4!5m2!4m1!1i2!8m2!3d-26.300966!4d-48.8607642!16s%2Fg%2F11frsv0hnb!19sChIJ0Zq4txix3pQRtIi5sZKJgWE",
+      "phone": "(47) 99148-5150",
+      "address": "R. Dário Veloso, 73 - Glória, Joinville - SC, 89204-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vila Nova Joinville SC",
+      "href": "https://www.google.com/maps/place/Vila+Nova+Joinville+SC/data=!4m7!3m6!1s0x94dea5573e138c09:0x3ccd2b974ec80908!8m2!3d-26.2946176!4d-48.9000928!16s%2Fg%2F11stznj6cr!19sChIJCYwTPlel3pQRCAnITpcrzTw",
+      "phone": "(47) 98829-0701",
+      "address": "R. Bento Torquato da Rocha - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pousada Eliza e Helon",
+      "href": "https://www.google.com/maps/place/Pousada+Eliza+e+Helon/data=!4m10!3m9!1s0x94deb12105c84ced:0xd4089469302c1373!5m2!4m1!1i2!8m2!3d-26.3388557!4d-48.836753!16s%2Fg%2F11rlsnz_gl!19sChIJ7UzIBSGx3pQRcxMsMGmUCNQ",
+      "phone": "(47) 99615-1304",
+      "address": "R. Antônio Cidral, 38 - Itaum, Joinville - SC, 89208-415",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MANCHOUSE",
+      "href": "https://www.google.com/maps/place/MANCHOUSE/data=!4m7!3m6!1s0x94deb1202638f63b:0xf8be779a10bfacba!8m2!3d-26.3367546!4d-48.838193!16s%2Fg%2F1hdy_6vwy!19sChIJO_Y4JiCx3pQRuqy_EJp3vvg",
+      "phone": "(47) 99967-6907",
+      "address": "R. Campo Limpo Paulista, 444 - Itaum, Joinville - SC, 89210-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Iza Mega Hair",
+      "href": "https://www.google.com/maps/place/Iza+Mega+Hair/data=!4m10!3m9!1s0x94deafb47a978b79:0xbd361cfbbc96efd0!5m2!4m1!1i2!8m2!3d-26.2678356!4d-48.8430209!16s%2Fg%2F11f6nylwqq!19sChIJeYuXerSv3pQR0O-WvPscNr0",
+      "phone": "(47) 99729-7740",
+      "address": "Rua Otávio Mangabeira, Bairro, 163 - Bom Retiro, Joinville - SC, 89222-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Confortável 02",
+      "href": "https://www.google.com/maps/place/Casa+Confort%C3%A1vel+02/data=!4m10!3m9!1s0x94deafc302b6a895:0x95bc654455133c25!5m2!4m1!1i2!8m2!3d-26.2731509!4d-48.8567365!16s%2Fg%2F11mdj00yjj!19sChIJlai2AsOv3pQRJTwTVURlvJU",
+      "phone": "(47) 99943-0007",
+      "address": "Av. Alm. Jaceguay, 770 - Santo Antônio, Joinville - SC, 89218-075",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Recanto das Árvores",
+      "href": "https://www.google.com/maps/place/Recanto+das+%C3%81rvores/data=!4m7!3m6!1s0x94deaf512ab51c7b:0xd85a682dfd66bceb!8m2!3d-26.2509428!4d-48.8214345!16s%2Fg%2F11y43_dnd7!19sChIJexy1KlGv3pQR67xm_S1oWtg",
+      "phone": "(47) 99675-6546",
+      "address": "R. Rudolfo Finder, 107 - Aventureiro, Joinville - SC, 89226-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BENEVI",
+      "href": "https://www.google.com/maps/place/BENEVI/data=!4m7!3m6!1s0x94deb196f221a937:0xff5092e5e5e124d6!8m2!3d-26.3203936!4d-48.8286801!16s%2Fg%2F11yvy7gwct!19sChIJN6kh8pax3pQR1iTh5eWSUP8",
+      "phone": "(47) 99639-3301",
+      "address": "R. dos Cravos - Guanabara, Joinville - SC, 89207-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Ervin",
+      "href": "https://www.google.com/maps/place/Hotel+Ervin/data=!4m10!3m9!1s0x94dea65bf7372cc1:0x160cb7fbc358712d!5m2!4m1!1i2!8m2!3d-26.2022646!4d-48.9144938!16s%2Fg%2F1q6j2y53_!19sChIJwSw391um3pQRLXFYw_u3DBY",
+      "phone": "(47) 3424-0031",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Motel Colonial",
+      "href": "https://www.google.com/maps/place/Motel+Colonial/data=!4m10!3m9!1s0x94dea6741425be75:0xa3bc911517e7a51e!5m2!4m1!1i2!8m2!3d-26.2190755!4d-48.9036963!16s%2Fg%2F1vzv4tfc!19sChIJdb4lFHSm3pQRHqXnFxWRvKM",
+      "phone": "(47) 3424-1196",
+      "address": "R. Dona Francisca, 12700 - Pirabeiraba, Joinville - SC, 89239-240",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Hubener",
+      "href": "https://www.google.com/maps/place/Hotel+Hubener/data=!4m10!3m9!1s0x94dc1e23ff6932bf:0x1c8138d3061f31a6!5m2!4m1!1i2!8m2!3d-26.168343!4d-48.9850725!16s%2Fg%2F11bzy6hsh6!19sChIJvzJp_yMe3JQRpjEfBtM4gRw",
+      "phone": "(47) 3440-2533",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel Animal",
+      "href": "https://www.google.com/maps/place/Hotel+Animal/data=!4m7!3m6!1s0x94deb185bf460501:0x862bbd752092ef01!8m2!3d-26.3133277!4d-48.8325123!16s%2Fg%2F11vz91x10r!19sChIJAQVGv4Wx3pQRAe-SIHW9K4Y",
+      "phone": "(47) 99926-8100",
+      "address": "R. Morro do Ouro, 275 - Bucarein, Joinville - SC, 89202-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

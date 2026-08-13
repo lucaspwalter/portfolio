@@ -1,0 +1,444 @@
+{
+  "id": "idiomas",
+  "nome": "Idiomas",
+  "terms": [
+    "escola de idiomas",
+    "curso de inglês",
+    "curso de espanhol"
+  ],
+  "profiles": 207,
+  "qualified": [
+    {
+      "name": "Escola/curso Inglês Smarter Idiomas",
+      "href": "https://www.google.com/maps/place/Escola%2Fcurso+Ingl%C3%AAs+Smarter+Idiomas/data=!4m7!3m6!1s0x94deb04d98b41f9b:0xaea3b6344cf8ffd8!8m2!3d-26.3076242!4d-48.8423902!16s%2Fg%2F11b81rvrx_!19sChIJmx-0mE2w3pQR2P_4TDS2o64",
+      "phone": "(47) 3023-1000",
+      "address": "R. Min. Calógeras, 253 - Bucarein, Joinville - SC, 89202-207",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mundus - Idiomas e Treinamento Cultural",
+      "href": "https://www.google.com/maps/place/Mundus+-+Idiomas+e+Treinamento+Cultural/data=!4m7!3m6!1s0x94deafd08b1cc065:0xa1041eaa24bb3798!8m2!3d-26.2746195!4d-48.8487189!16s%2Fg%2F11b6lmhbzn!19sChIJZcAci9Cv3pQRmDe7JKoeBKE",
+      "phone": "(47) 99697-9940",
+      "address": "R. Dona Francisca, 3545 - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CESITA - Centro Educacional e Social do Itaum",
+      "href": "https://www.google.com/maps/place/CESITA+-+Centro+Educacional+e+Social+do+Itaum/data=!4m7!3m6!1s0x94deb11d0670cbe9:0x6e717a5d4d312aa4!8m2!3d-26.3287422!4d-48.838002!16s%2Fg%2F12cpgdz5m!19sChIJ6ctwBh2x3pQRpCoxTV16cW4",
+      "phone": "(47) 3489-7900",
+      "address": "R. Monsenhor Gercino, 1040 - Itaum, Joinville - SC, 89210-146",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TCAMACHO IDIOMAS E SERVIÇOS",
+      "href": "https://www.google.com/maps/place/TCAMACHO+IDIOMAS+E+SERVI%C3%87OS/data=!4m7!3m6!1s0x94deb174c72c60cf:0x7f0dce464cc7611f!8m2!3d-26.3120727!4d-48.8530397!16s%2Fg%2F11x07_rx_t!19sChIJz2Asx3Sx3pQRH2HHTEbODX8",
+      "phone": "(47) 99903-4074",
+      "address": "R. Rio Grande do Sul, 261 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CRO - Cursos Ricardo Ojeda",
+      "href": "https://www.google.com/maps/place/CRO+-+Cursos+Ricardo+Ojeda/data=!4m7!3m6!1s0x94deaf095e5cc0e3:0x31cf46901d7d67c0!8m2!3d-26.2696608!4d-48.8735642!16s%2Fg%2F11fnr5l992!19sChIJ48BcXgmv3pQRwGd9HZBGzzE",
+      "phone": "(47) 99707-6654",
+      "address": "R. Pardal, 117 - Costa e Silva, Joinville - SC, 89020-080",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Enjoy",
+      "href": "https://www.google.com/maps/place/Enjoy/data=!4m7!3m6!1s0x94deb1a1c6694a23:0x9e412052b1c96843!8m2!3d-26.304812!4d-48.8448744!16s%2Fg%2F11ttb74785!19sChIJI0ppxqGx3pQRQ2jJsVIgQZ4",
+      "phone": "(47) 99641-0635",
+      "address": "R. Dr. Marinho Lobo, 50 - Centro, Joinville - SC, 89201-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ReEnglish - Improve Your Vocabulary",
+      "href": "https://www.google.com/maps/place/ReEnglish+-+Improve+Your+Vocabulary/data=!4m7!3m6!1s0x94deb1610ae42ee5:0x81b45689967482f1!8m2!3d-26.3069713!4d-48.8552657!16s%2Fg%2F11zfxmndkm!19sChIJ5S7kCmGx3pQR8YJ0lolWtIE",
+      "phone": "(47) 99622-0604",
+      "address": "R. Visc. de Taunay, 902 - Atiradores, Joinville - SC, 89203-062",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bright English Joinville",
+      "href": "https://www.google.com/maps/place/Bright+English+Joinville/data=!4m7!3m6!1s0x94deb1df82694b3d:0xdbbb424365209ab6!8m2!3d-26.310301!4d-48.8530797!16s%2Fg%2F11p6wxdfb8!19sChIJPUtpgt-x3pQRtpogZUNCu9s",
+      "phone": "(47) 99780-5541",
+      "address": "R. Pernambuco, 434 - Anita Garibaldi, Joinville - SC, 89202-142",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Think Smart Joinville - Aula e Curso de Inglês / Idiomas",
+      "href": "https://www.google.com/maps/place/Think+Smart+Joinville+-+Aula+e+Curso+de+Ingl%C3%AAs+%2F+Idiomas/data=!4m7!3m6!1s0x94deb1496ca91a8d:0x5307956200447046!8m2!3d-26.3391426!4d-48.8477965!16s%2Fg%2F11vkrx841k!19sChIJjRqpbEmx3pQRRnBEAGKVB1M",
+      "phone": "(47) 92000-8162",
+      "address": "R. Santa Catarina, 1788 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aulas de espanhol",
+      "href": "https://www.google.com/maps/place/Aulas+de+espanhol/data=!4m7!3m6!1s0x94deaf970434ad33:0xcae96d23697ce685!8m2!3d-26.2266918!4d-48.855134!16s%2Fg%2F11wthfv8l9!19sChIJM600BJev3pQRheZ8aSNt6co",
+      "phone": "(47) 98842-5626",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Next Idiomas e Profissões",
+      "href": "https://www.google.com/maps/place/Next+Idiomas+e+Profiss%C3%B5es/data=!4m7!3m6!1s0x94deaf9c354e753b:0x3b89f4bd8af64444!8m2!3d-26.2551052!4d-48.8203464!16s%2Fg%2F11f6mw3jpj!19sChIJO3VONZyv3pQRRET2ir30iTs",
+      "phone": "(47) 3227-2611",
+      "address": "R. Tuiuti, 2067 - Aventureiro, Joinville - SC, 89226-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Upbras Cursos",
+      "href": "https://www.google.com/maps/place/Upbras+Cursos/data=!4m7!3m6!1s0x94deafad6e280fe5:0xb4f27fbf166a8f62!8m2!3d-26.2729899!4d-48.8289103!16s%2Fg%2F11sjv545lc!19sChIJ5Q8obq2v3pQRYo9qFr9_8rQ",
+      "phone": "(47) 3278-3933",
+      "address": "R. Salto Veloso, 53 - Iririú, Joinville - SC, 89227-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Seth Jiu-Jitsu Boa Vista Joinville",
+      "href": "https://www.google.com/maps/place/Seth+Jiu-Jitsu+Boa+Vista+Joinville/data=!4m7!3m6!1s0x94deb1318e569851:0xed724357ccfd9bad!8m2!3d-26.301251!4d-48.8223628!16s%2Fg%2F11myj54jdm!19sChIJUZhWjjGx3pQRrZv9zFdDcu0",
+      "phone": "(47) 97400-0145",
+      "address": "R. Albano Schmidt, 1554 - Boa Vista, Joinville - SC, 89205-098",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Pedacinho do Céu",
+      "href": "https://www.google.com/maps/place/CEI+Pedacinho+do+C%C3%A9u/data=!4m7!3m6!1s0x94deb199d0851179:0xf24ceb7ac4d634f6!8m2!3d-26.3034037!4d-48.8145677!16s%2Fg%2F1vb9f6fs!19sChIJeRGF0Jmx3pQR9jTWxHrrTPI",
+      "phone": "(47) 3434-2063",
+      "address": "R. São Miguel, 815 - Boa Vista, Joinville - SC, 89206-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tati Uliano- English Teacher",
+      "href": "https://www.google.com/maps/place/Tati+Uliano-+English+Teacher/data=!4m7!3m6!1s0x94deb14d4a233e11:0xafc19fc0ebf21ebc!8m2!3d-26.2949812!4d-48.8164674!16s%2Fg%2F11z8gr9520!19sChIJET4jSk2x3pQRvB7y68Cfwa8",
+      "phone": "(47) 99206-6685",
+      "address": "R. Albano Schmidt, 2462 - sala 101 - Comasa, Joinville - SC, 89206-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "C.E.I Três Rosas",
+      "href": "https://www.google.com/maps/place/C.E.I+Tr%C3%AAs+Rosas/data=!4m7!3m6!1s0x94deb16cec4a0a1d:0xec4659210edfe88e!8m2!3d-26.3230894!4d-48.8178732!16s%2Fg%2F11b8c2gty1!19sChIJHQpK7Gyx3pQRjujfDiFZRuw",
+      "phone": "(47) 3438-2507",
+      "address": "R. Begônias, 37 - Fátima, Joinville - SC, 89229-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Príncipe da Paz",
+      "href": "https://www.google.com/maps/place/CEI+Pr%C3%ADncipe+da+Paz/data=!4m7!3m6!1s0x94deb1699c046687:0x6bc74b0bd5d00a07!8m2!3d-26.3257851!4d-48.8136611!16s%2Fg%2F11f3rcz8h9!19sChIJh2YEnGmx3pQRBwrQ1QtLx2s",
+      "phone": "(47) 3031-9450",
+      "address": "R. Lírios, 450 - Fátima, Joinville - SC, 89229-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Do you speak english?",
+      "href": "https://www.google.com/maps/place/Do+you+speak+english%3F/data=!4m7!3m6!1s0x94deb1ccca952e21:0x623ee45eec4c6afd!8m2!3d-26.3159198!4d-48.8181736!16s%2Fg%2F11fvvrbtbt!19sChIJIS6Vysyx3pQR_WpM7F7kPmI",
+      "phone": "(47) 99752-0145",
+      "address": "R. Bom Pastor - Fátima, Joinville - SC, 89229-084",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Autoescola Atlântida",
+      "href": "https://www.google.com/maps/place/Autoescola+Atl%C3%A2ntida/data=!4m7!3m6!1s0x94deb140360007e7:0x43b84cbae576e794!8m2!3d-26.3296422!4d-48.8173308!16s%2Fg%2F1w0r11fj!19sChIJ5wcANkCx3pQRlOd25bpMuEM",
+      "phone": "(47) 99648-3737",
+      "address": "R. Fátima, 1186 - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ANDRE SUCATA",
+      "href": "https://www.google.com/maps/place/ANDRE+SUCATA/data=!4m7!3m6!1s0x94deb18817d14fb1:0xfc62076caac14454!8m2!3d-26.3273297!4d-48.8139855!16s%2Fg%2F11yskcj9kp!19sChIJsU_RF4ix3pQRVETBqmwHYvw",
+      "phone": "(47) 99615-8984",
+      "address": "R. Lírios, 275 - Fátima, Joinville - SC, 89229-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MK2 Centro Técnico Automotivo",
+      "href": "https://www.google.com/maps/place/MK2+Centro+T%C3%A9cnico+Automotivo/data=!4m7!3m6!1s0x94deb146d747af3d:0x99aa2d0afdfa0610!8m2!3d-26.3295477!4d-48.8145905!16s%2Fg%2F1twy_q2n!19sChIJPa9H10ax3pQREAb6_Qotqpk",
+      "phone": "(47) 99716-8053",
+      "address": "R. dos Escoteiros, 488 - Fátima, Joinville - SC, 89229-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESCOLA MUNICIPAL JOÃO DE OLIVEIRA",
+      "href": "https://www.google.com/maps/place/ESCOLA+MUNICIPAL+JO%C3%83O+DE+OLIVEIRA/data=!4m7!3m6!1s0x94deb167ee3e8a39:0x317eae3c2d6879ef!8m2!3d-26.3252939!4d-48.8089773!16s%2Fg%2F1thbxttb!19sChIJOYo-7mex3pQR73loLTyufjE",
+      "phone": "(47) 3436-0341",
+      "address": "R. Agulhas Negras, 1587 - Fátima, Joinville - SC, 89229-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mavipel Mavimoda",
+      "href": "https://www.google.com/maps/place/Mavipel+Mavimoda/data=!4m7!3m6!1s0x94deb1411d264ac7:0x2afcf63d4b9ede62!8m2!3d-26.3314615!4d-48.8170588!16s%2Fg%2F1ty75dv5!19sChIJx0omHUGx3pQRYt6eSz32_Co",
+      "phone": "(47) 3466-0119",
+      "address": "R. Fátima, 1010 - 89229-101 2 andar - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Muay Thai Ivan Santos - Jardim Iririú",
+      "href": "https://www.google.com/maps/place/Muay+Thai+Ivan+Santos+-+Jardim+Iriri%C3%BA/data=!4m7!3m6!1s0x94deb1eb4a90cf8d:0xd38ac51e6f7774c!8m2!3d-26.2693474!4d-48.8068952!16s%2Fg%2F11yrn1flbk!19sChIJjc-QSuux3pQRTHf35lGsOA0",
+      "phone": "(47) 99743-4165",
+      "address": "R. José Antônio Sales, 357 - Jardim Iririú, Joinville - SC, 89224-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Educando com Amor",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Educando+com+Amor/data=!4m7!3m6!1s0x94deae195da52c95:0xe731d788859d58b9!8m2!3d-26.2633289!4d-48.8155998!16s%2Fg%2F1tdh0fxg!19sChIJlSylXRmu3pQRuVidhYjXMec",
+      "phone": "(47) 3202-8463",
+      "address": "R. das Cegonhas, 718 - Jardim Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Sementinha",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Sementinha/data=!4m7!3m6!1s0x94deb1b621eaff93:0x93e8ff4335f8e3ee!8m2!3d-26.2728896!4d-48.8133732!16s%2Fg%2F11g2wp7k4z!19sChIJk__qIbax3pQR7uP4NUP_6JM",
+      "phone": "(47) 3427-1617",
+      "address": "R. Ricardo Karmann, 175 - Iririú, Joinville - SC, 89227-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RENATO HEINZEN Treinamento & Consultoria",
+      "href": "https://www.google.com/maps/place/RENATO+HEINZEN+Treinamento+%26+Consultoria/data=!4m7!3m6!1s0x94deae6cf5ca468f:0x57ce79a245c8b19c!8m2!3d-26.2686965!4d-48.8123789!16s%2Fg%2F1tgh43pg!19sChIJj0bK9Wyu3pQRnLHIRaJ5zlc",
+      "phone": "(47) 99708-5051",
+      "address": "R. Montezuma de Carvalho, 188 - Iririú, Joinville - SC, 89227-617",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alternative Treinamento e Consultoria de Inglês",
+      "href": "https://www.google.com/maps/place/Alternative+Treinamento+e+Consultoria+de+Ingl%C3%AAs/data=!4m7!3m6!1s0x94dea73033dc8feb:0x3a6d362eabc8743b!8m2!3d-26.2071043!4d-48.9024815!16s%2Fg%2F11rxtkl7l6!19sChIJ64_cMzCn3pQRO3TIqy42bTo",
+      "phone": "(47) 99720-2054",
+      "address": "R. Miguel Alfredo Erzinger, 533 - Pirabeiraba, Joinville - SC, 89239-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Efficient Escola de Idiomas",
+      "href": "https://www.google.com/maps/place/Efficient+Escola+de+Idiomas/data=!4m7!3m6!1s0x94dea7773b346c79:0x43c88c23e7252711!8m2!3d-26.208705!4d-48.9057911!16s%2Fg%2F11h2hf45gh!19sChIJeWw0O3en3pQREScl5yOMyEM",
+      "phone": "(47) 99960-8077",
+      "address": "R. Miguel Alfredo Erzinger, 140 - Pirabeiraba, Joinville - SC, 89239-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Meu Pequeno Mundo",
+      "href": "https://www.google.com/maps/place/CEI+Meu+Pequeno+Mundo/data=!4m7!3m6!1s0x94deb16401935ad5:0x29fe7f5d42d408e9!8m2!3d-26.320166!4d-48.8043995!16s%2Fg%2F1vy7hr15!19sChIJ1VqTAWSx3pQR6QjUQl1__ik",
+      "phone": "(47) 3463-0994",
+      "address": "Av. Alwino Hansen, 716 - Adhemar Garcia, Joinville - SC, 89230-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Seth Adhemar garcia",
+      "href": "https://www.google.com/maps/place/Seth+Adhemar+garcia/data=!4m7!3m6!1s0x94deb1d5a76efe2b:0xe95d7d32dfc95866!8m2!3d-26.3275894!4d-48.8064652!16s%2Fg%2F11j8_8647h!19sChIJK_5up9Wx3pQRZljJ3zJ9Xek",
+      "phone": "(47) 99189-6836",
+      "address": "R. Jarivatuba, 1267 - Jarivatuba, Joinville - SC, 89230-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Capoeira Joinville Candeias",
+      "href": "https://www.google.com/maps/place/Capoeira+Joinville+Candeias/data=!4m7!3m6!1s0x94deb1c39f990881:0xdd17d7d48593c1aa!8m2!3d-26.3198777!4d-48.8017189!16s%2Fg%2F11qhg8k5c4!19sChIJgQiZn8Ox3pQRqsGThdTXF90",
+      "phone": "(47) 98471-0495",
+      "address": "R. Ayrton Senna, 746 - Adhemar Garcia, Joinville - SC, 89230-749",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola de Educação Básica Doutor Paulo Medeiros",
+      "href": "https://www.google.com/maps/place/Escola+de+Educa%C3%A7%C3%A3o+B%C3%A1sica+Doutor+Paulo+Medeiros/data=!4m7!3m6!1s0x94deb164417e74eb:0xd9011a5bb6647129!8m2!3d-26.3206759!4d-48.8038292!16s%2Fg%2F1tdgwk20!19sChIJ63R-QWSx3pQRKXFktlsaAdk",
+      "phone": "(47) 3461-1298",
+      "address": "R. Antônio José da Costa - Adhemar Garcia, Joinville - SC, 89230-743",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal CAIO Professor Mariano Costa",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+CAIO+Professor+Mariano+Costa/data=!4m7!3m6!1s0x94deb164023d2b37:0x3d0829b78b5a0f95!8m2!3d-26.3161434!4d-48.803492!16s%2Fg%2F1ydkcznmj!19sChIJNys9AmSx3pQRlQ9ai7cpCD0",
+      "phone": "(47) 3454-5437",
+      "address": "Av. Alwino Hansen, 1250 - Adhemar Garcia, Joinville - SC, 89230-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lupa Assessoria e Treinamento",
+      "href": "https://www.google.com/maps/place/Lupa+Assessoria+e+Treinamento/data=!4m7!3m6!1s0x94deb148e1239ff7:0xe9b9ba93bd410ece!8m2!3d-26.3407619!4d-48.8160378!16s%2Fg%2F11b6rvv_s6!19sChIJ958j4Uix3pQRzg5BvZO6uek",
+      "phone": "(47) 3466-6529",
+      "address": "R. Monsenhor Gercino, 3810 - Jarivatuba, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Iraci Schmidlin",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Iraci+Schmidlin/data=!4m7!3m6!1s0x94deb145731acc83:0x4cfcdfaf64b272c2!8m2!3d-26.3360439!4d-48.8120018!16s%2Fg%2F11clyd4w_f!19sChIJg8wac0Wx3pQRwnKyZK_f_Ew",
+      "phone": "(47) 3463-1253",
+      "address": "R. São Francisco do Sul, 235 - Jarivatuba, Joinville - SC, 89230-068",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Estrelinha Brilhante",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Estrelinha+Brilhante/data=!4m7!3m6!1s0x94deb14eb85c86a5:0x1910002b280b5283!8m2!3d-26.3416864!4d-48.8141523!16s%2Fg%2F1tgnn6yq!19sChIJpYZcuE6x3pQRg1ILKCsAEBk",
+      "phone": "(47) 3466-0778",
+      "address": "R. Santa Izabel, 152 - João Costa, Joinville - SC, 89209-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Union Of Fight",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Union+Of+Fight/data=!4m7!3m6!1s0x94deb3ddc61a5245:0xa6cf61ca184d8569!8m2!3d-26.3386651!4d-48.7964684!16s%2Fg%2F11t2_x9qss!19sChIJRVIaxt2z3pQRaYVNGMphz6Y",
+      "phone": "(47) 99903-8711",
+      "address": "R. Cidade de Otacílio Costa, 218 - Jarivatuba, Joinville - SC, 89231-443",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Ginásio Lisboa",
+      "href": "https://www.google.com/maps/place/Academia+Gin%C3%A1sio+Lisboa/data=!4m7!3m6!1s0x94deb1405545edfb:0xbe72c3a972844315!8m2!3d-26.3309048!4d-48.8177742!16s%2Fg%2F1tjz4jdh!19sChIJ--1FVUCx3pQRFUOEcqnDcr4",
+      "phone": "(47) 99694-7850",
+      "address": "R. Fátima, 1053 - Jarivatuba, Joinville - SC, 89229-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Antônio Brühmüller",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Ant%C3%B4nio+Br%C3%BChm%C3%BCller/data=!4m7!3m6!1s0x94deb6aae22a75c5:0x950565ac56d1a56f!8m2!3d-26.3444273!4d-48.8021056!16s%2Fg%2F11c58q_b6v!19sChIJxXUq4qq23pQRb6XRVqxlBZU",
+      "phone": "(47) 3436-9019",
+      "address": "R. Treviso, 497 - João Costa, Joinville - SC, 89230-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Xtreme Fight Joinville",
+      "href": "https://www.google.com/maps/place/Academia+Xtreme+Fight+Joinville/data=!4m7!3m6!1s0x94deb16bf50d7cf7:0xc483506dd1d394f5!8m2!3d-26.3276276!4d-48.8065623!16s%2Fg%2F11vz9qnhlk!19sChIJ93wN9Wux3pQR9ZTT0W1Qg8Q",
+      "phone": "(47) 99737-9973",
+      "address": "R. Jarivatuba, 1267 - Jarivatuba, Joinville - SC, 89230-870",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Smart English Joinville Escola de Inglês",
+      "href": "https://www.google.com/maps/place/Smart+English+Joinville+Escola+de+Ingl%C3%AAs/data=!4m7!3m6!1s0x8c0d3bb8e8f0112b:0x2a49f8ea553364fd!8m2!3d-26.3307381!4d-48.8793655!16s%2Fg%2F11lydtltm1!19sChIJKxHw6Lg7DYwR_WQzVer4SSo",
+      "phone": "(47) 99249-4035",
+      "address": "R. Willy Tilp, 237 - Nova Brasília, Joinville - SC, 89214-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Kairós Kids",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Kair%C3%B3s+Kids/data=!4m7!3m6!1s0x94deb07d89e46023:0x953595f827a6a7c5!8m2!3d-26.3292936!4d-48.8732906!16s%2Fg%2F11h9cxm8kf!19sChIJI2DkiX2w3pQRxaemJ_iVNZU",
+      "phone": "(47) 3034-2110",
+      "address": "Rua Fernando Goll, 206 - Nova Brasília, Joinville - SC, 89213-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Novos Sonhos",
+      "href": "https://www.google.com/maps/place/CEI+Novos+Sonhos/data=!4m7!3m6!1s0x94deb7f75f9caedd:0x98776254debc81a7!8m2!3d-26.3575639!4d-48.8148104!16s%2Fg%2F11fk3xlpkc!19sChIJ3a6cX_e33pQRp4G83lRid5g",
+      "phone": "(47) 3307-7621",
+      "address": "R. Laranjal, nº 100 - Parque Guarani, Joinville - SC, 89209-655",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Professora Juliana de Carvalho Vieira",
+      "href": "https://www.google.com/maps/place/CEI+Professora+Juliana+de+Carvalho+Vieira/data=!4m7!3m6!1s0x94deb6e5eab5752b:0xa8f713594cc639f3!8m2!3d-26.3791795!4d-48.8316704!16s%2Fg%2F1tlbq98j!19sChIJK3W16uW23pQR8znGTFkT96g",
+      "phone": "(47) 3436-1635",
+      "address": "R. dos Esportistas, 510 - Itinga, Joinville - SC, 89233-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TEF Fisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/TEF+Fisioterapia+e+Pilates/data=!4m7!3m6!1s0x94deb73c3b4cd019:0x180ef8bacb0ab02c!8m2!3d-26.3787319!4d-48.8253613!16s%2Fg%2F11hfjz134p!19sChIJGdBMOzy33pQRLLAKy7r4Dhg",
+      "phone": "(47) 3454-5883",
+      "address": "R. Waldemiro José Borges, 3453 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CDI - Carinha de Anjo",
+      "href": "https://www.google.com/maps/place/CDI+-+Carinha+de+Anjo/data=!4m7!3m6!1s0x94deb6c241540395:0x59fd09b8ab1ca556!8m2!3d-26.369753!4d-48.8261941!16s%2Fg%2F11b8t6dk_y!19sChIJlQNUQcK23pQRVqUcq7gJ_Vk",
+      "phone": "(47) 3465-5078",
+      "address": "R. Faustino Busarello, 98 - Boehmerwald, Joinville - SC, 89235-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Anjinho Sapeca",
+      "href": "https://www.google.com/maps/place/CEI+Anjinho+Sapeca/data=!4m7!3m6!1s0x94deb6c236974def:0xfc4feee6c56d7931!8m2!3d-26.3690495!4d-48.8255478!16s%2Fg%2F1tfs26p9!19sChIJ702XNsK23pQRMXltxebuT_w",
+      "phone": "(47) 99937-9083",
+      "address": "R. Attílio Vinotti, 218 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "id": "otica",
+  "nome": "Ótica",
+  "terms": [
+    "ótica",
+    "loja de óculos"
+  ],
+  "profiles": 204,
+  "qualified": [
+    {
+      "name": "Ótica Müller",
+      "href": "https://www.google.com/maps/place/%C3%93tica+M%C3%BCller/data=!4m7!3m6!1s0x94deb6d1b3bafe99:0xd9a6a48addbd2754!8m2!3d-26.360707!4d-48.8313035!16s%2Fg%2F1vvdwcfs!19sChIJmf66s9G23pQRVCe93Yqkptk",
+      "phone": "(47) 3465-6859",
+      "address": "R. Boehmerwald, 774 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ÓTICA VILLE",
+      "href": "https://www.google.com/maps/place/%C3%93TICA+VILLE/data=!4m7!3m6!1s0x94deb78ad391c009:0x321e38ce0f24b222!8m2!3d-26.3619355!4d-48.8094034!16s%2Fg%2F11gv_t302x!19sChIJCcCR04q33pQRIrIkD844HjI",
+      "phone": "(47) 99777-9517",
+      "address": "R. Boehmerwald, 2603 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oticas Prevent Joinville",
+      "href": "https://www.google.com/maps/place/Oticas+Prevent+Joinville/data=!4m7!3m6!1s0x94deb12784056799:0x5179437d71e2e023!8m2!3d-26.3030003!4d-48.8461027!16s%2Fg%2F11ms2fhgn1!19sChIJmWcFhCex3pQRI-DicX1DeVE",
+      "phone": "(47) 98914-6466",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Super Ótica São José - Calçadão",
+      "href": "https://www.google.com/maps/place/Super+%C3%93tica+S%C3%A3o+Jos%C3%A9+-+Cal%C3%A7ad%C3%A3o/data=!4m7!3m6!1s0x94deb18c170665d3:0x1d0ba6278e24d1e1!8m2!3d-26.3018296!4d-48.8455032!16s%2Fg%2F11rr2_7kkh!19sChIJ02UGF4yx3pQR4dEkjiemCx0",
+      "phone": "(47) 3085-1999",
+      "address": "R. do Príncipe, 292 - Sala 2 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Imagem",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Imagem/data=!4m7!3m6!1s0x94deb1a4b40dfa79:0x8b0af4bdd9adb82c!8m2!3d-26.3291559!4d-48.8320341!16s%2Fg%2F11v_4vbjvc!19sChIJefoNtKSx3pQRLLit2b30Cos",
+      "phone": "(47) 99131-3831",
+      "address": "R. Florianópolis, 1255 - Guanabara, Joinville - SC, 89207-407",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica BS",
+      "href": "https://www.google.com/maps/place/%C3%93tica+BS/data=!4m7!3m6!1s0x94deb10b547226c7:0x28f53f35f2a106d7!8m2!3d-26.3346632!4d-48.8473825!16s%2Fg%2F11vl9f2qyd!19sChIJxyZyVAux3pQR1wah8jU_9Sg",
+      "phone": "(47) 99230-9338",
+      "address": "R. Santa Catarina, 1329 - Floresta, Joinville - SC, 89211-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Otica Everson",
+      "href": "https://www.google.com/maps/place/Otica+Everson/data=!4m7!3m6!1s0x94deb71c645d11f9:0x36e6fb0c024cd129!8m2!3d-26.3606941!4d-48.8308152!16s%2Fg%2F11vbjsx6fw!19sChIJ-RFdZBy33pQRKdFMAgz75jY",
+      "phone": "(47) 99710-8909",
+      "address": "R. Boehmerwald, 820 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Manchester",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Manchester/data=!4m7!3m6!1s0x94deb04ea72cbc93:0x66bc31b309599721!8m2!3d-26.3059467!4d-48.8443444!16s%2Fg%2F1pv0wbxj4!19sChIJk7wsp06w3pQRIZdZCbMxvGY",
+      "phone": "(47) 99102-3081",
+      "address": "R. Abdon Batista, 76 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Lux",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Lux/data=!4m7!3m6!1s0x94deb04c1f18d58d:0x62ee9d867f50a11e!8m2!3d-26.3058271!4d-48.8445412!16s%2Fg%2F11bzwnf5tl!19sChIJjdUYH0yw3pQRHqFQf4ad7mI",
+      "phone": "(47) 3027-5101",
+      "address": "R. Abdon Batista, 56 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "May Ótica e Joalheria - Joinville",
+      "href": "https://www.google.com/maps/place/May+%C3%93tica+e+Joalheria+-+Joinville/data=!4m7!3m6!1s0x94deb037d0b016e9:0xf961d5d1736449ea!8m2!3d-26.3008269!4d-48.8479661!16s%2Fg%2F1ptykzdrj!19sChIJ6Raw0Dew3pQR6klkc9HVYfk",
+      "phone": "(47) 99751-7736",
+      "address": "R. Dr. João Colin, 69 - Centro, Joinville - SC, 89201-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "May Ótica e Joalheria - Joinville",
+      "href": "https://www.google.com/maps/place/May+%C3%93tica+e+Joalheria+-+Joinville/data=!4m7!3m6!1s0x94deb1df429f42cb:0xe3e4ba6733a1ff78!8m2!3d-26.3014563!4d-48.8459856!16s%2Fg%2F11wy3_qq2s!19sChIJy0KfQt-x3pQReP-hM2e65OM",
+      "phone": "(47) 3029-2132",
+      "address": "R. 9 de Março, 478 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Ângela Jardim - Angeloni",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+%C3%82ngela+Jardim+-+Angeloni/data=!4m7!3m6!1s0x94deaf184b679035:0x18bdb03ee2fd0731!8m2!3d-26.2783821!4d-48.8491692!16s%2Fg%2F11hzhftk_9!19sChIJNZBnSxiv3pQRMQf94j6wvRg",
+      "phone": "(47) 3013-9990",
+      "address": "Óticas Angela Jardim Angeloni - anexo ao mercado - R. Dr. João Colin, 2500 - América, Joinville - SC, 89204-004",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Klassen",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Klassen/data=!4m7!3m6!1s0x94deb1ba28d9087d:0xe79c3c671107f61c!8m2!3d-26.3001841!4d-48.8451246!16s%2Fg%2F11zwpc390g!19sChIJfQjZKLqx3pQRHPYHEWc8nOc",
+      "phone": "(47) 99711-9580",
+      "address": "R. do Príncipe, 330 - 4° andar, sala 408 - Centro, Joinville - SC, 89201-901",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Venere",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Venere/data=!4m7!3m6!1s0x94deb121691e45b5:0x2b26b767fe650001!8m2!3d-26.3064806!4d-48.8481683!16s%2Fg%2F11nhflt02k!19sChIJtUUeaSGx3pQRAQBl_me3Jis",
+      "phone": "(47) 98496-3654",
+      "address": "R. Conselheiro Mafra, 102 - sala 08 - Centro, Joinville - SC, 89201-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Colombbina",
+      "href": "https://www.google.com/maps/place/Colombbina/data=!4m7!3m6!1s0x94deb0f8973ced43:0xd14df2cb11745337!8m2!3d-26.3205681!4d-48.8463883!16s%2Fg%2F11b822s1m5!19sChIJQ-08l_iw3pQRN1N0EcvyTdE",
+      "phone": "(47) 99114-0426",
+      "address": "Anexo ao Shopping Estação Joinville - Av. Getúlio Vargas, 1446 - Anita Garibaldi, Joinville - SC, 89202-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Visão Certa",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Vis%C3%A3o+Certa/data=!4m7!3m6!1s0x94deb1b1efc558b3:0xb25b408d2d3243b1!8m2!3d-26.322584!4d-48.8401542!16s%2Fg%2F11h7kpn243!19sChIJs1jF77Gx3pQRsUMyLY1AW7I",
+      "phone": "(47) 99659-6116",
+      "address": "Anexo ao Hiper Condor - R. Florianópolis, 100 - Lj 17 - Bucarein, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Aurora",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Aurora/data=!4m7!3m6!1s0x94deb0fb90236ae5:0x218eccd5735ddd34!8m2!3d-26.3262259!4d-48.845392!16s%2Fg%2F11b86tbtyy!19sChIJ5WojkPuw3pQRNN1dc9XMjiE",
+      "phone": "(47) 3436-1823",
+      "address": "R. Santa Catarina, 426 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Oficial Mormaii Joinville - SC",
+      "href": "https://www.google.com/maps/place/Loja+Oficial+Mormaii+Joinville+-+SC/data=!4m7!3m6!1s0x94deb04889ac13f1:0xfd2e7562c786737!8m2!3d-26.3036717!4d-48.8491056!16s%2Fg%2F11bv38qxxn!19sChIJ8ROsiUiw3pQRN2d4LFbn0g8",
+      "phone": "(47) 99716-0011",
+      "address": "Shopping Mueller Rua Visconde de Taunay, 235 - Segundo Piso - Centro, Joinville - SC, 89201-908",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Round Sunglass",
+      "href": "https://www.google.com/maps/place/Round+Sunglass/data=!4m7!3m6!1s0x94deb1dd456b7df1:0x390178fb8f186399!8m2!3d-26.3064573!4d-48.8470863!16s%2Fg%2F11mq9hyxnr!19sChIJ8X1rRd2x3pQRmWMYj_t4ATk",
+      "phone": "(47) 98849-9249",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óptica Boa Visão",
+      "href": "https://www.google.com/maps/place/%C3%93ptica+Boa+Vis%C3%A3o/data=!4m7!3m6!1s0x94deb1a19df0c871:0xae5499b6c54389a4!8m2!3d-26.2815415!4d-48.8382059!16s%2Fg%2F11n7bwk836!19sChIJccjwnaGx3pQRpIlDxbaZVK4",
+      "phone": "(47) 3227-0009",
+      "address": "R. Iririú, 332 - Saguaçu, Joinville - SC, 89221-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Super Ótica São José - Iririú",
+      "href": "https://www.google.com/maps/place/Super+%C3%93tica+S%C3%A3o+Jos%C3%A9+-+Iriri%C3%BA/data=!4m7!3m6!1s0x94deafd27138dfdd:0x5b4431066a883164!8m2!3d-26.2767628!4d-48.8350442!16s%2Fg%2F11h4qh8qvf!19sChIJ3d84cdKv3pQRZDGIagYxRFs",
+      "phone": "(47) 98863-4417",
+      "address": "R. Iririú, 985 - Saguaçu, Joinville - SC, 89227-045",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Everson",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Everson/data=!4m7!3m6!1s0x94deae29a9705e03:0x122953105c97c41d!8m2!3d-26.2740271!4d-48.8324787!16s%2Fg%2F11bv37_t5g!19sChIJA15wqSmu3pQRHcSXXBBTKRI",
+      "phone": "(47) 3026-7900",
+      "address": "R. Iririú, 1345 - Sl 01 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Aurora Costa e Silva",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Aurora+Costa+e+Silva/data=!4m7!3m6!1s0x94deb10fdc29c053:0x237d52443cb0bdf8!8m2!3d-26.2670521!4d-48.8725162!16s%2Fg%2F1td6z83p!19sChIJU8Ap3A-x3pQR-L2wPERSfSM",
+      "phone": "(47) 3305-6799",
+      "address": "Rua Otto Pfuetzenreuter, 807 - Sl 4 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Empório da visão",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Emp%C3%B3rio+da+vis%C3%A3o/data=!4m7!3m6!1s0x94deafa98c0bd2eb:0x46ee49926807ea62!8m2!3d-26.2702167!4d-48.8808037!16s%2Fg%2F11vx6nxjpm!19sChIJ69ILjKmv3pQRYuoHaJJJ7kY",
+      "phone": "(47) 99220-3887",
+      "address": "dentro da Cia da Estética - R. Pavão, 498 - Costa e Silva, Joinville - SC, 89220-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Carol Garten Shopping",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Carol+Garten+Shopping/data=!4m7!3m6!1s0x94deafd5dd30ac87:0x192980b2f67c0807!8m2!3d-26.253786!4d-48.853394!16s%2Fg%2F11kgssvqrs!19sChIJh6ww3dWv3pQRBwh89rKAKRk",
+      "phone": "(47) 3043-9095",
+      "address": "Avenida Rolf Wiest, Ac. Garten Shopping, 333 - Sala L32 - Bom Retiro, Joinville - SC, 89223-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Everson VILA NOVA",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Everson+VILA+NOVA/data=!4m7!3m6!1s0x94dea57a876c74ff:0x82c0b1c51fddc8eb!8m2!3d-26.2870968!4d-48.9060576!16s%2Fg%2F11t2hjn784!19sChIJ_3Rsh3ql3pQR68jdH8WxwII",
+      "phone": "(47) 99135-5650",
+      "address": "R. XV de Novembro, 7353 - Vila Nova, Joinville - SC, 89237-448",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santa Ótica",
+      "href": "https://www.google.com/maps/place/Santa+%C3%93tica/data=!4m7!3m6!1s0x94dea500362a0c35:0x2496990920d297c4!8m2!3d-26.2879635!4d-48.916611!16s%2Fg%2F11vqm17163!19sChIJNQwqNgCl3pQRxJfSIAmZliQ",
+      "phone": "(47) 99990-0001",
+      "address": "R. XV de Novembro, 8507 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro dos Óculos - Outlet - Floresta",
+      "href": "https://www.google.com/maps/place/Engenheiro+dos+%C3%93culos+-+Outlet+-+Floresta/data=!4m7!3m6!1s0x94deb188e7e932d5:0x34a7dbe69a49b450!8m2!3d-26.3307409!4d-48.8469071!16s%2Fg%2F11yhb9py9t!19sChIJ1TLp54ix3pQRULRJmubbpzQ",
+      "phone": "(47) 99669-1744",
+      "address": "R. Santa Catarina, 908 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Steffens",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Steffens/data=!4m7!3m6!1s0x94deb1fbf3e13e37:0x95c98b30ef90a13a!8m2!3d-26.3307409!4d-48.846907!16s%2Fg%2F11r9vm6yt1!19sChIJNz7h8_ux3pQROqGQ7zCLyZU",
+      "phone": "(47) 3013-7938",
+      "address": "R. Santa Catarina, 908 - Floresta, Joinville - SC, 83308-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Optica Imperial",
+      "href": "https://www.google.com/maps/place/Optica+Imperial/data=!4m7!3m6!1s0x94deb14a1e05d319:0x67187b35bc8b034d!8m2!3d-26.3279609!4d-48.8454761!16s%2Fg%2F11mcvvhbpv!19sChIJGdMFHkqx3pQRTQOLvDV7GGc",
+      "phone": "(47) 99696-4342",
+      "address": "R. Santa Catarina, 611 - sl 02 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Laurindo Itaum",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Laurindo+Itaum/data=!4m7!3m6!1s0x94deb12828c22473:0x589cd95488518f14!8m2!3d-26.3308896!4d-48.8376378!16s%2Fg%2F11mcfygj_k!19sChIJcyTCKCix3pQRFI9RiFTZnFg",
+      "phone": "(47) 93383-7281",
+      "address": "R. Monsenhor Gercino, 1286 - Itaum, Joinville - SC, 89210-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Everson",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Everson/data=!4m7!3m6!1s0x94deb148e50269bf:0x7949f4f0e5ede5a4!8m2!3d-26.3407513!4d-48.8160239!16s%2Fg%2F11b8c43w2s!19sChIJv2kC5Uix3pQRpOXt5fD0SXk",
+      "phone": "(47) 3027-5900",
+      "address": "R. Monsenhor Gercino, 3792 - Jarivatuba, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Otica Guanabara",
+      "href": "https://www.google.com/maps/place/Otica+Guanabara/data=!4m7!3m6!1s0x94deb179a3d0b257:0x40c43163df7eead3!8m2!3d-26.3256238!4d-48.836483!16s%2Fg%2F11m622nckq!19sChIJV7LQo3mx3pQR0-p-32MxxEA",
+      "phone": "(47) 99904-8228",
+      "address": "R. Florianópolis, 652 - Guanabara, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lojão Astral Atacarejo Bairro Itaum",
+      "href": "https://www.google.com/maps/place/Loj%C3%A3o+Astral+Atacarejo+Bairro+Itaum/data=!4m7!3m6!1s0x94deb139d05df621:0xad155d02ab577511!8m2!3d-26.3406214!4d-48.8223156!16s%2Fg%2F11c3mpwqr8!19sChIJIfZd0Dmx3pQREXVXqwJdFa0",
+      "phone": "(47) 3307-0788",
+      "address": "R. Monsenhor Gercino, 3281 - Itaum, Joinville - SC, 89210-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Orion | Iririú",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Orion+%7C+Iriri%C3%BA/data=!4m7!3m6!1s0x94deaf7299a83d0d:0x4c9e895fd4f12f6d!8m2!3d-26.2646385!4d-48.8143501!16s%2Fg%2F11ypwn4csr!19sChIJDT2omXKv3pQRbS_x1F-Jnkw",
+      "phone": "(47) 3028-3582",
+      "address": "R. das Cegonhas, 608 - sala 1 - Jardim Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Globo",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Globo/data=!4m7!3m6!1s0x94deafb964794a5f:0x1799eca252bf64d0!8m2!3d-26.2703927!4d-48.8175986!16s%2Fg%2F11mm4jzhgm!19sChIJX0p5ZLmv3pQR0GS_UqLsmRc",
+      "phone": "(47) 98905-0749",
+      "address": "R. Iririú - Iririú, Joinville - SC, 89227-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Luzia Saint",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Luzia+Saint/data=!4m7!3m6!1s0x94deb100449562f5:0x4473182f79bc8437!8m2!3d-26.2658869!4d-48.8136826!16s%2Fg%2F11wc64yt3q!19sChIJ9WKVRACx3pQRN4S8eS8Yc0Q",
+      "phone": "(47) 99633-4092",
+      "address": "R. das Cegonhas, 433 - Iririú, Joinville - SC, 89227-645",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Princesa Eva Ótica e Joalheria",
+      "href": "https://www.google.com/maps/place/Princesa+Eva+%C3%93tica+e+Joalheria/data=!4m7!3m6!1s0x94deaf8a6c416ec3:0x4a2fb5e58d63c462!8m2!3d-26.2718657!4d-48.8277443!16s%2Fg%2F11frdsm806!19sChIJw25BbIqv3pQRYsRjjeW1L0o",
+      "phone": "(47) 98803-9959",
+      "address": "R. Iririú, 1892 - Sl 02 - Iririú, Joinville - SC, 89227-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Aurora",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Aurora/data=!4m7!3m6!1s0x94deb100758fe743:0x67f34040a6e0f66e!8m2!3d-26.2793638!4d-48.8199317!16s%2Fg%2F11mcfvrww4!19sChIJQ-ePdQCx3pQRbvbgpkBA82c",
+      "phone": "(47) 3434-3750",
+      "address": "R. Papa João XXIII, 1210 - Iririú, Joinville - SC, 89227-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Princesa Eva Ótica e Joalheria - Loja 2 | Ótica e Joalheria Joinville | Alianças Joinville",
+      "href": "https://www.google.com/maps/place/Princesa+Eva+%C3%93tica+e+Joalheria+-+Loja+2+%7C+%C3%93tica+e+Joalheria+Joinville+%7C+Alian%C3%A7as+Joinville/data=!4m7!3m6!1s0x94deaf6a3fd9e5ed:0x7038a4fc158708f4!8m2!3d-26.2760092!4d-48.834001!16s%2Fg%2F11t_r0f3ky!19sChIJ7eXZP2qv3pQR9AiHFfykOHA",
+      "phone": "(47) 99637-5452",
+      "address": "R. Iririú, 1080 - Sl 2 - Iririú, Joinville - SC, 89227-045",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Orion | Boa Vista",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Orion+%7C+Boa+Vista/data=!4m7!3m6!1s0x94deb1004fcc5a51:0xfa3b85b9c327a22!8m2!3d-26.3079653!4d-48.8269218!16s%2Fg%2F11w1ccsphy!19sChIJUVrMTwCx3pQRInoynFu4ow8",
+      "phone": "(47) 99146-3228",
+      "address": "R. Albano Schmidt, 700 - Boa Vista, Joinville - SC, 89205-098",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lumiere Sunlens",
+      "href": "https://www.google.com/maps/place/Lumiere+Sunlens/data=!4m7!3m6!1s0x94deb11469dc8281:0x5231fb7d07753ddd!8m2!3d-26.2722151!4d-48.8122324!16s%2Fg%2F11twtx5sxr!19sChIJgYLcaRSx3pQR3T11B337MVI",
+      "phone": "(47) 98455-9253",
+      "address": "R. Henrique Schneider Júnior, 65 - Iririú, Joinville - SC, 89227-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Ótica",
+      "href": "https://www.google.com/maps/place/Bella+%C3%93tica/data=!4m7!3m6!1s0x94deb19678122d11:0xa6c35b1737f5b85d!8m2!3d-26.2955465!4d-48.81763!16s%2Fg%2F11b88l4hfh!19sChIJES0SeJax3pQRXbj1Nxdbw6Y",
+      "phone": "(47) 3028-7401",
+      "address": "R. Albano Schmidt, 2343 - Boa Vista, Joinville - SC, 89205-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Ótica",
+      "href": "https://www.google.com/maps/place/Bella+%C3%93tica/data=!4m7!3m6!1s0x94deb143b4d9c299:0x51ac52b5af203ec6!8m2!3d-26.297734!4d-48.8191384!16s%2Fg%2F11y9r16cf9!19sChIJmcLZtEOx3pQRxj4gr7VSrFE",
+      "phone": "(47) 99743-7110",
+      "address": "R. São Vicente, 46 - Boa Vista, Joinville - SC, 89206-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Via Óculos Óptica",
+      "href": "https://www.google.com/maps/place/Via+%C3%93culos+%C3%93ptica/data=!4m7!3m6!1s0x94deb144b4526eaf:0x5c8152406caa6ebd!8m2!3d-26.2643235!4d-48.8447471!16s%2Fg%2F11fmf3w3zt!19sChIJr25StESx3pQRvW6qbEBSgVw",
+      "phone": "(47) 99972-7967",
+      "address": "R. Ten. Antônio João, 1301 - Sl 1 - Bom Retiro, Joinville - SC, 89222-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Moraes",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Moraes/data=!4m7!3m6!1s0x94deb1c6c78dd9db:0x1cd1d9e43dcf031b!8m2!3d-26.3347822!4d-48.8167207!16s%2Fg%2F11jmvxpv4n!19sChIJ29mNx8ax3pQRGwPPPeTZ0Rw",
+      "phone": "(47) 98804-4365",
+      "address": "R. Fátima, 570 - Jarivatuba, Joinville - SC, 89230-183",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Bom Jesus",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Bom+Jesus/data=!4m7!3m6!1s0x94deb145b3253393:0x60e15f07a0656e42!8m2!3d-26.3347822!4d-48.8167207!16s%2Fg%2F11j5v2lprg!19sChIJkzMls0Wx3pQRQm5loAdf4WA",
+      "phone": "(47) 3227-6372",
+      "address": "R. Fátima, 570 - Jarivatuba, Joinville - SC, 89229-102",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óculos | Villa Sunglasses",
+      "href": "https://www.google.com/maps/place/%C3%93culos+%7C+Villa+Sunglasses/data=!4m7!3m6!1s0x94deb16e36a01a3f:0xbda60b33613beb19!8m2!3d-26.3188517!4d-48.8123982!16s%2Fg%2F11qz8kl6gg!19sChIJPxqgNm6x3pQRGes7YTMLpr0",
+      "phone": "(47) 98499-9919",
+      "address": "R. Ciro Monteiro, 90 - Fátima, Joinville - SC, 89229-065",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mēddem Ópticas",
+      "href": "https://www.google.com/maps/place/M%C4%93ddem+%C3%93pticas/data=!4m7!3m6!1s0x94deb10d8fc98071:0x98c829804763cb7a!8m2!3d-26.3036451!4d-48.8451972!16s%2Fg%2F11sysv787f!19sChIJcYDJjw2x3pQRestjR4ApyJg",
+      "phone": "(47) 3028-4615",
+      "address": "R. das Palmeiras, 30 - Centro, Joinville - SC, 89201-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica MonSenhor",
+      "href": "https://www.google.com/maps/place/%C3%93tica+MonSenhor/data=!4m7!3m6!1s0x94deb405b428fed1:0x767b307143023a48!8m2!3d-26.3460465!4d-48.79164!16s%2Fg%2F11f54l8lzb!19sChIJ0f4otAW03pQRSDoCQ3Ewe3Y",
+      "phone": "(47) 3031-5033",
+      "address": "R. Monsenhor Gercino, 6819 - Paranaguamirim, Joinville - SC, 89231-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Óticas Cleberson",
+      "href": "https://www.google.com/maps/place/%C3%93ticas+Cleberson/data=!4m7!3m6!1s0x94deb5d9fdfdd683:0x8d1486ff6379514f!8m2!3d-26.346126!4d-48.7716169!16s%2Fg%2F11wj4pbmqs!19sChIJg9b9_dm13pQRT1F5Y_-GFI0",
+      "phone": "(47) 99934-0350",
+      "address": "R. Natanael Amorim Vieira, 155 - Paranaguamirim, Joinville - SC, 89234-042",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Djou beer conveniência",
+      "href": "https://www.google.com/maps/place/Djou+beer+conveni%C3%AAncia/data=!4m7!3m6!1s0x94deb7ba55a6a715:0xcf56f6d07410cf2b!8m2!3d-26.3787832!4d-48.82534!16s%2Fg%2F11rxld389p!19sChIJFaemVbq33pQRK88QdND2Vs8",
+      "phone": "(47) 99937-6820",
+      "address": "R. Waldemiro José Borges, 3453 - Itinga, Joinville - SC, 89235-135",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Meu Vizinho Supermercados - Itinga",
+      "href": "https://www.google.com/maps/place/Meu+Vizinho+Supermercados+-+Itinga/data=!4m7!3m6!1s0x94deb7359cb48fd9:0x1c24a9915e2cb126!8m2!3d-26.3813211!4d-48.8223095!16s%2Fg%2F11gy4rvcjy!19sChIJ2Y-0nDW33pQRJrEsXpGpJBw",
+      "phone": "(47) 3511-2191",
+      "address": "R. Adolfo da Veiga, 2595 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Bela Casa e Construção",
+      "href": "https://www.google.com/maps/place/Casa+Bela+Casa+e+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb6ec52879ed5:0x61eb80def34648b!8m2!3d-26.3772092!4d-48.8227038!16s%2Fg%2F11bvt10cff!19sChIJ1Z6HUuy23pQRi2Q07w24HgY",
+      "phone": "(47) 3429-6655",
+      "address": "R. Adolfo da Veiga, 2174 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Ótica",
+      "href": "https://www.google.com/maps/place/Bella+%C3%93tica/data=!4m7!3m6!1s0x94dea668e9cb9731:0x135a4426727e2f4b!8m2!3d-26.2086471!4d-48.9086913!16s%2Fg%2F1vkxndxm!19sChIJMZfL6Wim3pQRSy9-ciZEWhM",
+      "phone": "(47) 3121-9966",
+      "address": "R. Olavo Bilac, 263 - Pirabeiraba, Joinville - SC, 89239-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Santa Catarina",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Santa+Catarina/data=!4m7!3m6!1s0x94dea55cb06d87eb:0x24a87df351fb67e6!8m2!3d-26.2388453!4d-48.8810482!16s%2Fg%2F11q8jm464v!19sChIJ64dtsFyl3pQR5mf7UfN9qCQ",
+      "phone": "(47) 7400-1575",
+      "address": "R. Dona Francisca, 8300 - Distrito Industrial, Joinville - SC, 89219-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ótica Muller",
+      "href": "https://www.google.com/maps/place/%C3%93tica+Muller/data=!4m7!3m6!1s0x94deb14ff8d368b7:0xcf240a6769e02d33!8m2!3d-26.3397945!4d-48.8117029!16s%2Fg%2F11s30klq0b!19sChIJt2jT-E-x3pQRMy3gaWcKJM8",
+      "phone": "(47) 99704-0805",
+      "address": "R. Monsenhor Gercino, 4294 - João Costa, Joinville - SC, 89230-214",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bazar Hebron",
+      "href": "https://www.google.com/maps/place/Bazar+Hebron/data=!4m7!3m6!1s0x94deb405a094d151:0x4cb3ff05676b28ff!8m2!3d-26.3467135!4d-48.7908376!16s%2Fg%2F11b86r_69h!19sChIJUdGUoAW03pQR_yhrZwX_s0w",
+      "phone": "(47) 3463-5306",
+      "address": "R. Monsenhor Gercino, 6931 - Paranaguamirim, Joinville - SC, 89231-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa MSA",
+      "href": "https://www.google.com/maps/place/Casa+MSA/data=!4m7!3m6!1s0x94debaf6c6702693:0x8ca9ff0dbda8ca39!8m2!3d-26.3368692!4d-48.9064893!16s%2Fg%2F11f3r29wwk!19sChIJkyZwxva63pQROcqovQ3_qYw",
+      "phone": "(47) 3454-0421",
+      "address": "R. Minas Gerais, 5821 - Morro do Meio, Joinville - SC, 89215-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Topp Variedades - Morro do Meio",
+      "href": "https://www.google.com/maps/place/Topp+Variedades+-+Morro+do+Meio/data=!4m7!3m6!1s0x94debbfadc7031e7:0x49ebf6615295ebfb!8m2!3d-26.3370199!4d-48.8996738!16s%2Fg%2F11qr3wrkln!19sChIJ5zFw3Pq73pQR--uVUmH260k",
+      "phone": "(47) 99777-1062",
+      "address": "R. Minas Gerais, 5196 - Morro do Meio, Joinville - SC, 89215-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mēddem Ópticas",
+      "href": "https://www.google.com/maps/place/M%C4%93ddem+%C3%93pticas/data=!4m7!3m6!1s0x94deb19a14f4e97b:0x2f2c0d71a63f8fd2!8m2!3d-26.3018564!4d-48.8443774!16s%2Fg%2F11yvy7hm1g!19sChIJe-n0FJqx3pQR0o8_pnENLC8",
+      "phone": "(47) 99675-9310",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Relojoaria e Ótica Tic Tem",
+      "href": "https://www.google.com/maps/place/Relojoaria+e+%C3%93tica+Tic+Tem/data=!4m7!3m6!1s0x94deb0f8addc9f01:0x4ad3c9b948bdaef0!8m2!3d-26.3198832!4d-48.8449661!16s%2Fg%2F1ts1tcs8!19sChIJAZ_crfiw3pQR8K69SLnJ00o",
+      "phone": "(47) 3455-0400",
+      "address": "Av. Getúlio Vargas, 1369 - Bucarein, Joinville - SC, 89202-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Cor e Arte 06 Jardim Paraíso",
+      "href": "https://www.google.com/maps/place/Loja+Cor+e+Arte+06+Jardim+Para%C3%ADso/data=!4m7!3m6!1s0x94deaff5f0626115:0xf5a8b959099cf68c!8m2!3d-26.2229715!4d-48.8211846!16s%2Fg%2F11q1vky62h!19sChIJFWFi8PWv3pQRjPacCVm5qPU",
+      "phone": "(47) 99606-6495",
+      "address": "R. Tuiuti, 5773 - Jardim Paraíso, Joinville - SC, 89240-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

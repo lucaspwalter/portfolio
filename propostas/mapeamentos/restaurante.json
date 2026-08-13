@@ -1,0 +1,813 @@
+{
+  "id": "restaurante",
+  "nome": "Restaurante",
+  "terms": [
+    "restaurante",
+    "comida caseira",
+    "buffet almoço"
+  ],
+  "profiles": 251,
+  "qualified": [
+    {
+      "name": "Restaurante Divino Sabor",
+      "href": "https://www.google.com/maps/place/Restaurante+Divino+Sabor/data=!4m7!3m6!1s0x94deb7dcab69ec3d:0x979b279476388ae6!8m2!3d-26.3685671!4d-48.8340716!16s%2Fg%2F11gycsdnqw!19sChIJPexpq9y33pQR5oo4dpQnm5c",
+      "phone": "(47) 99176-5825",
+      "address": "R. Waldemiro José Borges, n° 1828 - Profipo, Joinville - SC, 89233-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Ammi Shaddai",
+      "href": "https://www.google.com/maps/place/Restaurante+Ammi+Shaddai/data=!4m7!3m6!1s0x94deb738bd5237df:0x3084ec521bacf701!8m2!3d-26.360857!4d-48.8280754!16s%2Fg%2F11jrv8f52r!19sChIJ3zdSvTi33pQRAfesG1LshDA",
+      "phone": "(47) 99619-9440",
+      "address": "R. Boehmerwald, 1050 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Terrazza 1920",
+      "href": "https://www.google.com/maps/place/Terrazza+1920/data=!4m7!3m6!1s0x94deb100110417a5:0xa3a374de19cbbee0!8m2!3d-26.3114213!4d-48.8438803!16s%2Fg%2F11z1jlkf8q!19sChIJpRcEEQCx3pQR4L7LGd50o6M",
+      "phone": "(47) 99978-6525",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 927 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carijó Cozinha de Casa",
+      "href": "https://www.google.com/maps/place/Carij%C3%B3+Cozinha+de+Casa/data=!4m7!3m6!1s0x94deb6d19ce67d27:0x379db7d0e08fe44f!8m2!3d-26.359409!4d-48.8320066!16s%2Fg%2F11bv3xrd39!19sChIJJ33mnNG23pQRT-SP4NC3nTc",
+      "phone": "(47) 3034-7169",
+      "address": "Av. Paulo Schroeder, 1125 - Petrópolis, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Melo's Restaurante",
+      "href": "https://www.google.com/maps/place/Melo%27s+Restaurante/data=!4m7!3m6!1s0x94deb7fdcf72ccc5:0xcd364d30062a9959!8m2!3d-26.363294!4d-48.8292081!16s%2Fg%2F11vplbdb12!19sChIJxcxyz_233pQRWZkqBjBNNs0",
+      "phone": "(47) 98829-4966",
+      "address": "R. Adolfo da Veiga, 293 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Casa de Moura",
+      "href": "https://www.google.com/maps/place/Restaurante+Casa+de+Moura/data=!4m7!3m6!1s0x94deb13160d517ad:0x43804eb81820c76a!8m2!3d-26.3113901!4d-48.8535385!16s%2Fg%2F11kvy8hy4d!19sChIJrRfVYDGx3pQRascgGLhOgEM",
+      "phone": "(47) 99231-9841",
+      "address": "R. Rio Grande do Sul, 145 / fundos - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Olga Joinville",
+      "href": "https://www.google.com/maps/place/Casa+Olga+Joinville/data=!4m7!3m6!1s0x94deb1b153c8cf45:0xafdc78301ed72271!8m2!3d-26.2873323!4d-48.8414897!16s%2Fg%2F11tdn1nmvq!19sChIJRc_IU7Gx3pQRcSLXHjB43K8",
+      "phone": "(47) 3407-0264",
+      "address": "R. Itaiópolis, 685 - América, Joinville - SC, 89221-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rosti Haus",
+      "href": "https://www.google.com/maps/place/Rosti+Haus/data=!4m7!3m6!1s0x94deb045109fb283:0x8f1c51f011712a03!8m2!3d-26.3105009!4d-48.8513765!16s%2Fg%2F1td0hnlj!19sChIJg7KfEEWw3pQRAypxEfBRHI8",
+      "phone": "(47) 3025-7740",
+      "address": "R. Gen. Valgas Neves, 389 - Anita Garibaldi, Joinville - SC, 89202-138",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marmitex, Comida Caseira e Tempero Nordestino",
+      "href": "https://www.google.com/maps/place/Marmitex,+Comida+Caseira+e+Tempero+Nordestino/data=!4m7!3m6!1s0x94deb6cfdfe74275:0xeb4a8df234f0be62!8m2!3d-26.3614809!4d-48.8297029!16s%2Fg%2F11tk1y0wv6!19sChIJdULn38-23pQRYr7wNPKNSus",
+      "phone": "(47) 99998-2425",
+      "address": "R. Adolfo da Veiga, 88 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marmitaria Mari Cozinha Caseira",
+      "href": "https://www.google.com/maps/place/Marmitaria+Mari+Cozinha+Caseira/data=!4m7!3m6!1s0x94deb0686dc3c8c5:0x4dc12ab02ee7c831!8m2!3d-26.3187188!4d-48.8658213!16s%2Fg%2F11pdnncw5n!19sChIJxcjDbWiw3pQRMcjnLrAqwU0",
+      "phone": "(47) 99762-2633",
+      "address": "R. Ottokar Doerffel, 1288 - Anita Garibaldi, Joinville - SC, 89203-212",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gullas Restaurante",
+      "href": "https://www.google.com/maps/place/Gullas+Restaurante/data=!4m7!3m6!1s0x94deb6cfd8a3d89f:0x50a048b5d5427ec2!8m2!3d-26.3611665!4d-48.8296836!16s%2Fg%2F11bv6q0z5q!19sChIJn9ij2M-23pQRwn5C1bVIoFA",
+      "phone": "(47) 3463-2774",
+      "address": "R. Adolfo da Veiga, 44 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Comida Caseira da Tia I Joinville, Bom Retiro",
+      "href": "https://www.google.com/maps/place/Restaurante+Comida+Caseira+da+Tia+I+Joinville,+Bom+Retiro/data=!4m7!3m6!1s0x94deb1ef404909cd:0x47620fe25317c3b!8m2!3d-26.2537871!4d-48.8510489!16s%2Fg%2F1vzg3cxl!19sChIJzQlJQO-x3pQRO3wxJf4gdgQ",
+      "phone": "(47) 99104-1030",
+      "address": "Av. Santos Dumont, 2059 - Bom Retiro, Joinville - SC, 89223-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gostinho de Casa Restaurante e Marmitex",
+      "href": "https://www.google.com/maps/place/Gostinho+de+Casa+Restaurante+e+Marmitex/data=!4m7!3m6!1s0x94deb10067bfc217:0x6ff22146306f08a6!8m2!3d-26.3191356!4d-48.8390397!16s%2Fg%2F11zd99s3q7!19sChIJF8K_ZwCx3pQRpghvMEYh8m8",
+      "phone": "(47) 99768-9195",
+      "address": "R. Urussanga, 1447 - Bucarein, Joinville - SC, 89202-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marmitas Econômicas",
+      "href": "https://www.google.com/maps/place/Marmitas+Econ%C3%B4micas/data=!4m7!3m6!1s0x94deb7e49a8807e3:0x7621a63bba6fa627!8m2!3d-26.3809547!4d-48.823586!16s%2Fg%2F11wvt6hsjz!19sChIJ4weImuS33pQRJ6ZvujumIXY",
+      "phone": "(47) 99279-9181",
+      "address": "R. Waldemiro José Borges, 3671 - Itinga, Joinville - SC, 89233-048",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Encanto Paulista buffet livre",
+      "href": "https://www.google.com/maps/place/Restaurante+Encanto+Paulista+buffet+livre/data=!4m7!3m6!1s0x94deb103baabd5e5:0xfb9d74beaa9444c2!8m2!3d-26.3363066!4d-48.8142693!16s%2Fg%2F11rs2vtlfh!19sChIJ5dWrugOx3pQRwkSUqr50nfs",
+      "phone": "(47) 3465-7038",
+      "address": "R. Agulhas Negras, 220 - Jarivatuba, Joinville - SC, 89230-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Samba Buffet e Sucos Naturais",
+      "href": "https://www.google.com/maps/place/Samba+Buffet+e+Sucos+Naturais/data=!4m7!3m6!1s0x94deb0487d99f9fd:0x8709dd54cedf5adb!8m2!3d-26.303916!4d-48.849367!16s%2Fg%2F11bv38kf17!19sChIJ_fmZfUiw3pQR21rfzlTdCYc",
+      "phone": "(47) 3029-4086",
+      "address": "Shopping Mueller - R. Visc. de Taunay, 235 - Lj 123 - Centro, Joinville - SC, 89201-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chimarrão Churrascaria",
+      "href": "https://www.google.com/maps/place/Chimarr%C3%A3o+Churrascaria/data=!4m7!3m6!1s0x94deb047c99f3c3f:0xe57fdbf3ae81895a!8m2!3d-26.3039091!4d-48.850465!16s%2Fg%2F1tg5_sr2!19sChIJPzyfyUew3pQRWomBrvPbf-U",
+      "phone": "(47) 3027-7632",
+      "address": "R. Visc. de Taunay, 343 - Centro, Joinville - SC, 89201-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alles Picanha",
+      "href": "https://www.google.com/maps/place/Alles+Picanha/data=!4m7!3m6!1s0x94deb022c603e4db:0xfc885c8dd14c8d99!8m2!3d-26.2951508!4d-48.8465385!16s%2Fg%2F1tdphbwr!19sChIJ2-QDxiKw3pQRmY1M0Y1ciPw",
+      "phone": "(47) 3025-2195",
+      "address": "R. Max Colin, 441 - Centro, Joinville - SC, 89201-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Chinês",
+      "href": "https://www.google.com/maps/place/Restaurante+Chin%C3%AAs/data=!4m7!3m6!1s0x94deb0377446988b:0x43fba81757767732!8m2!3d-26.2990583!4d-48.8487476!16s%2Fg%2F11b88mpjkg!19sChIJi5hGdDew3pQRMnd2Vxeo-0M",
+      "phone": "(47) 99149-7134",
+      "address": "R. Mário Lobo, 106 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Megga Lanches",
+      "href": "https://www.google.com/maps/place/Megga+Lanches/data=!4m7!3m6!1s0x94deb7fd83e556cf:0x175e0129ef2363c1!8m2!3d-26.36527!4d-48.829729!16s%2Fg%2F11vb9wt_9s!19sChIJz1blg_233pQRwWMj7ykBXhc",
+      "phone": "(47) 99695-8060",
+      "address": "R. Adolfo da Veiga, 468 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jaque Lanches e almoço",
+      "href": "https://www.google.com/maps/place/Jaque+Lanches+e+almo%C3%A7o/data=!4m7!3m6!1s0x94deb755ae8841b7:0xee3a3c90a1c82c71!8m2!3d-26.376514!4d-48.8281027!16s%2Fg%2F11ffkqbg0c!19sChIJt0GIrlW33pQRcSzIoZA8Ou4",
+      "phone": "(47) 99969-7241",
+      "address": "R. Waldemiro José Borges, 3055 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Divino Fogão - Mueller Joinville",
+      "href": "https://www.google.com/maps/place/Divino+Fog%C3%A3o+-+Mueller+Joinville/data=!4m7!3m6!1s0x94deb1f0109fc32b:0xe89291e2834cf92c!8m2!3d-26.3036717!4d-48.8491056!16s%2Fg%2F11w46kstj2!19sChIJK8OfEPCx3pQRLPlMg-KRkug",
+      "phone": "(47) 99760-7554",
+      "address": "R. Visc. de Taunay, 235 - PAVIMENTO 02 - LOJA 115 - Centro, Joinville - SC, 89201-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Senhor Escondidinho Joinville",
+      "href": "https://www.google.com/maps/place/Senhor+Escondidinho+Joinville/data=!4m7!3m6!1s0x94deb0370befffff:0x254d708a90ea85af!8m2!3d-26.29909!4d-48.8489515!16s%2Fg%2F11s75ly7p1!19sChIJ___vCzew3pQRr4XqkIpwTSU",
+      "phone": "(47) 3278-2524",
+      "address": "R. Mário Lobo, 106 - Sala 8 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ki Rose",
+      "href": "https://www.google.com/maps/place/Ki+Rose/data=!4m7!3m6!1s0x94deb04bd12e3fc1:0x736aacded4377cac!8m2!3d-26.302683!4d-48.844432!16s%2Fg%2F11b823km5q!19sChIJwT8u0Uuw3pQRrHw31N6sanM",
+      "phone": "(47) 3432-7268",
+      "address": "98 Sala 02, R. Jerônimo Coelho - Centro, Joinville - SC, 89201-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Armazém da Natureza Bistrô",
+      "href": "https://www.google.com/maps/place/Armaz%C3%A9m+da+Natureza+Bistr%C3%B4/data=!4m7!3m6!1s0x94deb12c1fead173:0x6aa246959676f0ab!8m2!3d-26.2898373!4d-48.8504728!16s%2Fg%2F11k61g80xt!19sChIJc9HqHyyx3pQRq_B2lpVGomo",
+      "phone": "(47) 99909-1770",
+      "address": "R. Araranguá, 195 - América, Joinville - SC, 89204-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pappo's Restaurante",
+      "href": "https://www.google.com/maps/place/Pappo%27s+Restaurante/data=!4m7!3m6!1s0x94deb1e3be5ee593:0xa1e37de62bc417df!8m2!3d-26.2885867!4d-48.8469247!16s%2Fg%2F11gzmxbsjf!19sChIJk-VevuOx3pQR3xfEK-Z946E",
+      "phone": "(47) 99154-2375",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bravo's Grill",
+      "href": "https://www.google.com/maps/place/Bravo%27s+Grill/data=!4m7!3m6!1s0x94deafd75d1fe3ef:0xedc2ecab9f3d7a9c!8m2!3d-26.2779124!4d-48.8494495!16s%2Fg%2F11bv2lnhgm!19sChIJ7-MfXdev3pQRnHo9n6vswu0",
+      "phone": "(47) 3027-5675",
+      "address": "Angeloni Supermercado - R. Dr. João Colin, 2500 - América, Joinville - SC, 89204-004",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Pisetta",
+      "href": "https://www.google.com/maps/place/Restaurante+Pisetta/data=!4m7!3m6!1s0x94deb06881594aa3:0x748106b856fa4f6a!8m2!3d-26.315642!4d-48.8626809!16s%2Fg%2F11b826jn39!19sChIJo0pZgWiw3pQRak_6VrgGgXQ",
+      "phone": "(47) 3438-7358",
+      "address": "R. Ottokar Doerffel, 822 - Atiradores, Joinville - SC, 89200-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fiorello Café e Bistrô",
+      "href": "https://www.google.com/maps/place/Fiorello+Caf%C3%A9+e+Bistr%C3%B4/data=!4m7!3m6!1s0x94deb102e8d30f4d:0xfd2b4b79093fad3d!8m2!3d-26.3027775!4d-48.8537779!16s%2Fg%2F11h1fztf7m!19sChIJTQ_T6AKx3pQRPa0_CXlLK_0",
+      "phone": "(47) 3202-6910",
+      "address": "R. Expedicionário Holz, 167 - América, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Palacio sushi experience",
+      "href": "https://www.google.com/maps/place/Palacio+sushi+experience/data=!4m7!3m6!1s0x94deb1c93601214d:0x386f128632e569eb!8m2!3d-26.3092097!4d-48.8547744!16s%2Fg%2F11z655z6yx!19sChIJTSEBNsmx3pQR62nlMoYSbzg",
+      "phone": "(47) 93381-6404",
+      "address": "R. Visc. de Taunay, 1174 - Atiradores, Joinville - SC, 89203-062",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O Rango Restaurante",
+      "href": "https://www.google.com/maps/place/O+Rango+Restaurante/data=!4m7!3m6!1s0x94deb169cd7b6cfd:0x32b5c0d386c758b!8m2!3d-26.3074662!4d-48.8453378!16s%2Fg%2F11x8rbvfyx!19sChIJ_Wx7zWmx3pQRi3VsOA1cKwM",
+      "phone": "(47) 99174-2904",
+      "address": "R. Min. Calógeras, 545 - Bucarein, Joinville - SC, 89202-207",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "M4 Restaurante e Eventos",
+      "href": "https://www.google.com/maps/place/M4+Restaurante+e+Eventos/data=!4m7!3m6!1s0x94deb0515dfa062b:0x8e4c6749a64ddc35!8m2!3d-26.3133765!4d-48.8448753!16s%2Fg%2F11bv1nc3zf!19sChIJKwb6XVGw3pQRNdxNpklnTI4",
+      "phone": "(47) 3422-4521",
+      "address": "Av. Getúlio Vargas, 653 - Bucarein, Joinville - SC, 89202-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Don Francesco",
+      "href": "https://www.google.com/maps/place/Restaurante+Don+Francesco/data=!4m7!3m6!1s0x94deb0370befffff:0x663723632f5b7356!8m2!3d-26.2984648!4d-48.8482689!16s%2Fg%2F11bv3mmcbr!19sChIJ___vCzew3pQRVnNbL2MjN2Y",
+      "phone": "(47) 3422-2752",
+      "address": "Shopping Cidade das Flores - R. Mário Lobo, 106 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Roveda",
+      "href": "https://www.google.com/maps/place/Restaurante+Roveda/data=!4m7!3m6!1s0x94deb0609a175ef1:0x39b97fc4dfa2d5cb!8m2!3d-26.3215185!4d-48.8604237!16s%2Fg%2F11b86r_6q2!19sChIJ8V4XmmCw3pQRy9Wi38R_uTk",
+      "phone": "(47) 99604-3864",
+      "address": "R. da Independência, 709 - Anita Garibaldi, Joinville - SC, 89203-372",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Zanella",
+      "href": "https://www.google.com/maps/place/Restaurante+Zanella/data=!4m7!3m6!1s0x94deb06019be68cb:0xafc2f1eaf8747ee2!8m2!3d-26.3241386!4d-48.8600196!16s%2Fg%2F1td6hmtg!19sChIJy2i-GWCw3pQR4n50-Orxwq8",
+      "phone": "(47) 99187-5307",
+      "address": "R. Anita Garibaldi, 1860 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kalari Bistrô",
+      "href": "https://www.google.com/maps/place/Kalari+Bistr%C3%B4/data=!4m7!3m6!1s0x94deb19e86017b23:0x2c431e08dafa4d27!8m2!3d-26.3110432!4d-48.8464516!16s%2Fg%2F11xmh9xm1y!19sChIJI3sBhp6x3pQRJ0362ggeQyw",
+      "phone": "(47) 99666-2293",
+      "address": "R. Saí, 65 - Anita Garibaldi, Joinville - SC, 89202-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Natural Bistrô Joinville",
+      "href": "https://www.google.com/maps/place/Natural+Bistr%C3%B4+Joinville/data=!4m7!3m6!1s0x94deb11d177787a7:0x9b7f951d53b9386b!8m2!3d-26.3133112!4d-48.8485002!16s%2Fg%2F11wqcfs2d8!19sChIJp4d3Fx2x3pQRazi5Ux2Vf5s",
+      "phone": "(47) 99267-5737",
+      "address": "R. Paraná, 298 - Sala 3 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BIG LANCHES DA PRAINHA",
+      "href": "https://www.google.com/maps/place/BIG+LANCHES+DA+PRAINHA/data=!4m7!3m6!1s0x94deb18795cd35e7:0xf7f80194a1eb9acb!8m2!3d-26.321433!4d-48.8530567!16s%2Fg%2F11swzg372h!19sChIJ5zXNlYex3pQRy5rroZQB-Pc",
+      "phone": "(47) 3449-5030",
+      "address": "R. Anita Garibaldi, 1012 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Super Cachorrão",
+      "href": "https://www.google.com/maps/place/Super+Cachorr%C3%A3o/data=!4m7!3m6!1s0x94deb1944c664865:0xc8bc27facfb507ce!8m2!3d-26.3180512!4d-48.8492235!16s%2Fg%2F11fghcpmdr!19sChIJZUhmTJSx3pQRzge1z_onvMg",
+      "phone": "(47) 99261-1515",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tipti Restaurante e Pizzaria",
+      "href": "https://www.google.com/maps/place/Tipti+Restaurante+e+Pizzaria/data=!4m7!3m6!1s0x94deb160f8136c63:0xf79fc459124ce912!8m2!3d-26.3176494!4d-48.849218!16s%2Fg%2F11hdjcgvv1!19sChIJY2wT-GCx3pQREulMElnEn_c",
+      "phone": "(47) 99208-0324",
+      "address": "R. Anita Garibaldi, 142 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Miti",
+      "href": "https://www.google.com/maps/place/Casa+Miti/data=!4m7!3m6!1s0x94deb1df1e4b73cd:0xfbd9b3b18e8e8dfe!8m2!3d-26.3113567!4d-48.8535616!16s%2Fg%2F11w8tswpx4!19sChIJzXNLHt-x3pQR_o2OjrGz2fs",
+      "phone": "(47) 93382-0452",
+      "address": "Casa de Moura - R. Rio Grande do Sul, 145 - Anexo a - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chácara Saguaçu",
+      "href": "https://www.google.com/maps/place/Ch%C3%A1cara+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb1d35855f28d:0xcfac0532baf7927a!8m2!3d-26.2835382!4d-48.8388934!16s%2Fg%2F11gztq3yv!19sChIJjfJVWNOx3pQRepL3ujIFrM8",
+      "phone": "(47) 99740-5921",
+      "address": "R. Carlos Benack, 70 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Figari Parrilla Uruguaya",
+      "href": "https://www.google.com/maps/place/Figari+Parrilla+Uruguaya/data=!4m7!3m6!1s0x94deb169c56ebbff:0x9f9b2342d4a1a750!8m2!3d-26.2818684!4d-48.8420776!16s%2Fg%2F11stj2p8gs!19sChIJ_7tuxWmx3pQRUKeh1EIjm58",
+      "phone": "(47) 98904-2442",
+      "address": "R. Joaçaba, 74 - Sl 6 - Saguaçu, Joinville - SC, 89221-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LUD!D Frango no Balde Opa Prainha",
+      "href": "https://www.google.com/maps/place/LUD!D+Frango+no+Balde+Opa+Prainha/data=!4m7!3m6!1s0x94deb12e992d65cb:0x4d6d03458705e1fb!8m2!3d-26.2946626!4d-48.8409519!16s%2Fg%2F11vw_v2n3l!19sChIJy2UtmS6x3pQR--EFh0UDbU0",
+      "phone": "(47) 3804-9996",
+      "address": "R. Dona Francisca, 77 - Saguaçu, Joinville - SC, 89221-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santé por Teresa",
+      "href": "https://www.google.com/maps/place/Sant%C3%A9+por+Teresa/data=!4m7!3m6!1s0x94deb04b503ceb21:0x2d9458a1ae4eecf8!8m2!3d-26.30192!4d-48.8405939!16s%2Fg%2F1tnl2k42!19sChIJIes8UEuw3pQR-OxOrqFYlC0",
+      "phone": "(47) 3804-5013",
+      "address": "Rua Aubé, 177 - Saguaçu, Joinville - SC, 89221-011",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paulo Marmitas",
+      "href": "https://www.google.com/maps/place/Paulo+Marmitas/data=!4m7!3m6!1s0x94deb130158168bb:0xc0d99da1b3e328ea!8m2!3d-26.2851034!4d-48.8400056!16s%2Fg%2F11gtfx7nq3!19sChIJu2iBFTCx3pQR6ijjs6Gd2cA",
+      "phone": "(47) 3433-5605",
+      "address": "R. Dona Francisca, 2058 - Saguaçu, Joinville - SC, 89239-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paladares",
+      "href": "https://www.google.com/maps/place/Paladares/data=!4m7!3m6!1s0x94deb02bbb20f957:0x513454e87f3678ea!8m2!3d-26.2830883!4d-48.842992!16s%2Fg%2F11b86rkwhf!19sChIJV_kguyuw3pQR6ng2f-hUNFE",
+      "phone": "(47) 3028-1604",
+      "address": "R. Padre Antônio Vieira, 595 - Saguaçu, Joinville - SC, 89221-265",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Cantinho de Minas",
+      "href": "https://www.google.com/maps/place/Restaurante+Cantinho+de+Minas/data=!4m7!3m6!1s0x94deaf3d0a72f8bd:0x9a5f9ca6da37ff9e!8m2!3d-26.2760803!4d-48.8345825!16s%2Fg%2F11ty719890!19sChIJvfhyCj2v3pQRnv832qacX5o",
+      "phone": "(47) 99263-1654",
+      "address": "R. Iririú, 1035 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ital'in House - Joinville - Santo Antônio",
+      "href": "https://www.google.com/maps/place/Ital%27in+House+-+Joinville+-+Santo+Ant%C3%B4nio/data=!4m7!3m6!1s0x94deafb90ac7279b:0xed47370947b95c0c!8m2!3d-26.2739961!4d-48.8508981!16s%2Fg%2F11wc37_y_v!19sChIJmyfHCrmv3pQRDFy5Rwk3R-0",
+      "phone": "(47) 98836-6981",
+      "address": "R. Blumenau, Sl 01 - Santo Antônio, Joinville - SC, 89218-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bem Brasiliano Refeições coletivas",
+      "href": "https://www.google.com/maps/place/Bem+Brasiliano+Refei%C3%A7%C3%B5es+coletivas/data=!4m7!3m6!1s0x94deb035c320e117:0x7483b7372919f6ac!8m2!3d-26.2982382!4d-48.8440467!16s%2Fg%2F11bv2gy_cz!19sChIJF-EgwzWw3pQRrPYZKTe3g3Q",
+      "phone": "(47) 99277-9420",
+      "address": "R. Dona Francisca, 375 - Centro, Joinville - SC, 89201-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Primus",
+      "href": "https://www.google.com/maps/place/Primus/data=!4m7!3m6!1s0x94deaff135e34c41:0x38ac521d63ca637a!8m2!3d-26.2779887!4d-48.8746817!16s%2Fg%2F11c3mrftzt!19sChIJQUzjNfGv3pQRemPKYx1SrDg",
+      "phone": "(47) 3026-6517",
+      "address": "R. Dona Elza Meinert, 450 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Massalândia",
+      "href": "https://www.google.com/maps/place/Massal%C3%A2ndia/data=!4m7!3m6!1s0x94deafd4211822e5:0xa60df25b3f1391c4!8m2!3d-26.263868!4d-48.8649149!16s%2Fg%2F11f733nsfm!19sChIJ5SIYIdSv3pQRxJETP1vyDaY",
+      "phone": "(47) 3028-7053",
+      "address": "R. Rui Barbosa, 299 - Costa e Silva, Joinville - SC, 89219-158",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Borba",
+      "href": "https://www.google.com/maps/place/Restaurante+Borba/data=!4m7!3m6!1s0x94deaf8f17915167:0xa9dc6217f2ef9b68!8m2!3d-26.2744016!4d-48.867339!16s%2Fg%2F11g0lfc5yc!19sChIJZ1GRF4-v3pQRaJvv8hdi3Kk",
+      "phone": "(47) 3028-9424",
+      "address": "R. Guilherme, 1245 - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante D'Casa",
+      "href": "https://www.google.com/maps/place/Restaurante+D%27Casa/data=!4m7!3m6!1s0x94deaf6aa31716bf:0x81599ace2914ce2f!8m2!3d-26.2687899!4d-48.881172!16s%2Fg%2F11hzvxglpl!19sChIJvxYXo2qv3pQRL84UKc6aWYE",
+      "phone": "(47) 99696-3733",
+      "address": "Rua Marcos Rosa, R. Pavão, 35 - Costa e Silva, Joinville - SC, 89220-306",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Churrascaria Silva",
+      "href": "https://www.google.com/maps/place/Churrascaria+Silva/data=!4m7!3m6!1s0x94deb16dc36e0299:0x602cd56d419aa52e!8m2!3d-26.3202526!4d-48.8153025!16s%2Fg%2F11y7sq7t6q!19sChIJmQJuw22x3pQRLqWaQW3VLGA",
+      "phone": "(47) 99646-1036",
+      "address": "R. Guanabara, 3037 - Fátima, Joinville - SC, 89229-112",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Santo Lau",
+      "href": "https://www.google.com/maps/place/Restaurante+Santo+Lau/data=!4m7!3m6!1s0x94deaf94c177d98f:0x8d0bb0bfb3411b6e!8m2!3d-26.2662757!4d-48.8625951!16s%2Fg%2F11c6s3pwn9!19sChIJj9l3wZSv3pQRbhtBs7-wC40",
+      "phone": "(47) 3028-7899",
+      "address": "R. Prof. Schutzler, 1153 - Costa e Silva, Joinville - SC, 89218-183",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sorveteria Lolla Costa e Silva",
+      "href": "https://www.google.com/maps/place/Sorveteria+Lolla+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf005955ac69:0xdadfb9cbe1ade88!8m2!3d-26.2739988!4d-48.8732042!16s%2Fg%2F11w3tqhr1k!19sChIJaaxVWQCv3pQRiN4avpz7rQ0",
+      "phone": "(47) 99967-6453",
+      "address": "Av. Alm. Jaceguay, 2751 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nass Costela",
+      "href": "https://www.google.com/maps/place/Nass+Costela/data=!4m7!3m6!1s0x94deafbc11855941:0x6ca37e240d3c2617!8m2!3d-26.2717762!4d-48.8719955!16s%2Fg%2F11y_qqzgz4!19sChIJQVmFEbyv3pQRFyY8DSR-o2w",
+      "phone": "(47) 98916-3989",
+      "address": "Rua Otto Pfuetzenreuter, 208 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gordo Lanches costa e silva",
+      "href": "https://www.google.com/maps/place/Gordo+Lanches+costa+e+silva/data=!4m7!3m6!1s0x94deafc8722cd2d3:0x970c86837eafe8fd!8m2!3d-26.2739761!4d-48.8697581!16s%2Fg%2F11h5ddjf43!19sChIJ09Iscsiv3pQR_eivfoOGDJc",
+      "phone": "(47) 99630-7589",
+      "address": "R. Guilherme, 1482-1570 - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Bom Almoço",
+      "href": "https://www.google.com/maps/place/Restaurante+Bom+Almo%C3%A7o/data=!4m7!3m6!1s0x94dea54086ed6c7d:0xc6d09c31b8ea09ba!8m2!3d-26.273822!4d-48.8867283!16s%2Fg%2F11kqd75vf6!19sChIJfWzthkCl3pQRugnquDGc0MY",
+      "phone": "(47) 98408-4987",
+      "address": "Av. Alm. Jaceguay, 3360 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sua Cozinha de Mãe",
+      "href": "https://www.google.com/maps/place/Sua+Cozinha+de+M%C3%A3e/data=!4m7!3m6!1s0x94deaff55f4d036d:0xa478c4de5038bdc7!8m2!3d-26.2693574!4d-48.8698712!16s%2Fg%2F11srvfm9gb!19sChIJbQNNX_Wv3pQRx704UN7EeKQ",
+      "phone": "(47) 99240-4118",
+      "address": "R. Crystabel S Dória - Costa e Silva, Joinville - SC, 89219-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RS Restaurante e Pizzaria",
+      "href": "https://www.google.com/maps/place/RS+Restaurante+e+Pizzaria/data=!4m7!3m6!1s0x94dea5632bb0af27:0xb197805161f6d5c5!8m2!3d-26.2646837!4d-48.8827093!16s%2Fg%2F11b8t7mk1k!19sChIJJ6-wK2Ol3pQRxdX2YVGAl7E",
+      "phone": "(47) 3026-5686",
+      "address": "R. Rui Barbosa, 2247 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cantinho Italiano",
+      "href": "https://www.google.com/maps/place/Cantinho+Italiano/data=!4m7!3m6!1s0x94deaff9aa8a542d:0x49cc7cf08964b62f!8m2!3d-26.2845104!4d-48.8773772!16s%2Fg%2F11g6yz31lt!19sChIJLVSKqvmv3pQRL7ZkifB8zEk",
+      "phone": "(47) 3227-3309",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Permata Gastronomia & Eventos",
+      "href": "https://www.google.com/maps/place/Permata+Gastronomia+%26+Eventos/data=!4m7!3m6!1s0x94deb11802d9055f:0x2aff19a22f3e2a3e!8m2!3d-26.2807277!4d-48.8754413!16s%2Fg%2F11nl6hhdww!19sChIJXwXZAhix3pQRPio-L6IZ_yo",
+      "phone": "(47) 99965-4170",
+      "address": "R. Adriano Schondermank - Costa e Silva, Joinville - SC, 89217-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Guardiões da Selva | Rodízio Temático",
+      "href": "https://www.google.com/maps/place/Guardi%C3%B5es+da+Selva+%7C+Rod%C3%ADzio+Tem%C3%A1tico/data=!4m7!3m6!1s0x94dea50c9823a473:0xa96def175423c784!8m2!3d-26.289911!4d-48.9006567!16s%2Fg%2F11yrzr0vk5!19sChIJc6QjmAyl3pQRhMcjVBfvbak",
+      "phone": "(47) 3305-7474",
+      "address": "R. Bento Torquato da Rocha, 286 - 1192R - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante e Quiosque Sabor da Alegria",
+      "href": "https://www.google.com/maps/place/Restaurante+e+Quiosque+Sabor+da+Alegria/data=!4m7!3m6!1s0x94dea52f99493889:0x5e035d7428745978!8m2!3d-26.2884939!4d-48.9203198!16s%2Fg%2F11z8tqmlfn!19sChIJiThJmS-l3pQReFl0KHRdA14",
+      "phone": "(47) 99678-9867",
+      "address": "Rod. Rodolfo Jahn - Vila Nova, Joinville - SC, 89237-800",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espetaria Filé Miau",
+      "href": "https://www.google.com/maps/place/Espetaria+Fil%C3%A9+Miau/data=!4m7!3m6!1s0x94dea503ae3d1e39:0x5315e44e93e4a166!8m2!3d-26.2868792!4d-48.9043761!16s%2Fg%2F11rvwxwbj1!19sChIJOR49rgOl3pQRZqHkk07kFVM",
+      "phone": "(47) 99695-5184",
+      "address": "R. XV de Novembro, 7142 - Vila Nova, Joinville - SC, 89237-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Suthao armazém e espetaria",
+      "href": "https://www.google.com/maps/place/Suthao+armaz%C3%A9m+e+espetaria/data=!4m7!3m6!1s0x94dea5132542ad8d:0xa55f30b348b7a0c3!8m2!3d-26.2924744!4d-48.9022433!16s%2Fg%2F11ms01vdq4!19sChIJja1CJROl3pQRw6C3SLMwX6U",
+      "phone": "(47) 98432-5927",
+      "address": "R. Rudolf Baumer, 500 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comida Caseira da Fábi",
+      "href": "https://www.google.com/maps/place/Comida+Caseira+da+F%C3%A1bi/data=!4m7!3m6!1s0x94dea536e25e9707:0x226368dcd33c3e51!8m2!3d-26.2886193!4d-48.9077102!16s%2Fg%2F11tnvx758w!19sChIJB5de4jal3pQRUT4809xoYyI",
+      "phone": "(47) 98896-2525",
+      "address": "R. Marquês de Maricá, 209 - Vila Nova, Joinville - SC, 89237-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lado's Pampas Churrascaria Joinville",
+      "href": "https://www.google.com/maps/place/Lado%27s+Pampas+Churrascaria+Joinville/data=!4m7!3m6!1s0x94dea5b9f4a146f7:0x3ead7c218a496a3d!8m2!3d-26.2489451!4d-48.9090036!16s%2Fg%2F11vbv3j_4s!19sChIJ90ah9Lml3pQRPWpJiiF8rT4",
+      "phone": "(47) 98495-8316",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rustic House Restaurante e Pizzaria",
+      "href": "https://www.google.com/maps/place/Rustic+House+Restaurante+e+Pizzaria/data=!4m7!3m6!1s0x94dea564592f5ff9:0xb98b630c10d450e6!8m2!3d-26.2612361!4d-48.9248275!16s%2Fg%2F11p130k8jm!19sChIJ-V8vWWSl3pQR5lDUEAxji7k",
+      "phone": "(47) 99689-0933",
+      "address": "R. Anaburgo, 2357 - Zona Industrial Norte, Joinville - SC, 89219-630",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kátia Marmitas",
+      "href": "https://www.google.com/maps/place/K%C3%A1tia+Marmitas/data=!4m7!3m6!1s0x94dea5b2009748f9:0x852cb33a583b0b93!8m2!3d-26.2874771!4d-48.9187928!16s%2Fg%2F11k56bw9kz!19sChIJ-UiXALKl3pQRkws7WDqzLIU",
+      "phone": "(47) 98469-6316",
+      "address": "R. XV de Novembro, 8691 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Café Rural Família Roos",
+      "href": "https://www.google.com/maps/place/Caf%C3%A9+Rural+Fam%C3%ADlia+Roos/data=!4m7!3m6!1s0x94dea4ea80b0599b:0xad7cc5cfe273fcfd!8m2!3d-26.2922153!4d-48.9381103!16s%2Fg%2F11c1txwz8v!19sChIJm1mwgOqk3pQR_fxz4s_FfK0",
+      "phone": "(47) 99656-9753",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Forest Burger",
+      "href": "https://www.google.com/maps/place/Forest+Burger/data=!4m7!3m6!1s0x94deb0e7a9939595:0x7bdada5a0e59df08!8m2!3d-26.33667!4d-48.8477593!16s%2Fg%2F11dxddnxcj!19sChIJlZWTqeew3pQRCN9ZDlra2ns",
+      "phone": "(47) 99134-5493",
+      "address": "R. Santa Catarina, 1530 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sul Bar - Bar e Lanchonete no Floresta, Joinville",
+      "href": "https://www.google.com/maps/place/Sul+Bar+-+Bar+e+Lanchonete+no+Floresta,+Joinville/data=!4m7!3m6!1s0x94deb1b11298799b:0x2631a3cce316b927!8m2!3d-26.3307409!4d-48.846907!16s%2Fg%2F11rc87hhf9!19sChIJm3mYErGx3pQRJ7kW48yjMSY",
+      "phone": "(47) 99686-8111",
+      "address": "R. Santa Catarina, 908 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Korea Yoon",
+      "href": "https://www.google.com/maps/place/Restaurante+Korea+Yoon/data=!4m7!3m6!1s0x94deb1daa53e630f:0x12ebe8c06fae177d!8m2!3d-26.33608!4d-48.8476965!16s%2Fg%2F11qbx86qy7!19sChIJD2M-pdqx3pQRfReub8Do6xI",
+      "phone": "(47) 3422-9085",
+      "address": "R. Santa Catarina, 1472 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bar do Nelson",
+      "href": "https://www.google.com/maps/place/Bar+do+Nelson/data=!4m7!3m6!1s0x94deb18618f00425:0xaca6ce182382e39f!8m2!3d-26.3285857!4d-48.8424724!16s%2Fg%2F11hv5g71pd!19sChIJJQTwGIax3pQRn-OCIxjOpqw",
+      "phone": "(47) 99109-0199",
+      "address": "R. Uberaba, 320 - Floresta, Joinville - SC, 89211-585",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estação da Rosa",
+      "href": "https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+da+Rosa/data=!4m7!3m6!1s0x94deb141b80098d9:0xed95c7f6996dc11!8m2!3d-26.3234893!4d-48.8450891!16s%2Fg%2F11fhvxd0m2!19sChIJ2ZgAuEGx3pQREdyWaX9c2Q4",
+      "phone": "(47) 3801-4902",
+      "address": "R. Santa Catarina, 126 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante Lanchonete e Pizzaria do Vizinho",
+      "href": "https://www.google.com/maps/place/Restaurante+Lanchonete+e+Pizzaria+do+Vizinho/data=!4m7!3m6!1s0x94deb12ccdc83783:0x471d58b131631e10!8m2!3d-26.3448814!4d-48.8473452!16s%2Fg%2F11rcx8dw75!19sChIJgzfIzSyx3pQREB5jMbFYHUc",
+      "phone": "(47) 3436-0630",
+      "address": "R. Santa Catarina, 2382 - Floresta, Joinville - SC, 89233-032",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luft Restaurante",
+      "href": "https://www.google.com/maps/place/Luft+Restaurante/data=!4m7!3m6!1s0x94deb0c1d3a172a9:0xc002c8b90aed259f!8m2!3d-26.3435406!4d-48.8571385!16s%2Fg%2F11b8c4wpf8!19sChIJqXKh08Gw3pQRnyXtCrnIAsA",
+      "phone": "(47) 3429-7485",
+      "address": "R. Copacabana, 2128 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bar do Zé Floresta",
+      "href": "https://www.google.com/maps/place/Bar+do+Z%C3%A9+Floresta/data=!4m7!3m6!1s0x94deb0e9e672a4c3:0x6b9fe97ca8d3fc9d!8m2!3d-26.3414677!4d-48.8538527!16s%2Fg%2F11bv5vp0ql!19sChIJw6Ry5umw3pQRnfzTqHzpn2s",
+      "phone": "(47) 99999-8214",
+      "address": "R. Santa Maria, 501 - Floresta, Joinville - SC, 89212-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Baalbek Foods",
+      "href": "https://www.google.com/maps/place/Baalbek+Foods/data=!4m7!3m6!1s0x94deb12e1fb88477:0xbd03e4ff9b3fd6d5!8m2!3d-26.3239363!4d-48.8433203!16s%2Fg%2F11rsqwnvs6!19sChIJd4S4Hy6x3pQR1dY_m__kA70",
+      "phone": "(47) 99771-2804",
+      "address": "R. Monsenhor Gercino, 113 - Floresta, Joinville - SC, 89211-313",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Schnapps Bar",
+      "href": "https://www.google.com/maps/place/Schnapps+Bar/data=!4m7!3m6!1s0x94deb19b21a9df5d:0x31f0ab3af7ccba47!8m2!3d-26.3361614!4d-48.8578398!16s%2Fg%2F11qvgpxsjb!19sChIJXd-pIZux3pQRR7rM9zqr8DE",
+      "phone": "(47) 99662-5410",
+      "address": "R. Copacabana, 1374 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marmita Vó Nita",
+      "href": "https://www.google.com/maps/place/Marmita+V%C3%B3+Nita/data=!4m7!3m6!1s0x94deb1f256663097:0x46f9a88a40df2a3d!8m2!3d-26.3443839!4d-48.8473922!16s%2Fg%2F11ylxt6t0k!19sChIJlzBmVvKx3pQRPSrfQIqo-UY",
+      "phone": "(47) 99201-1643",
+      "address": "R. Santa Catarina, 2348 - Sl 19 - Floresta, Joinville - SC, 89211-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ki Marmita Comida Brasileira",
+      "href": "https://www.google.com/maps/place/Ki+Marmita+Comida+Brasileira/data=!4m7!3m6!1s0x94deb1b6b3776cc9:0x9c0a2977767e1577!8m2!3d-26.339499!4d-48.8500096!16s%2Fg%2F11h00cz7b5!19sChIJyWx3s7ax3pQRdxV-dncpCpw",
+      "phone": "(47) 3029-5171",
+      "address": "R. São Lourenço do Oeste, 48 - Floresta, Joinville - SC, 89212-115",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Restaurante e churrascaria buzzi",
+      "href": "https://www.google.com/maps/place/Restaurante+e+churrascaria+buzzi/data=!4m7!3m6!1s0x94deb14e084e6e75:0x7fb486fdbd03d689!8m2!3d-26.3388212!4d-48.8472271!16s%2Fg%2F11ygx5d4r2!19sChIJdW5OCE6x3pQRidYDvf2GtH8",
+      "phone": "(47) 99957-1622",
+      "address": "R. Santa Catarina, 1735 - Floresta, Joinville - SC, 89212-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dona Renira Tempero Caseiro",
+      "href": "https://www.google.com/maps/place/Dona+Renira+Tempero+Caseiro/data=!4m7!3m6!1s0x94deb1294885f023:0x677a03e1186458e!8m2!3d-26.3418217!4d-48.852495!16s%2Fg%2F11r6lc5c2w!19sChIJI_CFSCmx3pQRjkWGET6gdwY",
+      "phone": "(47) 99644-3802",
+      "address": "R. Princesa Mafalda, 474 - Bl 11 apto 102 - Floresta, Joinville - SC, 89212-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dona Bi Marmitas",
+      "href": "https://www.google.com/maps/place/Dona+Bi+Marmitas/data=!4m7!3m6!1s0x94deb1da1c13bfd7:0xb14d3ad4c424dd62!8m2!3d-26.3244659!4d-48.829214!16s%2Fg%2F11vhgcnp6j!19sChIJ178THNqx3pQRYt0kxNQ6TbE",
+      "phone": "(47) 99988-5466",
+      "address": "R. Guanabara, 1001 - Guanabara, Joinville - SC, 89207-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Assados Hille",
+      "href": "https://www.google.com/maps/place/Assados+Hille/data=!4m7!3m6!1s0x94deb14fe48fc9d5:0x924c981666e22df7!8m2!3d-26.330732!4d-48.8420393!16s%2Fg%2F11mhmfgc6m!19sChIJ1cmP5E-x3pQR9y3iZhaYTJI",
+      "phone": "(47) 99611-0427",
+      "address": "R. São Paulo, 2554 - Floresta, Joinville - SC, 89210-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

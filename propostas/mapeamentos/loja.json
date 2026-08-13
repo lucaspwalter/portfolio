@@ -1,0 +1,624 @@
+{
+  "id": "loja",
+  "nome": "Loja",
+  "terms": [
+    "loja de presentes",
+    "loja de variedades",
+    "loja de utilidades"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "Blinda Presentes e Beleza",
+      "href": "https://www.google.com/maps/place/Blinda+Presentes+e+Beleza/data=!4m7!3m6!1s0x94deb72ec5b06d21:0x90527ef8d1e2727c!8m2!3d-26.3607115!4d-48.8311406!16s%2Fg%2F11xkw04lz_!19sChIJIW2wxS633pQRfHLi0fh-UpA",
+      "phone": "(47) 98411-4880",
+      "address": "R. Boehmerwald, 776 - Sl 10 - Boehmerwald, Joinville - SC, 89232-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa de Embalagens - PH Embalagens e Festas",
+      "href": "https://www.google.com/maps/place/Casa+de+Embalagens+-+PH+Embalagens+e+Festas/data=!4m7!3m6!1s0x94deb6d113f701e7:0x4d1df580333cc14d!8m2!3d-26.3606908!4d-48.8312144!16s%2Fg%2F1td5mw2j!19sChIJ5wH3E9G23pQRTcE8M4D1HU0",
+      "phone": "(47) 3465-0006",
+      "address": "R. Boehmerwald, nº776 - Sl 02 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Frutaria Monte das Oliveiras",
+      "href": "https://www.google.com/maps/place/Frutaria+Monte+das+Oliveiras/data=!4m7!3m6!1s0x94deb6cfd4418b27:0x543b59912feec130!8m2!3d-26.3604717!4d-48.8294281!16s%2Fg%2F11bv6pwn0q!19sChIJJ4tB1M-23pQRMMHuL5FZO1Q",
+      "phone": "(47) 99752-5190",
+      "address": "R. Boehmerwald, 931 - Boehmerwald, Joinville - SC, 89235-770",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PH PRODUTOS NATURAIS",
+      "href": "https://www.google.com/maps/place/PH+PRODUTOS+NATURAIS/data=!4m7!3m6!1s0x94deb6cfc3ecf731:0x97f504ac6fbb2d49!8m2!3d-26.360563!4d-48.8287288!16s%2Fg%2F11fyzf0dcm!19sChIJMffsw8-23pQRSS27b6wE9Zc",
+      "phone": "(47) 3466-6161",
+      "address": "R. Boehmerwald, 1007 - Boehmerwald, Joinville - SC, 89235-562",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Janete Variedades ME",
+      "href": "https://www.google.com/maps/place/Janete+Variedades+ME/data=!4m7!3m6!1s0x94deb6c39edf233b:0xfd491bd0cb632858!8m2!3d-26.3678705!4d-48.8260244!16s%2Fg%2F1tj1t78d!19sChIJOyPfnsO23pQRWChjy9AbSf0",
+      "phone": "(47) 3465-0043",
+      "address": "R. Universidade, 202 - Boehmerwald, Joinville - SC, 89235-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja de variedades",
+      "href": "https://www.google.com/maps/place/Loja+de+variedades/data=!4m7!3m6!1s0x94deb16af209b479:0xf4576da308edac7a!8m2!3d-26.327887!4d-48.8176473!16s%2Fg%2F11bv5s9y7l!19sChIJebQJ8mqx3pQReqztCKNtV_Q",
+      "phone": "(47) 3436-1878",
+      "address": "R. Fátima, 1150 - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amor d& Casa",
+      "href": "https://www.google.com/maps/place/Amor+d%26+Casa/data=!4m7!3m6!1s0x94deb7cb66a2697b:0x6e79400fd3dc2300!8m2!3d-26.368995!4d-48.8269743!16s%2Fg%2F11j2xn7k5l!19sChIJe2miZsu33pQRACPc0w9AeW4",
+      "phone": "(47) 98461-8642",
+      "address": "R. Attílio Vinotti, 74 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kajolly Variedades",
+      "href": "https://www.google.com/maps/place/Kajolly+Variedades/data=!4m7!3m6!1s0x94deb6c20fa872c5:0x5345eaecedc41c43!8m2!3d-26.370556!4d-48.8253165!16s%2Fg%2F11b8t7j7mf!19sChIJxXKoD8K23pQRQxzE7ezqRVM",
+      "phone": "(47) 3465-1055",
+      "address": "R. dos Engenheiros, 169 - Boehmerwald, Joinville - SC, 89235-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cristian,Utilidades Domésticas.",
+      "href": "https://www.google.com/maps/place/Cristian,Utilidades+Dom%C3%A9sticas./data=!4m7!3m6!1s0x94deb74dc37ebf23:0x89a75fbf4c961d01!8m2!3d-26.3592964!4d-48.8358301!16s%2Fg%2F11tc_c58kw!19sChIJI79-w0233pQRAR2WTL9fp4k",
+      "phone": "(47) 99774-4397",
+      "address": "R. Cidade de Arco Verde, 211 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donatudo Embalagens, Doces e Festas",
+      "href": "https://www.google.com/maps/place/Donatudo+Embalagens,+Doces+e+Festas/data=!4m7!3m6!1s0x94deb6c3aaf78613:0x9d3106bae452776a!8m2!3d-26.3678634!4d-48.8291022!16s%2Fg%2F11bvcv94mj!19sChIJE4b3qsO23pQRandS5LoGMZ0",
+      "phone": "(47) 3278-7155",
+      "address": "R. Afonso Moreira, 588 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mega Bazar Papelaria Utilidades Brinquedos",
+      "href": "https://www.google.com/maps/place/Mega+Bazar+Papelaria+Utilidades+Brinquedos/data=!4m7!3m6!1s0x94deb6bc93d7d8b3:0x8aab979528a23b26!8m2!3d-26.3621211!4d-48.8112662!16s%2Fg%2F11h93fkd0d!19sChIJs9jXk7y23pQRJjuiKJWXq4o",
+      "phone": "(47) 3017-1334",
+      "address": "R. Boehmerwald, 2368 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lojão Astral Atacarejo Bairro Floresta",
+      "href": "https://www.google.com/maps/place/Loj%C3%A3o+Astral+Atacarejo+Bairro+Floresta/data=!4m7!3m6!1s0x94deb0e656bd9209:0x5fe82b38828f60d2!8m2!3d-26.3415448!4d-48.847573!16s%2Fg%2F1ptzfq512!19sChIJCZK9Vuaw3pQR0mCPgjgr6F8",
+      "phone": "(47) 99719-0719",
+      "address": "R. Santa Catarina, 2066 - Floresta, Joinville - SC, 89212-212",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RR Brinquedos & Utilidades",
+      "href": "https://www.google.com/maps/place/RR+Brinquedos+%26+Utilidades/data=!4m7!3m6!1s0x94dc04ed3b390d83:0xeb618516c8a06e9c!8m2!3d-26.3380876!4d-48.8191988!16s%2Fg%2F11g8vlz03f!19sChIJgw05O-0E3JQRnG6gyBaFYes",
+      "phone": "(47) 99269-0686",
+      "address": "R. Anitápolis, 585 - Itaum, Joinville - SC, 89210-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Olive presentes afetivos",
+      "href": "https://www.google.com/maps/place/Olive+presentes+afetivos/data=!4m7!3m6!1s0x94deb122fe1967a1:0x703eaafd85cd963!8m2!3d-26.3042881!4d-48.8419909!16s%2Fg%2F11y90m4drb!19sChIJoWcZ_iKx3pQRY9lc2K_qAwc",
+      "phone": "(47) 98459-7618",
+      "address": "R. Sete de Setembro - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ana Bijuterias e Presentes",
+      "href": "https://www.google.com/maps/place/Ana+Bijuterias+e+Presentes/data=!4m7!3m6!1s0x94deb049f32b9393:0x3c94f17fb2063623!8m2!3d-26.3013236!4d-48.8451246!16s%2Fg%2F11bv1ng61k!19sChIJk5Mr80mw3pQRIzYGsn_xlDw",
+      "phone": "(47) 3278-2526",
+      "address": "Santa Catarina, Joinville, Centro, R. do Príncipe, 249:, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Revestire Casa e Presentes",
+      "href": "https://www.google.com/maps/place/Revestire+Casa+e+Presentes/data=!4m7!3m6!1s0x94deb03737716347:0xdab11d3cdaa06da7!8m2!3d-26.2966864!4d-48.8482925!16s%2Fg%2F1pwfbq2h5!19sChIJR2NxNzew3pQRp22g2jwdsdo",
+      "phone": "(47) 3025-4711",
+      "address": "R. Lages, 480 - Centro, Joinville - SC, 89201-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DAXINA CENTER",
+      "href": "https://www.google.com/maps/place/DAXINA+CENTER/data=!4m7!3m6!1s0x94deb1fa4ff230d1:0x9bf6734beedecf70!8m2!3d-26.3008589!4d-48.846795!16s%2Fg%2F11q24ld8ff!19sChIJ0TDyT_qx3pQRcM_e7ktz9ps",
+      "phone": "(47) 3033-3214",
+      "address": "R. XV de Novembro, 451 - Centro, Joinville - SC, 89216-204",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DL Sc Store",
+      "href": "https://www.google.com/maps/place/DL+Sc+Store/data=!4m7!3m6!1s0x94deb18202ee936d:0x6bc02aa0c981c92f!8m2!3d-26.3056378!4d-48.8432603!16s%2Fg%2F11s58xlnfj!19sChIJbZPuAoKx3pQRL8mByaAqwGs",
+      "phone": "(47) 99133-3749",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Günther",
+      "href": "https://www.google.com/maps/place/Casa+G%C3%BCnther/data=!4m7!3m6!1s0x94deb037b6d6134f:0x3ba541f57ef0ce4e!8m2!3d-26.301411!4d-48.8463102!16s%2Fg%2F1ptzbtq1y!19sChIJTxPWtjew3pQRTs7wfvVBpTs",
+      "phone": "(47) 3028-8626",
+      "address": "R. 9 de Março, 498 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Belém",
+      "href": "https://www.google.com/maps/place/Comercial+Bel%C3%A9m/data=!4m7!3m6!1s0x94deb0497a30f70f:0x40bb15bb8fa1a61!8m2!3d-26.3030452!4d-48.8453183!16s%2Fg%2F11b824_3yy!19sChIJD_cwekmw3pQRYRr6uFuxCwQ",
+      "phone": "(47) 99772-8335",
+      "address": "Galeria das Palmeiras - R. do Príncipe, 429 - Sl 16/18 - Centro, Joinville - SC, 89201-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chocante",
+      "href": "https://www.google.com/maps/place/Chocante/data=!4m7!3m6!1s0x94deb03821eea165:0xfb37d4f75f31f89!8m2!3d-26.302702!4d-48.84495!16s%2Fg%2F1tdwr7kg!19sChIJZaHuITiw3pQRiR_zdU99sw8",
+      "phone": "(47) 3433-8093",
+      "address": "R. Jerônimo Coelho, 40 - Centro, Joinville - SC, 89201-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tudo em Make Joinville",
+      "href": "https://www.google.com/maps/place/Tudo+em+Make+Joinville/data=!4m7!3m6!1s0x94deb049ed4ce781:0x9d6212dab2007b95!8m2!3d-26.3023307!4d-48.8453105!16s%2Fg%2F11vcvt_1n7!19sChIJgedM7Umw3pQRlXsAstoSYp0",
+      "phone": "(47) 99709-5577",
+      "address": "R. do Príncipe, 345 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "C e A Utilidades",
+      "href": "https://www.google.com/maps/place/C+e+A+Utilidades/data=!4m7!3m6!1s0x94deb1f10d029305:0xa98aabfd15a68e0b!8m2!3d-26.2808235!4d-48.8065333!16s%2Fg%2F11bvt25ph9!19sChIJBZMCDfGx3pQRC46mFf2riqk",
+      "phone": "(47) 99945-0263",
+      "address": "R. Praia Grande, 470 - Comasa, Joinville - SC, 89228-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donna Geek",
+      "href": "https://www.google.com/maps/place/Donna+Geek/data=!4m7!3m6!1s0x94deb1d0671f9c49:0xde210d91ba39fcf!8m2!3d-26.299541!4d-48.8500141!16s%2Fg%2F11h037sgwd!19sChIJSZwfZ9Cx3pQRz5-jG9kQ4g0",
+      "phone": "(47) 99144-4258",
+      "address": "R. Mário Lobo, 211 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Isa Presentes",
+      "href": "https://www.google.com/maps/place/Isa+Presentes/data=!4m7!3m6!1s0x94deaf49ae446d31:0xb1c1e0432b6550b1!8m2!3d-26.2539486!4d-48.819608!16s%2Fg%2F11q7f9hvbr!19sChIJMW1Erkmv3pQRsVBlK0PgwbE",
+      "phone": "(47) 3467-5724",
+      "address": "R. Tuiuti, 2167 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donna Geek",
+      "href": "https://www.google.com/maps/place/Donna+Geek/data=!4m7!3m6!1s0x94deaf3ceff96a01:0x49601e21c55a7466!8m2!3d-26.3113902!4d-48.8547546!16s%2Fg%2F11rd3521sz!19sChIJAWr57zyv3pQRZnRaxSEeYEk",
+      "phone": "(47) 99150-4258",
+      "address": "R. Min. Calógeras, 1639 - Atiradores, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Caed Store Tabacaria e Presentes",
+      "href": "https://www.google.com/maps/place/Caed+Store+Tabacaria+e+Presentes/data=!4m7!3m6!1s0x94deb030fe80113f:0xb5d4c6644fe9dd4e!8m2!3d-26.2937542!4d-48.8477288!16s%2Fg%2F11bv1nn5xb!19sChIJPxGA_jCw3pQRTt3pT2TG1LU",
+      "phone": "(47) 3027-7768",
+      "address": "R. Dr. João Colin, 762 - América, Joinville - SC, 89202-312",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Unistus Store",
+      "href": "https://www.google.com/maps/place/Unistus+Store/data=!4m7!3m6!1s0x94deb1806cc65703:0x917d84b4c75bc927!8m2!3d-26.2814782!4d-48.8404261!16s%2Fg%2F11tg75dsqt!19sChIJA1fGbICx3pQRJ8lbx7SEfZE",
+      "phone": "(47) 99771-4842",
+      "address": "R. Itapiranga - Saguaçu, Joinville - SC, 89221-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Imperat Impor e Com de Utilidades Domésticas",
+      "href": "https://www.google.com/maps/place/Imperat+Impor+e+Com+de+Utilidades+Dom%C3%A9sticas/data=!4m7!3m6!1s0x94deb02578815b8b:0x371a3e4ff0f0abc1!8m2!3d-26.289852!4d-48.8503213!16s%2Fg%2F1ptw13fmj!19sChIJi1uBeCWw3pQRwavw8E8-Gjc",
+      "phone": "(47) 3043-8001",
+      "address": "R. Araranguá, 177 - América, Joinville - SC, 26892-292",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Encantos Presentes",
+      "href": "https://www.google.com/maps/place/Encantos+Presentes/data=!4m7!3m6!1s0x94deae26572a0901:0xfafb591479f0b8a5!8m2!3d-26.2799016!4d-48.8171315!16s%2Fg%2F1tdbm4dn!19sChIJAQkqVyau3pQRpbjweRRZ-_o",
+      "phone": "(47) 99943-8574",
+      "address": "R. Acir Caetano de Souza Filho, 547 - Iririú, Joinville - SC, 89227-608",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Floricultura Emoções",
+      "href": "https://www.google.com/maps/place/Floricultura+Emo%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb042c03d384d:0xe4dabaf32f5dba85!8m2!3d-26.3135279!4d-48.8596789!16s%2Fg%2F1vl5hyg7!19sChIJTTg9wEKw3pQRhbpdL_O62uQ",
+      "phone": "(47) 3433-5452",
+      "address": "R. Ottokar Doerffel, 471 - Anita Garibaldi, Joinville - SC, 89203-495",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja de Presente Personalizado - Lojinha Bem Bolada - Morro do Meio",
+      "href": "https://www.google.com/maps/place/Loja+de+Presente+Personalizado+-+Lojinha+Bem+Bolada+-+Morro+do+Meio/data=!4m7!3m6!1s0x94debbe45c1116bf:0x8540b4e8c9abd727!8m2!3d-26.3278547!4d-48.9074622!16s%2Fg%2F11vm3znwg7!19sChIJvxYRXOS73pQRJ9eryei0QIU",
+      "phone": "(47) 99693-0727",
+      "address": "R. Alexandre da Silva, 93 - Morro do Meio, Joinville - SC, 89215-182",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CELULAR SHOP Atiradores Joinville",
+      "href": "https://www.google.com/maps/place/CELULAR+SHOP+Atiradores+Joinville/data=!4m7!3m6!1s0x94deb10c0d3a7287:0x449591ff63a0c126!8m2!3d-26.3113902!4d-48.8547546!16s%2Fg%2F11z83x_3z_!19sChIJh3I6DQyx3pQRJsGgY_-RlUQ",
+      "phone": "(47) 3027-2399",
+      "address": "R. Min. Calógeras, 1639 - Atiradores, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Coisas de Bazar",
+      "href": "https://www.google.com/maps/place/Coisas+de+Bazar/data=!4m7!3m6!1s0x94deb0467141e6b5:0x4e656278dd0d5f56!8m2!3d-26.3136443!4d-48.8519254!16s%2Fg%2F1wc32d6v!19sChIJteZBcUaw3pQRVl8N3XhiZU4",
+      "phone": "(47) 3025-7606",
+      "address": "R. Rio Grande do Sul, 398 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Baby Chubby",
+      "href": "https://www.google.com/maps/place/Baby+Chubby/data=!4m7!3m6!1s0x94deb03d6e7f4c43:0x92f64ed136344fdc!8m2!3d-26.3134511!4d-48.8515474!16s%2Fg%2F11gd1_5tkr!19sChIJQ0x_bj2w3pQR3E80NtFO9pI",
+      "phone": "(47) 99711-5506",
+      "address": "R. Rio Grande do Sul, 441 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atacado Alfa 114",
+      "href": "https://www.google.com/maps/place/Atacado+Alfa+114/data=!4m7!3m6!1s0x94deb0f929760c8f:0x5fd2bd7d418ab853!8m2!3d-26.3211648!4d-48.8452919!16s%2Fg%2F1yfjc6k85!19sChIJjwx2Kfmw3pQRU7iKQX290l8",
+      "phone": "(47) 3804-1099",
+      "address": "R. Leite Ribeiro, 16 - 1 - Anita Garibaldi, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "YEN STORE Produtos Orientais",
+      "href": "https://www.google.com/maps/place/YEN+STORE+Produtos+Orientais/data=!4m7!3m6!1s0x94deb051362f740f:0xb08d0553da12e99c!8m2!3d-26.3145415!4d-48.8460564!16s%2Fg%2F11c611ndw6!19sChIJD3QvNlGw3pQRnOkS2lMFjbA",
+      "phone": "(47) 99107-8538",
+      "address": "R. Padre Kolb, 1410 - Anita Garibaldi, Joinville - SC, 89202-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moobil",
+      "href": "https://www.google.com/maps/place/Moobil/data=!4m7!3m6!1s0x94deb044ea821abd:0x19f9bd27a0d571b0!8m2!3d-26.311535!4d-48.8533351!16s%2Fg%2F11bv1pt_h2!19sChIJvRqC6kSw3pQRsHHVoCe9-Rk",
+      "phone": "(47) 99979-5139",
+      "address": "R. Rio Grande do Sul, 165 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Geriátrico Doce Lar",
+      "href": "https://www.google.com/maps/place/Centro+Geri%C3%A1trico+Doce+Lar/data=!4m7!3m6!1s0x94deb110b6d963e1:0x186c88166d0fe035!8m2!3d-26.3133654!4d-48.8503829!16s%2Fg%2F11j0_cn5_n!19sChIJ4WPZthCx3pQRNeAPbRaIbBg",
+      "phone": "(47) 99134-9178",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anita Ferro velho e Auto Parts",
+      "href": "https://www.google.com/maps/place/Anita+Ferro+velho+e+Auto+Parts/data=!4m7!3m6!1s0x94deb06039b3c2cd:0x1ef0135cc8650c95!8m2!3d-26.324208!4d-48.8616486!16s%2Fg%2F11ggr9f7zm!19sChIJzcKzOWCw3pQRlQxlyFwT8B4",
+      "phone": "(47) 3438-2243",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja 7 Curva do nereu Iririu",
+      "href": "https://www.google.com/maps/place/Loja+7+Curva+do+nereu+Iririu/data=!4m7!3m6!1s0x94deb111b7d3f40f:0x8075598c5e539920!8m2!3d-26.271189!4d-48.8120009!16s%2Fg%2F11td3twwh1!19sChIJD_TTtxGx3pQRIJlTXoxZdYA",
+      "phone": "(47) 98905-1512",
+      "address": "na curva do Nereu Preço máximo - R. Iririú, 3606 - 7,99 - Iririú, Joinville - SC, 89227-017",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "UniVariety",
+      "href": "https://www.google.com/maps/place/UniVariety/data=!4m7!3m6!1s0x94deb17ba4328581:0x348adc82b6916d4!8m2!3d-26.2808205!4d-48.8431307!16s%2Fg%2F11w1qzf91n!19sChIJgYUypHux3pQR1BZpK8itSAM",
+      "phone": "(47) 99705-9673",
+      "address": "R. Mondaí, 83 - Saguaçu, Joinville - SC, 89221-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ponto Mil Variedades",
+      "href": "https://www.google.com/maps/place/Ponto+Mil+Variedades/data=!4m7!3m6!1s0x94deae6dc6e50ef9:0xcb8e1bb4e8ddbc84!8m2!3d-26.2452524!4d-48.8111845!16s%2Fg%2F11gffcbkq5!19sChIJ-Q7lxm2u3pQRhLzd6LQbjss",
+      "phone": "(47) 93435-3432",
+      "address": "R. Prado, 15 - Aventureiro, Joinville - SC, 89226-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hortifrúti Saguaçu",
+      "href": "https://www.google.com/maps/place/Hortifr%C3%BAti+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb1d5f8f7874f:0x45149f354134b050!8m2!3d-26.2772109!4d-48.8352407!16s%2Fg%2F11s16szvs0!19sChIJT4f3-NWx3pQRULA0QTWfFEU",
+      "phone": "(47) 99782-6041",
+      "address": "R. Iririú, 901 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "COMERCIAL JOELI",
+      "href": "https://www.google.com/maps/place/COMERCIAL+JOELI/data=!4m7!3m6!1s0x94deb02b0f4031c1:0xa6d329a8bad6ea34!8m2!3d-26.2826455!4d-48.8416078!16s%2Fg%2F1v16rg2k!19sChIJwTFADyuw3pQRNOrWuqgp06Y",
+      "phone": "(47) 3472-1778",
+      "address": "R. Dona Francisca, 2396 - Saguaçu, Joinville - SC, 89221-008",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O Mercador Distribuidora",
+      "href": "https://www.google.com/maps/place/O+Mercador+Distribuidora/data=!4m7!3m6!1s0x94deae1d137b34e5:0x7abe3aa36a3d7978!8m2!3d-26.2888726!4d-48.8420712!16s%2Fg%2F1ptx1byl0!19sChIJ5TR7Ex2u3pQReHk9aqM6vno",
+      "phone": "(47) 3028-5507",
+      "address": "Av. Hermann Algust Lepper 1587 Galpão3 - Saguaçu, Joinville - SC, 89221-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fofura Quero Tudo",
+      "href": "https://www.google.com/maps/place/Fofura+Quero+Tudo/data=!4m7!3m6!1s0x94deb3ad4cf6fc7f:0x5ff2409c1695367d!8m2!3d-26.2833993!4d-48.7974072!16s%2Fg%2F11gznvb80x!19sChIJf_z2TK2z3pQRfTaVFpxA8l8",
+      "phone": "(47) 99187-8154",
+      "address": "R. Pref. Baltasar Buschle, 1306 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dida Papelaria e Presentes",
+      "href": "https://www.google.com/maps/place/Dida+Papelaria+e+Presentes/data=!4m7!3m6!1s0x94deaff5a50a7759:0xdd407a6ffc2948c9!8m2!3d-26.2744382!4d-48.8783608!16s%2Fg%2F1vqmkj7w!19sChIJWXcKpfWv3pQRyUgp_G96QN0",
+      "phone": "(47) 3473-5717",
+      "address": "R. Águia, 230 - Costa e Silva, Joinville - SC, 89220-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estação dos Presentes",
+      "href": "https://www.google.com/maps/place/Esta%C3%A7%C3%A3o+dos+Presentes/data=!4m7!3m6!1s0x94deaff4ea57cb8d:0x7be3a0a1b71fcdd4!8m2!3d-26.2733694!4d-48.8765691!16s%2Fg%2F11c3n2_3xm!19sChIJjctX6vSv3pQR1M0ft6Gg43s",
+      "phone": "(47) 3278-0410",
+      "address": "R. Inambu, 427 - Sl 12 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Visa Papelaria",
+      "href": "https://www.google.com/maps/place/Visa+Papelaria/data=!4m7!3m6!1s0x94deaff2f9a890e5:0xe950665bba1b0b3e!8m2!3d-26.2728092!4d-48.8719578!16s%2Fg%2F1ptwbx7n4!19sChIJ5ZCo-fKv3pQRPgsbultmUOk",
+      "phone": "(47) 3435-0443",
+      "address": "Rua Otto Pfuetzenreuter, 114 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fidelizzare Presentes Personalizados",
+      "href": "https://www.google.com/maps/place/Fidelizzare+Presentes+Personalizados/data=!4m7!3m6!1s0x94deaf3e28c568a3:0xca3a1d8e4b644142!8m2!3d-26.2672801!4d-48.8742879!16s%2Fg%2F11nr2nmf4h!19sChIJo2jFKD6v3pQRQkFkS44dOso",
+      "phone": "(47) 98923-6928",
+      "address": "R. Antônio Geraldo Pereira - Costa e Silva, Joinville - SC, 89219-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santo Anjo Embalagens",
+      "href": "https://www.google.com/maps/place/Santo+Anjo+Embalagens/data=!4m7!3m6!1s0x94deaff3a363fe0b:0x689ea4f15cc4231b!8m2!3d-26.2739274!4d-48.8734256!16s%2Fg%2F11bv3tvp0t!19sChIJC_5jo_Ov3pQRGyPEXPGknmg",
+      "phone": "(47) 3300-2305",
+      "address": "Av. Alm. Jaceguay, 2775 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lilly´s Briglia - Boutique de Presentes",
+      "href": "https://www.google.com/maps/place/Lilly%C2%B4s+Briglia+-+Boutique+de+Presentes/data=!4m7!3m6!1s0x94deaf8356bdca1b:0x9f4566d8a88fd9cd!8m2!3d-26.2688011!4d-48.8711137!16s%2Fg%2F11yzm4zptd!19sChIJG8q9VoOv3pQRzdmPqNhmRZ8",
+      "phone": "(47) 99179-9635",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 1149 - Sala 3 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BELLA10 PREÇO UNICO",
+      "href": "https://www.google.com/maps/place/BELLA10+PRE%C3%87O+UNICO/data=!4m7!3m6!1s0x94deafe77ebc312b:0xa423725f91b36430!8m2!3d-26.2739988!4d-48.8732042!16s%2Fg%2F11nj2h508k!19sChIJKzG8fuev3pQRMGSzkV9yI6Q",
+      "phone": "(47) 99634-5384",
+      "address": "Av. Alm. Jaceguay, 2751 - Sl 2 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aimy Arts - Loja Virtual",
+      "href": "https://www.google.com/maps/place/Aimy+Arts+-+Loja+Virtual/data=!4m7!3m6!1s0x94dea563b2cfffff:0x2dea20b741aa8ef0!8m2!3d-26.267573!4d-48.8825535!16s%2Fg%2F11q8y841jp!19sChIJ___PsmOl3pQR8I6qQbcg6i0",
+      "phone": "(47) 99655-4201",
+      "address": "R. Oscar Rosas, 349 - Costa e Silva, Joinville - SC, 89220-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "UGC UTILIDADES",
+      "href": "https://www.google.com/maps/place/UGC+UTILIDADES/data=!4m7!3m6!1s0x94deafb121c6531d:0x685cd478c5503a04!8m2!3d-26.2709042!4d-48.8723881!16s%2Fg%2F11wfqrpyw2!19sChIJHVPGIbGv3pQRBDpQxXjUXGg",
+      "phone": "(47) 99108-1055",
+      "address": "Rua Otto Pfuetzenreuter, 371 - SL4 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bazar em casa",
+      "href": "https://www.google.com/maps/place/Bazar+em+casa/data=!4m7!3m6!1s0x94deaf937b015627:0xe6ffeb673f9a9bbe!8m2!3d-26.2801744!4d-48.8758002!16s%2Fg%2F11nqsbvpbx!19sChIJJ1YBe5Ov3pQRvpuaP2fr_-Y",
+      "phone": "(47) 99941-5398",
+      "address": "R. Adriano Schondermank, 673 - Costa e Silva, Joinville - SC, 89217-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Joinville Achadinhos",
+      "href": "https://www.google.com/maps/place/Joinville+Achadinhos/data=!4m7!3m6!1s0x94deaf52b8d76fb1:0x4200c52e5bf2fafa!8m2!3d-26.2753349!4d-48.8663235!16s%2Fg%2F11wvfkrs95!19sChIJsW_XuFKv3pQR-vryWy7FAEI",
+      "phone": "(47) 99606-3712",
+      "address": "R. Guilherme - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mahall Importados | Tecnologia e Variedades",
+      "href": "https://www.google.com/maps/place/Mahall+Importados+%7C+Tecnologia+e+Variedades/data=!4m7!3m6!1s0x94deaf5200fc61bf:0xee1f7eb602272b65!8m2!3d-26.2667737!4d-48.8400731!16s%2Fg%2F11zjyjd344!19sChIJv2H8AFKv3pQRZSsnArZ-H-4",
+      "phone": "(47) 99183-9146",
+      "address": "R. Piratuba, 1234 - Bom Retiro, Joinville - SC, 89222-363",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ecoville",
+      "href": "https://www.google.com/maps/place/Ecoville/data=!4m7!3m6!1s0x94deaff23f50efe9:0xc42d98d9821bdc05!8m2!3d-26.2739926!4d-48.8714457!16s%2Fg%2F11bv3vpk6s!19sChIJ6e9QP_Kv3pQRBdwbgtmYLcQ",
+      "phone": "(47) 99677-6486",
+      "address": "R. Guilherme, 1657 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Élis Brechó e Outlet",
+      "href": "https://www.google.com/maps/place/%C3%89lis+Brech%C3%B3+e+Outlet/data=!4m7!3m6!1s0x94deafaada1d06b9:0x4804ab739ad76674!8m2!3d-26.2728666!4d-48.8726188!16s%2Fg%2F11gsn42k_6!19sChIJuQYd2qqv3pQRdGbXmnOrBEg",
+      "phone": "(47) 99128-9582",
+      "address": "R. Inambu, 42 - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cantinho Dos Presentes E Mimos",
+      "href": "https://www.google.com/maps/place/Cantinho+Dos+Presentes+E+Mimos/data=!4m7!3m6!1s0x94dea53c0d595555:0x81d27459c5505a8d!8m2!3d-26.2866545!4d-48.9063737!16s%2Fg%2F11gfn95wqr!19sChIJVVVZDTyl3pQRjVpQxVl00oE",
+      "phone": "(47) 98483-1101",
+      "address": "R. XV de Novembro, 7386 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SAKAE VILA NOVA",
+      "href": "https://www.google.com/maps/place/SAKAE+VILA+NOVA/data=!4m7!3m6!1s0x94dea5917fee1cfd:0x8805c58bff02ea7!8m2!3d-26.2869114!4d-48.9083157!16s%2Fg%2F11z0vb5z51!19sChIJ_Rzuf5Gl3pQRpy7wv1hcgAg",
+      "phone": "(47) 3305-1888",
+      "address": "R. XV de Novembro, 7535 - Sl 01 - Vila Nova, Joinville - SC, 89218-204",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LAN HOUSE LINERAK SERVIÇOS E PRODUTOS",
+      "href": "https://www.google.com/maps/place/LAN+HOUSE+LINERAK+SERVI%C3%87OS+E+PRODUTOS/data=!4m7!3m6!1s0x94deaf5c97d34bbf:0xeb1822d432804313!8m2!3d-26.2740078!4d-48.8732136!16s%2Fg%2F11ptxzlyd5!19sChIJv0vTl1yv3pQRE0OAMtQiGOs",
+      "phone": "(47) 98493-2103",
+      "address": "Av. Alm. Jaceguay, 2751 - Sl 04 - Costa e Silva, Joinville - SC, 89218-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cintilante Presentes",
+      "href": "https://www.google.com/maps/place/Cintilante+Presentes/data=!4m7!3m6!1s0x94dea50bd715cc61:0x9460e0e13dd29b43!8m2!3d-26.273636!4d-48.904293!16s%2Fg%2F11tx69hqyf!19sChIJYcwV1wul3pQRQ5vSPeHgYJQ",
+      "phone": "(47) 99184-3465",
+      "address": "R. José Leopoldo Gorges - Vila Nova, Joinville - SC, 89237-537",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Multiúso Presentes",
+      "href": "https://www.google.com/maps/place/Multi%C3%BAso+Presentes/data=!4m7!3m6!1s0x94dea53aa40e5e71:0xaf3ac1350c2e99f8!8m2!3d-26.2927842!4d-48.909295!16s%2Fg%2F11f3c92_5m!19sChIJcV4OpDql3pQR-JkuDDXBOq8",
+      "phone": "(47) 99773-7655",
+      "address": "R. João Carlos Gomes de Oliveira, 1329 - Vila Nova, Joinville - SC, 89237-375",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LÉIA PRESENTES",
+      "href": "https://www.google.com/maps/place/L%C3%89IA+PRESENTES/data=!4m7!3m6!1s0x94dea500339feb4b:0xa792adc8304de902!8m2!3d-26.2788173!4d-48.8972253!16s%2Fg%2F11lv_4_xnv!19sChIJS-ufMwCl3pQRAulNMMitkqc",
+      "phone": "(47) 98454-7467",
+      "address": "R. Hilda Rech, 106 - Vila Nova, Joinville - SC, 89237-285",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Ágape Papelaria e Componentes Eletrônicos",
+      "href": "https://www.google.com/maps/place/Loja+%C3%81gape+Papelaria+e+Componentes+Eletr%C3%B4nicos/data=!4m7!3m6!1s0x94dea521be096da1:0x1448b20c5ccf96c9!8m2!3d-26.2873876!4d-48.9165508!16s%2Fg%2F11bvt8kqsv!19sChIJoW0JviGl3pQRyZbPXAyySBQ",
+      "phone": "(47) 99618-3804",
+      "address": "R. XV de Novembro, 8481 - Vila Nova, Joinville - SC, 89201-601",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

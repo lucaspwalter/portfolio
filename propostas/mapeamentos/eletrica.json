@@ -1,0 +1,1137 @@
+{
+  "id": "eletrica",
+  "nome": "Elétrica",
+  "terms": [
+    "eletricista",
+    "serviços elétricos",
+    "instalações elétricas"
+  ],
+  "profiles": 243,
+  "qualified": [
+    {
+      "name": "RR climatização e instalação eletrica LTDA",
+      "href": "https://www.google.com/maps/place/RR+climatiza%C3%A7%C3%A3o+e+instala%C3%A7%C3%A3o+eletrica+LTDA/data=!4m7!3m6!1s0x94deb7f1cf6672ab:0x2829e8db68eed135!8m2!3d-26.3671764!4d-48.829779!16s%2Fg%2F11mkl3g9ps!19sChIJq3Jmz_G33pQRNdHuaNvoKSg",
+      "phone": "(47) 98834-7283",
+      "address": "R. João Cristino da Silva, 31 - Boehmerwald, Joinville - SC, 89235-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Simionato Elétrica",
+      "href": "https://www.google.com/maps/place/Simionato+El%C3%A9trica/data=!4m7!3m6!1s0x94deb73578ce46c1:0xc3d5011c4066b6ae!8m2!3d-26.3653062!4d-48.8234015!16s%2Fg%2F11z94z5y6w!19sChIJwUbOeDW33pQRrrZmQBwB1cM",
+      "phone": "(47) 98474-0915",
+      "address": "Rua Jorge Paruker júnior, Joinville - SC, 89235-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista em Joinville / Evaristo Eletricista",
+      "href": "https://www.google.com/maps/place/Eletricista+em+Joinville+%2F+Evaristo+Eletricista/data=!4m7!3m6!1s0x94deb79061ef93cb:0x7e7313ef0bba1294!8m2!3d-26.3696631!4d-48.8404444!16s%2Fg%2F11njz9kcn3!19sChIJy5PvYZC33pQRlBK6C-8Tc34",
+      "phone": "(47) 98830-5989",
+      "address": "R. Cidade de Uruaçu, 52 - Profipo, Joinville - SC, 89233-445",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sodre instalações eletricas",
+      "href": "https://www.google.com/maps/place/Sodre+instala%C3%A7%C3%B5es+eletricas/data=!4m7!3m6!1s0x94deb46802bfef67:0x7ada041344965f9!8m2!3d-26.3691265!4d-48.827802!16s%2Fg%2F1yfh_kkwb!19sChIJZ--_Ami03pQR-WVJNEGgrQc",
+      "phone": "(47) 99916-1959",
+      "address": "R. Adolfo da Veiga, 986 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletromag Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Eletromag+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x2743c0fc423228e9:0x7a28e4df1673cc7c!8m2!3d-26.3345986!4d-48.8158171!16s%2Fg%2F11y434rbch!19sChIJ6SgyQvzAQycRfMxzFt_kKHo",
+      "phone": "(47) 98457-0236",
+      "address": "R. Suburbana - Itaum, Joinville - SC, 89210-770",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista Esequiel",
+      "href": "https://www.google.com/maps/place/Eletricista+Esequiel/data=!4m7!3m6!1s0x94deb1686011f60f:0x892b7c7f865c96f0!8m2!3d-26.3247049!4d-48.8108336!16s%2Fg%2F1tgpp59h!19sChIJD_YRYGix3pQR8JZchn98K4k",
+      "phone": "(47) 99978-1041",
+      "address": "R. Abelardo Lopes da Silva - Fátima, Joinville - SC, 89229-126",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A&M Soluções Eletricas",
+      "href": "https://www.google.com/maps/place/A%26M+Solu%C3%A7%C3%B5es+Eletricas/data=!4m7!3m6!1s0x25a3a266a255deb1:0x55095639270c5c27!8m2!3d-26.3518125!4d-48.8135489!16s%2Fg%2F11x8jj83s4!19sChIJsd5VomaioyURJ1wMJzlWCVU",
+      "phone": "(47) 99226-4844",
+      "address": "R. Manuel Agostinho de Carvalho, 350 - bl16 ap202 - João Costa, Joinville - SC, 89209-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "R&A Instalações e Manutenções Elétricas",
+      "href": "https://www.google.com/maps/place/R%26A+Instala%C3%A7%C3%B5es+e+Manuten%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb1289d124063:0x466520e7d29e77c6!8m2!3d-26.3457256!4d-48.8366076!16s%2Fg%2F11c54362jt!19sChIJY0ASnSix3pQRxnee0ucgZUY",
+      "phone": "(47) 99960-2869",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista Joinville Gilberto",
+      "href": "https://www.google.com/maps/place/Eletricista+Joinville+Gilberto/data=!4m7!3m6!1s0x94deb732476c211b:0x6e3306ebc77b8f05!8m2!3d-26.3780491!4d-48.8263469!16s%2Fg%2F11h804c0v3!19sChIJGyFsRzK33pQRBY97x-sGM24",
+      "phone": "(47) 98415-2242",
+      "address": "R. Waldemiro José Borges, 3257 - Itinga, Joinville - SC, 89235-190",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Autoelétrica e Mecânica São Pedro",
+      "href": "https://www.google.com/maps/place/Autoel%C3%A9trica+e+Mec%C3%A2nica+S%C3%A3o+Pedro/data=!4m7!3m6!1s0x94deb6dacb4c8215:0xce88b6b1f99f77c4!8m2!3d-26.364195!4d-48.8296333!16s%2Fg%2F11bv6wpn4b!19sChIJFYJMy9q23pQRxHef-bG2iM4",
+      "phone": "(47) 3465-1759",
+      "address": "R. Adolfo da Veiga, 398 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Arrumada Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Casa+Arrumada+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb7128cbe3161:0x49a24b2c81422e89!8m2!3d-26.3568875!4d-48.838305!16s%2Fg%2F11whhgmvr4!19sChIJYTG-jBK33pQRiS5CgSxLokk",
+      "phone": "(47) 99127-3840",
+      "address": "R. Isabel Bernal de Souza, 182 - Boehmerwald, Joinville - SC, 89232-316",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saraiva Soluções Elétricas",
+      "href": "https://www.google.com/maps/place/Saraiva+Solu%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deaf4013fb5187:0x65fc9923faae9518!8m2!3d-26.3541438!4d-48.8347035!16s%2Fg%2F11h0zfvcqt!19sChIJh1H7E0Cv3pQRGJWu-iOZ_GU",
+      "phone": "(47) 99917-2958",
+      "address": "R. Jonecir José Baierski, 662 - Petrópolis, Joinville - SC, 89232-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santos Eletrecista Residencial",
+      "href": "https://www.google.com/maps/place/Santos+Eletrecista+Residencial/data=!4m7!3m6!1s0x4ef7be057d0e8ef1:0x5ab48cdcf73ff40a!8m2!3d-26.3588567!4d-48.8204728!16s%2Fg%2F11m5ytlym8!19sChIJ8Y4OfQW-904RCvQ_99yMtFo",
+      "phone": "(47) 99735-0142",
+      "address": "R. Eugênio Belinski, 240 - Petrópolis, Joinville - SC, 89232-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Seidel Manutenções e Soluções Elétrica",
+      "href": "https://www.google.com/maps/place/Seidel+Manuten%C3%A7%C3%B5es+e+Solu%C3%A7%C3%B5es+El%C3%A9trica/data=!4m7!3m6!1s0x94deb7b8120fa16f:0x9c5634283603e4f5!8m2!3d-26.3584212!4d-48.8302489!16s%2Fg%2F11y37qt99k!19sChIJb6EPEri33pQR9eQDNig0Vpw",
+      "phone": "(47) 98464-6257",
+      "address": "R. Ramiro Bueno da Rocha, 187 - Boehmerwald, Joinville - SC, 89232-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kaiser Eletricista",
+      "href": "https://www.google.com/maps/place/Kaiser+Eletricista/data=!4m7!3m6!1s0x94deb7d4045964e3:0x4309b1c518e1cf8e!8m2!3d-26.3652894!4d-48.8203113!16s%2Fg%2F11vpv2rvfl!19sChIJ42RZBNS33pQRjs_hGMWxCUM",
+      "phone": "(47) 99660-7925",
+      "address": "R. Oceano Atlântico, 373 - Boehmerwald, Joinville - SC, 89235-415",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica e Mecânica Luiz",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+e+Mec%C3%A2nica+Luiz/data=!4m7!3m6!1s0x94deb140ec0a8b83:0xd9894f262e111042!8m2!3d-26.358515!4d-48.8361054!16s%2Fg%2F11dxhyjzj8!19sChIJg4sK7ECx3pQRQhARLiZPidk",
+      "phone": "(47) 99921-6275",
+      "address": "R. Cidade de Sobral, 246 - Boehmerwald, Joinville - SC, 89232-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JKF Elétrica",
+      "href": "https://www.google.com/maps/place/JKF+El%C3%A9trica/data=!4m7!3m6!1s0x94deb74945eb622b:0x92eaa2bcc98e9644!8m2!3d-26.3519954!4d-48.8184051!16s%2Fg%2F11fctpt8br!19sChIJK2LrRUm33pQRRJaOybyi6pI",
+      "phone": "(47) 99715-7939",
+      "address": "R. Amélia Valentina Fernandes Dias, 111 - João Costa, Joinville - SC, 89209-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Allan Martins | Eletricista",
+      "href": "https://www.google.com/maps/place/Allan+Martins+%7C+Eletricista/data=!4m7!3m6!1s0x94deb1604593c101:0x65a2f266b66d6635!8m2!3d-26.3555801!4d-48.7938847!16s%2Fg%2F11y94vcsp1!19sChIJAcGTRWCx3pQRNWZttmbyomU",
+      "phone": "(47) 98829-5878",
+      "address": "R. Vânias da Silva, 53 - Paranaguamirim, Joinville - SC, 89235-888",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HR Alarmes Segurança Eletrônica Ltda",
+      "href": "https://www.google.com/maps/place/HR+Alarmes+Seguran%C3%A7a+Eletr%C3%B4nica+Ltda/data=!4m7!3m6!1s0x94deb73ca4536bc3:0x98a378ff5606481a!8m2!3d-26.3644139!4d-48.8087522!16s%2Fg%2F11f8mlw75c!19sChIJw2tTpDy33pQRGkgGVv94o5g",
+      "phone": "(47) 99966-3998",
+      "address": "Rua Zozel do Nascimento - Parque Guarani, Joinville - SC, 89235-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GL Elétrica, Ge eletricista.",
+      "href": "https://www.google.com/maps/place/GL+El%C3%A9trica,+Ge+eletricista./data=!4m7!3m6!1s0x94debb25902b21ed:0xa19fa653f0a397bf!8m2!3d-26.3334387!4d-48.9061211!16s%2Fg%2F11mtd0j0gx!19sChIJ7SErkCW73pQRv5ej8FOmn6E",
+      "phone": "(47) 99793-7780",
+      "address": "Rua São Borja - Boa Vista, Joinville - SC, 89215-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pazetto Engenharia Elétrica",
+      "href": "https://www.google.com/maps/place/Pazetto+Engenharia+El%C3%A9trica/data=!4m7!3m6!1s0x94deb1327371dbe1:0x8cf2e99f388ec629!8m2!3d-26.349309!4d-48.8293422!16s%2Fg%2F11d_d3kfy4!19sChIJ4dtxczKx3pQRKcaOOJ_p8ow",
+      "phone": "(47) 99643-5862",
+      "address": "R. Manoel de Souza, 454 - Petrópolis, Joinville - SC, 89208-782",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EletroGEN",
+      "href": "https://www.google.com/maps/place/EletroGEN/data=!4m7!3m6!1s0x94deb10b958a16f5:0xac92ff45305d92fb!8m2!3d-26.3585325!4d-48.8509808!16s%2Fg%2F11h7kbzt4g!19sChIJ9RaKlQux3pQR-5JdMEX_kqw",
+      "phone": "(47) 99936-2485",
+      "address": "R. Jasmim, 500 - Santa Catarina, Joinville - SC, 89233-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ResiPower - Eletricista Residencial",
+      "href": "https://www.google.com/maps/place/ResiPower+-+Eletricista+Residencial/data=!4m7!3m6!1s0x473df6b47a80623d:0x90343ec5df10edba!8m2!3d-26.322812!4d-48.7927399!16s%2Fg%2F11vym0vvxy!19sChIJPWKAerT2PUcRuu0Q38U-NJA",
+      "phone": "(47) 99714-4636",
+      "address": "R. João Augusto de Oliveira, 177 - Jarivatuba, Joinville - SC, 89230-678",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RCS serviços elétricos",
+      "href": "https://www.google.com/maps/place/RCS+servi%C3%A7os+el%C3%A9tricos/data=!4m7!3m6!1s0x81940310edd9d939:0x838c8deb3ea320db!8m2!3d-26.3464074!4d-48.8495888!16s%2Fg%2F11s42vrhx0!19sChIJOdnZ7RADlIER2yCjPuuNjIM",
+      "phone": "(47) 99133-9250",
+      "address": "R. Candeias, 185 - Floresta, Joinville - SC, 89212-406",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gomes Elétrica/ Especialista em manutenção elétrica",
+      "href": "https://www.google.com/maps/place/Gomes+El%C3%A9trica%2F+Especialista+em+manuten%C3%A7%C3%A3o+el%C3%A9trica/data=!4m7!3m6!1s0x8db09a6a8dc39b75:0xedff28d39f1ee7f0!8m2!3d-26.320652!4d-48.8087881!16s%2Fg%2F11xgk8yxrn!19sChIJdZvDjWqasI0R8Ocen9Mo_-0",
+      "phone": "(47) 98810-8112",
+      "address": "R. Jarivatuba, 2120 - Adhemar Garcia, Joinville - SC, 89230-870",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Espíndula",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Esp%C3%ADndula/data=!4m7!3m6!1s0x94deb6d59cc6db73:0x20653f7fb0b49b20!8m2!3d-26.3589205!4d-48.8390398!16s%2Fg%2F11bv6pvl44!19sChIJc9vGnNW23pQRIJu0sH8_ZSA",
+      "phone": "(47) 3436-0289",
+      "address": "R. João Filete de Oliveira, 226 - Boehmerwald, Joinville - SC, 89232-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NG ELÉTRICA MÓVEL 24 HORAS",
+      "href": "https://www.google.com/maps/place/NG+EL%C3%89TRICA+M%C3%93VEL+24+HORAS/data=!4m7!3m6!1s0x88bad0118257058f:0x6321bf82562eb9d3!8m2!3d-26.2946771!4d-48.8849183!16s%2Fg%2F11ytfkp5g_!19sChIJjwVXghHQuogR07kuVoK_IWM",
+      "phone": "(47) 99784-4288",
+      "address": "R. XV de Novembro, 4828 - Vila Nova, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MN soluções elétricas - eletricista - Joinville - instalações - industrial - projeto elétrico - infraestrutura.",
+      "href": "https://www.google.com/maps/place/MN+solu%C3%A7%C3%B5es+el%C3%A9tricas+-+eletricista+-+Joinville+-+instala%C3%A7%C3%B5es+-+industrial+-+projeto+el%C3%A9trico+-+infraestrutura./data=!4m7!3m6!1s0x94dea5d6c006ff3f:0x34ba69383500d167!8m2!3d-26.2783352!4d-48.8959242!16s%2Fg%2F11kqkxr4xh!19sChIJP_8GwNal3pQRZ9EANThpujQ",
+      "phone": "(47) 99732-8604",
+      "address": "R. Sebastião Jonck - Vila Nova, Joinville - SC, 89237-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PROMAQ",
+      "href": "https://www.google.com/maps/place/PROMAQ/data=!4m7!3m6!1s0x94deb7cf8a86eb19:0xbd2c3f33febbaddd!8m2!3d-26.361412!4d-48.8293402!16s%2Fg%2F11jcp103vd!19sChIJGeuGis-33pQR3a27_jM_LL0",
+      "phone": "(47) 99675-6044",
+      "address": "R. Adolfo da Veiga, 69 - Sl 03 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AGN serviços elétricos",
+      "href": "https://www.google.com/maps/place/AGN+servi%C3%A7os+el%C3%A9tricos/data=!4m7!3m6!1s0x94deaf25213a03ad:0x56eb1f14dc81bc73!8m2!3d-26.3146124!4d-48.8474685!16s%2Fg%2F11qmmlq6z0!19sChIJrQM6ISWv3pQRc7yB3BQf61Y",
+      "phone": "(47) 99188-0868",
+      "address": "R. Padre Kolb, 1578 - Anita Garibaldi, Joinville - SC, 89420-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rebobinamento de Motores",
+      "href": "https://www.google.com/maps/place/Rebobinamento+de+Motores/data=!4m7!3m6!1s0x94deb6d6345c1a05:0x99d00f65852dd323!8m2!3d-26.3632811!4d-48.838685!16s%2Fg%2F11bvctvm73!19sChIJBRpcNNa23pQRI9MthWUP0Jk",
+      "phone": "(47) 3454-6827",
+      "address": "R. Waldemiro José Borges, 11 - 0 - Profipo, Joinville - SC, 89233-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FEY Instalação elétrica e hidráulicas",
+      "href": "https://www.google.com/maps/place/FEY+Instala%C3%A7%C3%A3o+el%C3%A9trica+e+hidr%C3%A1ulicas/data=!4m7!3m6!1s0xac2aff130e9f14cf:0x2affb66bacadb316!8m2!3d-26.314291!4d-48.850957!16s%2Fg%2F11ts9d_9sd!19sChIJzxSfDhP_KqwRFrOtrGu2_yo",
+      "phone": "(47) 99675-2071",
+      "address": "R. Rio Grande do Sul - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MF Instalações",
+      "href": "https://www.google.com/maps/place/MF+Instala%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb1bb9ccf8e9b:0xbd810179a6515856!8m2!3d-26.3442731!4d-48.8196327!16s%2Fg%2F11q7d_t56r!19sChIJm47PnLux3pQRVlhRpnkBgb0",
+      "phone": "(47) 99972-3400",
+      "address": "R. José Manarim, 280 - João Costa, Joinville - SC, 89209-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Instaladora Elétrica Lehn",
+      "href": "https://www.google.com/maps/place/Instaladora+El%C3%A9trica+Lehn/data=!4m7!3m6!1s0x94deb0dcf3f67f41:0xc097452eff96fa0c!8m2!3d-26.3431173!4d-48.8477442!16s%2Fg%2F1tj5rwwy!19sChIJQX_289yw3pQRDPqW_y5Fl8A",
+      "phone": "(47) 3426-2223",
+      "address": "R. Ary Barroso, 40 - Floresta, Joinville - SC, 89212-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jfv Instalações Eletricas",
+      "href": "https://www.google.com/maps/place/Jfv+Instala%C3%A7%C3%B5es+Eletricas/data=!4m7!3m6!1s0x94deb6ba780b0805:0x25752618412b8c19!8m2!3d-26.3579252!4d-48.8127651!16s%2Fg%2F1ptx22f6k!19sChIJBQgLeLq23pQRGYwrQRgmdSU",
+      "phone": "(47) 3463-7689",
+      "address": "R. Antônio Lino, 183 - Parque Guarani, Joinville - SC, 89209-418",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Blazius Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Blazius+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb138bd555555:0x728e39092c4e7f3a!8m2!3d-26.3358264!4d-48.819821!16s%2Fg%2F1hc1spj2g!19sChIJVVVVvTix3pQROn9OLAk5jnI",
+      "phone": "(47) 3466-1951",
+      "address": "R. Prof. João Amaral, 519 - Itaum, Joinville - SC, 89210-718",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista Residencial Joinville",
+      "href": "https://www.google.com/maps/place/Eletricista+Residencial+Joinville/data=!4m7!3m6!1s0x94deb1c752b3dbff:0x3b9515f4bb76e45c!8m2!3d-26.3046273!4d-48.846326!16s%2Fg%2F11s3wy5tdl!19sChIJ_9uzUsex3pQRXOR2u_QVlTs",
+      "phone": "(47) 99628-2708",
+      "address": "R. Abdon Batista - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aqui Resolve",
+      "href": "https://www.google.com/maps/place/Aqui+Resolve/data=!4m7!3m6!1s0x94deb1a6bbb4c233:0x5b8fd98814e50a1a!8m2!3d-26.3055505!4d-48.8433052!16s%2Fg%2F11z1tbfcfd!19sChIJM8K0u6ax3pQRGgrlFIjZj1s",
+      "phone": "(47) 99109-2882",
+      "address": "R. Abdon Batista, 183 - Fundos - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista",
+      "href": "https://www.google.com/maps/place/Eletricista/data=!4m7!3m6!1s0x94deb3befa40521f:0xd6e37aaef3c8cdc4!8m2!3d-26.3092041!4d-48.8446853!16s%2Fg%2F11h3pf0wn0!19sChIJH1JA-r6z3pQRxM3I865649Y",
+      "phone": "(47) 99164-3604",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TRUMPELETRICISTA 24h JOINVILLE",
+      "href": "https://www.google.com/maps/place/TRUMPELETRICISTA+24h+JOINVILLE/data=!4m7!3m6!1s0x94deaf9701e99971:0xcdb56d9e1a83acf2!8m2!3d-26.268941!4d-48.8394582!16s%2Fg%2F11h0bcn5wz!19sChIJcZnpAZev3pQR8qyDGp5ttc0",
+      "phone": "(47) 99728-6303",
+      "address": "R. Inconfidentes, 167 - Bom Retiro, Joinville - SC, 89222-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Intalsul Manutenção de Eq Eletrônicos",
+      "href": "https://www.google.com/maps/place/Intalsul+Manuten%C3%A7%C3%A3o+de+Eq+Eletr%C3%B4nicos/data=!4m7!3m6!1s0x94deb116531fb557:0x16e2d0bbd004ef73!8m2!3d-26.3306939!4d-48.8270331!16s%2Fg%2F1ptv_pnwx!19sChIJV7UfUxax3pQRc-8E0LvQ4hY",
+      "phone": "(47) 3043-1633",
+      "address": "R. João Petronilho da Costa, 72 - fd, Joinville - SC, 79892-093",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Ney",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Ney/data=!4m7!3m6!1s0x94deb1149d387d3d:0xe4d27f59429e78f1!8m2!3d-26.3259534!4d-48.8214769!16s%2Fg%2F11b86m53vn!19sChIJPX04nRSx3pQR8XieQll_0uQ",
+      "phone": "(47) 3436-6427",
+      "address": "R. Sidnei Costa dos Santos, 130 - Guanabara, Joinville - SC, 89207-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista Joinville",
+      "href": "https://www.google.com/maps/place/Eletricista+Joinville/data=!4m7!3m6!1s0x94deb19c37ea3f6d:0xe1029b0daa0e93a1!8m2!3d-26.2841715!4d-48.8382896!16s%2Fg%2F11h008xltr!19sChIJbT_qN5yx3pQRoZMOqg2bAuE",
+      "phone": "(47) 99955-6917",
+      "address": "R. Guaramirim, 207 - Saguaçu, Joinville - SC, 89221-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Vitório",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Vit%C3%B3rio/data=!4m7!3m6!1s0x94deb030e80df1d9:0x9cc30a5331a72ad8!8m2!3d-26.2944997!4d-48.8484232!16s%2Fg%2F1tgb8hmy!19sChIJ2fEN6DCw3pQR2CqnMVMKw5w",
+      "phone": "(47) 3422-7834",
+      "address": "R. Dr. João Colin, 725 - América, Joinville - SC, 89204-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletrônica XV de Novembro",
+      "href": "https://www.google.com/maps/place/Eletr%C3%B4nica+XV+de+Novembro/data=!4m7!3m6!1s0x94deb037ebca00eb:0xc7d463bee4cfeac4!8m2!3d-26.3006135!4d-48.8486053!16s%2Fg%2F11bv30gcz5!19sChIJ6wDK6zew3pQRxOrP5L5j1Mc",
+      "phone": "(47) 3025-1121",
+      "address": "R. XV de Novembro, 623 - Centro, Joinville - SC, 89201-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CENTRO Soluções",
+      "href": "https://www.google.com/maps/place/CENTRO+Solu%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb04df9ed472f:0xae37322297fe00d7!8m2!3d-26.3092615!4d-48.8442095!16s%2Fg%2F11gzr7yld!19sChIJL0ft-U2w3pQR1wD-lyIyN64",
+      "phone": "(47) 4009-9414",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Elemento",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Elemento/data=!4m7!3m6!1s0x94deb12f63b10ffb:0x48fd3353f937cc9d!8m2!3d-26.3446598!4d-48.8330327!16s%2Fg%2F11b87w96nr!19sChIJ-w-xYy-x3pQRncw3-VMz_Ug",
+      "phone": "(47) 3429-7138",
+      "address": "R. Petrópolis, 1173 - Petrópolis, Joinville - SC, 89208-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista Automotivo Weiber - Atendimento em domicílio",
+      "href": "https://www.google.com/maps/place/Eletricista+Automotivo+Weiber+-+Atendimento+em+domic%C3%ADlio/data=!4m7!3m6!1s0x94debb842bd507a5:0x85001e1c23b4bc02!8m2!3d-26.3266536!4d-48.9074432!16s%2Fg%2F11h_wrg2cs!19sChIJpQfVK4S73pQRAry0IxweAIU",
+      "phone": "(47) 99718-9404",
+      "address": "R. Rosalina Leimann Uldrisch, 71 - Morro do Meio, Joinville - SC, 89215-433",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empic",
+      "href": "https://www.google.com/maps/place/Empic/data=!4m7!3m6!1s0x94deb1bb62050475:0x2af2ade5f5ef0148!8m2!3d-26.3011443!4d-48.8246824!16s%2Fg%2F11ddxsv7pp!19sChIJdQQFYrux3pQRSAHv9eWt8io",
+      "phone": "(47) 3432-2013",
+      "address": "Rua Prefeito Helmutt Fallgater, 2283 - Centro, Joinville - SC, 89206-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Andytechsolucoes",
+      "href": "https://www.google.com/maps/place/Andytechsolucoes/data=!4m7!3m6!1s0x94deaf5202b10007:0xf20bd308e3bdfbee!8m2!3d-26.2808467!4d-48.8637649!16s%2Fg%2F11xsrj2567!19sChIJBwCxAlKv3pQR7vu94wjTC_I",
+      "phone": "(47) 93300-1586",
+      "address": "R. Marquês de Olinda - América, Joinville - SC, 89204-415",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Joinville",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Joinville/data=!4m7!3m6!1s0x94deb1e2342db88b:0xfec73fb3753bc432!8m2!3d-26.2718613!4d-48.8133141!16s%2Fg%2F11c3l9bkmw!19sChIJi7gtNOKx3pQRMsQ7dbM_x_4",
+      "phone": "(47) 99963-0380",
+      "address": "R. Henrique Schneider Júnior, 150 - Iririú, Joinville - SC, 89227-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anderson Elétrica",
+      "href": "https://www.google.com/maps/place/Anderson+El%C3%A9trica/data=!4m7!3m6!1s0x94deb14c831c4d53:0x668ae539501dfefc!8m2!3d-26.3161409!4d-48.8192887!16s%2Fg%2F11hyn48ndz!19sChIJU00cg0yx3pQR_P4dUDnlimY",
+      "phone": "(47) 98446-3258",
+      "address": "Rua Crisantemus, 365 - Fátima, Joinville - SC, 89229-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fast Car Centro automotivo",
+      "href": "https://www.google.com/maps/place/Fast+Car+Centro+automotivo/data=!4m7!3m6!1s0x94deb5e35eeb7b23:0x8a0bdfa43b569d7b!8m2!3d-26.3770709!4d-48.8238253!16s%2Fg%2F11nmhv40ws!19sChIJI3vrXuO13pQRe51WO6TfC4o",
+      "phone": "(47) 99952-1833",
+      "address": "R. Arthur Carlos Klug, 159 - Itinga, Joinville - SC, 89235-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jeferson Alves Eletricista",
+      "href": "https://www.google.com/maps/place/Jeferson+Alves+Eletricista/data=!4m7!3m6!1s0x94deb51d21edc7ef:0xb11423e4bb100e7!8m2!3d-26.379097!4d-48.8205348!16s%2Fg%2F11vd74wg_r!19sChIJ78ftIR213pQR5wCxSz5CEQs",
+      "phone": "(47) 99768-5777",
+      "address": "R. Cidade de Madri, 64 - Itinga, Joinville - SC, 89235-379",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletrecista Joinville 24horas South Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Eletrecista+Joinville+24horas+South+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x8caaae6708cb738f:0x6c2d5a539f2afd9d!8m2!3d-25.7019442!4d-48.8585088!16s%2Fg%2F11y4t979cz!19sChIJj3PLCGeuqowRnf0qn1NaLWw",
+      "phone": "(47) 99675-7288",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MCB Comércio e Instalação de Material Elétrico",
+      "href": "https://www.google.com/maps/place/MCB+Com%C3%A9rcio+e+Instala%C3%A7%C3%A3o+de+Material+El%C3%A9trico/data=!4m7!3m6!1s0x94deb6af0a3457bf:0x66f629f64add090c!8m2!3d-26.3585216!4d-48.8071611!16s%2Fg%2F1td1fkrz!19sChIJv1c0Cq-23pQRDAndSvYp9mY",
+      "phone": "(47) 3465-2004",
+      "address": "R. Jairo Germano Korn, 220 - João Costa, Joinville - SC, 89235-800",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "André Paul Climatização",
+      "href": "https://www.google.com/maps/place/Andr%C3%A9+Paul+Climatiza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb7678b50217f:0x9bb257137f0d1c93!8m2!3d-26.3865915!4d-48.8211763!16s%2Fg%2F11sjrr0d1r!19sChIJfyFQi2e33pQRkxwNfxNXsps",
+      "phone": "(47) 99963-8714",
+      "address": "R. Alfredo Hille, 160 - Itinga, Joinville - SC, 89233-800",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LJS Instalações Elétricas e Automação",
+      "href": "https://www.google.com/maps/place/LJS+Instala%C3%A7%C3%B5es+El%C3%A9tricas+e+Automa%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb033ed582379:0xcf4a8618b038f403!8m2!3d-26.2945235!4d-48.8434785!16s%2Fg%2F1pv03jl2m!19sChIJeSNY7TOw3pQRA_Q4sBiGSs8",
+      "phone": "(47) 3801-1562",
+      "address": "R. Vargeão, 130 - América, Joinville - SC, 89204-042",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ANDE CAR",
+      "href": "https://www.google.com/maps/place/ANDE+CAR/data=!4m7!3m6!1s0x94deb74ded4751db:0x16f7a494dbcfc58f!8m2!3d-26.3757258!4d-48.8238825!16s%2Fg%2F11zgf1_0yq!19sChIJ21FH7U233pQRj8XP25Sk9xY",
+      "phone": "(47) 98865-4166",
+      "address": "R. Adolfo da Veiga, 1856 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NeoVolt Soluções Elétricas",
+      "href": "https://www.google.com/maps/place/NeoVolt+Solu%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb1681d4a808d:0x4f0e9c479c06d137!8m2!3d-26.3242734!4d-48.8399678!16s%2Fg%2F11np_081wt!19sChIJjYBKHWix3pQRN9EGnEecDk8",
+      "phone": "(47) 99638-3381",
+      "address": "R. Monsenhor Gercino, 472 - Itaum, Joinville - SC, 89210-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NLH Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/NLH+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb104aba27143:0x5f35bea22d50f7b8!8m2!3d-26.3136263!4d-48.8575386!16s%2Fg%2F11lfcsh59j!19sChIJQ3GiqwSx3pQRuPdQLaK-NV8",
+      "phone": "(47) 3033-1500",
+      "address": "R. Paraíba, 900 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elétrica Marcelo",
+      "href": "https://www.google.com/maps/place/El%C3%A9trica+Marcelo/data=!4m7!3m6!1s0x94deb0f2603b1f63:0xc3a53b4e240123c9!8m2!3d-26.3323623!4d-48.8573626!16s%2Fg%2F11b86q7mw8!19sChIJYx87YPKw3pQRySMBJE47pcM",
+      "phone": "(47) 99973-7146",
+      "address": "R. Pres. Nilo Peçanha, 1051 - Floresta, Joinville - SC, 89211-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GH Soluções Elétricas e Climatização",
+      "href": "https://www.google.com/maps/place/GH+Solu%C3%A7%C3%B5es+El%C3%A9tricas+e+Climatiza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x8e84d76e6d36722b:0xaf83a680f19e86ba!8m2!3d-26.3334003!4d-48.8745347!16s%2Fg%2F11vm8b9l78!19sChIJK3I2bW7XhI4Ruoae8YCmg68",
+      "phone": "(47) 99674-5005",
+      "address": "R. Francisco de Souza Vieira, 110 - Nova Brasília, Joinville - SC, 89213-555",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Soluções Caseiras manutenção e climatização",
+      "href": "https://www.google.com/maps/place/Solu%C3%A7%C3%B5es+Caseiras+manuten%C3%A7%C3%A3o+e+climatiza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deafed9a1007d7:0xc7c6582d5fa7c0e6!8m2!3d-26.3295151!4d-48.8449999!16s%2Fg%2F11ssdgskfx!19sChIJ1wcQmu2v3pQR5sCnXy1Yxsc",
+      "phone": "(47) 99967-1617",
+      "address": "R. Lontras, 214 - casa2 - Floresta, Joinville - SC, 89211-590",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LK Prestadora de Serviços",
+      "href": "https://www.google.com/maps/place/LK+Prestadora+de+Servi%C3%A7os/data=!4m7!3m6!1s0x94deb1dfbbec85bf:0xd15dbbe38fd2a9be!8m2!3d-26.300872!4d-48.8774409!16s%2Fg%2F11jn33tm2b!19sChIJv4Xsu9-x3pQRvqnSj-O7XdE",
+      "phone": "(47) 98846-1221",
+      "address": "R. das Dálias, 88 - Glória, Joinville - SC, 89216-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "S.O.S Eletricista",
+      "href": "https://www.google.com/maps/place/S.O.S+Eletricista/data=!4m7!3m6!1s0x94debb4b7e27cdc5:0xa2c7488365f0cfc1!8m2!3d-26.3267188!4d-48.9100093!16s%2Fg%2F11y4703d1d!19sChIJxc0nfku73pQRwc_wZYNIx6I",
+      "phone": "(47) 98870-2024",
+      "address": "R. José Antônio da Silva, 208 - Morro do Meio, Joinville - SC, 89215-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marquinhos Auto Elétrica",
+      "href": "https://www.google.com/maps/place/Marquinhos+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x94deb10070a78ce7:0x612fb5bf126c6bcb!8m2!3d-26.317968!4d-48.8499265!16s%2Fg%2F11wc30x32x!19sChIJ54yncACx3pQRy2tsEr-1L2E",
+      "phone": "(47) 99994-1091",
+      "address": "R. Anita Garibaldi, 500 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VTR - Soluções Elétricas",
+      "href": "https://www.google.com/maps/place/VTR+-+Solu%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb05fcdbd07d1:0xe81cf76182d2950e!8m2!3d-26.3221595!4d-48.859123!16s%2Fg%2F11c0r319c5!19sChIJ0Qe9zV-w3pQRDpXSgmH3HOg",
+      "phone": "(47) 3027-2523",
+      "address": "R. da Independência, 878 - Anita Garibaldi, Joinville - SC, 89203-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pró Light",
+      "href": "https://www.google.com/maps/place/Pr%C3%B3+Light/data=!4m7!3m6!1s0x94deb061951687a5:0x45acdc7ba5ee14f4!8m2!3d-26.32439!4d-48.8630622!16s%2Fg%2F1td345y3!19sChIJpYcWlWGw3pQR9BTupXvcrEU",
+      "phone": "(47) 3426-0800",
+      "address": "R. Anita Garibaldi, 2160 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rayon Engenharia",
+      "href": "https://www.google.com/maps/place/Rayon+Engenharia/data=!4m7!3m6!1s0x94deb067f7b03cad:0x628a33942433b0d8!8m2!3d-26.3154711!4d-48.8598602!16s%2Fg%2F1tm2bv20!19sChIJrTyw92ew3pQR2LAzJJQzimI",
+      "phone": "(47) 3026-6226",
+      "address": "R. Gothard Kaesemodel, 175 - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elétrica Menezes",
+      "href": "https://www.google.com/maps/place/El%C3%A9trica+Menezes/data=!4m7!3m6!1s0x94deb03f155cb169:0x6c03c8caccd5da4b!8m2!3d-26.2966316!4d-48.8352869!16s%2Fg%2F1tx4qhqk!19sChIJabFcFT-w3pQRS9rVzMrIA2w",
+      "phone": "(47) 3433-6207",
+      "address": "Rua Otto Eduardo Lepper, 320 - Saguaçu, Joinville - SC, 89221-027",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Saguaçu",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb18796196701:0xa5e3b713f85bee4c!8m2!3d-26.2800095!4d-48.8367899!16s%2Fg%2F11kn4mzts2!19sChIJAWcZloex3pQRTO5b-BO346U",
+      "phone": "(47) 98423-1952",
+      "address": "R. Iririú, 548 - Iririú, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JM Elétrica",
+      "href": "https://www.google.com/maps/place/JM+El%C3%A9trica/data=!4m7!3m6!1s0x94deb1452a7cded1:0x4698cdc5bb9ef218!8m2!3d-26.2794129!4d-48.8251788!16s%2Fg%2F11l6sgrj9k!19sChIJ0d58KkWx3pQRGPKeu8XNmEY",
+      "phone": "(47) 99680-5848",
+      "address": "R. Jaboatão, 43 - Iririú, Joinville - SC, 89227-144",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lucas Souza Projetos Elétricos",
+      "href": "https://www.google.com/maps/place/Lucas+Souza+Projetos+El%C3%A9tricos/data=!4m7!3m6!1s0x94deb1a3bc2c7017:0x59524c6cdf310f62!8m2!3d-26.2829047!4d-48.8382731!16s%2Fg%2F11hf7z8wjm!19sChIJF3AsvKOx3pQRYg8x32xMUlk",
+      "phone": "(47) 99770-0550",
+      "address": "R. Ibirama - Saguaçu, Joinville - SC, 89221-190",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JF Instalação e Manutenção Elétrica",
+      "href": "https://www.google.com/maps/place/JF+Instala%C3%A7%C3%A3o+e+Manuten%C3%A7%C3%A3o+El%C3%A9trica/data=!4m7!3m6!1s0x94deb36b4e311561:0x8f9c4fee79d62672!8m2!3d-26.2703393!4d-48.79974!16s%2Fg%2F11h_vxc4y1!19sChIJYRUxTmuz3pQRcibWee5PnI8",
+      "phone": "(47) 99218-8103",
+      "address": "R. Leodório Quintino, n° 77 - Jardim Iririú, Joinville - SC, 89224-467",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JCG Auto Elétrica",
+      "href": "https://www.google.com/maps/place/JCG+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x461d7be39f5f47c3:0x889e05c6a6d75d4f!8m2!3d-26.2835432!4d-48.8429965!16s%2Fg%2F11n4tfd1y0!19sChIJw0dfn-N7HUYRT13XpsYFnog",
+      "phone": "(47) 99656-0750",
+      "address": "R. Padre Antônio Vieira, 594 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OrdepServices",
+      "href": "https://www.google.com/maps/place/OrdepServices/data=!4m7!3m6!1s0x94deaf631b6febe3:0x2fa11cef74a13a41!8m2!3d-26.2737207!4d-48.8420393!16s%2Fg%2F11jslqstll!19sChIJ4-tvG2Ov3pQRQTqhdO8coS8",
+      "phone": "(47) 99956-2241",
+      "address": "R. Ismael Carlos Corrêa, 261 - Saguaçu, Joinville - SC, 89221-520",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista ( Base Eletricidade)",
+      "href": "https://www.google.com/maps/place/Eletricista+%28+Base+Eletricidade%29/data=!4m7!3m6!1s0x94debb7ebbe42233:0x6109ac929ea5be51!8m2!3d-26.3384837!4d-48.884163!16s%2Fg%2F11j202qqdd!19sChIJMyLku3673pQRUb6lnpKsCWE",
+      "phone": "(47) 98833-9565",
+      "address": "R. Charles Eduardo Zacarias da Rosa - Nova Brasília, Joinville - SC, 89214-655",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Medeiros Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Medeiros+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deaf5059097ea5:0x75ed19718be37aeb!8m2!3d-26.2588489!4d-48.8178537!16s%2Fg%2F11mrr822_9!19sChIJpX4JWVCv3pQR63rji3EZ7XU",
+      "phone": "(47) 99188-7846",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletritec",
+      "href": "https://www.google.com/maps/place/Eletritec/data=!4m7!3m6!1s0x94dea5dafabd3505:0xc417b3e5d29cd9b1!8m2!3d-26.270413!4d-48.8642035!16s%2Fg%2F11hdnywhn2!19sChIJBTW9-tql3pQRsdmc0uWzF8Q",
+      "phone": "(47) 99684-5103",
+      "address": "R. Félix Heinzelmann, 716 - Costa e Silva, Joinville - SC, 89218-321",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vancosta Instalações e Manutenções Elétricas.",
+      "href": "https://www.google.com/maps/place/Vancosta+Instala%C3%A7%C3%B5es+e+Manuten%C3%A7%C3%B5es+El%C3%A9tricas./data=!4m7!3m6!1s0x94deb39ca3264647:0x9e156203d82b259d!8m2!3d-26.3267837!4d-48.8051992!16s%2Fg%2F11fj6w9l_r!19sChIJR0Ymo5yz3pQRnSUr2ANiFZ4",
+      "phone": "(47) 99148-4715",
+      "address": "R. Odete de Souza - Adhemar Garcia, Joinville - SC, 89230-612",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica JR",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+JR/data=!4m7!3m6!1s0x6f85ed8c9786eb75:0x1346aab410a1e1f0!8m2!3d-26.2807599!4d-48.88043!16s%2Fg%2F11wbjbm0l4!19sChIJdeuGl4zthW8R8OGhELSqRhM",
+      "phone": "(47) 97400-6231",
+      "address": "R. Prof. Rodrigues Freitas, 413 - Costa e Silva, Joinville - SC, 89217-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletron",
+      "href": "https://www.google.com/maps/place/Eletron/data=!4m7!3m6!1s0x94deaff4afa81b39:0x9aaf9f1a00186b5c!8m2!3d-26.2722144!4d-48.8754886!16s%2Fg%2F11bv6pcktd!19sChIJORuor_Sv3pQRXGsYABqfr5o",
+      "phone": "(47) 3027-3106",
+      "address": "R. Codornas, 98 - Costa e Silva, Joinville - SC, 89220-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Correa Soluções Elétricas e Climatização",
+      "href": "https://www.google.com/maps/place/Correa+Solu%C3%A7%C3%B5es+El%C3%A9tricas+e+Climatiza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea59a7900e83d:0xaf5714b0fb584f38!8m2!3d-26.2683235!4d-48.8931616!16s%2Fg%2F11ppf4q1tb!19sChIJPegAeZql3pQROE9Y-7AUV68",
+      "phone": "(47) 99994-1459",
+      "address": "R. Alfredo Trapp, 346 - Costa e Silva, Joinville - SC, 89220-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica e Mecânica Reluz",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+e+Mec%C3%A2nica+Reluz/data=!4m7!3m6!1s0x94deafe60f140db5:0xbc4070ec0ec77bdb!8m2!3d-26.2783256!4d-48.8645445!16s%2Fg%2F11hbkqcnk_!19sChIJtQ0UD-av3pQR23vHDuxwQLw",
+      "phone": "(47) 3425-5003",
+      "address": "R. João Pessoa, 1800 - Costa e Silva, Joinville - SC, 89218-528",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rengel Auto Elétrica",
+      "href": "https://www.google.com/maps/place/Rengel+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x94deaf4d58218a7b:0xb71a5b64eb5e7449!8m2!3d-26.2680712!4d-48.8798497!16s%2Fg%2F11yq_73q5z!19sChIJe4ohWE2v3pQRSXRe62RbGrc",
+      "phone": "(47) 99230-8158",
+      "address": "Panificadora Itália - R. Duarte Schuttel, 22 - Próximo a - Costa e Silva, Joinville - SC, 89220-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DC manutenção elétrica residencial e predial",
+      "href": "https://www.google.com/maps/place/DC+manuten%C3%A7%C3%A3o+el%C3%A9trica+residencial+e+predial/data=!4m7!3m6!1s0x94deb7007c220ef9:0x65f69e6692bdebff!8m2!3d-26.3461859!4d-48.8052667!16s%2Fg%2F11zhdg7flx!19sChIJ-Q4ifAC33pQR_-u9kmae9mU",
+      "phone": "(47) 98860-2871",
+      "address": "R. Santo Estêvão - João Costa, Joinville - SC, 89230-265",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Foisertec",
+      "href": "https://www.google.com/maps/place/Foisertec/data=!4m7!3m6!1s0x94dea55dd339decd:0xf252ba367fdbcb10!8m2!3d-26.2775145!4d-48.8854468!16s%2Fg%2F11c5ykd5w7!19sChIJzd45012l3pQREMvbfza6UvI",
+      "phone": "(47) 99171-2009",
+      "address": "R. Maria Rosalina Speck, 362 - Costa e Silva, Joinville - SC, 89220-730",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rebobinadora Elétrica Butzke",
+      "href": "https://www.google.com/maps/place/Rebobinadora+El%C3%A9trica+Butzke/data=!4m7!3m6!1s0x94deaff35397ce79:0x2f8a8eb77af49024!8m2!3d-26.2715633!4d-48.8744212!16s%2Fg%2F1tctgrsf!19sChIJec6XU_Ov3pQRJJD0ereOii8",
+      "phone": "(47) 3425-4408",
+      "address": "R. Sanhaçu, 179 - Costa e Silva, Joinville - SC, 89220-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JQ_eletrica",
+      "href": "https://www.google.com/maps/place/JQ_eletrica/data=!4m7!3m6!1s0x94dea572154e3f6f:0x2e7da8e68c8e9a1f!8m2!3d-26.2947872!4d-48.9008409!16s%2Fg%2F11n496h7ck!19sChIJbz9OFXKl3pQRH5qOjOaofS4",
+      "phone": "(47) 99942-8193",
+      "address": "R. Joaquim Girardi, 815 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marlon Reeck Eletricista",
+      "href": "https://www.google.com/maps/place/Marlon+Reeck+Eletricista/data=!4m7!3m6!1s0x94dea5cace6ab813:0x4b17fdae7e721c6f!8m2!3d-26.2795948!4d-48.8956159!16s%2Fg%2F11vzc3bg66!19sChIJE7hqzsql3pQRbxxyfq79F0s",
+      "phone": "(47) 99761-6203",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rhoden instalações elétricas",
+      "href": "https://www.google.com/maps/place/Rhoden+instala%C3%A7%C3%B5es+el%C3%A9tricas/data=!4m7!3m6!1s0x94dea5927b525f5f:0xb2aa39f0f728e2a!8m2!3d-26.2914655!4d-48.913181!16s%2Fg%2F11x1_pjqf9!19sChIJX19Se5Kl3pQRKo5yD5-jKgs",
+      "phone": "(47) 99185-5343",
+      "address": "R. Maria Santa Corrêa, 461 - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TJ Instalações",
+      "href": "https://www.google.com/maps/place/TJ+Instala%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94dea59146a5b10d:0xa54688aaeb7722a4!8m2!3d-26.2932474!4d-48.9130404!16s%2Fg%2F11stb1q5ky!19sChIJDbGlRpGl3pQRpCJ366qIRqU",
+      "phone": "(47) 99606-5199",
+      "address": "R. Maria Santa Corrêa, 663 - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Instalação elétrica residencial",
+      "href": "https://www.google.com/maps/place/Instala%C3%A7%C3%A3o+el%C3%A9trica+residencial/data=!4m7!3m6!1s0x94deae6d37d1592f:0xe5c349a71b6327f7!8m2!3d-26.2871867!4d-48.9194744!16s%2Fg%2F11b6z00m_b!19sChIJL1nRN22u3pQR9ydjG6dJw-U",
+      "phone": "(47) 99132-5127",
+      "address": "R. XV de Novembro - Vila Nova, Joinville - SC, 89237-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Almeida Instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Almeida+Instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94dea51a9fb1fe49:0x4c6de76aabef3c17!8m2!3d-26.2899736!4d-48.9222849!16s%2Fg%2F11ft03k96q!19sChIJSf6xnxql3pQRFzzvq2rnbUw",
+      "phone": "(47) 98803-1122",
+      "address": "R. Augusto Borinelli, 70 - Vila Nova, Joinville - SC, 89237-807",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Líder Instalações Elétricas - obras em geral - eletricista",
+      "href": "https://www.google.com/maps/place/L%C3%ADder+Instala%C3%A7%C3%B5es+El%C3%A9tricas+-+obras+em+geral+-+eletricista/data=!4m7!3m6!1s0x94dea54f52debc8d:0x4963a6778ba01f90!8m2!3d-26.2886738!4d-48.895038!16s%2Fg%2F11ggm3c4_3!19sChIJjbzeUk-l3pQRkB-gi3emY0k",
+      "phone": "(47) 99929-4574",
+      "address": "R. XV de Novembro, 5008 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Potência instalações Elétricas",
+      "href": "https://www.google.com/maps/place/Pot%C3%AAncia+instala%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94dea53f3ddb4c4f:0x5dbb3f5cbe7ca512!8m2!3d-26.2835162!4d-48.9017156!16s%2Fg%2F1tx_7hvk!19sChIJT0zbPT-l3pQREqV8vlw_u10",
+      "phone": "(47) 3439-5621",
+      "address": "R. Mário Pedro Schoping, 340 - Vila Nova, Joinville - SC, 89237-245",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vieira Elétrica e instalações Fotovoltaicas",
+      "href": "https://www.google.com/maps/place/Vieira+El%C3%A9trica+e+instala%C3%A7%C3%B5es+Fotovoltaicas/data=!4m7!3m6!1s0x94dea53eae4b12b5:0x8174f4dc1d005de6!8m2!3d-26.2831782!4d-48.9028943!16s%2Fg%2F11xkypkdzx!19sChIJtRJLrj6l3pQR5l0AHdz0dIE",
+      "phone": "(47) 99672-0295",
+      "address": "R. Valentim Montibeller, 198 - Vila Nova, Joinville - SC, 89237-435",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RM Instalações - Manutenções de ares-condicionados",
+      "href": "https://www.google.com/maps/place/RM+Instala%C3%A7%C3%B5es+-+Manuten%C3%A7%C3%B5es+de+ares-condicionados/data=!4m7!3m6!1s0x94dea5b88ab436ff:0x9009ccaef972b18f!8m2!3d-26.2758535!4d-48.9030495!16s%2Fg%2F11h6r62cz_!19sChIJ_za0iril3pQRj7Fy-a7MCZA",
+      "phone": "(47) 99254-0161",
+      "address": "R. das Intermédias, 246 - Vila Nova, Joinville - SC, 89237-520",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Instaladora Elite",
+      "href": "https://www.google.com/maps/place/Instaladora+Elite/data=!4m7!3m6!1s0x94dea53b35e5d5c3:0xe3974cfdc0c3db58!8m2!3d-26.2894744!4d-48.9098142!16s%2Fg%2F1tghf91n!19sChIJw9XlNTul3pQRWNvDwP1Ml-M",
+      "phone": "(47) 3439-5876",
+      "address": "R. Márcio Luckow, 125 - Vila Nova, Joinville - SC, 89237-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FW Auto Elétrica",
+      "href": "https://www.google.com/maps/place/FW+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x94dea541d3c5cfb7:0xcdb8f000bd3432b2!8m2!3d-26.2890194!4d-48.8951126!16s%2Fg%2F11y4bnyv5t!19sChIJt8_F00Gl3pQRsjI0vQDwuM0",
+      "phone": "(47) 99773-1411",
+      "address": "R. XV de Novembro, 5009 - Vila Nova, Joinville - SC, 89237-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Negócios Online",
+      "href": "https://www.google.com/maps/place/Neg%C3%B3cios+Online/data=!4m7!3m6!1s0x94dea5c0fd06a375:0x5d69571925807323!8m2!3d-26.2815261!4d-48.9026143!16s%2Fg%2F11jd__xfw9!19sChIJdaMG_cCl3pQRI3OAJRlXaV0",
+      "phone": "(47) 99665-8850",
+      "address": "R. Valentin Montibeller, 198 - Vila Nova, Joinville - SC, 89237-435",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rural Service Joinville",
+      "href": "https://www.google.com/maps/place/Rural+Service+Joinville/data=!4m7!3m6!1s0x94dea5599832b78d:0x94959960aaa9d1bb!8m2!3d-26.3015925!4d-48.9288367!16s%2Fg%2F11vz0yrchk!19sChIJjbcymFml3pQRu9GpqmCZlZQ",
+      "phone": "(47) 98880-6520",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Desenjói Serviços Elétricos LTDA",
+      "href": "https://www.google.com/maps/place/Desenj%C3%B3i+Servi%C3%A7os+El%C3%A9tricos+LTDA/data=!4m7!3m6!1s0x94dea526b4abb7fd:0xf33b84074e9697cf!8m2!3d-26.2907965!4d-48.91616!16s%2Fg%2F11b5wpvv5t!19sChIJ_bertCal3pQRz5eWTgeEO_M",
+      "phone": "(47) 3439-3933",
+      "address": "R. Alfredo Lienstedt, 362 - Vila Nova, Joinville - SC, 89237-673",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elétrica Santa Catarina",
+      "href": "https://www.google.com/maps/place/El%C3%A9trica+Santa+Catarina/data=!4m7!3m6!1s0x94dea5a31a82cc3b:0x90148dd8961f3dba!8m2!3d-26.2941246!4d-48.8877472!16s%2Fg%2F11bv5snrsy!19sChIJO8yCGqOl3pQRuj0fltiNFJA",
+      "phone": "(47) 99942-5597",
+      "address": "R. Frederico Henrique Carlos Sacht, 70 - Vila Nova, Joinville - SC, 89237-012",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletrosul",
+      "href": "https://www.google.com/maps/place/Eletrosul/data=!4m7!3m6!1s0x94dea55319eb9fef:0xdeb2a90cb0b66786!8m2!3d-26.2926956!4d-48.8869504!16s%2Fg%2F1tj4cmt3!19sChIJ75_rGVOl3pQRhme2sAypst4",
+      "phone": "(47) 3439-0141",
+      "address": "R. XV de Novembro, 5050 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "KES - Kits Elétricos para Steel Frame",
+      "href": "https://www.google.com/maps/place/KES+-+Kits+El%C3%A9tricos+para+Steel+Frame/data=!4m7!3m6!1s0x94dea596e6b8dbc1:0x8b20d067b20a65e8!8m2!3d-26.2929316!4d-48.9094611!16s%2Fg%2F11wg7rq1g4!19sChIJwdu45pal3pQR6GUKsmfQIIs",
+      "phone": "(47) 99201-1050",
+      "address": "R. João Carlos Gomes de Oliveira, 1341 - Vila Nova, Joinville - SC, 89237-375",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RG instalações elétricas",
+      "href": "https://www.google.com/maps/place/RG+instala%C3%A7%C3%B5es+el%C3%A9tricas/data=!4m7!3m6!1s0x94deb1de5797c869:0xf6dda59d1b09ba16!8m2!3d-26.3370088!4d-48.8653587!16s%2Fg%2F11rj54mwlw!19sChIJaciXV96x3pQRFroJG52l3fY",
+      "phone": "(47) 99135-9648",
+      "address": "R. Belmiro Marinho da Costa, 285 - Nova Brasília, Joinville - SC, 89213-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JL eletrica",
+      "href": "https://www.google.com/maps/place/JL+eletrica/data=!4m7!3m6!1s0x94deb17474afaf33:0xbb235250e2d5c98f!8m2!3d-26.3415436!4d-48.8554223!16s%2Fg%2F11yzdtymkf!19sChIJM6-vdHSx3pQRj8nV4lBSI7s",
+      "phone": "(47) 98805-7393",
+      "address": "R. Santa Maria, 805 - Floresta, Joinville - SC, 89212-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yaakov Automação.",
+      "href": "https://www.google.com/maps/place/Yaakov+Automa%C3%A7%C3%A3o./data=!4m7!3m6!1s0x94deb0dae8132d77:0xcbcdd86c67433b28!8m2!3d-26.3480601!4d-48.8484797!16s%2Fg%2F11clywc6d1!19sChIJdy0T6Nqw3pQRKDtDZ2zYzcs",
+      "phone": "(47) 99677-7199",
+      "address": "R. Porto Rico, 150 - Floresta, Joinville - SC, 89212-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Marcos",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Marcos/data=!4m7!3m6!1s0x94deb0e6580c8db1:0xe51d649213bd7474!8m2!3d-26.3353283!4d-48.8468798!16s%2Fg%2F11c3kvvc1k!19sChIJsY0MWOaw3pQRdHS9E5JkHeU",
+      "phone": "(47) 98852-6938",
+      "address": "R. Marabá, 72 - Floresta, Joinville - SC, 89211-695",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Auto Elétrica Borba",
+      "href": "https://www.google.com/maps/place/Auto+El%C3%A9trica+Borba/data=!4m7!3m6!1s0x94deb0e7201d0fb3:0x4a97a847d3f9c331!8m2!3d-26.3367456!4d-48.8458854!16s%2Fg%2F1tfr1l44!19sChIJsw8dIOew3pQRMcP500eol0o",
+      "phone": "(47) 3436-0094",
+      "address": "Rua Imperatriz, 171 - Floresta, Joinville - SC, 89211-720",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clemak Auto Elétrica",
+      "href": "https://www.google.com/maps/place/Clemak+Auto+El%C3%A9trica/data=!4m7!3m6!1s0x94deb0dd4d0ce1d9:0x44503581cd4d873c!8m2!3d-26.3412548!4d-48.849198!16s%2Fg%2F1trsz4s7!19sChIJ2eEMTd2w3pQRPIdNzYE1UEQ",
+      "phone": "(47) 3466-2346",
+      "address": "R. Santa Maria, 173 - Floresta, Joinville - SC, 89212-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Prottegi Soluções Elétricas",
+      "href": "https://www.google.com/maps/place/Prottegi+Solu%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x94deb18ea9c5b8a5:0x74eb160f6344b544!8m2!3d-26.3262886!4d-48.853097!16s%2Fg%2F11gmw5cdcf!19sChIJpbjFqY6x3pQRRLVEYw8W63Q",
+      "phone": "(47) 3043-7202",
+      "address": "R. Macapá, 365 - Floresta, Joinville - SC, 89211-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "INSTALADORA ELECTRICA JOINVILLE LTDA",
+      "href": "https://www.google.com/maps/place/INSTALADORA+ELECTRICA+JOINVILLE+LTDA/data=!4m7!3m6!1s0x94deb0e170b15555:0x5d45ecbe4b9773f4!8m2!3d-26.3338878!4d-48.8425886!16s%2Fg%2F11q45jycbb!19sChIJVVWxcOGw3pQR9HOXS77sRV0",
+      "phone": "(47) 99974-2185",
+      "address": "Rua: ITAPEMA, 182 - Bairro: - Floresta, Joinville - SC, 89210-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa inteligente Alexa Joinville",
+      "href": "https://www.google.com/maps/place/Casa+inteligente+Alexa+Joinville/data=!4m7!3m6!1s0xa53f32518d1684b1:0x902fc20a43c87492!8m2!3d-26.3428555!4d-48.8485944!16s%2Fg%2F11wx0jn0p3!19sChIJsYQWjVEyP6URknTIQwrCL5A",
+      "phone": "(47) 98805-9650",
+      "address": "R. Sorocaba - Floresta, Joinville - SC, 89212-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Qualivolt Soluções Elétricas",
+      "href": "https://www.google.com/maps/place/Qualivolt+Solu%C3%A7%C3%B5es+El%C3%A9tricas/data=!4m7!3m6!1s0x2c050fef5f847427:0xe4f90dd88fce5990!8m2!3d-26.3599155!4d-48.8033085!16s%2Fg%2F11nbpqsgfr!19sChIJJ3SEX-8PBSwRkFnOj9gN-eQ",
+      "phone": "(47) 98475-0742",
+      "address": "R. Harald Birckholz - Parque Guarani, Joinville - SC, 89209-245",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletricista em Joinville | André Felipe",
+      "href": "https://www.google.com/maps/place/Eletricista+em+Joinville+%7C+Andr%C3%A9+Felipe/data=!4m7!3m6!1s0x94deb52d9f206d67:0xce7b26b04c3151f0!8m2!3d-26.3390334!4d-48.8251203!16s%2Fg%2F11yhwqxzq9!19sChIJZ20gny213pQR8FExTLAme84",
+      "phone": "(47) 99964-8784",
+      "address": "R. Cidade de Damasco, 633 - Itaum, Joinville - SC, 89210-605",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "H2H Manutenção Residencial e Predial",
+      "href": "https://www.google.com/maps/place/H2H+Manuten%C3%A7%C3%A3o+Residencial+e+Predial/data=!4m7!3m6!1s0x6b94c49b5b177f69:0xd111b3d1bdb09490!8m2!3d-26.3406415!4d-48.8220455!16s%2Fg%2F11ytw50zkd!19sChIJaX8XW5vElGsRkJSwvdGzEdE",
+      "phone": "(47) 99199-7049",
+      "address": "R. Monsenhor Gercino, 3301 - Itaum, Joinville - SC, 89210-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VIDA ELETRO SERVIÇOS DE ELETROEROSÃO E USINAGEM LTDA -ME",
+      "href": "https://www.google.com/maps/place/VIDA+ELETRO+SERVI%C3%87OS+DE+ELETROEROS%C3%83O+E+USINAGEM+LTDA+-ME/data=!4m7!3m6!1s0x94deb1210acb42df:0x94591af5ca11573f!8m2!3d-26.3434829!4d-48.8567341!16s%2Fg%2F11b88qnvpc!19sChIJ30LLCiGx3pQRP1cRyvUaWZQ",
+      "phone": "(47) 3278-3323",
+      "address": "R. Copacabana, 2141 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eletrônica Sato",
+      "href": "https://www.google.com/maps/place/Eletr%C3%B4nica+Sato/data=!4m7!3m6!1s0x94deb0e5d20f89c7:0xfa850f3db223dc0b!8m2!3d-26.3343332!4d-48.8474157!16s%2Fg%2F1tcw4s95!19sChIJx4kP0uWw3pQRC9wjsj0Phfo",
+      "phone": "(47) 3436-0454",
+      "address": "R. Santa Catarina, 1305 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elétrica Luiz Alves",
+      "href": "https://www.google.com/maps/place/El%C3%A9trica+Luiz+Alves/data=!4m7!3m6!1s0x94deb0e3ec771d49:0xa2ddcbbc26d165d2!8m2!3d-26.3328311!4d-48.8440083!16s%2Fg%2F1vs5xwhx!19sChIJSR137OOw3pQR0mXRJrzL3aI",
+      "phone": "(47) 3436-3993",
+      "address": "R. Luiz Alves, 98 - Floresta, Joinville - SC, 89211-665",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marido de Aluguel",
+      "href": "https://www.google.com/maps/place/Marido+de+Aluguel/data=!4m7!3m6!1s0x94deb106147736a5:0x984f0721ddc53a7b!8m2!3d-26.3418056!4d-48.8526022!16s%2Fg%2F11wwm7zxrq!19sChIJpTZ3FAax3pQRezrF3SEHT5g",
+      "phone": "(47) 98483-4512",
+      "address": "R. Princesa Mafalda, 474 - Floresta, Joinville - SC, 89212-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AUTO ELÉTRICA TECNO TRUCKS CAMINHÕES",
+      "href": "https://www.google.com/maps/place/AUTO+EL%C3%89TRICA+TECNO+TRUCKS+CAMINH%C3%95ES/data=!4m7!3m6!1s0x94dec93a1a20d021:0x9a457744f3f049b0!8m2!3d-26.3372321!4d-48.8440521!16s%2Fg%2F11rxpyg9f3!19sChIJIdAgGjrJ3pQRsEnw80R3RZo",
+      "phone": "(47) 99682-5276",
+      "address": "R. Elly Soares, 406 - Floresta, Joinville - SC, 89245-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ELECTRON SISTEMAS SOLUÇÕES INTELIGENTES",
+      "href": "https://www.google.com/maps/place/ELECTRON+SISTEMAS+SOLU%C3%87%C3%95ES+INTELIGENTES/data=!4m7!3m6!1s0x94deb199218943c1:0xd672fdd615e90f8a!8m2!3d-26.3406489!4d-48.8427075!16s%2Fg%2F11xvcys9d5!19sChIJwUOJIZmx3pQRig_pFdb9ctY",
+      "phone": "(47) 99613-2878",
+      "address": "R. Lacerdópolis, 206 - Floresta, Joinville - SC, 89212-056",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

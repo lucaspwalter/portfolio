@@ -1,0 +1,399 @@
+{
+  "id": "materiais",
+  "nome": "Materiais de Construção",
+  "terms": [
+    "materiais de construção",
+    "depósito de construção",
+    "acabamentos"
+  ],
+  "profiles": 248,
+  "qualified": [
+    {
+      "name": "Profipo Material de Construção",
+      "href": "https://www.google.com/maps/place/Profipo+Material+de+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb72f66489e25:0xa5d0c07e5b72bd45!8m2!3d-26.3680074!4d-48.8462447!16s%2Fg%2F11b8jd1kmf!19sChIJJZ5IZi-33pQRRb1yW37A0KU",
+      "phone": "(47) 3463-0080",
+      "address": "R. Santa Catarina, 5445 - Profipo, Joinville - SC, 89233-222",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Feliz Material de Construção",
+      "href": "https://www.google.com/maps/place/Casa+Feliz+Material+de+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb6a3725bfb0d:0x779e7043cdf84192!8m2!3d-26.3609802!4d-48.8075776!16s%2Fg%2F11bvcv3m9_!19sChIJDftbcqO23pQRkkH4zUNwnnc",
+      "phone": "(47) 99782-5647",
+      "address": "Av. Firmino da Silva, 136 - Parque Guarani, Joinville - SC, 89209-224",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Bela Casa e Construção",
+      "href": "https://www.google.com/maps/place/Casa+Bela+Casa+e+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb6ec52879ed5:0x61eb80def34648b!8m2!3d-26.3772092!4d-48.8227038!16s%2Fg%2F11bvt10cff!19sChIJ1Z6HUuy23pQRi2Q07w24HgY",
+      "phone": "(47) 3429-6655",
+      "address": "R. Adolfo da Veiga, 2174 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Di Casa Comércio de Ferragens",
+      "href": "https://www.google.com/maps/place/Di+Casa+Com%C3%A9rcio+de+Ferragens/data=!4m7!3m6!1s0x94deb7ccd8dc82d9:0xb17f8c01648648a9!8m2!3d-26.3690992!4d-48.8254173!16s%2Fg%2F11lrs40s5s!19sChIJ2YLc2My33pQRqUiGZAGMf7E",
+      "phone": "(47) 3465-0346",
+      "address": "R. Attílio Vinotti, 230 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JS PISOS",
+      "href": "https://www.google.com/maps/place/JS+PISOS/data=!4m7!3m6!1s0x94deb6da80432043:0xb8f220da7d8596ed!8m2!3d-26.3580795!4d-48.8313207!16s%2Fg%2F1ptzc_k3l!19sChIJQyBDgNq23pQR7ZaFfdog8rg",
+      "phone": "(47) 3472-3394",
+      "address": "Av. Paulo Schroeder, 1372 - Petrópolis, Joinville - SC, 89209-493",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JP Artefatos de Cimento",
+      "href": "https://www.google.com/maps/place/JP+Artefatos+de+Cimento/data=!4m7!3m6!1s0x94deb7006a14f81b:0x92bc9900e4e0a768!8m2!3d-26.369708!4d-48.8267677!16s%2Fg%2F11lztb1dx8!19sChIJG_gUagC33pQRaKfg5ACZvJI",
+      "phone": "(47) 99655-2008",
+      "address": "R. Faustino Busarello, 49 - Boehmerwald, Joinville - SC, 89235-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cerâmica do Teco",
+      "href": "https://www.google.com/maps/place/Cer%C3%A2mica+do+Teco/data=!4m7!3m6!1s0x94deb7cffd729811:0xb43b28c9681b9b1f!8m2!3d-26.3623606!4d-48.8276527!16s%2Fg%2F11gy3ksctb!19sChIJEZhy_c-33pQRH5sbaMkoO7Q",
+      "phone": "(47) 99621-1537",
+      "address": "R. São Ricardo, 51 - Escolinha, Joinville - SC, 89235-545",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Passos Pisos e Acabamentos",
+      "href": "https://www.google.com/maps/place/Passos+Pisos+e+Acabamentos/data=!4m7!3m6!1s0x94deb0e18659721f:0xd17d5067e40d4531!8m2!3d-26.3403209!4d-48.8136456!16s%2Fg%2F1hc43lnwh!19sChIJH3JZhuGw3pQRMUUN5GdQfdE",
+      "phone": "(47) 3028-9913",
+      "address": "R. Monsenhor Gercino, 4068 - Itaum, Joinville - SC, 89230-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "R.F MARMORARIA",
+      "href": "https://www.google.com/maps/place/R.F+MARMORARIA/data=!4m7!3m6!1s0x94deb7af9522deed:0x805b41a364eb2294!8m2!3d-26.3671183!4d-48.8323823!16s%2Fg%2F11z3yhk5l4!19sChIJ7d4ila-33pQRlCLrZKNBW4A",
+      "phone": "(47) 99164-8845",
+      "address": "⁠R. Ricardo Eccel, 252 - Boehmerwald, Joinville - SC, 89235-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia & Decor",
+      "href": "https://www.google.com/maps/place/Cia+%26+Decor/data=!4m7!3m6!1s0x94deb02bc719006f:0x39814f99eb6fda9!8m2!3d-26.2831078!4d-48.8436209!16s%2Fg%2F1jkygth2d!19sChIJbwAZxyuw3pQRqf22nvkUmAM",
+      "phone": "(47) 3025-1167",
+      "address": "R. Padre Antônio Vieira, 533 - Saguaçu, Joinville - SC, 89204-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lojão dos Estofados",
+      "href": "https://www.google.com/maps/place/Loj%C3%A3o+dos+Estofados/data=!4m7!3m6!1s0x94deb74950f68ae7:0x4364af8cc89132a9!8m2!3d-26.3607337!4d-48.8335867!16s%2Fg%2F11h3_1n2gx!19sChIJ54r2UEm33pQRqTKRyIyvZEM",
+      "phone": "(47) 99615-8645",
+      "address": "R. Boehmerwald, 498 - Sl 02 - Boehmerwald, Joinville - SC, 89235-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FORMACO VILLE ACABAMENTOS",
+      "href": "https://www.google.com/maps/place/FORMACO+VILLE+ACABAMENTOS/data=!4m7!3m6!1s0x94deb15cdf6d0203:0x95eb575838cb9117!8m2!3d-26.3025691!4d-48.8261354!16s%2Fg%2F11njv7yd4l!19sChIJAwJt31yx3pQRF5HLOFhX65U",
+      "phone": "(47) 3031-7779",
+      "address": "R. Pref. Helmuth Fallgatter, 1123 - Boa Vista, Joinville - SC, 89205-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bom Retiro Casa e Construção",
+      "href": "https://www.google.com/maps/place/Bom+Retiro+Casa+e+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deafc98d0c4d79:0x2a584101108e2fee!8m2!3d-26.2620782!4d-48.8451413!16s%2Fg%2F1tdnm8dq!19sChIJeU0Mjcmv3pQR7i-OEAFBWCo",
+      "phone": "(47) 99741-3100",
+      "address": "R. Ten. Antônio João, 1576 - Bom Retiro, Joinville - SC, 89223-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CIA DO ESPORTE",
+      "href": "https://www.google.com/maps/place/CIA+DO+ESPORTE/data=!4m7!3m6!1s0x94deb0370befffff:0x9dc76a16aa5774f5!8m2!3d-26.2985689!4d-48.8492371!16s%2Fg%2F11b88k91gj!19sChIJ___vCzew3pQR9XRXqhZqx50",
+      "phone": "(47) 3801-3066",
+      "address": "R. Mário Lobo, 106 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DD+Design - Azulejaria diferente",
+      "href": "https://www.google.com/maps/place/DD%2BDesign+-+Azulejaria+diferente/data=!4m7!3m6!1s0x94deaffe87023b9d:0xca86482e30f87b86!8m2!3d-26.292096!4d-48.8409007!16s%2Fg%2F11df6q7qf2!19sChIJnTsCh_6v3pQRhnv4MC5Ihso",
+      "phone": "(47) 98419-1958",
+      "address": "Coworking Artística - R. Dona Francisca, 1185 - Centro, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Contè Casa",
+      "href": "https://www.google.com/maps/place/Cont%C3%A8+Casa/data=!4m7!3m6!1s0x94deb1a732e4fcbf:0x10d0657fee39e8c7!8m2!3d-26.3069853!4d-48.8619327!16s%2Fg%2F11s4v3z83t!19sChIJv_zkMqex3pQRx-g57n9l0BA",
+      "phone": "(47) 99714-1173",
+      "address": "R. Des. Nelson Nunes Guimarães, 785 - Sl 3 - Atiradores, Joinville - SC, 89203-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saron Boehmerwald",
+      "href": "https://www.google.com/maps/place/Saron+Boehmerwald/data=!4m7!3m6!1s0x94deb6c2292fa515:0x937d8c417df60156!8m2!3d-26.3688277!4d-48.8249299!16s%2Fg%2F11bvt5j_f4!19sChIJFaUvKcK23pQRVgH2fUGMfZM",
+      "phone": "(47) 3465-0640",
+      "address": "R. Attílio Vinotti, 275 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CELULAR SHOP Atiradores Joinville",
+      "href": "https://www.google.com/maps/place/CELULAR+SHOP+Atiradores+Joinville/data=!4m7!3m6!1s0x94deb10c0d3a7287:0x449591ff63a0c126!8m2!3d-26.3113902!4d-48.8547546!16s%2Fg%2F11z83x_3z_!19sChIJh3I6DQyx3pQRJsGgY_-RlUQ",
+      "phone": "(47) 3027-2399",
+      "address": "R. Min. Calógeras, 1639 - Atiradores, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Du Box",
+      "href": "https://www.google.com/maps/place/Du+Box/data=!4m7!3m6!1s0x94deb0e88279d161:0xbb97d1845dcacf1f!8m2!3d-26.306382!4d-48.8579747!16s%2Fg%2F1tf6nbxb!19sChIJYdF5guiw3pQRH8_KXYTRl7s",
+      "phone": "(47) 3466-4014",
+      "address": "n°6422, R. Leopoldo Fischer, 125 - Atiradores, Joinville - SC, 89209-125",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Mil Materiais para Construção",
+      "href": "https://www.google.com/maps/place/Casa+Mil+Materiais+para+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb46f4031036f:0xd4fcce46c32dc9ad!8m2!3d-26.3435493!4d-48.7737151!16s%2Fg%2F11b6hv3943!19sChIJbwMxQG-03pQRrcktw0bO_NQ",
+      "phone": "(47) 3463-1235",
+      "address": "R. Paranaguamirim, 268 - Paranaguamirim, Joinville - SC, 89234-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adriano Revestimento",
+      "href": "https://www.google.com/maps/place/Adriano+Revestimento/data=!4m7!3m6!1s0x94deb18e37f9ecfd:0xd1fd5352ea978698!8m2!3d-26.3170698!4d-48.8525796!16s%2Fg%2F11rfn3vzq3!19sChIJ_ez5N46x3pQRmIaX6lJT_dE",
+      "phone": "(47) 99901-2982",
+      "address": "R. Alagoas, 256 - Casa - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Duquezza Revestimentos",
+      "href": "https://www.google.com/maps/place/Duquezza+Revestimentos/data=!4m7!3m6!1s0x94deb7ffa858bd67:0x61f83e851d509536!8m2!3d-26.360774!4d-48.8174389!16s%2Fg%2F11m2mlz74t!19sChIJZ71YqP-33pQRNpVQHYU--GE",
+      "phone": "(47) 99149-2223",
+      "address": "Rua Maria da Silva Serpa, 210 - Parque Guarani, Joinville - SC, 89209-497",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maferville",
+      "href": "https://www.google.com/maps/place/Maferville/data=!4m7!3m6!1s0x94deb05113452e8f:0xf853c7b6799c9fe2!8m2!3d-26.3132715!4d-48.8460911!16s%2Fg%2F1tlqr3xv!19sChIJjy5FE1Gw3pQR4p-cebbHU_g",
+      "phone": "(47) 3433-3015",
+      "address": "R. Paraná, 56 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maxel Materiais Elétricos e MRO",
+      "href": "https://www.google.com/maps/place/Maxel+Materiais+El%C3%A9tricos+e+MRO/data=!4m7!3m6!1s0x94deb1ecfafd7d1b:0xd7f5bcea339ae365!8m2!3d-26.3233444!4d-48.855816!16s%2Fg%2F11qbqt7x58!19sChIJG339-uyx3pQRZeOaM-q89dc",
+      "phone": "(47) 2105-9100",
+      "address": "R. Max Heiden, 121 - Anita Garibaldi, Joinville - SC, 89203-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cani Materias para Construção",
+      "href": "https://www.google.com/maps/place/Cani+Materias+para+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb14ee1e35c8b:0xd7ee36fd062cafc5!8m2!3d-26.339476!4d-48.8113221!16s%2Fg%2F1tg_y7b4!19sChIJi1zj4U6x3pQRxa8sBv027tc",
+      "phone": "(47) 3466-0379",
+      "address": "R. Monsenhor Gercino, 4325 - 47 - Jarivatuba, Joinville - SC, 89230-199",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa do Parafuso",
+      "href": "https://www.google.com/maps/place/Casa+do+Parafuso/data=!4m7!3m6!1s0x94deb0514cb78bed:0xe1b3f0176c33782b!8m2!3d-26.3148371!4d-48.845683!16s%2Fg%2F1thz2tnv!19sChIJ7Yu3TFGw3pQRK3gzbBfws-E",
+      "phone": "(47) 3433-3970",
+      "address": "R. Padre Kolb, 1371 - Anita Garibaldi, Joinville - SC, 89202-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Akaza móveis sob medida",
+      "href": "https://www.google.com/maps/place/Akaza+m%C3%B3veis+sob+medida/data=!4m7!3m6!1s0x89178e93e49def01:0xfc46db092f6c7c28!8m2!3d-26.3241262!4d-48.8552771!16s%2Fg%2F11rysq92n3!19sChIJAe-d5JOOF4kRKHxsLwnbRvw",
+      "phone": "(47) 99677-5191",
+      "address": "R. Anita Garibaldi, 1381 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Materiais de Construção AGNES",
+      "href": "https://www.google.com/maps/place/Materiais+de+Constru%C3%A7%C3%A3o+AGNES/data=!4m7!3m6!1s0x94deb1972e87cabd:0xa3804df58bb6371d!8m2!3d-26.2797556!4d-48.8370324!16s%2Fg%2F11kbd4l2by!19sChIJvcqHLpex3pQRHTe2i_VNgKM",
+      "phone": "(47) 99202-5037",
+      "address": "R. Iririú, 567 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Michelaine Elétrica e Hidráulica em Geral",
+      "href": "https://www.google.com/maps/place/Comercial+Michelaine+El%C3%A9trica+e+Hidr%C3%A1ulica+em+Geral/data=!4m7!3m6!1s0x94dea5606f0150e5:0x6896fdd542cea054!8m2!3d-26.2734651!4d-48.8816463!16s%2Fg%2F11bvt2kmxl!19sChIJ5VABb2Cl3pQRVKDOQtX9lmg",
+      "phone": "(47) 3473-7207",
+      "address": "R. Inambu, 2803 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Azul",
+      "href": "https://www.google.com/maps/place/Casa+Azul/data=!4m7!3m6!1s0x94dea5600f50faed:0x4bfe28e23295f83f!8m2!3d-26.2732013!4d-48.8806536!16s%2Fg%2F11b8t5vh_v!19sChIJ7fpQD2Cl3pQRP_iVMuIo_ks",
+      "phone": "(47) 3473-9933",
+      "address": "R. Inambu, 832 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa das Tintas",
+      "href": "https://www.google.com/maps/place/Casa+das+Tintas/data=!4m7!3m6!1s0x94deaff25211378b:0x777338d5b7e79352!8m2!3d-26.2731461!4d-48.8778539!16s%2Fg%2F1v_ndndn!19sChIJizcRUvKv3pQRUpPnt9U4c3c",
+      "phone": "(47) 3435-3453",
+      "address": "R. Inambu, 562 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MM acabamento e pisos",
+      "href": "https://www.google.com/maps/place/MM+acabamento+e+pisos/data=!4m7!3m6!1s0x94dea5d22ee362db:0x96a3deb2ee6c73ad!8m2!3d-26.2669919!4d-48.8852076!16s%2Fg%2F11fjtzxxrh!19sChIJ22LjLtKl3pQRrXNs7rLeo5Y",
+      "phone": "(47) 99770-9795",
+      "address": "R. Agostinho José Cognaco, N°294 - Costa e Silva, Joinville - SC, 89220-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vivi Acabamentos",
+      "href": "https://www.google.com/maps/place/Vivi+Acabamentos/data=!4m7!3m6!1s0x94deaf0f093b8555:0x9fe58465d7b9204e!8m2!3d-26.2655605!4d-48.881083!16s%2Fg%2F11frrkbtrl!19sChIJVYU7CQ-v3pQRTiC512WE5Z8",
+      "phone": "(47) 99744-3021",
+      "address": "R. Rui Barbosa, 2073 - Sl 2 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Visa Papelaria",
+      "href": "https://www.google.com/maps/place/Visa+Papelaria/data=!4m7!3m6!1s0x94deaff2f9a890e5:0xe950665bba1b0b3e!8m2!3d-26.2728092!4d-48.8719578!16s%2Fg%2F1ptwbx7n4!19sChIJ5ZCo-fKv3pQRPgsbultmUOk",
+      "phone": "(47) 3435-0443",
+      "address": "Rua Otto Pfuetzenreuter, 114 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saron Costa e Silva",
+      "href": "https://www.google.com/maps/place/Saron+Costa+e+Silva/data=!4m7!3m6!1s0x94deafe9bc90f663:0x485c2d20b56d0506!8m2!3d-26.2661169!4d-48.8722383!16s%2Fg%2F11lfh1x341!19sChIJY_aQvOmv3pQRBgVttSAtXEg",
+      "phone": "(47) 3804-0640",
+      "address": "Rua Otto Pfuetzenreuter, 912 - Costa e Silva, Joinville - SC, 89219-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Benevenutti Material de Construção",
+      "href": "https://www.google.com/maps/place/Benevenutti+Material+de+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb11bb476c5a3:0xadda207bfcca44f4!8m2!3d-26.2874089!4d-48.8974915!16s%2Fg%2F1s04bb57b!19sChIJo8V2tBux3pQR9ETK_Hsg2q0",
+      "phone": "(47) 3439-0377",
+      "address": "R. XV de Novembro, 5380 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Beno Materiais de Construção",
+      "href": "https://www.google.com/maps/place/Beno+Materiais+de+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea53b6a621a49:0xf270b9d9c4fbb4a5!8m2!3d-26.2892569!4d-48.9088897!16s%2Fg%2F1tgdv8sc!19sChIJSRpiajul3pQRpbT7xNm5cPI",
+      "phone": "(47) 3439-5099",
+      "address": "R. Mirko Mayerle, 841 - Vila Nova, Joinville - SC, 89237-336",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sampa Atacado de Materiais de Construção Ltda",
+      "href": "https://www.google.com/maps/place/Sampa+Atacado+de+Materiais+de+Constru%C3%A7%C3%A3o+Ltda/data=!4m7!3m6!1s0x94dea54a80779bf5:0x1e0173363378cb15!8m2!3d-26.2972951!4d-48.9003366!16s%2Fg%2F11cs3y5156!19sChIJ9Zt3gEql3pQRFct4MzZzAR4",
+      "phone": "(47) 99654-8669",
+      "address": "R. Bento Torquato da Rocha, 1078 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HN PLANEJADOS",
+      "href": "https://www.google.com/maps/place/HN+PLANEJADOS/data=!4m7!3m6!1s0x807932d8bb27724b:0xe35ac4ce2c329ea2!8m2!3d-26.2842317!4d-48.8998378!16s%2Fg%2F11z4xnkt0d!19sChIJS3Inu9gyeYARop4yLM7EWuM",
+      "phone": "(47) 99159-3608",
+      "address": "R. Alfredo Bachtold, 351 - Vila Nova, Joinville - SC, 89237-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Decorfloor Pisos Joinville - Pisos laminados, pisos vinílico e moveis sob medida",
+      "href": "https://www.google.com/maps/place/Decorfloor+Pisos+Joinville+-+Pisos+laminados,+pisos+vin%C3%ADlico+e+moveis+sob+medida/data=!4m7!3m6!1s0x94dea531fda3b8a9:0x63cc18a1e5decfed!8m2!3d-26.2918859!4d-48.9071003!16s%2Fg%2F11t6_gqmqq!19sChIJqbij_TGl3pQR7c_e5aEYzGM",
+      "phone": "(47) 99175-1554",
+      "address": "R. São Firmino, 151 - Sl 01 - Vila Nova, Joinville - SC, 89237-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ferreira Mat. P/ Construção",
+      "href": "https://www.google.com/maps/place/Ferreira+Mat.+P%2F+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb0efcf8eec59:0xa74c1e9f6f316648!8m2!3d-26.332082!4d-48.851548!16s%2Fg%2F1v_0kx6c!19sChIJWeyOz--w3pQRSGYxb58eTKc",
+      "phone": "(47) 3436-1577",
+      "address": "R. Pres. Nilo Peçanha, 470 - Floresta, Joinville - SC, 89211-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Trevo",
+      "href": "https://www.google.com/maps/place/Trevo/data=!4m7!3m6!1s0x94deb0d3a15fc8c1:0x1251aabe4714a413!8m2!3d-26.3557967!4d-48.8465283!16s%2Fg%2F1tf5910r!19sChIJwchfodOw3pQRE6QUR76qURI",
+      "phone": "(47) 3436-0092",
+      "address": "R. Santa Catarina, 3864 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TOPP Variedades - Floresta",
+      "href": "https://www.google.com/maps/place/TOPP+Variedades+-+Floresta/data=!4m7!3m6!1s0x94deb1a0cb277c2d:0xc5be86d228c0842a!8m2!3d-26.3357204!4d-48.8478791!16s%2Fg%2F11fk4q_2pd!19sChIJLXwny6Cx3pQRKoTAKNKGvsU",
+      "phone": "(47) 99267-4295",
+      "address": "R. Santa Catarina, 1440 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "id": "limpeza",
+  "nome": "Limpeza",
+  "terms": [
+    "empresa de limpeza",
+    "limpeza residencial",
+    "limpeza comercial"
+  ],
+  "profiles": 243,
+  "qualified": [
+    {
+      "name": "Diarista - Maria das Graças",
+      "href": "https://www.google.com/maps/place/Diarista+-+Maria+das+Gra%C3%A7as/data=!4m7!3m6!1s0x94deafba93846faf:0x4afe73e8ce1bc2a7!8m2!3d-26.2814912!4d-48.8643864!16s%2Fg%2F11k58fq643!19sChIJr2-Ek7qv3pQRp8Ibzuhz_ko",
+      "phone": "(47) 99675-3778",
+      "address": "R. Marquês de Olinda, 1930 - Costa e Silva, Joinville - SC, 89204-415",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clean Office- Limpeza Profissional",
+      "href": "https://www.google.com/maps/place/Clean+Office-+Limpeza+Profissional/data=!4m7!3m6!1s0x94deb04958f6524b:0xbe9b3b68c75598a1!8m2!3d-26.304079!4d-48.844878!16s%2Fg%2F11c3k6hlwd!19sChIJS1L2WEmw3pQRoZhVx2g7m74",
+      "phone": "(47) 3034-0007",
+      "address": "Rua 03 Sala 309 3º Andar, R. 3 de Maio, 58 - Centro, Joinville - SC, 89201-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clean Joinville higienização e impermeabilização de estofados",
+      "href": "https://www.google.com/maps/place/Clean+Joinville+higieniza%C3%A7%C3%A3o+e+impermeabiliza%C3%A7%C3%A3o+de+estofados/data=!4m7!3m6!1s0x94deb16a46e87fe1:0x1983d7a77a756657!8m2!3d-26.2589151!4d-48.8424741!16s%2Fg%2F11fcszwcz7!19sChIJ4X_oRmqx3pQRV2Z1eqfXgxk",
+      "phone": "(47) 99194-2447",
+      "address": "R. Euclides da Cunha, 365 - Bom Retiro, Joinville - SC, 89223-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JJ limpeza residencial",
+      "href": "https://www.google.com/maps/place/JJ+limpeza+residencial/data=!4m7!3m6!1s0x94deb1e1363b9191:0xfa8f45aabd498d3!8m2!3d-26.3411038!4d-48.8528889!16s%2Fg%2F11xfv4dx8t!19sChIJkZE7NuGx3pQR05jUq1r0qA8",
+      "phone": "(47) 99644-3275",
+      "address": "R. Santa Maria - Floresta, Joinville - SC, 89212-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CARMAQ - LIMPA FÁCIL COMÉRCIO DE PRODUTOS PARA LIMPEZA LTDA",
+      "href": "https://www.google.com/maps/place/CARMAQ+-+LIMPA+F%C3%81CIL+COM%C3%89RCIO+DE+PRODUTOS+PARA+LIMPEZA+LTDA/data=!4m7!3m6!1s0x94deaf763e689233:0x9afff15fb8838d7b!8m2!3d-26.3668393!4d-48.8275203!16s%2Fg%2F11s7bgb8nr!19sChIJM5JoPnav3pQRe42DuF_x_5o",
+      "phone": "(47) 99933-7000",
+      "address": "R. dos Médicos, 177 - Boehmerwald, Joinville - SC, 89235-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Limpa Escolinha",
+      "href": "https://www.google.com/maps/place/Casa+Limpa+Escolinha/data=!4m7!3m6!1s0x94deb70dd059c6ab:0x188e9f79de8d4c0d!8m2!3d-26.368995!4d-48.8269743!16s%2Fg%2F11h6dc6jz6!19sChIJq8ZZ0A233pQRDUyN3nmfjhg",
+      "phone": "(47) 99138-0783",
+      "address": "R. Attílio Vinotti, 74 - Escolinha, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Diarista",
+      "href": "https://www.google.com/maps/place/Diarista/data=!4m7!3m6!1s0x94deb58482f992b3:0x9a196783fdbb3c84!8m2!3d-26.3408877!4d-48.7771403!16s%2Fg%2F11wh_g4dkv!19sChIJs5L5goS13pQRhDy7_YNnGZo",
+      "phone": "(47) 99686-8250",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TUDO LIMPO LOCAÇÕES",
+      "href": "https://www.google.com/maps/place/TUDO+LIMPO+LOCA%C3%87%C3%95ES/data=!4m7!3m6!1s0x94dea5f4392ae711:0x992749bd5632290e!8m2!3d-26.30028!4d-48.849292!16s%2Fg%2F11hysv_mv9!19sChIJEecqOfSl3pQRDikyVr1JJ5k",
+      "phone": "(47) 99968-9099",
+      "address": "R. Cmte. Frederico Stoll, 20 - Centro, Joinville - SC, 89201-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vertical Prime – Limpeza e Manutenção",
+      "href": "https://www.google.com/maps/place/Vertical+Prime+%E2%80%93+Limpeza+e+Manuten%C3%A7%C3%A3o/data=!4m7!3m6!1s0xab5c3d911f9b87c9:0xf4d8563141ab7bf8!8m2!3d-26.3003678!4d-48.8532813!16s%2Fg%2F11nbh6z954!19sChIJyYebH5E9XKsR-HurQTFW2PQ",
+      "phone": "(47) 99911-1954",
+      "address": "R. Expedicionário Holz, n° 550 - América, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Deolinda Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Deolinda+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deb6c484c4e2c5:0x510e3770f3ec2347!8m2!3d-26.3665407!4d-48.8277252!16s%2Fg%2F11bvcv5xbx!19sChIJxeLEhMS23pQRRyPs83A3DlE",
+      "phone": "(47) 3454-5593",
+      "address": "R. dos Professores, 158 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Joinclean",
+      "href": "https://www.google.com/maps/place/Joinclean/data=!4m7!3m6!1s0x94deb130864ddac3:0xc81c678236c0feeb!8m2!3d-26.3016784!4d-48.8461464!16s%2Fg%2F11y7jkrbrv!19sChIJw9pNhjCx3pQR6_7ANoJnHMg",
+      "phone": "(47) 98884-9932",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Multville",
+      "href": "https://www.google.com/maps/place/Comercial+Multville/data=!4m7!3m6!1s0x94deb01bcfc18147:0xc0febe41ab4fc5c4!8m2!3d-26.2744933!4d-48.8702841!16s%2Fg%2F1pv5xs9fx!19sChIJR4HBzxuw3pQRxMVPq0G-_sA",
+      "phone": "(47) 99987-9293",
+      "address": "R. João Adolfo Müler, 53 - Costa e Silva, Joinville - SC, 89218-590",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Wilstone Marmoraria",
+      "href": "https://www.google.com/maps/place/Wilstone+Marmoraria/data=!4m7!3m6!1s0x94deb7d3a03ab613:0x6d1ea411bb631fcb!8m2!3d-26.3638903!4d-48.8239098!16s%2Fg%2F11f612sj5f!19sChIJE7Y6oNO33pQRyx9juxGkHm0",
+      "phone": "(47) 3031-2429",
+      "address": "R. Carlos Galhardo, 133 - Sala 3 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Liderança Serviços Filial Joinville",
+      "href": "https://www.google.com/maps/place/Lideran%C3%A7a+Servi%C3%A7os+Filial+Joinville/data=!4m7!3m6!1s0x94deb1156ef463ed:0xc17467cce513ebb1!8m2!3d-26.3017362!4d-48.8488255!16s%2Fg%2F11kzhc12z3!19sChIJ7WP0bhWx3pQRsesT5cxndME",
+      "phone": "(47) 3433-4096",
+      "address": "R. 9 de Março, 737 - SL204 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ecoville",
+      "href": "https://www.google.com/maps/place/Ecoville/data=!4m7!3m6!1s0x94deaff23f50efe9:0xc42d98d9821bdc05!8m2!3d-26.2739926!4d-48.8714457!16s%2Fg%2F11bv3vpk6s!19sChIJ6e9QP_Kv3pQRBdwbgtmYLcQ",
+      "phone": "(47) 99677-6486",
+      "address": "R. Guilherme, 1657 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OLIMP Serviços de Limpeza LTDA - ME",
+      "href": "https://www.google.com/maps/place/OLIMP+Servi%C3%A7os+de+Limpeza+LTDA+-+ME/data=!4m7!3m6!1s0x94deb02857355b49:0x4b526ff6f0b55df6!8m2!3d-26.2838727!4d-48.8473782!16s%2Fg%2F1td26ljp!19sChIJSVs1Vyiw3pQR9l218PZvUks",
+      "phone": "(47) 3043-0767",
+      "address": "R. Padre Antônio Vieira, 142 - América, Joinville - SC, 89218-321",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Haiana Simmer - Limpeza de pele em Jlle",
+      "href": "https://www.google.com/maps/place/Haiana+Simmer+-+Limpeza+de+pele+em+Jlle/data=!4m7!3m6!1s0x94deb111fba5910b:0xef13e1c788321120!8m2!3d-26.2995541!4d-48.8503128!16s%2Fg%2F11vk3p5k64!19sChIJC5Gl-xGx3pQRIBEyiMfhE-8",
+      "phone": "(47) 3842-0081",
+      "address": "R. Blumenau, 64 - América, Joinville - SC, 89204-248",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O Tapetero",
+      "href": "https://www.google.com/maps/place/O+Tapetero/data=!4m7!3m6!1s0x94deb1294adad4ff:0xb0060660db649a42!8m2!3d-26.307113!4d-48.8552799!16s%2Fg%2F11f5jq7wtr!19sChIJ_9TaSimx3pQRQppk22AGBrA",
+      "phone": "(47) 3207-2492",
+      "address": "R. Visc. de Taunay, 902 - Lj 5 - Atiradores, Joinville - SC, 89203-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Edifício Athenas",
+      "href": "https://www.google.com/maps/place/Edif%C3%ADcio+Athenas/data=!4m7!3m6!1s0x94deb041af8a0a83:0x5249e47721c2a695!8m2!3d-26.3074043!4d-48.8568714!16s%2Fg%2F1tf82rnx!19sChIJgwqKr0Gw3pQRlabCIXfkSVI",
+      "phone": "(47) 3433-3613",
+      "address": "R. Des. Nelson Nunes Guimarães, 151 - Atiradores, Joinville - SC, 89203-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "THE FIRST DREAM ESTÉTICA AUTOMOTIVA E LAVAÇÃO",
+      "href": "https://www.google.com/maps/place/THE+FIRST+DREAM+EST%C3%89TICA+AUTOMOTIVA+E+LAVA%C3%87%C3%83O/data=!4m7!3m6!1s0x94deb13247be5aef:0x100b70906bb37aee!8m2!3d-26.3132757!4d-48.8529895!16s%2Fg%2F11sq635z38!19sChIJ71q-RzKx3pQR7nqza5BwCxA",
+      "phone": "(47) 3278-5648",
+      "address": "R. Cel. Santiago, 375 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esparcon Produtos Serviços de Limpeza Ltda ME",
+      "href": "https://www.google.com/maps/place/Esparcon+Produtos+Servi%C3%A7os+de+Limpeza+Ltda+ME/data=!4m7!3m6!1s0x94deb0588fd850df:0xf1609fc1b21df61f!8m2!3d-26.3204138!4d-48.8521725!16s%2Fg%2F1tfmpjxk!19sChIJ31DYj1iw3pQRH_YdssGfYPE",
+      "phone": "(47) 3434-4341",
+      "address": "R. Anita Garibaldi, 866 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultora Ákora Joinville - Anna Karolina",
+      "href": "https://www.google.com/maps/place/Consultora+%C3%81kora+Joinville+-+Anna+Karolina/data=!4m7!3m6!1s0x94deb18ab94b790d:0x77fc25bd36cd8e48!8m2!3d-26.31448!4d-48.8553774!16s%2Fg%2F11qqlh3r3y!19sChIJDXlLuYqx3pQRSI7NNr0l_Hc",
+      "phone": "(47) 99222-7922",
+      "address": "R. Concórdia, 207 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Grupo Velox",
+      "href": "https://www.google.com/maps/place/Grupo+Velox/data=!4m7!3m6!1s0x94deb14b018af985:0xaa9f190d7d9a3a42!8m2!3d-26.3148612!4d-48.8492712!16s%2Fg%2F11f776731l!19sChIJhfmKAUux3pQRQjqafQ0Zn6o",
+      "phone": "(47) 99691-7817",
+      "address": "R. Bahia, 163 - Anita Garibaldi, Joinville - SC, 89203-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Emtuco Serviços e Participações",
+      "href": "https://www.google.com/maps/place/Emtuco+Servi%C3%A7os+e+Participa%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb05b3d24893f:0x49e9a4a840b6b767!8m2!3d-26.3135795!4d-48.8531553!16s%2Fg%2F1ptx542fj!19sChIJP4kkPVuw3pQRZ7e2QKik6Uk",
+      "phone": "(47) 3433-5099",
+      "address": "R. Cel. Santiago, 400 - Anita Garibaldi, Joinville - SC, 19892-273",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja de Produtos de Limpeza Estação da Limpeza",
+      "href": "https://www.google.com/maps/place/Loja+de+Produtos+de+Limpeza+Esta%C3%A7%C3%A3o+da+Limpeza/data=!4m7!3m6!1s0x94deaf550e6b0ac3:0x2d9c1ac58e9ce16b!8m2!3d-26.2415545!4d-48.8101038!16s%2Fg%2F11ptnz18wt!19sChIJwwprDlWv3pQRa-GcjsUanC0",
+      "phone": "(47) 98835-3096",
+      "address": "R. Jacupiranga, 962 - Sl 03 - Aventureiro, Joinville - SC, 89226-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mult Limp Joinville",
+      "href": "https://www.google.com/maps/place/Mult+Limp+Joinville/data=!4m7!3m6!1s0x94deaf88e3b09def:0xfd6f4f93fb74d0e6!8m2!3d-26.3196262!4d-48.8459303!16s%2Fg%2F11fl46fwwy!19sChIJ752w44iv3pQR5tB0-5NPb_0",
+      "phone": "(47) 99990-7698",
+      "address": "R. Max Schwoelk, 77 - Anita Garibaldi, Joinville - SC, 89202-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condomínio Villaggio di Anita",
+      "href": "https://www.google.com/maps/place/Condom%C3%ADnio+Villaggio+di+Anita/data=!4m7!3m6!1s0x94deb0f689db68e9:0x14baa7985bcbb84c!8m2!3d-26.3256305!4d-48.854522!16s%2Fg%2F1ptz98wqn!19sChIJ6Wjbifaw3pQRTLjLW5inuhQ",
+      "phone": "(47) 3436-9754",
+      "address": "R. Macapá, 192 - Floresta, Joinville - SC, 89211-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condomínio Residencial Portal da Independência",
+      "href": "https://www.google.com/maps/place/Condom%C3%ADnio+Residencial+Portal+da+Independ%C3%AAncia/data=!4m7!3m6!1s0x94deb06082deb6a1:0xbbe1906889c21078!8m2!3d-26.3219589!4d-48.8601961!16s%2Fg%2F1tfkmb20!19sChIJobbegmCw3pQReBDCiWiQ4bs",
+      "phone": "(47) 3434-5679",
+      "address": "R. da Independência, 710 - Anita Garibaldi, Joinville - SC, 89203-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Collar Blue Soluções em Climatização",
+      "href": "https://www.google.com/maps/place/Collar+Blue+Solu%C3%A7%C3%B5es+em+Climatiza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb1ccfd04e1d7:0xf98813267e24dda!8m2!3d-26.3108935!4d-48.8524418!16s%2Fg%2F11w4hmgkmj!19sChIJ1-EE_cyx3pQR2k3iZzKBmA8",
+      "phone": "(47) 98407-2235",
+      "address": "R. Pernambuco, 344 - Anita Garibaldi, Joinville - SC, 89202-142",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Arvoredo Distribuidora de Produtos para Limpeza",
+      "href": "https://www.google.com/maps/place/Arvoredo+Distribuidora+de+Produtos+para+Limpeza/data=!4m7!3m6!1s0x94deaff3fb248547:0xcdc47c780c906901!8m2!3d-26.275536!4d-48.8746219!16s%2Fg%2F1tfd3k9d!19sChIJR4Uk-_Ov3pQRAWmQDHh8xM0",
+      "phone": "(47) 99914-0000",
+      "address": "R. Dona Elza Meinert, 178 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ecolimpos Produtos de Limpeza",
+      "href": "https://www.google.com/maps/place/Ecolimpos+Produtos+de+Limpeza/data=!4m7!3m6!1s0x94deaf9f667df5b3:0x26a8c5dc515fbb57!8m2!3d-26.2731344!4d-48.8801668!16s%2Fg%2F11wptfy16x!19sChIJs_V9Zp-v3pQRV7tfUdzFqCY",
+      "phone": "(47) 99286-5457",
+      "address": "Rua: Inambu, 786 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Breeze Soluções em Limpeza LTDA",
+      "href": "https://www.google.com/maps/place/Breeze+Solu%C3%A7%C3%B5es+em+Limpeza+LTDA/data=!4m7!3m6!1s0x94deafc1d7ace479:0xc9a2c351439ad4c3!8m2!3d-26.2775156!4d-48.8534543!16s%2Fg%2F11zks40xbp!19sChIJeeSs18Gv3pQRw9SaQ1HDosk",
+      "phone": "(47) 99958-3738",
+      "address": "R. João Pessoa, 694 - Santo Antônio, Joinville - SC, 89218-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empresa de pós obra Cyssa e Diaristas",
+      "href": "https://www.google.com/maps/place/Empresa+de+p%C3%B3s+obra+Cyssa+e+Diaristas/data=!4m7!3m6!1s0x94deb121f871cad7:0xc220b1dde575e715!8m2!3d-26.2799736!4d-48.8076348!16s%2Fg%2F11zgljm98_!19sChIJ18px-CGx3pQRFed15d2xIMI",
+      "phone": "(47) 99699-9284",
+      "address": "R. Avencal, 694 - Comasa, Joinville - SC, 89228-080",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESQUADRÃO DA LIMPEZA - Serviços de Limpeza ltda",
+      "href": "https://www.google.com/maps/place/ESQUADR%C3%83O+DA+LIMPEZA+-+Servi%C3%A7os+de+Limpeza+ltda/data=!4m7!3m6!1s0x94deafd7dac9bdc5:0x74293333f8e63a4a!8m2!3d-26.2762965!4d-48.8111026!16s%2Fg%2F11vz2dd4dq!19sChIJxb3J2tev3pQRSjrm-DMzKXQ",
+      "phone": "(47) 98906-0428",
+      "address": "R. Albano Schmidt, 4478 - Sl 02 - Comasa, Joinville - SC, 89228-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Só Tapetes Lavanderia & Manutenção",
+      "href": "https://www.google.com/maps/place/S%C3%B3+Tapetes+Lavanderia+%26+Manuten%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deafed7b0188b9:0x26cfe72b91fd597a!8m2!3d-26.2709922!4d-48.8690873!16s%2Fg%2F1tdwg20t!19sChIJuYgBe-2v3pQReln9kSvnzyY",
+      "phone": "(47) 99774-1908",
+      "address": "R. Ver. Conrado de Mira, 348 - Costa e Silva, Joinville - SC, 89218-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chrislaine Schurhaus Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Chrislaine+Schurhaus+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deaff15cf3e151:0x5574dd67ab41bc48!8m2!3d-26.269058!4d-48.8725297!16s%2Fg%2F11ykxk8tmn!19sChIJUeHzXPGv3pQRSLxBq2fddFU",
+      "phone": "(47) 99717-1773",
+      "address": "Rua Otto Pfuetzenreuter, 535 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kalserak prestadora de serviços e reparos",
+      "href": "https://www.google.com/maps/place/Kalserak+prestadora+de+servi%C3%A7os+e+reparos/data=!4m7!3m6!1s0x94deaf2d6e47a43f:0x496cbd49bc4ab886!8m2!3d-26.2747775!4d-48.8715424!16s%2Fg%2F11fjbqxhzs!19sChIJP6RHbi2v3pQRhrhKvEm9bEk",
+      "phone": "(47) 99655-0599",
+      "address": "R. Henrique Miers, n° 1669 - Costa e Silva, Joinville - SC, 89218-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NB Serviços Gerais",
+      "href": "https://www.google.com/maps/place/NB+Servi%C3%A7os+Gerais/data=!4m7!3m6!1s0x94dea5a4c5abeaa5:0x341ddfcf6e1a74d6!8m2!3d-26.2816898!4d-48.883395!16s%2Fg%2F11vptdggvt!19sChIJpeqrxaSl3pQR1nQabs_fHTQ",
+      "phone": "(47) 99684-2495",
+      "address": "R. Eduardo Brodbeck, 105 - Costa e Silva, Joinville - SC, 89217-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Top Limpezas Joinville",
+      "href": "https://www.google.com/maps/place/Top+Limpezas+Joinville/data=!4m7!3m6!1s0x94dea52e580c5a2d:0xb831371831b81336!8m2!3d-26.2662231!4d-48.9222413!16s%2Fg%2F11h2mq35mm!19sChIJLVoMWC6l3pQRNhO4MRg3Mbg",
+      "phone": "(47) 99702-2256",
+      "address": "R. dos Portugueses, 2391 - Vila Nova, Joinville - SC, 89237-780",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Realiza Serviços de Limpeza e Conservação",
+      "href": "https://www.google.com/maps/place/Realiza+Servi%C3%A7os+de+Limpeza+e+Conserva%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea54f4d2b2bc9:0xe8151029deef9888!8m2!3d-26.2890625!4d-48.8950879!16s%2Fg%2F1hhhp_rgh!19sChIJySsrTU-l3pQRiJjv3ikQFeg",
+      "phone": "(47) 3433-2553",
+      "address": "R. XV de Novembro, 5001 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Menestrina Higiene e Limpeza",
+      "href": "https://www.google.com/maps/place/Menestrina+Higiene+e+Limpeza/data=!4m7!3m6!1s0x94dea50006227e63:0xb292cfcac22c62f5!8m2!3d-26.2878205!4d-48.9025422!16s%2Fg%2F11yjkpjft9!19sChIJY34iBgCl3pQR9WIswsrPkrI",
+      "phone": "(47) 99114-4397",
+      "address": "R. Rudolf Baumer, 38 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Franco Higienização",
+      "href": "https://www.google.com/maps/place/Franco+Higieniza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea51c08e20c77:0x932e6470babdcd0c!8m2!3d-26.2904244!4d-48.9116056!16s%2Fg%2F11wfgtl1s3!19sChIJdwziCByl3pQRDM29unBkLpM",
+      "phone": "(47) 99782-4942",
+      "address": "R. Hildo Novaes, 640 - Vila Nova, Joinville - SC, 89237-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Arboville",
+      "href": "https://www.google.com/maps/place/Arboville/data=!4m7!3m6!1s0x94dea52288c7b02f:0x1344347fa57d7a1!8m2!3d-26.289414!4d-48.9208448!16s%2Fg%2F11h8cf_1g4!19sChIJL7DHiCKl3pQRoddX-kdDNAE",
+      "phone": "(47) 99215-6469",
+      "address": "R. Júlio Stolf - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Evandro Pedreiro em geral",
+      "href": "https://www.google.com/maps/place/Evandro+Pedreiro+em+geral/data=!4m7!3m6!1s0x94dea5d8e9264f0f:0x5015e96340152603!8m2!3d-26.2845595!4d-48.9161181!16s%2Fg%2F11njqnvl7s!19sChIJD08m6dil3pQRAyYVQGPpFVA",
+      "phone": "(47) 99230-9528",
+      "address": "R. Guilherme Kurtz, N° 288 - Vila Nova, Joinville - SC, 89237-645",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bloom Estética Animal e Atendimento Veterinário",
+      "href": "https://www.google.com/maps/place/Bloom+Est%C3%A9tica+Animal+e+Atendimento+Veterin%C3%A1rio/data=!4m7!3m6!1s0x94dea5b3cbe2d46f:0xc0add5d53bb73620!8m2!3d-26.2868754!4d-48.9167803!16s%2Fg%2F11y3rzthfs!19sChIJb9Tiy7Ol3pQRIDa3O9XVrcA",
+      "phone": "(47) 99134-4827",
+      "address": "R. XV de Novembro, 8470 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Limpe Já",
+      "href": "https://www.google.com/maps/place/Limpe+J%C3%A1/data=!4m7!3m6!1s0x94dea57a230396df:0xbdeacf7e4d568471!8m2!3d-26.2887083!4d-48.8951218!16s%2Fg%2F11fj2nrz7h!19sChIJ35YDI3ql3pQRcYRWTX7P6r0",
+      "phone": "(47) 98472-0945",
+      "address": "R. XV de Novembro, 5008 - sl 01 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "All Plus",
+      "href": "https://www.google.com/maps/place/All+Plus/data=!4m7!3m6!1s0x94dea51988360bad:0x70596eda9a6af642!8m2!3d-26.2793445!4d-48.9112021!16s%2Fg%2F1v8j1lhc!19sChIJrQs2iBml3pQRQvZqmtpuWXA",
+      "phone": "(47) 99936-7534",
+      "address": "R. Paulo Germano Baumer, 32 - Vila Nova, Joinville - SC, 89237-635",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Premyer impermeabilização e lavagem de estofados",
+      "href": "https://www.google.com/maps/place/Premyer+impermeabiliza%C3%A7%C3%A3o+e+lavagem+de+estofados/data=!4m7!3m6!1s0x94deb0e3975f7439:0x486b72fde9bc9682!8m2!3d-26.331512!4d-48.8451933!16s%2Fg%2F1tg9jq7d!19sChIJOXRfl-Ow3pQRgpa86f1ya0g",
+      "phone": "(47) 3436-7735",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EcoRota",
+      "href": "https://www.google.com/maps/place/EcoRota/data=!4m7!3m6!1s0x94deb1425d6c5543:0xcb49bdd3c4e685b4!8m2!3d-26.3336935!4d-48.8306974!16s%2Fg%2F11zbpmz9rc!19sChIJQ1VsXUKx3pQRtIXmxNO9Scs",
+      "phone": "(47) 98925-8579",
+      "address": "R. Monsenhor Gercino, 2071 - Itaum, Joinville - SC, 89210-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Residencial Raimannville",
+      "href": "https://www.google.com/maps/place/Residencial+Raimannville/data=!4m7!3m6!1s0x94deb11941e2d5a9:0x4f349d06ad744ad1!8m2!3d-26.3329349!4d-48.8334832!16s%2Fg%2F11clt03rmg!19sChIJqdXiQRmx3pQR0Up0rQadNE8",
+      "phone": "(47) 3026-4702",
+      "address": "R. Carmen Maria Farias de Vasconcellos - Itaum, Joinville - SC, 89210-134",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "H2H Manutenção Residencial e Predial",
+      "href": "https://www.google.com/maps/place/H2H+Manuten%C3%A7%C3%A3o+Residencial+e+Predial/data=!4m7!3m6!1s0x6b94c49b5b177f69:0xd111b3d1bdb09490!8m2!3d-26.3406415!4d-48.8220455!16s%2Fg%2F11ytw50zkd!19sChIJaX8XW5vElGsRkJSwvdGzEdE",
+      "phone": "(47) 99199-7049",
+      "address": "R. Monsenhor Gercino, 3301 - Itaum, Joinville - SC, 89210-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jc personal cleaner",
+      "href": "https://www.google.com/maps/place/Jc+personal+cleaner/data=!4m7!3m6!1s0x94deb1c4f79ffcc9:0x5bb7824476c93cb5!8m2!3d-26.325583!4d-48.8310112!16s%2Fg%2F11vj2cd70t!19sChIJyfyf98Sx3pQRtTzJdkSCt1s",
+      "phone": "(47) 99630-7908",
+      "address": "R. Guanabara, 765 - Guanabara, Joinville - SC, 89207-299",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Verde Vale",
+      "href": "https://www.google.com/maps/place/Verde+Vale/data=!4m7!3m6!1s0x94deb106062765c5:0x5af9f9577ae600ef!8m2!3d-26.3213528!4d-48.8329343!16s%2Fg%2F11s16t0l6v!19sChIJxWUnBgax3pQR7wDmelf5-Vo",
+      "phone": "(47) 3227-4864",
+      "address": "R. Graciosa, 697 - sala 2 e 3 - Guanabara, Joinville - SC, 89207-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lavanderia Econômica",
+      "href": "https://www.google.com/maps/place/Lavanderia+Econ%C3%B4mica/data=!4m7!3m6!1s0x94deb102f265adb5:0xe7dc24e16cca6902!8m2!3d-26.325207!4d-48.8382909!16s%2Fg%2F11g6hw6wlf!19sChIJta1l8gKx3pQRAmnKbOEk3Oc",
+      "phone": "(47) 3466-2826",
+      "address": "R. Graciosa, 50 - Itaum, Joinville - SC, 89210-023",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AUTORIZADA ELECTROLUX FG REFRIGERAÇÃO.",
+      "href": "https://www.google.com/maps/place/AUTORIZADA+ELECTROLUX+FG+REFRIGERA%C3%87%C3%83O./data=!4m7!3m6!1s0x94deb1c9563adec5:0xac30c57dd80e1230!8m2!3d-26.3380854!4d-48.8261863!16s%2Fg%2F11sy01qmrv!19sChIJxd46Vsmx3pQRMBIO2H3FMKw",
+      "phone": "(47) 3271-1174",
+      "address": "Rua: Monsenhor Gercino, 2740 - Itaum, Joinville - SC, 89210-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nano Estética Automotiva",
+      "href": "https://www.google.com/maps/place/Nano+Est%C3%A9tica+Automotiva/data=!4m7!3m6!1s0x94deb15164013fd7:0x3d7b281c6a77bce4!8m2!3d-26.3360143!4d-48.8366947!16s%2Fg%2F11sm7qd3s1!19sChIJ1z8BZFGx3pQR5Lx3ahwoez0",
+      "phone": "(47) 99115-1609",
+      "address": "R. Campo Erê, 314 - Sl 01 - Itaum, Joinville - SC, 89210-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa de Embalagens - PH Embalagens e Festas",
+      "href": "https://www.google.com/maps/place/Casa+de+Embalagens+-+PH+Embalagens+e+Festas/data=!4m7!3m6!1s0x94deb6d113f701e7:0x4d1df580333cc14d!8m2!3d-26.3606908!4d-48.8312144!16s%2Fg%2F1td5mw2j!19sChIJ5wH3E9G23pQRTcE8M4D1HU0",
+      "phone": "(47) 3465-0006",
+      "address": "R. Boehmerwald, nº776 - Sl 02 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lavação Boehmerwald",
+      "href": "https://www.google.com/maps/place/Lava%C3%A7%C3%A3o+Boehmerwald/data=!4m7!3m6!1s0x94deb6d1363c9fed:0xec0560f5e6842a9a!8m2!3d-26.3607619!4d-48.8342979!16s%2Fg%2F11b8jcsrn7!19sChIJ7Z88NtG23pQRmiqE5vVgBew",
+      "phone": "(47) 99676-0008",
+      "address": "R. Boehmerwald, 485 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Oliveira higienização",
+      "href": "https://www.google.com/maps/place/Oliveira+higieniza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb72994e59801:0xee1e75eb3226c2b3!8m2!3d-26.3551755!4d-48.8255251!16s%2Fg%2F11np_21lr_!19sChIJAZjllCm33pQRs8ImMut1Hu4",
+      "phone": "(47) 98926-4565",
+      "address": "R. Rodolfo Schoene, 633 - casa 2 - Boehmerwald, Joinville - SC, 89232-445",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Clean",
+      "href": "https://www.google.com/maps/place/Casa+Clean/data=!4m7!3m6!1s0x94deb6b5450b883f:0x4f9a23add2999bc4!8m2!3d-26.3499655!4d-48.8188578!16s%2Fg%2F11b8c4ybcc!19sChIJP4gLRbW23pQRxJuZ0q0jmk8",
+      "phone": "(47) 98419-9042",
+      "address": "R. João da Costa Júnior, 1120 - João Costa, Joinville - SC, 89209-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MG Limpeza de piscinas e prestadora de serviços",
+      "href": "https://www.google.com/maps/place/MG+Limpeza+de+piscinas+e+prestadora+de+servi%C3%A7os/data=!4m7!3m6!1s0x94deb70887bff571:0x5f18f62d72b2fabb!8m2!3d-26.3595712!4d-48.8391323!16s%2Fg%2F11t14yy5vk!19sChIJcfW_hwi33pQRu_qyci32GF8",
+      "phone": "(47) 99682-6505",
+      "address": "R. João Filete de Oliveira, 236 - Boehmerwald, Joinville - SC, 89232-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NEW CLEAN MORAES HIGIENIZAÇÃO ESTÉTICA AUTOMOTIVA, LAVANDERIA E INSTALAÇÃO DE CORTINAS E PERSIANAS",
+      "href": "https://www.google.com/maps/place/NEW+CLEAN+MORAES+HIGIENIZA%C3%87%C3%83O+EST%C3%89TICA+AUTOMOTIVA,+LAVANDERIA+E+INSTALA%C3%87%C3%83O+DE+CORTINAS+E+PERSIANAS/data=!4m7!3m6!1s0x94deafa53be0874d:0x40646fc71df9ad57!8m2!3d-26.2546237!4d-48.8209796!16s%2Fg%2F11v438d0t1!19sChIJTYfgO6Wv3pQRV635HcdvZEA",
+      "phone": "(47) 99703-7506",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

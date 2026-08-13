@@ -1,0 +1,687 @@
+{
+  "id": "arquitetura",
+  "nome": "Arquitetura",
+  "terms": [
+    "arquiteto",
+    "escritório de arquitetura",
+    "arquitetura"
+  ],
+  "profiles": 241,
+  "qualified": [
+    {
+      "name": "ZAAV Arquitetura",
+      "href": "https://www.google.com/maps/place/ZAAV+Arquitetura/data=!4m7!3m6!1s0x94deb010ae1810e7:0xa219f9492d36a668!8m2!3d-26.2946414!4d-48.8538345!16s%2Fg%2F11bvvzlnpz!19sChIJ5xAYrhCw3pQRaKY2LUn5GaI",
+      "phone": "(47) 98888-5072",
+      "address": "R. Max Colin, 1155 - Sl 02 - América, Joinville - SC, 89204-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ealia Arquitetura Joinville",
+      "href": "https://www.google.com/maps/place/Ealia+Arquitetura+Joinville/data=!4m7!3m6!1s0x65f4a0ccca60904f:0xf0412519d7835ca1!8m2!3d-26.3196866!4d-48.826212!16s%2Fg%2F11kc2brws0!19sChIJT5Bgysyg9GURoVyD1xklQfA",
+      "phone": "(47) 98859-6718",
+      "address": "R. Santo Agostinho - Guanabara, Joinville - SC, 89207-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Grupo de Arquitetura E&R",
+      "href": "https://www.google.com/maps/place/Grupo+de+Arquitetura+E%26R/data=!4m7!3m6!1s0x94deb0f3a664488f:0xae474e8d75bf18d7!8m2!3d-26.3304587!4d-48.857424!16s%2Fg%2F1pv013p5x!19sChIJj0hkpvOw3pQR1xi_dY1OR64",
+      "phone": "(47) 3029-2690",
+      "address": "R. Copacabana, 666 - Floresta, Joinville - SC, 89211-388",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estúdio Criativo Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Est%C3%BAdio+Criativo+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deb165d9e60669:0xa51ae1fb7343ad76!8m2!3d-26.3246795!4d-48.8617305!16s%2Fg%2F1v62jtd5!19sChIJaQbm2WWx3pQRdq1Dc_vhGqU",
+      "phone": "(47) 3017-2777",
+      "address": "Com estacionamento - R. Anita Garibaldi, 2027 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SZOMA Arquitetura Corporativa e Industrial",
+      "href": "https://www.google.com/maps/place/SZOMA+Arquitetura+Corporativa+e+Industrial/data=!4m7!3m6!1s0x94deb1540325a9f1:0xfbb34127c2004877!8m2!3d-26.2921696!4d-48.845642!16s%2Fg%2F11q7zkx08w!19sChIJ8aklA1Sx3pQRd0gAwidBs_s",
+      "phone": "(47) 3025-6475",
+      "address": "Parco Perini - Alameda Rolf Colin, 109 Galpão BD - América, Joinville - SC, 89204-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Projeção Arquitetura e Engenharia",
+      "href": "https://www.google.com/maps/place/Proje%C3%A7%C3%A3o+Arquitetura+e+Engenharia/data=!4m7!3m6!1s0x94deb16b03cfde09:0xf2e43b1623f1d18d!8m2!3d-26.3270012!4d-48.8173642!16s%2Fg%2F113hg8v3d!19sChIJCd7PA2ux3pQRjdHxIxY75PI",
+      "phone": "(47) 3436-5310",
+      "address": "R. Fátima, 1590 - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Volles Arquitetura",
+      "href": "https://www.google.com/maps/place/Volles+Arquitetura/data=!4m7!3m6!1s0x94deb044eb2ef6df:0x193def871b383249!8m2!3d-26.3159063!4d-48.8633625!16s%2Fg%2F11b81v84r9!19sChIJ3_Yu60Sw3pQRSTI4G4fvPRk",
+      "phone": "(47) 3307-2645",
+      "address": "R. Xavantes, 54 - Atiradores, Joinville - SC, 89203-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio 3x1 - Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Studio+3x1+-+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deb17298e77945:0x2e89213fcaee5567!8m2!3d-26.3028172!4d-48.8511776!16s%2Fg%2F11q19gxbj0!19sChIJRXnnmHKx3pQRZ1Xuyj8hiS4",
+      "phone": "(47) 99715-7057",
+      "address": "Edificio Helbor offices, Rua Henrique Meyer, 280 - sala 811 - Centro, Joinville - SC, 89201-405",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jéssica Cagnini Arquitetura e interiores",
+      "href": "https://www.google.com/maps/place/J%C3%A9ssica+Cagnini+Arquitetura+e+interiores/data=!4m7!3m6!1s0x94deb19d564e77a3:0x3f9f3239b0ec8c11!8m2!3d-26.3045704!4d-48.8465415!16s%2Fg%2F11f65cvbsw!19sChIJo3dOVp2x3pQREYzssDkynz8",
+      "phone": "(47) 99978-5485",
+      "address": "Av. Juscelino Kubitscheck, 350 - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bauhaus Studio",
+      "href": "https://www.google.com/maps/place/Bauhaus+Studio/data=!4m7!3m6!1s0x94deb03b79b8d70d:0xa7668d4eb54e9bb2!8m2!3d-26.2956985!4d-48.8543367!16s%2Fg%2F11bv1p94w2!19sChIJDde4eTuw3pQRsptOtU6NZqc",
+      "phone": "(47) 3029-2137",
+      "address": "R. Jaraguá, 337 - América, Joinville - SC, 89204-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Delai arquitetura",
+      "href": "https://www.google.com/maps/place/Delai+arquitetura/data=!4m7!3m6!1s0x94deb0248800001f:0x1b70498935646df5!8m2!3d-26.2911345!4d-48.8544118!16s%2Fg%2F11gzt82t3!19sChIJHwAAiCSw3pQR9W1kNYlJcBs",
+      "phone": "(47) 99952-6910",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ARQS Arquitetura",
+      "href": "https://www.google.com/maps/place/ARQS+Arquitetura/data=!4m7!3m6!1s0x94deb1d3587c6a65:0x464c5623033d9cdb!8m2!3d-26.2822438!4d-48.8362654!16s%2Fg%2F11dyzn89zt!19sChIJZWp8WNOx3pQR25w9AyNWTEY",
+      "phone": "(47) 98411-0596",
+      "address": "R. Carlos Benack, 183 - Saguaçu, Joinville - SC, 89221-195",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Singular Arquitetura e Planejamento",
+      "href": "https://www.google.com/maps/place/Singular+Arquitetura+e+Planejamento/data=!4m7!3m6!1s0x94deb1997dda6b37:0x11b686310b341b98!8m2!3d-26.316204!4d-48.8637482!16s%2Fg%2F11p5kqn__h!19sChIJN2vafZmx3pQRmBs0CzGGthE",
+      "phone": "(47) 99753-0003",
+      "address": "R. Xavantes, 54 - Atiradores, Joinville - SC, 89203-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Spot Arquitetos",
+      "href": "https://www.google.com/maps/place/Spot+Arquitetos/data=!4m7!3m6!1s0x94deaf85ac6245a9:0x9c03c8c4f7e82aa3!8m2!3d-26.3002598!4d-48.8532216!16s%2Fg%2F11f7720fc0!19sChIJqUVirIWv3pQRoyro98TIA5w",
+      "phone": "(47) 99160-1555",
+      "address": "R. Expedicionário Holz, 550 - Sl 1404 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JASS Joinville Arquitetos SS",
+      "href": "https://www.google.com/maps/place/JASS+Joinville+Arquitetos+SS/data=!4m7!3m6!1s0x94deb040007d6c81:0x37e2244871b6ef10!8m2!3d-26.3051517!4d-48.8597063!16s%2Fg%2F11h0ng2zp!19sChIJgWx9AECw3pQREO-2cUgk4jc",
+      "phone": "(47) 99133-5357",
+      "address": "R. Germano Fischer, 37 - Glória, Joinville - SC, 89216-294",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Criativo Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Criativo+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deb110e7459109:0x7e77534f1d2ec888!8m2!3d-26.3204611!4d-48.8521319!16s%2Fg%2F11t7n3l2vs!19sChIJCZFF5xCx3pQRiMguHU9Td34",
+      "phone": "(47) 99660-6821",
+      "address": "R. Anita Garibaldi, 866 - sala 04 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Scala Arquitetura",
+      "href": "https://www.google.com/maps/place/Studio+Scala+Arquitetura/data=!4m7!3m6!1s0x94deb1537db5f93f:0x5c603bba9cf7b329!8m2!3d-26.3190694!4d-48.8489974!16s%2Fg%2F11fljq7qgw!19sChIJP_m1fVOx3pQRKbP3nLo7YFw",
+      "phone": "(47) 99202-1229",
+      "address": "R. Porto União, 196 - Sl 02 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gil Bessa Arquiteto",
+      "href": "https://www.google.com/maps/place/Gil+Bessa+Arquiteto/data=!4m7!3m6!1s0x94deb05cb83c67bb:0x6e8b7e7c93db7846!8m2!3d-26.3143885!4d-48.8559681!16s%2Fg%2F1tfjgpjl!19sChIJu2c8uFyw3pQRRnjbk3x-i24",
+      "phone": "(47) 99107-1108",
+      "address": "R. Corupá, 320 - Anita Garibaldi, Joinville - SC, 89203-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "D Mais Arquitetura e Engenharia",
+      "href": "https://www.google.com/maps/place/D+Mais+Arquitetura+e+Engenharia/data=!4m7!3m6!1s0x94deb112223ed753:0xe7e35ed6607355b5!8m2!3d-26.315188!4d-48.8603996!16s%2Fg%2F11g0g_wrwh!19sChIJU9c-IhKx3pQRtVVzYNZe4-c",
+      "phone": "(47) 99678-7511",
+      "address": "R. Gothard Kaesemodel, 119 - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maikon Kaiser | Arquitetura & Planejamento",
+      "href": "https://www.google.com/maps/place/Maikon+Kaiser+%7C+Arquitetura+%26+Planejamento/data=!4m7!3m6!1s0x94deb1855ea57e91:0x2461e30be13296a7!8m2!3d-26.3183251!4d-48.8565674!16s%2Fg%2F11h19709bm!19sChIJkX6lXoWx3pQRp5Yy4QvjYSQ",
+      "phone": "(47) 99607-7741",
+      "address": "R. Gothard Kaesemodel, n° 641 - Sl 03 - Anita Garibaldi, Joinville - SC, 89203-522",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Abacate",
+      "href": "https://www.google.com/maps/place/Abacate/data=!4m7!3m6!1s0x94deb1a1378844ff:0x7ce1d91aaed5e9fe!8m2!3d-26.3233059!4d-48.8559032!16s%2Fg%2F11q_qzpmkm!19sChIJ_0SIN6Gx3pQR_unVrhrZ4Xw",
+      "phone": "(47) 99202-2002",
+      "address": "R. Max Heiden, 121 - Sl 06 - Anita Garibaldi, Joinville - SC, 89203-522",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aneliza Bozzola",
+      "href": "https://www.google.com/maps/place/Aneliza+Bozzola/data=!4m7!3m6!1s0x94deb04496c3f75f:0x5d4e5e97167bf76c!8m2!3d-26.3114362!4d-48.8535615!16s%2Fg%2F11bwfh_tf4!19sChIJX_fDlkSw3pQRbPd7FpdeTl0",
+      "phone": "(47) 99964-2222",
+      "address": "R. Rio Grande do Sul, 145 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Spazio Engenharia e Arquitetura",
+      "href": "https://www.google.com/maps/place/Spazio+Engenharia+e+Arquitetura/data=!4m7!3m6!1s0x94deb051b2e98b21:0xfa3991ad6f3959a2!8m2!3d-26.3121393!4d-48.8473384!16s%2Fg%2F1pt_t0l0_!19sChIJIYvpslGw3pQRolk5b62ROfo",
+      "phone": "(47) 3027-3555",
+      "address": "R. Alexandre Schlemm, 644 - Anita Garibaldi, Joinville - SC, 60892-032",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EZ Projetos e Interiores",
+      "href": "https://www.google.com/maps/place/EZ+Projetos+e+Interiores/data=!4m7!3m6!1s0x94deafa26833e135:0xe18c2af1ea27e463!8m2!3d-26.2962449!4d-48.8649396!16s%2Fg%2F11h0jq8qjl!19sChIJNeEzaKKv3pQRY-Qn6vEqjOE",
+      "phone": "(47) 3043-6413",
+      "address": "R. Marquês de Olinda, 3550 - Glória, Joinville - SC, 89216-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Voss Arquitetura e Engenharia",
+      "href": "https://www.google.com/maps/place/Voss+Arquitetura+e+Engenharia/data=!4m7!3m6!1s0x94deb1dd452d3417:0xa8f3ffab86d3883!8m2!3d-26.314728!4d-48.8591508!16s%2Fg%2F11vr04ljr2!19sChIJFzQtRd2x3pQRgzhtuPo_jwo",
+      "phone": "(47) 99748-9361",
+      "address": "R. Caçador, 189 - Anita Garibaldi, Joinville - SC, 89203-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agnes Schwartz Arquitetura Ltda",
+      "href": "https://www.google.com/maps/place/Agnes+Schwartz+Arquitetura+Ltda/data=!4m7!3m6!1s0x94deb1d10743fed9:0xd3aba845c5fba0ac!8m2!3d-26.2832681!4d-48.832376!16s%2Fg%2F1th5dqm9!19sChIJ2f5DB9Gx3pQRrKD7xUWoq9M",
+      "phone": "(47) 98811-2367",
+      "address": "R. Ágata, 342 - Saguaçu, Joinville - SC, 89221-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Criação",
+      "href": "https://www.google.com/maps/place/Centro+de+Cria%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb02d43fe4361:0x910b8fc24f810ec4!8m2!3d-26.2878823!4d-48.8406983!16s%2Fg%2F11b86dczvq!19sChIJYUP-Qy2w3pQRxA6BT8KPC5E",
+      "phone": "(47) 98421-6688",
+      "address": "R. Dona Francisca, 1700 - Sl 03 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Márcio Batista Arquitetura",
+      "href": "https://www.google.com/maps/place/M%C3%A1rcio+Batista+Arquitetura/data=!4m7!3m6!1s0x94deb0348c3b3c8f:0x8c04c0f6439ade57!8m2!3d-26.295092!4d-48.8416745!16s%2Fg%2F11bv5tw8sv!19sChIJjzw7jDSw3pQRV96aQ_bABIw",
+      "phone": "(47) 3043-1216",
+      "address": "R. Dona Francisca, 801 - Sl 16 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FOCCUS ARQUITETURA E ENGENHARIA LTDA",
+      "href": "https://www.google.com/maps/place/FOCCUS+ARQUITETURA+E+ENGENHARIA+LTDA/data=!4m7!3m6!1s0x94deaf5ebeb61433:0x353fdefe89ef0ab6!8m2!3d-26.2749443!4d-48.8668876!16s%2Fg%2F11ghfbskl1!19sChIJMxS2vl6v3pQRtgrvif7ePzU",
+      "phone": "(47) 99763-6138",
+      "address": "R. Guilherme, 1191 - Sl 04 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pegoretti Arquitetura e Construção",
+      "href": "https://www.google.com/maps/place/Pegoretti+Arquitetura+e+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb1a68f6a7225:0x921e487b7681da29!8m2!3d-26.2880914!4d-48.8798372!16s%2Fg%2F1vh_9jb_!19sChIJJXJqj6ax3pQRKdqBdntIHpI",
+      "phone": "(47) 3028-0003",
+      "address": "R. Bernardo Ziemer, 121 - Glória, Joinville - SC, 89217-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paula Costa",
+      "href": "https://www.google.com/maps/place/Paula+Costa/data=!4m7!3m6!1s0x94deb00036f9e199:0x95206d4537153ada!8m2!3d-26.2930887!4d-48.8779815!16s%2Fg%2F11fy4f9528!19sChIJmeH5NgCw3pQR2joVN0VtIJU",
+      "phone": "(47) 98418-5985",
+      "address": "R. Arthur Baechtold, 3788 - Glória, Joinville - SC, 89216-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Âmbito Arquitetura",
+      "href": "https://www.google.com/maps/place/%C3%82mbito+Arquitetura/data=!4m7!3m6!1s0x94deafeae301359f:0x5599906ddd72d362!8m2!3d-26.2687762!4d-48.8621996!16s%2Fg%2F11f1241tjh!19sChIJnzUB4-qv3pQRYtNy3W2QmVU",
+      "phone": "(47) 4101-0250",
+      "address": "R. Félix Heinzelmann, 457 - Sala 203 - Santo Antônio, Joinville - SC, 89218-321",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RVB Arquitetura Consultoria e Construções Ltda",
+      "href": "https://www.google.com/maps/place/RVB+Arquitetura+Consultoria+e+Constru%C3%A7%C3%B5es+Ltda/data=!4m7!3m6!1s0x94deafe53be7961b:0x60f3fa49bdbeed73!8m2!3d-26.2808608!4d-48.8687578!16s%2Fg%2F11gzw0sfw!19sChIJG5bnO-Wv3pQRc-2-vUn682A",
+      "phone": "(47) 99995-2187",
+      "address": "R. Pero Vaz de Caminha, 381 - Costa e Silva, Joinville - SC, 89218-520",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lux Arquitetura e Engenharia Ltda",
+      "href": "https://www.google.com/maps/place/Lux+Arquitetura+e+Engenharia+Ltda/data=!4m7!3m6!1s0x94deafdce53efcab:0xa1a1e5ff95b7cd71!8m2!3d-26.2793307!4d-48.8658047!16s%2Fg%2F11fjty4gjd!19sChIJq_w-5dyv3pQRcc23lf_loaE",
+      "phone": "(47) 99900-4997",
+      "address": "R. Guilherme, 591 - Sl 01 - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "408 Engenharia e Arquitetura",
+      "href": "https://www.google.com/maps/place/408+Engenharia+e+Arquitetura/data=!4m7!3m6!1s0x94deaf7144e78e73:0x850d2ca06bbf3c2!8m2!3d-26.2686546!4d-48.87508!16s%2Fg%2F11mw7lxplh!19sChIJc47nRHGv3pQRwvO7BsrSUAg",
+      "phone": "(47) 99700-5636",
+      "address": "R. Bem-Te-Vi, 408 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carolina Maia Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Carolina+Maia+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deaf106b2b1d13:0x8aa41a49404691db!8m2!3d-26.2648426!4d-48.8676571!16s%2Fg%2F11mvgy16_w!19sChIJEx0raxCv3pQR25FGQEkapIo",
+      "phone": "(47) 99954-0410",
+      "address": "Rua Roberto Wolf - Costa e Silva, Joinville - SC, 89219-162",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adriano Gorges",
+      "href": "https://www.google.com/maps/place/Adriano+Gorges/data=!4m7!3m6!1s0x94dea53939d5965d:0x3aa57ddc9569d42f!8m2!3d-26.2944036!4d-48.9020753!16s%2Fg%2F11wc8rgm7f!19sChIJXZbVOTml3pQRL9Rpldx9pTo",
+      "phone": "(47) 98870-3174",
+      "address": "R. Rudolf Baumer - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Winter Arquitetura e Engenharia",
+      "href": "https://www.google.com/maps/place/Winter+Arquitetura+e+Engenharia/data=!4m7!3m6!1s0x94deb1c9c2f15cc1:0xe119ded7bc984821!8m2!3d-26.2958416!4d-48.8738735!16s%2Fg%2F11h7d9ps4k!19sChIJwVzxwsmx3pQRIUiYvNfeGeE",
+      "phone": "(47) 99169-7317",
+      "address": "R. Cristiano Lueders - Glória, Joinville - SC, 89216-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Épya Arquitetura, Interiores e Engenharia",
+      "href": "https://www.google.com/maps/place/%C3%89pya+Arquitetura,+Interiores+e+Engenharia/data=!4m7!3m6!1s0x94dea55685c81e5b:0x900fdbad208396ab!8m2!3d-26.2883054!4d-48.8829372!16s%2Fg%2F11c1rfz8ph!19sChIJWx7IhVal3pQRq5aDIK3bD5A",
+      "phone": "(47) 3026-5539",
+      "address": "R. Rudolfo Schmalz, 96 - Glória, Joinville - SC, 89217-023",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hagel Arquitetura",
+      "href": "https://www.google.com/maps/place/Hagel+Arquitetura/data=!4m7!3m6!1s0x94deb18206a1e325:0xcf19bee8e9f705e4!8m2!3d-26.293129!4d-48.8678762!16s%2Fg%2F11yzn3x8bm!19sChIJJeOhBoKx3pQR5AX36ei-Gc8",
+      "phone": "(47) 98805-8928",
+      "address": "R. Pres. Campos Salles, 310 - Sl 01 - Glória, Joinville - SC, 89217-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VW Soluções",
+      "href": "https://www.google.com/maps/place/VW+Solu%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94dea549a800909d:0xcd54e3e0e891bd70!8m2!3d-26.2921382!4d-48.8976317!16s%2Fg%2F11g6py18gm!19sChIJnZAAqEml3pQRcL2R6ODjVM0",
+      "phone": "(47) 99257-7168",
+      "address": "R. Leopoldo Beninca, 120 - Vila Nova, Joinville - SC, 89237-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Primus Interiores",
+      "href": "https://www.google.com/maps/place/Primus+Interiores/data=!4m7!3m6!1s0x94dea541a5dea9f3:0xbdd58ed05167b906!8m2!3d-26.2831893!4d-48.8965784!16s%2Fg%2F11f3c8_rb8!19sChIJ86nepUGl3pQRBrlnUdCO1b0",
+      "phone": "(47) 3473-6341",
+      "address": "R. Pascoal Filippi, 426 - Vila Nova, Joinville - SC, 89237-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LK Studio Arquitetura",
+      "href": "https://www.google.com/maps/place/LK+Studio+Arquitetura/data=!4m7!3m6!1s0x94deb0113a81458f:0xc45720dc973ec6ba!8m2!3d-26.3007902!4d-48.8653025!16s%2Fg%2F11csq8rlnk!19sChIJj0WBOhGw3pQRusY-l9wgV8Q",
+      "phone": "(47) 98842-5626",
+      "address": "R. Silva Jardim, 439 - Glória, Joinville - SC, 89216-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fontana Projetos",
+      "href": "https://www.google.com/maps/place/Fontana+Projetos/data=!4m7!3m6!1s0x94deb1e439ad6d4b:0x7e686d6409e3c053!8m2!3d-26.3276734!4d-48.8527499!16s%2Fg%2F11l33nkd4r!19sChIJS22tOeSx3pQRU8DjCWRtaH4",
+      "phone": "(47) 99952-0300",
+      "address": "R. Carlos Schroeder, 81 - Floresta, Joinville - SC, 89211-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Camila Furtado Arquitetura",
+      "href": "https://www.google.com/maps/place/Camila+Furtado+Arquitetura/data=!4m7!3m6!1s0x94deb02620a8cccd:0x7d2573b84e18f017!8m2!3d-26.335187!4d-48.8549708!16s%2Fg%2F11b81v2_9p!19sChIJzcyoICaw3pQRF_AYTrhzJX0",
+      "phone": "(47) 3027-3501",
+      "address": "R. João Paul, 280 - Sl 3501 - Floresta, Joinville - SC, 89201-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PROJ",
+      "href": "https://www.google.com/maps/place/PROJ/data=!4m7!3m6!1s0x94deb129efb61f31:0xfdadc2c7e5ede75a!8m2!3d-26.3342851!4d-48.8459245!16s%2Fg%2F11jlz9xqwl!19sChIJMR-27ymx3pQRWuft5cfCrf0",
+      "phone": "(47) 99618-4337",
+      "address": "Av. Antônio Ramos Alvim, 1350 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Formatus Engenharia e Arquitetura",
+      "href": "https://www.google.com/maps/place/Formatus+Engenharia+e+Arquitetura/data=!4m7!3m6!1s0x94deb1023e41b011:0x3450f26d811f0edd!8m2!3d-26.3230341!4d-48.838392!16s%2Fg%2F11g6x8_84_!19sChIJEbBBPgKx3pQR3Q4fgW3yUDQ",
+      "phone": "(47) 99968-3824",
+      "address": "R. Florianópolis, 304 - Guanabara, Joinville - SC, 89207-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Luana Mattos, essência q",
+      "href": "https://www.google.com/maps/place/Studio+Luana+Mattos,+ess%C3%AAncia+q/data=!4m7!3m6!1s0x94deafb4f83e19df:0x6cc8a5b9879da039!8m2!3d-26.339395!4d-48.7995745!16s%2Fg%2F11ys2l1hlp!19sChIJ3xk--LSv3pQROaCdh7mlyGw",
+      "phone": "(47) 99600-8834",
+      "address": "R. Monsenhor Gercino, 5851 - Itaum, Joinville - SC, 89230-325",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CLV Arquitetura",
+      "href": "https://www.google.com/maps/place/CLV+Arquitetura/data=!4m7!3m6!1s0x94deb1f667eae6c3:0x760f9c155e432666!8m2!3d-26.3193021!4d-48.8426626!16s%2Fg%2F11px0jpknx!19sChIJw-bqZ_ax3pQRZiZDXhWcD3Y",
+      "phone": "(47) 99609-4546",
+      "address": "R. São Paulo, 1310 - Bucarein, Joinville - SC, 89202-257",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ENGE W Projetos e Construções",
+      "href": "https://www.google.com/maps/place/ENGE+W+Projetos+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb15b5ecb0849:0x652ef74e8a2f589c!8m2!3d-26.323159!4d-48.8384434!16s%2Fg%2F11fm_3_zzh!19sChIJSQjLXlux3pQRnFgvik73LmU",
+      "phone": "(47) 99126-8755",
+      "address": "R. Florianópolis, 316 - Guanabara, Joinville - SC, 89207-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Solis Arquitetura, Engenharia e Empreiteira",
+      "href": "https://www.google.com/maps/place/Studio+Solis+Arquitetura,+Engenharia+e+Empreiteira/data=!4m7!3m6!1s0x94deb53e2063a963:0x5d01542ce5e19755!8m2!3d-26.3445158!4d-48.7900569!16s%2Fg%2F11qh65t0lt!19sChIJY6ljID613pQRVZfh5SxUAV0",
+      "phone": "(47) 99135-8292",
+      "address": "R. Calixto Manoel Monteiro, 25 - Paranaguamirim, Joinville - SC, 89231-552",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bouki Design",
+      "href": "https://www.google.com/maps/place/Bouki+Design/data=!4m7!3m6!1s0x94deb724f8e9937b:0x6c79b07a7f9b7043!8m2!3d-26.3655232!4d-48.8276192!16s%2Fg%2F11sj_f2_02!19sChIJe5Pp-CS33pQRQ3Cbf3qweWw",
+      "phone": "(47) 99645-7226",
+      "address": "R. dos Advogados - Boehmerwald, Joinville - SC, 89235-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MF Design & Fios Tecnológicos",
+      "href": "https://www.google.com/maps/place/MF+Design+%26+Fios+Tecnol%C3%B3gicos/data=!4m7!3m6!1s0x94deb7e5883814f9:0x8de42b01ec9f9450!8m2!3d-26.3621339!4d-48.8163965!16s%2Fg%2F11z8k_2sz0!19sChIJ-RQ4iOW33pQRUJSf7AEr5I0",
+      "phone": "(47) 99632-7139",
+      "address": "R. Boehmerwald, 2635 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dunzer Construção e Engenharia",
+      "href": "https://www.google.com/maps/place/Dunzer+Constru%C3%A7%C3%A3o+e+Engenharia/data=!4m7!3m6!1s0x94deb7b438fb9a43:0x4fdd790e54f48467!8m2!3d-26.362424!4d-48.8169233!16s%2Fg%2F11ntp1jk8q!19sChIJQ5r7OLS33pQRZ4T0VA553U8",
+      "phone": "(47) 99686-9130",
+      "address": "R. Boehmerwald, 1890 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RR climatização e instalação eletrica LTDA",
+      "href": "https://www.google.com/maps/place/RR+climatiza%C3%A7%C3%A3o+e+instala%C3%A7%C3%A3o+eletrica+LTDA/data=!4m7!3m6!1s0x94deb7f1cf6672ab:0x2829e8db68eed135!8m2!3d-26.3671764!4d-48.829779!16s%2Fg%2F11mkl3g9ps!19sChIJq3Jmz_G33pQRNdHuaNvoKSg",
+      "phone": "(47) 98834-7283",
+      "address": "R. João Cristino da Silva, 31 - Boehmerwald, Joinville - SC, 89235-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jaci Souza Beauty Studio",
+      "href": "https://www.google.com/maps/place/Jaci+Souza+Beauty+Studio/data=!4m7!3m6!1s0x94deb700602344a7:0xa10ef18fc371786d!8m2!3d-26.3675403!4d-48.8319454!16s%2Fg%2F11x6g6c2gt!19sChIJp0QjYAC33pQRbXhxw4_xDqE",
+      "phone": "(47) 99741-2971",
+      "address": "R. Afonso Moreira, 9 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anderson Ferreira Designer Gráfico",
+      "href": "https://www.google.com/maps/place/Anderson+Ferreira+Designer+Gr%C3%A1fico/data=!4m7!3m6!1s0x94deb7c01984efd9:0x9928fa3b8c625553!8m2!3d-26.3829669!4d-48.8211615!16s%2Fg%2F11g24gmc7d!19sChIJ2e-EGcC33pQRU1VijDv6KJk",
+      "phone": "(47) 99229-6508",
+      "address": "R. São Clemente - Itinga, Joinville - SC, 89235-398",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GD Guiando no Digital",
+      "href": "https://www.google.com/maps/place/GD+Guiando+no+Digital/data=!4m7!3m6!1s0x94deb1b94b36855f:0xff3f72a2e79b8565!8m2!3d-26.3713592!4d-48.8246249!16s%2Fg%2F11zj_hxw_b!19sChIJX4U2S7mx3pQRZYWb56JyP_8",
+      "phone": "(47) 98912-3729",
+      "address": "R. Juliano Busarello, 250 - trintino 1 - Boehmerwald, Joinville - SC, 89235-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Madarte Moveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Madarte+Moveis+Sob+Medida/data=!4m7!3m6!1s0x94deb1aff9a4a07b:0x62483e8ac7f22ff0!8m2!3d-26.3635974!4d-48.8365659!16s%2Fg%2F11lmhqyxd5!19sChIJe6Ck-a-x3pQR8C_yx4o-SGI",
+      "phone": "(47) 99645-6356",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultoria de Arquitetura - Jackeline Nardes",
+      "href": "https://www.google.com/maps/place/Consultoria+de+Arquitetura+-+Jackeline+Nardes/data=!4m7!3m6!1s0x94deafa7266203cd:0x6832d16371ad2fd2!8m2!3d-26.261236!4d-48.8152296!16s%2Fg%2F11sb0z2x0z!19sChIJzQNiJqev3pQR0i-tcWPRMmg",
+      "phone": "(47) 99238-0343",
+      "address": "R. Martinho Van Biene, 552 - Cs 5 - Aventureiro, Joinville - SC, 89224-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Danilo Pinheiro Arquiteto Joinville",
+      "href": "https://www.google.com/maps/place/Studio+Danilo+Pinheiro+Arquiteto+Joinville/data=!4m7!3m6!1s0x7795d1ac01a02b7:0x588d0e4d0f31e85a!8m2!3d-26.2634028!4d-48.9629094!16s%2Fg%2F11vyhhsm3t!19sChIJtwIawBpdeQcRWugxD00OjVg",
+      "phone": "(47) 99727-2651",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Conceito Engenharia e Projetos",
+      "href": "https://www.google.com/maps/place/Conceito+Engenharia+e+Projetos/data=!4m7!3m6!1s0x94deaf5d631e876f:0x4ea9e77999bb31c!8m2!3d-26.2510123!4d-48.8194139!16s%2Fg%2F11gxrwnftw!19sChIJb4ceY12v3pQRHLObmXee6gQ",
+      "phone": "(47) 98413-0706",
+      "address": "R. Tuiuti, 2350 - Sl 10 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Duo Design",
+      "href": "https://www.google.com/maps/place/Duo+Design/data=!4m7!3m6!1s0x94deaffb88e92c21:0x209e5823f3951230!8m2!3d-26.25705!4d-48.8227852!16s%2Fg%2F11vr4j008x!19sChIJISzpiPuv3pQRMBKV8yNYniA",
+      "phone": "(47) 99259-6392",
+      "address": "R. João-de-Barro, 482 - Aventureiro, Joinville - SC, 89225-190",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gabriela Francener Design & Makeup",
+      "href": "https://www.google.com/maps/place/Gabriela+Francener+Design+%26+Makeup/data=!4m7!3m6!1s0x94deafd28072a53b:0x1200617b92c0afa3!8m2!3d-26.2484685!4d-48.8069099!16s%2Fg%2F11j4g97nmx!19sChIJO6VygNKv3pQRo6_AknthABI",
+      "phone": "(47) 99749-3322",
+      "address": "R. Alois Finder, 1199 - Aventureiro, Joinville - SC, 89225-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Betânia Winter - Studio de Beleza em Joinville",
+      "href": "https://www.google.com/maps/place/Bet%C3%A2nia+Winter+-+Studio+de+Beleza+em+Joinville/data=!4m7!3m6!1s0x94deaf90f3bf11d3:0x1e37186b9d977911!8m2!3d-26.2577247!4d-48.8172339!16s%2Fg%2F11mwrl64wl!19sChIJ0xG_85Cv3pQREXmXnWsYNx4",
+      "phone": "(47) 99935-9115",
+      "address": "R. Martim-Pescador, 283 - Aventureiro, Joinville - SC, 89225-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Macedo Arquitetura e Urbanismo",
+      "href": "https://www.google.com/maps/place/Macedo+Arquitetura+e+Urbanismo/data=!4m7!3m6!1s0x94deb04bede9992f:0x933b57639dfc8098!8m2!3d-26.2773748!4d-48.8114322!16s%2Fg%2F1ptxsnsld!19sChIJL5np7Uuw3pQRmID8nWNXO5M",
+      "phone": "(47) 99951-8473",
+      "address": "R. Albano Schmidt, 4683 - S01 - Iririú, Joinville - SC, 89227-701",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ekoah Arquitetura Design",
+      "href": "https://www.google.com/maps/place/Ekoah+Arquitetura+Design/data=!4m7!3m6!1s0x94deaf737b10f4d5:0x5a851c41a1eab802!8m2!3d-26.2704458!4d-48.8264194!16s%2Fg%2F11vlmc60zr!19sChIJ1fQQe3Ov3pQRArjqoUEchVo",
+      "phone": "(47) 3227-5951",
+      "address": "R. Guaíra, 47 - sala 4 - Iririú, Joinville - SC, 89224-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Belo Arquiteto",
+      "href": "https://www.google.com/maps/place/Belo+Arquiteto/data=!4m7!3m6!1s0x94deb1ee16f2adad:0xcdcb35ff5b6db66c!8m2!3d-26.3000043!4d-48.8189314!16s%2Fg%2F11ycbdyrgq!19sChIJra3yFu6x3pQRbLZtW_81y80",
+      "phone": "(47) 99612-2900",
+      "address": "R. Matilde Amin, 180 - Boa Vista, Joinville - SC, 89206-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Versati Arquitetura e Engenharia",
+      "href": "https://www.google.com/maps/place/Versati+Arquitetura+e+Engenharia/data=!4m7!3m6!1s0x94deb1afbbd2c4c7:0x6bfaf37f381497e0!8m2!3d-26.3067294!4d-48.8308654!16s%2Fg%2F12cp48blr!19sChIJx8TSu6-x3pQR4JcUOH_z-ms",
+      "phone": "(47) 3433-6438",
+      "address": "esquina com a - Rua Prefeito Helmult Falgatter, R. Graça Aranha, 448 - Boa Vista, Joinville - SC, 89205-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "UniSociesc - Campus Boa Vista | Curso de Arquitetura e Urbanismo",
+      "href": "https://www.google.com/maps/place/UniSociesc+-+Campus+Boa+Vista+%7C+Curso+de+Arquitetura+e+Urbanismo/data=!4m7!3m6!1s0x94deb1ecbfefb047:0x7d7ea88df60172c2!8m2!3d-26.2878762!4d-48.8133836!16s%2Fg%2F11f00qtp08!19sChIJR7Dvv-yx3pQRwnIB9o2ofn0",
+      "phone": "(47) 3461-0248",
+      "address": "R. Albano Schmidt, 3333 - Boa Vista, Joinville - SC, 89227-753",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Jaque Bridi lash designer",
+      "href": "https://www.google.com/maps/place/Studio+Jaque+Bridi+lash+designer/data=!4m7!3m6!1s0x94deaf866feca913:0xfcb33312935e4b6e!8m2!3d-26.2734737!4d-48.8078013!16s%2Fg%2F11h1hs2xp2!19sChIJE6nsb4av3pQRbktekxIzs_w",
+      "phone": "(47) 99648-0612",
+      "address": "R. Sérgio Bittencourt, 129 - Comasa, Joinville - SC, 89228-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EngCivilLauroHalter",
+      "href": "https://www.google.com/maps/place/EngCivilLauroHalter/data=!4m7!3m6!1s0x94deb1bcb18670c5:0x4ca7985e98d7315e!8m2!3d-26.3240386!4d-48.8297374!16s%2Fg%2F11h12hxp8s!19sChIJxXCGsbyx3pQRXjHXmF6Yp0w",
+      "phone": "(47) 99994-1616",
+      "address": "R. Nacar, 421 - Guanabara, Joinville - SC, 89207-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Macelay Engenharia",
+      "href": "https://www.google.com/maps/place/Macelay+Engenharia/data=!4m7!3m6!1s0x94deb183d5f758bb:0xb18a0f8c2ccee1b!8m2!3d-26.320689!4d-48.8139371!16s%2Fg%2F11l662gtwl!19sChIJu1j31YOx3pQRG-7MwvigGAs",
+      "phone": "(47) 99183-4512",
+      "address": "R. Miosótis, 287 - Sl 04 - Fátima, Joinville - SC, 89229-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio de Beleza MayJuh",
+      "href": "https://www.google.com/maps/place/Studio+de+Beleza+MayJuh/data=!4m7!3m6!1s0x94deb1dc585403ef:0x931a6a91357fcffb!8m2!3d-26.3278013!4d-48.8348084!16s%2Fg%2F11nxzy0rl1!19sChIJ7wNUWNyx3pQR-89_NZFqGpM",
+      "phone": "(47) 98493-3329",
+      "address": "Rua: Florianópolis, 940 - Guanabara, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Decorações Guimarães",
+      "href": "https://www.google.com/maps/place/Decora%C3%A7%C3%B5es+Guimar%C3%A3es/data=!4m7!3m6!1s0x94deb04be31c2efd:0xe7f77487c2d873ba!8m2!3d-26.3213798!4d-48.8329777!16s%2Fg%2F1tgffj4m!19sChIJ_S4c40uw3pQRunPYwod09-c",
+      "phone": "(47) 98404-7723",
+      "address": "R. Graciosa, 697 - Guanabara, Joinville - SC, 89207-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

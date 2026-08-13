@@ -1,0 +1,893 @@
+{
+  "id": "padaria",
+  "nome": "Padaria",
+  "terms": [
+    "padaria",
+    "panificadora"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "Panificadora e Confeitaria Primas",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Primas/data=!4m7!3m6!1s0x94deb6d1159780b3:0xc84110bcca3fc417!8m2!3d-26.3606995!4d-48.8314708!16s%2Fg%2F1tkb67vl!19sChIJs4CXFdG23pQRF8Q_yrwQQcg",
+      "phone": "(47) 3465-0325",
+      "address": "R. Boehmerwald, 750 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Divino Pão",
+      "href": "https://www.google.com/maps/place/Panificadora+Divino+P%C3%A3o/data=!4m7!3m6!1s0x94deb6d3dea374c3:0x51212598fb4082a0!8m2!3d-26.3587608!4d-48.8332972!16s%2Fg%2F11b70_b6v0!19sChIJw3Sj3tO23pQRoIJA-5glIVE",
+      "phone": "(47) 3025-3768",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Kelly",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Kelly/data=!4m7!3m6!1s0x94deb0d340855b9f:0xb564d5f4af700d6f!8m2!3d-26.3571182!4d-48.8462634!16s%2Fg%2F1thfglhx!19sChIJn1uFQNOw3pQRbw1wr_TVZLU",
+      "phone": "(47) 3465-2846",
+      "address": "R. Santa Catarina, 4026 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Mega Pão",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Mega+P%C3%A3o/data=!4m7!3m6!1s0x94deb12abf6ccb15:0xf06fa8d5a214c43e!8m2!3d-26.3550632!4d-48.8385022!16s%2Fg%2F11bv6pryy7!19sChIJFctsvyqx3pQRPsQUotWob_A",
+      "phone": "(47) 3463-9763",
+      "address": "R. Dona Cezarina, 761 - Boehmerwald, Joinville - SC, 89232-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Fortunato",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Fortunato/data=!4m7!3m6!1s0x94deb6b54f70b51b:0x29b4295b0e32b106!8m2!3d-26.3498229!4d-48.8188169!16s%2Fg%2F11c3mrbzwr!19sChIJG7VwT7W23pQRBrEyDlsptCk",
+      "phone": "(47) 3017-2389",
+      "address": "R. João da Costa Júnior, 1062 - João Costa, Joinville - SC, 89209-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moinho Mariano Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Moinho+Mariano+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deb12e5a6507f9:0x96ecb712a1c11aa2!8m2!3d-26.3471231!4d-48.8317556!16s%2Fg%2F11b88_5lqg!19sChIJ-QdlWi6x3pQRohrBoRK37JY",
+      "phone": "(47) 98912-7290",
+      "address": "Av. Paulo Schroeder, 2461 - Petrópolis, Joinville - SC, 89208-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Paixão 2",
+      "href": "https://www.google.com/maps/place/Panificadora+Paix%C3%A3o+2/data=!4m7!3m6!1s0x94deb6bc89afffff:0xaed71086da179faa!8m2!3d-26.3620991!4d-48.8119336!16s%2Fg%2F11gg723g4z!19sChIJ__-viby23pQRqp8X2oYQ164",
+      "phone": "(47) 3085-3316",
+      "address": "R. Boehmerwald, 2284 - Parque Guarani, Joinville - SC, 89231-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Manih",
+      "href": "https://www.google.com/maps/place/Panificadora+Manih/data=!4m7!3m6!1s0x94deb6c04c37fc05:0x20b02ce77a26be0e!8m2!3d-26.3681319!4d-48.8217634!16s%2Fg%2F11b8t7pbcb!19sChIJBfw3TMC23pQRDr4meucssCA",
+      "phone": "(47) 99622-7849",
+      "address": "R. Universidade, 898 - Boehmerwald, Joinville - SC, 89235-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Três Meninas",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Tr%C3%AAs+Meninas/data=!4m7!3m6!1s0x94deb7c6b02be76f:0x87306c1ff190e30d!8m2!3d-26.3615813!4d-48.8143994!16s%2Fg%2F11n24kpmh7!19sChIJb-crsMa33pQRDeOQ8R9sMIc",
+      "phone": "(47) 99914-5559",
+      "address": "R. Boehmerwald, 2107 - Parque Guarani, Joinville - SC, 89235-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fabripães Cafeteria",
+      "href": "https://www.google.com/maps/place/Fabrip%C3%A3es+Cafeteria/data=!4m7!3m6!1s0x94deb6b1237ebc7d:0x1db7fa7224226e73!8m2!3d-26.354161!4d-48.8136195!16s%2Fg%2F11bzwmtlmk!19sChIJfbx-I7G23pQRc24iJHL6tx0",
+      "phone": "(47) 99103-2420",
+      "address": "R. Constantino Oliveira Borges, 665 - João Costa, Joinville - SC, 89209-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Aquários",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Aqu%C3%A1rios/data=!4m7!3m6!1s0x94deb138671e2deb:0xe2f132e03b790cfd!8m2!3d-26.3381613!4d-48.8207248!16s%2Fg%2F11bv3tywzc!19sChIJ6y0eZzix3pQR_Qx5O-Ay8eI",
+      "phone": "(47) 99992-9759",
+      "address": "R. Anitápolis, 435 - Itaum, Joinville - SC, 89210-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Ana Júlia",
+      "href": "https://www.google.com/maps/place/Panificadora+Ana+J%C3%BAlia/data=!4m7!3m6!1s0x94deb78ab2424bad:0xd07c27e01452a7c5!8m2!3d-26.3675075!4d-48.8302404!16s%2Fg%2F11yzw0yd4k!19sChIJrUtCsoq33pQRxadSFOAnfNA",
+      "phone": "(47) 99263-7689",
+      "address": "R. Afonso Moreira, 493 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Barbi",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Barbi/data=!4m7!3m6!1s0x94deb11c78bc0963:0x46c833e44f519983!8m2!3d-26.328119!4d-48.8343565!16s%2Fg%2F1tkr0f3d!19sChIJYwm8eByx3pQRg5lRT-QzyEY",
+      "phone": "(47) 3436-3545",
+      "address": "R. Voluntários da Pátria, 584 - Itaum, Joinville - SC, 89210-095",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Divina Gula",
+      "href": "https://www.google.com/maps/place/Divina+Gula/data=!4m7!3m6!1s0x94deb0334730179b:0x86782eba481ce23!8m2!3d-26.2927051!4d-48.8404476!16s%2Fg%2F1tj2pm8n!19sChIJmxcwRzOw3pQRI86BpOuCZwg",
+      "phone": "(47) 3422-3940",
+      "address": "R. Dona Francisca, 1120 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doca Supermercadinhos-Matriz",
+      "href": "https://www.google.com/maps/place/Doca+Supermercadinhos-Matriz/data=!4m7!3m6!1s0x94deb0d39ed9daeb:0x681faa5b0f7d0bdd!8m2!3d-26.3560804!4d-48.8459336!16s%2Fg%2F1tddtbpw!19sChIJ69rZntOw3pQR3Qt9D1uqH2g",
+      "phone": "(47) 3436-0912",
+      "address": "R. Santa Catarina, 3865 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mundo Fit Confeitaria",
+      "href": "https://www.google.com/maps/place/Mundo+Fit+Confeitaria/data=!4m7!3m6!1s0x94deb11ccde59153:0xd2e149abe7439f76!8m2!3d-26.2965589!4d-48.851371!16s%2Fg%2F11h5yxm62b!19sChIJU5HlzRyx3pQRdp9D56tJ4dI",
+      "phone": "(47) 98907-0677",
+      "address": "R. Lages, 766 - Loja 2 - América, Joinville - SC, 89204-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Helena Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Helena+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deb14e4e3b4b73:0xe5a27617bd7230ee!8m2!3d-26.339804!4d-48.811317!16s%2Fg%2F11b8t778m3!19sChIJc0s7Tk6x3pQR7jByvRd2ouU",
+      "phone": "(47) 3085-1537",
+      "address": "R. Monsenhor Gercino, 4328 - João Costa, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Armazém do Pão",
+      "href": "https://www.google.com/maps/place/Armaz%C3%A9m+do+P%C3%A3o/data=!4m7!3m6!1s0x94deb196232f533d:0x8e6547352c384c61!8m2!3d-26.2970665!4d-48.8187653!16s%2Fg%2F1thcth8s!19sChIJPVMvI5ax3pQRYUw4LDVHZY4",
+      "phone": "(47) 3432-0056",
+      "address": "R. Albano Schmidt, 2146 - Boa Vista, Joinville - SC, 89205-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Princesa",
+      "href": "https://www.google.com/maps/place/Panificadora+Princesa/data=!4m7!3m6!1s0x94deae19561e299d:0xa7a69f46624f3d2b!8m2!3d-26.2646558!4d-48.8147272!16s%2Fg%2F1ptxkln98!19sChIJnSkeVhmu3pQRKz1PYkafpqc",
+      "phone": "(47) 3025-7005",
+      "address": "R. Sen. Rodrigo Lobo, 946 - Iririú, Joinville - SC, 89224-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Beckhauser",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Beckhauser/data=!4m7!3m6!1s0x94deb1ae3599a56d:0xf0264f75fb2eec58!8m2!3d-26.3231142!4d-48.8379155!16s%2Fg%2F11pz_n6gst!19sChIJbaWZNa6x3pQRWOwu-3VPJvA",
+      "phone": "(47) 3278-0545",
+      "address": "R. Florianópolis, 341 - Guanabara, Joinville - SC, 89207-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amor e Canela",
+      "href": "https://www.google.com/maps/place/Amor+e+Canela/data=!4m7!3m6!1s0x94deb0287aa0adc7:0xe43811ecbc68e294!8m2!3d-26.283613!4d-48.8495627!16s%2Fg%2F1pxqc_c5n!19sChIJx62geiiw3pQRlOJovOwROOQ",
+      "phone": "(47) 3473-5650",
+      "address": "R. Dr. João Colin, 1893 - América, Joinville - SC, 89204-033",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Itália Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/It%C3%A1lia+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deaf89fc287487:0xbe9b7d6e3900be36!8m2!3d-26.2679861!4d-48.8797116!16s%2Fg%2F11bvt0rb8_!19sChIJh3Qo_Imv3pQRNr4AOW59m74",
+      "phone": "(47) 3207-2610",
+      "address": "R. Duarte Schuttel, 10 - Costa e Silva, Joinville - SC, 89220-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Monte Carlo",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Monte+Carlo/data=!4m7!3m6!1s0x94deaf926ca9692b:0x6b77192000da4359!8m2!3d-26.272343!4d-48.8719967!16s%2Fg%2F1w6r9fg1!19sChIJK2mpbJKv3pQRWUPaACAZd2s",
+      "phone": "(47) 3435-1080",
+      "address": "Rua Otto Pfuetzenreuter, 156 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Mercearia Dona Erna",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Mercearia+Dona+Erna/data=!4m7!3m6!1s0x94deaff539ea0e3f:0xa8205bace95e96e1!8m2!3d-26.273096!4d-48.878671!16s%2Fg%2F1td4fp_b!19sChIJPw7qOfWv3pQR4ZZe6axbIKg",
+      "phone": "(47) 3473-8972",
+      "address": "R. Inambu, 636 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Paps",
+      "href": "https://www.google.com/maps/place/Panificadora+Paps/data=!4m7!3m6!1s0x94deafdc71286fb9:0x64419fe11efef9b5!8m2!3d-26.2763986!4d-48.8746298!16s%2Fg%2F11fj8mp2xg!19sChIJuW8ocdyv3pQRtfn-HuGfQWQ",
+      "phone": "(47) 99662-4691",
+      "address": "R. Dona Elza Meinert, 274 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora do Lino",
+      "href": "https://www.google.com/maps/place/Panificadora+do+Lino/data=!4m7!3m6!1s0x94deaf932d755c89:0x7e9b9b949d0376fa!8m2!3d-26.2685709!4d-48.8668677!16s%2Fg%2F11c3l80z3c!19sChIJiVx1LZOv3pQR-nYDnZSbm34",
+      "phone": "(47) 3028-4045",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 765 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Cafeteria Vovó Salete",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Cafeteria+Vov%C3%B3+Salete/data=!4m7!3m6!1s0x94deaf5718333bfd:0x2738c416ed7520f6!8m2!3d-26.272354!4d-48.8797148!16s%2Fg%2F11z2_d109m!19sChIJ_TszGFev3pQR9iB17RbEOCc",
+      "phone": "(47) 98820-1676",
+      "address": "R. Colibri, 7 - Costa e Silva, Joinville - SC, 89220-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yona Café - Cafeteria temática",
+      "href": "https://www.google.com/maps/place/Yona+Caf%C3%A9+-+Cafeteria+tem%C3%A1tica/data=!4m7!3m6!1s0x94deaf8e2fcaf62d:0xd48a9b3962f978bb!8m2!3d-26.2698233!4d-48.8629431!16s%2Fg%2F11l5kmv6wr!19sChIJLfbKL46v3pQRu3j5YjmbitQ",
+      "phone": "(47) 99165-2594",
+      "address": "R. Marquês de Olinda, 550 - Costa e Silva, Joinville - SC, 89219-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Blumenauense",
+      "href": "https://www.google.com/maps/place/Panificadora+Blumenauense/data=!4m7!3m6!1s0x94deb01c934e1261:0xd9064332d0c1b94a!8m2!3d-26.2923792!4d-48.8683119!16s%2Fg%2F1tczg1kw!19sChIJYRJOkxyw3pQRSrnB0DJDBtk",
+      "phone": "(47) 3026-3635",
+      "address": "R. Pres. Campos Salles, 383 - Glória, Joinville - SC, 89217-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Klimber",
+      "href": "https://www.google.com/maps/place/Panificadora+Klimber/data=!4m7!3m6!1s0x94dea5d676dc116b:0xe045022fecf8fd86!8m2!3d-26.288781!4d-48.9022717!16s%2Fg%2F11jzzyzryc!19sChIJaxHcdtal3pQRhv347C8CReA",
+      "phone": "(47) 3432-4160",
+      "address": "R. Rudolf Baumer, 130 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "7 Grãos Pães e Doces",
+      "href": "https://www.google.com/maps/place/7+Gr%C3%A3os+P%C3%A3es+e+Doces/data=!4m7!3m6!1s0x94dea58912828ffd:0x5495e74f2fd5f0da!8m2!3d-26.2873579!4d-48.9206308!16s%2Fg%2F11fpd9y15w!19sChIJ_Y-CEoml3pQR2vDVL0_nlVQ",
+      "phone": "(47) 3207-3603",
+      "address": "R. XV de Novembro, 8862 - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sabor & Arte Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Sabor+%26+Arte+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94dea514a1f68da3:0x82708fc1861f2d1!8m2!3d-26.276084!4d-48.9013405!16s%2Fg%2F11dymnr7bv!19sChIJo432oRSl3pQR0fJhGPwIJwg",
+      "phone": "(47) 3432-7781",
+      "address": "R. das Purpuratas, 51 - Vila Nova, Joinville - SC, 89237-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PANIFICADORA ROCILI",
+      "href": "https://www.google.com/maps/place/PANIFICADORA+ROCILI/data=!4m7!3m6!1s0x94deb7144f3d7b13:0x3d92c46675595a5e!8m2!3d-26.2993602!4d-48.9018211!16s%2Fg%2F11t0v_rphz!19sChIJE3s9TxS33pQRXlpZdWbEkj0",
+      "phone": "(47) 99929-4138",
+      "address": "R. Rudolf Baumer, 1322 - Vila Nova, Joinville - SC, 89237-315",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Sonho Meu",
+      "href": "https://www.google.com/maps/place/Padaria+Sonho+Meu/data=!4m7!3m6!1s0x94dea524b2a35267:0xe252b68068c5d981!8m2!3d-26.2892595!4d-48.9101329!16s%2Fg%2F11bvt3qvcz!19sChIJZ1KjsiSl3pQRgdnFaIC2UuI",
+      "phone": "(47) 99625-9423",
+      "address": "R. Márcio Luckow, 114 - Vila Nova, Joinville - SC, 89237-335",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Aline",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Aline/data=!4m7!3m6!1s0x94dea5af16face21:0x90ccc242584e77d3!8m2!3d-26.2797544!4d-48.8990385!16s%2Fg%2F11g4d58rbs!19sChIJIc76Fq-l3pQR03dOWELCzJA",
+      "phone": "(47) 3017-3669",
+      "address": "R. João Miers, 795 - Vila Nova, Joinville - SC, 89237-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora vitória",
+      "href": "https://www.google.com/maps/place/Panificadora+vit%C3%B3ria/data=!4m7!3m6!1s0x94dea5000ca8aa7f:0x1cd91cc2f4bd60a3!8m2!3d-26.2954205!4d-48.9076594!16s%2Fg%2F11yqhj25z_!19sChIJf6qoDACl3pQRo2C99MIc2Rw",
+      "phone": "(47) 98896-9788",
+      "address": "R. Heinzi Zietz - Vila Nova, Joinville - SC, 89237-315",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Porto Rico",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Porto+Rico/data=!4m7!3m6!1s0x94deb0e4cd207aed:0xaa505022d85c6faa!8m2!3d-26.33005!4d-48.8468469!16s%2Fg%2F1wcxf7cz!19sChIJ7XogzeSw3pQRqm9c2CJQUKo",
+      "phone": "(47) 3426-2806",
+      "address": "R. Santa Catarina, 836 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PANIFICADORA FLOR DE LIS",
+      "href": "https://www.google.com/maps/place/PANIFICADORA+FLOR+DE+LIS/data=!4m7!3m6!1s0x94deb1ab82ac3af7:0x8b1f91204a48a4a5!8m2!3d-26.3285969!4d-48.8502145!16s%2Fg%2F11vhc0lmyg!19sChIJ9zqsgqux3pQRpaRISiCRH4s",
+      "phone": "(47) 99655-9357",
+      "address": "R. Farroupilha, 364 - Floresta, Joinville - SC, 89211-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Cidade das Flores",
+      "href": "https://www.google.com/maps/place/Panificadora+Cidade+das+Flores/data=!4m7!3m6!1s0x94deb0e236e7bdd3:0xa086dcae0cbe71a3!8m2!3d-26.3318873!4d-48.8416742!16s%2Fg%2F119x3hkvr!19sChIJ073nNuKw3pQRo3G-DK7chqA",
+      "phone": "(47) 3028-0753",
+      "address": "R. São Paulo, 2685 - Itaum, Joinville - SC, 89211-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lima Panificadora & Conveniência",
+      "href": "https://www.google.com/maps/place/Lima+Panificadora+%26+Conveni%C3%AAncia/data=!4m7!3m6!1s0x94deb1200f74b2e5:0x625d02405112ef33!8m2!3d-26.3408413!4d-48.8227327!16s%2Fg%2F11pxkj3qst!19sChIJ5bJ0DyCx3pQRM-8SUUACXWI",
+      "phone": "(47) 99209-5094",
+      "address": "R. Monsenhor Gercino, 3256 - Petrópolis, Joinville - SC, 89210-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Joipan",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Joipan/data=!4m7!3m6!1s0x94deb11a313e8a1b:0xe212d419cf951c21!8m2!3d-26.3463934!4d-48.791775!16s%2Fg%2F11b6hp9zfp!19sChIJG4o-MRqx3pQRIRyVzxnUEuI",
+      "phone": "(47) 3085-9210",
+      "address": "R. Monsenhor Gercino, 6832 - Paranaguamirim, Joinville - SC, 89231-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa del Pane",
+      "href": "https://www.google.com/maps/place/Casa+del+Pane/data=!4m7!3m6!1s0x94deb15b6be7967b:0x5939a9f3f3759150!8m2!3d-26.3322601!4d-48.8406797!16s%2Fg%2F11t6njrvf2!19sChIJe5bna1ux3pQRUJF18_OpOVk",
+      "phone": "(47) 99221-3790",
+      "address": "R. Pres. Wenceslau Braz, 780 - Itaum, Joinville - SC, 89210-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pão Doce Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/P%C3%A3o+Doce+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deb15141c15f21:0x902e453a162c62!8m2!3d-26.3388441!4d-48.8058334!16s%2Fg%2F11b8jcrz2d!19sChIJIV_BQVGx3pQRYiwWOkUukAA",
+      "phone": "(47) 98884-1776",
+      "address": "R. Monsenhor Gercino, 5022 - João Costa, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Tuiuti",
+      "href": "https://www.google.com/maps/place/Panificadora+Tuiuti/data=!4m7!3m6!1s0x94deae42a6fb1de9:0x8af68be4acb71b66!8m2!3d-26.2434589!4d-48.819809!16s%2Fg%2F11b88r7_v6!19sChIJ6R37pkKu3pQRZhu3rOSL9oo",
+      "phone": "(47) 3437-6329",
+      "address": "R. Tuiuti, 3540 - Aventureiro, Joinville - SC, 89226-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pandeca Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Pandeca+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deae7350d70929:0xfc0485d81528b65f!8m2!3d-26.2461988!4d-48.804237!16s%2Fg%2F1tdqcqt4!19sChIJKQnXUHOu3pQRX7YoFdiFBPw",
+      "phone": "(47) 3425-2876",
+      "address": "R. Alois Finder, 1568 - Aventureiro, Joinville - SC, 89225-621",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tradição Mercado e Panificadora",
+      "href": "https://www.google.com/maps/place/Tradi%C3%A7%C3%A3o+Mercado+e+Panificadora/data=!4m7!3m6!1s0x94deb12ca9d295bb:0xdac94b9a49945eb1!8m2!3d-26.3546695!4d-48.8326487!16s%2Fg%2F11bv3y9h8f!19sChIJu5XSqSyx3pQRsV6USZpLydo",
+      "phone": "(47) 98903-9261",
+      "address": "R. Alfredo Colin, 31 - Boehmerwald, Joinville - SC, 89232-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Caparelli",
+      "href": "https://www.google.com/maps/place/Caparelli/data=!4m7!3m6!1s0x94deae17d2371645:0x72e14411339959cc!8m2!3d-26.2406443!4d-48.8089939!16s%2Fg%2F11bzwmtlm9!19sChIJRRY30heu3pQRzFmZMxFE4XI",
+      "phone": "(47) 3435-5606",
+      "address": "R. Jacupiranga, 946 - Aventureiro, Joinville - SC, 89226-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Pão Nosso",
+      "href": "https://www.google.com/maps/place/Padaria+P%C3%A3o+Nosso/data=!4m7!3m6!1s0x94deaf53eb0f5915:0x55b703cc39ace9c9!8m2!3d-26.2391528!4d-48.8121968!16s%2Fg%2F11v6cdp0ch!19sChIJFVkP61Ov3pQRyemsOcwDt1U",
+      "phone": "(47) 99232-7874",
+      "address": "R. Santa Luzia, 809 - Aventureiro, Joinville - SC, 89226-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Plaza",
+      "href": "https://www.google.com/maps/place/Panificadora+Plaza/data=!4m7!3m6!1s0x94deae3fd332a20d:0x59b491c0af504c3d!8m2!3d-26.2547798!4d-48.8201583!16s%2Fg%2F1tg7t4v5!19sChIJDaIy0z-u3pQRPUxQr8CRtFk",
+      "phone": "(47) 3467-6014",
+      "address": "R. Tuiuti, 2085 - Aventureiro, Joinville - SC, 89225-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Prestígio's Gold",
+      "href": "https://www.google.com/maps/place/Prest%C3%ADgio%27s+Gold/data=!4m7!3m6!1s0x94deaf002154c2c3:0xfdc668a0e49864ff!8m2!3d-26.249288!4d-48.8213408!16s%2Fg%2F11y7c5c346!19sChIJw8JUIQCv3pQR_2SY5KBoxv0",
+      "phone": "(47) 99662-7311",
+      "address": "R. Tuiuti, 2823 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Colonial Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Colonial+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deaf534922b3e9:0xd2e81168c7ffdd6e!8m2!3d-26.2498079!4d-48.8211287!16s%2Fg%2F11thggy71t!19sChIJ6bMiSVOv3pQRbt3_x2gR6NI",
+      "phone": "(47) 3207-2523",
+      "address": "R. Tuiuti, 2771 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Panisul",
+      "href": "https://www.google.com/maps/place/Panificadora+Panisul/data=!4m7!3m6!1s0x94deae0d145348db:0x9ebda6f46c7821fa!8m2!3d-26.2497404!4d-48.8079015!16s%2Fg%2F11cmyy4s1b!19sChIJ20hTFA2u3pQR-iF4bPSmvZ4",
+      "phone": "(47) 3467-6837",
+      "address": "R. Alois Finder, 1042 - Aventureiro, Joinville - SC, 89225-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vô Luiz Pães e Doces",
+      "href": "https://www.google.com/maps/place/V%C3%B4+Luiz+P%C3%A3es+e+Doces/data=!4m7!3m6!1s0x94deae20ec7c581b:0xb2a221b716a722f!8m2!3d-26.2717884!4d-48.8233102!16s%2Fg%2F11b88w1psg!19sChIJG1h87CCu3pQRL3JqcRsiKgs",
+      "phone": "(47) 3418-0190",
+      "address": "R. Iririú, 2412 - Iririú, Joinville - SC, 89227-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Viana",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Viana/data=!4m7!3m6!1s0x94deb1eece5e4939:0xdf519744b16e41df!8m2!3d-26.2823164!4d-48.8140057!16s%2Fg%2F1tj4cmtx!19sChIJOUlezu6x3pQR30FusUSXUd8",
+      "phone": "(47) 3434-2366",
+      "address": "R. Xavier Arp, 193 - Iririú, Joinville - SC, 89227-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clara pães e doces",
+      "href": "https://www.google.com/maps/place/Clara+p%C3%A3es+e+doces/data=!4m7!3m6!1s0x94deb1e5f5069895:0x9f4989119a216ce2!8m2!3d-26.2789739!4d-48.8138969!16s%2Fg%2F1tfg8v09!19sChIJlZgG9eWx3pQR4mwhmhGJSZ8",
+      "phone": "(47) 3278-9549",
+      "address": "R. Pasteur, 425 - Iririú, Joinville - SC, 89227-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Titys Coffe",
+      "href": "https://www.google.com/maps/place/Titys+Coffe/data=!4m7!3m6!1s0x94deafb70c4b5e91:0x2988fd8b5038dfc0!8m2!3d-26.272961!4d-48.830008!16s%2Fg%2F11y01s0ntw!19sChIJkV5LDLev3pQRwN84UIv9iCk",
+      "phone": "(47) 98921-3930",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cantinho do Pão",
+      "href": "https://www.google.com/maps/place/Cantinho+do+P%C3%A3o/data=!4m7!3m6!1s0x94deb3865a0c583d:0xf3efdaf9cfcb5977!8m2!3d-26.261749!4d-48.8008787!16s%2Fg%2F11r_fjzzpf!19sChIJPVgMWoaz3pQRd1nLz_na7_M",
+      "phone": "(47) 99740-6867",
+      "address": "R. Nivaldo Luiz Tridapalli, 8 - Jardim Iririú, Joinville - SC, 89224-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Alice",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Alice/data=!4m7!3m6!1s0x94deafdfcdcfb393:0xcc234169343a1d!8m2!3d-26.2569166!4d-48.810519!16s%2Fg%2F11nmcs1_qz!19sChIJk7PPzd-v3pQRHTo0aUEjzAA",
+      "phone": "(47) 99680-8862",
+      "address": "R. Martinho Van Biene, 1277 - Jardim Iririú, Joinville - SC, 89225-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cafeteria O Padeiro",
+      "href": "https://www.google.com/maps/place/Cafeteria+O+Padeiro/data=!4m7!3m6!1s0x94deb1c93c609237:0xe7ceea6342f3d9e3!8m2!3d-26.2729957!4d-48.8019179!16s%2Fg%2F11gjxtvy4k!19sChIJN5JgPMmx3pQR49nzQmPqzuc",
+      "phone": "(47) 98800-4372",
+      "address": "R. Pte. Serrada, 1136 - Comasa, Joinville - SC, 89228-271",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pães e Doces Faust",
+      "href": "https://www.google.com/maps/place/P%C3%A3es+e+Doces+Faust/data=!4m7!3m6!1s0x94deb1ff8f8545b1:0x8eac038f3e77ab8!8m2!3d-26.2667704!4d-48.8002307!16s%2Fg%2F11fps76snn!19sChIJsUWFj_-x3pQRuHrn8zjA6gg",
+      "phone": "(47) 99661-3208",
+      "address": "R. Areia Branca, 327 - Jardim Iririú, Joinville - SC, 89224-477",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Confeitaria Delícias Alemãs",
+      "href": "https://www.google.com/maps/place/Confeitaria+Del%C3%ADcias+Alem%C3%A3s/data=!4m7!3m6!1s0x94deafd696de48bd:0x441f64316aba0286!8m2!3d-26.2666238!4d-48.8210633!16s%2Fg%2F11lcxy4r_s!19sChIJvUjeltav3pQRhgK6ajFkH0Q",
+      "phone": "(47) 98804-4781",
+      "address": "R. Guaíra - Iririú, Joinville - SC, 89227-445",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kalfels Panificadora e Mercado",
+      "href": "https://www.google.com/maps/place/Kalfels+Panificadora+e+Mercado/data=!4m7!3m6!1s0x94deb197436dd613:0xe66aa811bc87dd74!8m2!3d-26.2989035!4d-48.8155616!16s%2Fg%2F11b88zbs2b!19sChIJE9ZtQ5ex3pQRdN2HvBGoauY",
+      "phone": "(47) 3432-0435",
+      "address": "R. Alcântara, 372 - Boa Vista, Joinville - SC, 89206-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Cantinho Doce",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Cantinho+Doce/data=!4m7!3m6!1s0x94deb190c0b7a3bb:0x7b07f01457a75bec!8m2!3d-26.2975644!4d-48.8136168!16s%2Fg%2F11b88n05x0!19sChIJu6O3wJCx3pQR7FunVxTwB3s",
+      "phone": "(47) 3432-0751",
+      "address": "R. Des. Tavares Sobrinho, 419 - Boa Vista, Joinville - SC, 89206-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aroma Padaria e Confeitaria",
+      "href": "https://www.google.com/maps/place/Aroma+Padaria+e+Confeitaria/data=!4m7!3m6!1s0x94deb1a6bb524885:0x455ddd9874c9b5bb!8m2!3d-26.3116021!4d-48.8357614!16s%2Fg%2F11y6pz6phh!19sChIJhUhSu6ax3pQRu7XJdJjdXUU",
+      "phone": "(47) 98834-9778",
+      "address": "R. Porto Belo, 66 - Bucarein, Joinville - SC, 89202-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Pires",
+      "href": "https://www.google.com/maps/place/Panificadora+Pires/data=!4m7!3m6!1s0x94deb1f3a08b87d7:0xeb614ed444cd6d45!8m2!3d-26.2849866!4d-48.7932729!16s%2Fg%2F11c5g__c0x!19sChIJ14eLoPOx3pQRRW3NRNROYes",
+      "phone": "(47) 3031-4494",
+      "address": "R. Pref. Baltasar Buschle, 1715 - Comasa, Joinville - SC, 89228-436",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado Mondini II",
+      "href": "https://www.google.com/maps/place/Mercado+Mondini+II/data=!4m7!3m6!1s0x94deb21fb8e804c1:0xf8d5c6a6f6441873!8m2!3d-26.2822824!4d-48.7981607!16s%2Fg%2F11bv5v589q!19sChIJwQTouB-y3pQRcxhE9qbG1fg",
+      "phone": "(47) 3207-2268",
+      "address": "R. Max Boehm, 30 - Comasa, Joinville - SC, 89228-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria e Confeitaria Valentins",
+      "href": "https://www.google.com/maps/place/Padaria+e+Confeitaria+Valentins/data=!4m7!3m6!1s0x94deb1d6dceae895:0x35b6079a77c3b5b6!8m2!3d-26.2838439!4d-48.8060109!16s%2Fg%2F11vygr4v8f!19sChIJlejq3Nax3pQRtrXDd5oHtjU",
+      "phone": "(47) 98424-1391",
+      "address": "R. Pref. Baltasar Buschle, 421 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Larissa",
+      "href": "https://www.google.com/maps/place/Panificadora+Larissa/data=!4m7!3m6!1s0x94deb140481d811f:0x4a772f159bef1549!8m2!3d-26.3308916!4d-48.8177178!16s%2Fg%2F11bv30hqlv!19sChIJH4EdSECx3pQRSRXvmxUvd0o",
+      "phone": "(47) 3043-6205",
+      "address": "R. Fátima, 1053 - Fátima, Joinville - SC, 89229-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Nossa Sra. Aparecida",
+      "href": "https://www.google.com/maps/place/Padaria+Nossa+Sra.+Aparecida/data=!4m7!3m6!1s0x94deb1100a435559:0x8e541db3d10209db!8m2!3d-26.3249377!4d-48.8295729!16s%2Fg%2F11b825vxdd!19sChIJWVVDChCx3pQR2wkC0bMdVI4",
+      "phone": "(47) 3227-2343",
+      "address": "R. Guanabara, 953 - Guanabara, Joinville - SC, 89207-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Queiroz",
+      "href": "https://www.google.com/maps/place/Padaria+Queiroz/data=!4m7!3m6!1s0x94deaf311cca639f:0xbd55303495c177fa!8m2!3d-26.2664346!4d-48.80821!16s%2Fg%2F11mz4qnbm5!19sChIJn2PKHDGv3pQR-nfBlTQwVb0",
+      "phone": "(47) 99651-8229",
+      "address": "R. Janaúba, 256 - Jardim Iririú, Joinville - SC, 89224-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Besser - Confeitaria & Panificação",
+      "href": "https://www.google.com/maps/place/Besser+-+Confeitaria+%26+Panifica%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb1044942f3c3:0xbf4d1ad9dde22906!8m2!3d-26.3214052!4d-48.8325748!16s%2Fg%2F11b8258rcs!19sChIJw_NCSQSx3pQRBini3dkaTb8",
+      "phone": "(47) 3438-2357",
+      "address": "R. Graciosa, 740 - Guanabara, Joinville - SC, 89207-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Melani",
+      "href": "https://www.google.com/maps/place/Panificadora+Melani/data=!4m7!3m6!1s0x94deb4704eca6815:0x17c16367cc77d4fe!8m2!3d-26.3411225!4d-48.7713618!16s%2Fg%2F11gdqpbv1c!19sChIJFWjKTnC03pQR_tR3zGdjwRc",
+      "phone": "(47) 99903-0537",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e confeitaria dos Anjos Bakery",
+      "href": "https://www.google.com/maps/place/Panificadora+e+confeitaria+dos+Anjos+Bakery/data=!4m7!3m6!1s0x94deb40342473db7:0x8e830dd8ce3f1127!8m2!3d-26.3495939!4d-48.7951804!16s%2Fg%2F11b87w8mwv!19sChIJtz1HQgO03pQRJxE_ztgNg44",
+      "phone": "(47) 99601-9698",
+      "address": "R. Seis de Janeiro, 502 - Paranaguamirim, Joinville - SC, 89231-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Copan",
+      "href": "https://www.google.com/maps/place/Panificadora+Copan/data=!4m7!3m6!1s0x94deb52a5eddb1b7:0xcf7b29b1e4d13418!8m2!3d-26.3526935!4d-48.7798347!16s%2Fg%2F11gybkp0pr!19sChIJt7HdXiq13pQRGDTR5LEpe88",
+      "phone": "(47) 99695-5891",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Village",
+      "href": "https://www.google.com/maps/place/Panificadora+Village/data=!4m7!3m6!1s0x94deb472a9eb74df:0xff672b7e2d8c58d0!8m2!3d-26.3449402!4d-48.7789931!16s%2Fg%2F11fhyt9fc3!19sChIJ33TrqXK03pQR0FiMLX4rZ_8",
+      "phone": "(47) 3085-4435",
+      "address": "R. Irmã Maria da Graça Braz, 123 - Paranaguamirim, Joinville - SC, 89234-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Doce Pães",
+      "href": "https://www.google.com/maps/place/Panificadora+Doce+P%C3%A3es/data=!4m7!3m6!1s0x94deb46836426fa3:0xc61c216736ef78e0!8m2!3d-26.351042!4d-48.7715024!16s%2Fg%2F11c5284_m8!19sChIJo29CNmi03pQR4HjvNmchHMY",
+      "phone": "(47) 99663-3171",
+      "address": "R. João de Souza Melo, 945 - Paranaguamirim, Joinville - SC, 89234-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Delicatta",
+      "href": "https://www.google.com/maps/place/Panificadora+Delicatta/data=!4m7!3m6!1s0x94deb6a477947d31:0xb9ca88e44b38892d!8m2!3d-26.359415!4d-48.8063624!16s%2Fg%2F11bv6px58t!19sChIJMX2Ud6S23pQRLYk4S-SIyrk",
+      "phone": "(47) 99977-6402",
+      "address": "Av. Firmino da Silva, 362 - Parque Guarani, Joinville - SC, 89209-224",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Mercearia Angelina",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Mercearia+Angelina/data=!4m7!3m6!1s0x94deb414905d752f:0x5e833a4ecf86c37d!8m2!3d-26.351095!4d-48.7812201!16s%2Fg%2F11c58tjmz1!19sChIJL3VdkBS03pQRfcOGz046g14",
+      "phone": "(47) 3463-7949",
+      "address": "R. João Luiz de Miranda Coutinho - Paranaguamirim, Joinville - SC, 89245-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Family",
+      "href": "https://www.google.com/maps/place/Panificadora+Family/data=!4m7!3m6!1s0x94deb53cfc39f6b7:0xc334c68cbfb70cad!8m2!3d-26.3490099!4d-48.7812153!16s%2Fg%2F11syrn61d1!19sChIJt_Y5_Dy13pQRrQy3v4zGNMM",
+      "phone": "(47) 99755-8498",
+      "address": "R. Luiz del Castagne - Paranaguamirim, Joinville - SC, 89231-770",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Meu Vizinho Supermercados - Itinga",
+      "href": "https://www.google.com/maps/place/Meu+Vizinho+Supermercados+-+Itinga/data=!4m7!3m6!1s0x94deb7359cb48fd9:0x1c24a9915e2cb126!8m2!3d-26.3813211!4d-48.8223095!16s%2Fg%2F11gy4rvcjy!19sChIJ2Y-0nDW33pQRJrEsXpGpJBw",
+      "phone": "(47) 3511-2191",
+      "address": "R. Adolfo da Veiga, 2595 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Doce Sabor",
+      "href": "https://www.google.com/maps/place/Padaria+Doce+Sabor/data=!4m7!3m6!1s0x94dea668e8f257f9:0x6a4fde001b0a9344!8m2!3d-26.2086037!4d-48.9084129!16s%2Fg%2F11bzq35dml!19sChIJ-Vfy6Gim3pQRRJMKGwDeT2o",
+      "phone": "(47) 99935-1477",
+      "address": "R. Olavo Bilac, 254 - Centro (Pirabeiraba), Joinville - SC, 89239-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Lemke",
+      "href": "https://www.google.com/maps/place/Panificadora+Lemke/data=!4m7!3m6!1s0x94dea6685cda7637:0x2de771850d0877da!8m2!3d-26.206862!4d-48.90874!16s%2Fg%2F1td7vbd0!19sChIJN3baXGim3pQR2ncIDYVx5y0",
+      "phone": "(47) 3424-0258",
+      "address": "R. Olavo Bilac, 454 - Pirabeiraba, Joinville - SC, 89239-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria e Mercado Casarão",
+      "href": "https://www.google.com/maps/place/Padaria+e+Mercado+Casar%C3%A3o/data=!4m7!3m6!1s0x94dea71dc062310f:0x2f46777977973ccb!8m2!3d-26.1882712!4d-48.9105848!16s%2Fg%2F11tcs4m0ql!19sChIJDzFiwB2n3pQRyzyXd3l3Ri8",
+      "phone": "(47) 99763-7672",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado e Mini Padaria Rio D'una",
+      "href": "https://www.google.com/maps/place/Mercado+e+Mini+Padaria+Rio+D%27una/data=!4m7!3m6!1s0x94deb10043033fe9:0x40dcb86b764e9daa!8m2!3d-26.3182999!4d-48.8089732!16s%2Fg%2F11yz_27hy6!19sChIJ6T8DQwCx3pQRqp1Odmu43EA",
+      "phone": "(47) 99128-0646",
+      "address": "R. Jarivatuba, 2368 - Adhemar Garcia, Joinville - SC, 89230-870",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Édy Mais Panificadora",
+      "href": "https://www.google.com/maps/place/%C3%89dy+Mais+Panificadora/data=!4m7!3m6!1s0x94deb341098d60cf:0x9a9d28ae81aea88c!8m2!3d-26.3254845!4d-48.7951996!16s%2Fg%2F11flk152qt!19sChIJz2CNCUGz3pQRjKiuga4onZo",
+      "phone": "(47) 3085-5858",
+      "address": "R. Dilson Funaro, 804 - Ulysses Guimarães, Joinville - SC, 89230-648",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gi Bolos e Doces Confeitaria e Padaria",
+      "href": "https://www.google.com/maps/place/Gi+Bolos+e+Doces+Confeitaria+e+Padaria/data=!4m7!3m6!1s0x94deb1eb37b5884d:0x941a9dd14cbbaa2f!8m2!3d-26.3283539!4d-48.8098611!16s%2Fg%2F11vz75gxhf!19sChIJTYi1N-ux3pQRL6q7TNGdGpQ",
+      "phone": "(47) 99621-0858",
+      "address": "R. Agulhas Negras, 1268 - Jarivatuba, Joinville - SC, 89230-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Paris",
+      "href": "https://www.google.com/maps/place/Panificadora+Paris/data=!4m7!3m6!1s0x94deb142ce87d505:0x440ea18dab584d55!8m2!3d-26.3283842!4d-48.8099195!16s%2Fg%2F11ggb4yc5q!19sChIJBdWHzkKx3pQRVU1Yq42hDkQ",
+      "phone": "(47) 3436-5743",
+      "address": "R. Agulhas Negras, 1268 - Jarivatuba, Joinville - SC, 89229-347",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ki-Cuca",
+      "href": "https://www.google.com/maps/place/Ki-Cuca/data=!4m7!3m6!1s0x94deb128b1cb54e9:0x7dcedceb13c3011a!8m2!3d-26.3303874!4d-48.8011803!16s%2Fg%2F11j4dv168n!19sChIJ6VTLsSix3pQRGgHDE-vczn0",
+      "phone": "(47) 3017-4119",
+      "address": "R. Álvaro Maia, 589 - Ulysses Guimarães, Joinville - SC, 89230-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Confeitos da Jéh",
+      "href": "https://www.google.com/maps/place/Confeitos+da+J%C3%A9h/data=!4m7!3m6!1s0x94deb33b9ee6e06d:0x52e39beb6951aeff!8m2!3d-26.3151816!4d-48.7973298!16s%2Fg%2F11jtzdd4c_!19sChIJbeDmnjuz3pQR_65Raeub41I",
+      "phone": "(47) 99984-0584",
+      "address": "R. Waldemiro Rosa, 1331 - Adhemar Garcia, Joinville - SC, 89230-705",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ki-Cuca",
+      "href": "https://www.google.com/maps/place/Ki-Cuca/data=!4m7!3m6!1s0x94deb168e0bdbe5d:0x7a730122f63358cc!8m2!3d-26.3237625!4d-48.8117842!16s%2Fg%2F11b8jdclfq!19sChIJXb694Gix3pQRzFgz9iIBc3o",
+      "phone": "(47) 3085-1490",
+      "address": "Rua Marechal Luz, 891 - Fátima, Joinville - SC, 89229-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Pap's",
+      "href": "https://www.google.com/maps/place/Panificadora+Pap%27s/data=!4m7!3m6!1s0x94deb110dcf800c5:0xcd6516c4944e5cf1!8m2!3d-26.3230983!4d-48.8152688!16s%2Fg%2F11hr3xwb2f!19sChIJxQD43BCx3pQR8VxOlMQWZc0",
+      "phone": "(47) 3429-6349",
+      "address": "R. Miosótis, 790 - Fátima, Joinville - SC, 89229-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Bertotti",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Bertotti/data=!4m7!3m6!1s0x94deb6ab747f4e73:0x7ee36e106f9c8a0b!8m2!3d-26.3463191!4d-48.803694!16s%2Fg%2F11bv6pnybh!19sChIJc05_dKu23pQRC4qcbxBu434",
+      "phone": "(47) 3417-2612",
+      "address": "Rua Padre Roma, 906 - João Costa, Joinville - SC, 89230-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Carol",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Carol/data=!4m7!3m6!1s0x94debaee4fca78c3:0x89a150857bf2bf9c!8m2!3d-26.3295988!4d-48.9072541!16s%2Fg%2F11b8d3sqmz!19sChIJw3jKT-663pQRnL_ye4VQoYk",
+      "phone": "(47) 3429-3573",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doce Tentação Padaria e Confeitaria",
+      "href": "https://www.google.com/maps/place/Doce+Tenta%C3%A7%C3%A3o+Padaria+e+Confeitaria/data=!4m7!3m6!1s0x94debaf1bc370e87:0xdc3205a2096072f4!8m2!3d-26.3327185!4d-48.9066211!16s%2Fg%2F11hbgrwrky!19sChIJhw43vPG63pQR9HJgCaIFMtw",
+      "phone": "(47) 99955-4909",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e confeitaria Marlu Cakes",
+      "href": "https://www.google.com/maps/place/Panificadora+e+confeitaria+Marlu+Cakes/data=!4m7!3m6!1s0x94debb1bc3e0d601:0x8ce710198e8d7ac!8m2!3d-26.326747!4d-48.912704!16s%2Fg%2F11t9y3c9k9!19sChIJAdbgwxu73pQRrNfomAFxzgg",
+      "phone": "(47) 99689-1469",
+      "address": "R. Thobias Corrente, n° 80 - Morro do Meio, Joinville - SC, 89215-319",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e confeitaria Bosse",
+      "href": "https://www.google.com/maps/place/Panificadora+e+confeitaria+Bosse/data=!4m7!3m6!1s0x94deb1f0ddd33c19:0xbea136487521127c!8m2!3d-26.329738!4d-48.8663522!16s%2Fg%2F11yq210kh0!19sChIJGTzT3fCx3pQRfBIhdUg2ob4",
+      "phone": "(47) 99710-2489",
+      "address": "R. Minas Gerais, 1396 - Nova Brasília, Joinville - SC, 89213-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria e Confeitaria DODA",
+      "href": "https://www.google.com/maps/place/Padaria+e+Confeitaria+DODA/data=!4m7!3m6!1s0x94deb1ee5f04d08d:0x71c9867df470336!8m2!3d-26.3348706!4d-48.8642591!16s%2Fg%2F11fn0dzgh9!19sChIJjdAEX-6x3pQRNgNH32eYHAc",
+      "phone": "(47) 99612-1468",
+      "address": "R. Expedicionário João Sótero Dias de Borba, 15 - Nova Brasília, Joinville - SC, 89213-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mercado",
+      "href": "https://www.google.com/maps/place/Mercado/data=!4m7!3m6!1s0x94deb099684a9e99:0xf651ac69180cadd!8m2!3d-26.3447842!4d-48.87362!16s%2Fg%2F11g9gtv10b!19sChIJmZ5KaJmw3pQR3cqAkcYaZQ8",
+      "phone": "(47) 98839-7973",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

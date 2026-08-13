@@ -1,0 +1,651 @@
+{
+  "id": "fisioterapia",
+  "nome": "Fisioterapia",
+  "terms": [
+    "fisioterapia",
+    "clínica de fisioterapia",
+    "fisioterapeuta"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "Sani Centro de Fisioterapia Ltda",
+      "href": "https://www.google.com/maps/place/Sani+Centro+de+Fisioterapia+Ltda/data=!4m7!3m6!1s0x94deb139ebc099df:0xe220869b4194e684!8m2!3d-26.3411611!4d-48.8223048!16s%2Fg%2F1tfjgpjr!19sChIJ35nA6zmx3pQRhOaUQZuGIOI",
+      "phone": "(47) 3423-0063",
+      "address": "R. Monsenhor Gercino, 3304 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TEF Fisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/TEF+Fisioterapia+e+Pilates/data=!4m7!3m6!1s0x94deb73c3b4cd019:0x180ef8bacb0ab02c!8m2!3d-26.3787319!4d-48.8253613!16s%2Fg%2F11hfjz134p!19sChIJGdBMOzy33pQRLLAKy7r4Dhg",
+      "phone": "(47) 3454-5883",
+      "address": "R. Waldemiro José Borges, 3453 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapeuta Andressa de Oliveira - DTM’s, Paralisia Facial e Pós Operatórios Faciais em Joinville/SC",
+      "href": "https://www.google.com/maps/place/Fisioterapeuta+Andressa+de+Oliveira+-+DTM%E2%80%99s,+Paralisia+Facial+e+P%C3%B3s+Operat%C3%B3rios+Faciais+em+Joinville%2FSC/data=!4m7!3m6!1s0x4a4612bd3a77ead:0x5534561d37fc6c40!8m2!3d-14.4095262!4d-51.3168626!16s%2Fg%2F11vhcwp07r!19sChIJrX6n0ythpAQRQGz8Nx1WNFU",
+      "phone": "(47) 99200-9852",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra Isadora Ruidias Fisioterapia Pélvica Joinville",
+      "href": "https://www.google.com/maps/place/Dra+Isadora+Ruidias+Fisioterapia+P%C3%A9lvica+Joinville/data=!4m7!3m6!1s0x94deb15d73569895:0xec06aaea206bfd56!8m2!3d-26.3164243!4d-48.8485318!16s%2Fg%2F11y76j1zfx!19sChIJlZhWc12x3pQRVv1rIOqqBuw",
+      "phone": "(47) 99908-3452",
+      "address": "R. Rio Grande do Sul, 891 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CERFISA - Centro de Reabilitação Física e Saúde",
+      "href": "https://www.google.com/maps/place/CERFISA+-+Centro+de+Reabilita%C3%A7%C3%A3o+F%C3%ADsica+e+Sa%C3%BAde/data=!4m7!3m6!1s0x94deb050dc863535:0x93e4319b2de9a588!8m2!3d-26.3146322!4d-48.8478216!16s%2Fg%2F11d_9kw323!19sChIJNTWG3FCw3pQRiKXpLZsx5JM",
+      "phone": "(47) 3271-1991",
+      "address": "R. Eugênio Moreira, 400 - Anita Garibaldi, Joinville - SC, 89202-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Fisioterapia Coradelli",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+Coradelli/data=!4m7!3m6!1s0x94deb11a313e8a1b:0x71053b3395f03a0a!8m2!3d-26.3350084!4d-48.8288735!16s%2Fg%2F11b6hhcjw6!19sChIJG4o-MRqx3pQRCjrwlTM7BXE",
+      "phone": "(47) 3436-0023",
+      "address": "R. Monsenhor Gercino, 2335 - Jarivatuba, Joinville - SC, 89210-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dr. Wynner Reis",
+      "href": "https://www.google.com/maps/place/Dr.+Wynner+Reis/data=!4m7!3m6!1s0x94deb14490a12ee3:0x6c29e05731b5c03f!8m2!3d-26.3088532!4d-48.8449518!16s%2Fg%2F11s7mf6n7f!19sChIJ4y6hkESx3pQRP8C1MVfgKWw",
+      "phone": "(47) 99702-1134",
+      "address": "R. Rio do Sul, 60 - Bucarein, Joinville - SC, 89202-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Caroline Aparecida Moreira - Fisioterapeuta Vascular e Oncologia",
+      "href": "https://www.google.com/maps/place/Dra.+Caroline+Aparecida+Moreira+-+Fisioterapeuta+Vascular+e+Oncologia/data=!4m7!3m6!1s0x94deb160c8c1e0d7:0xfd8fc0a848dc8701!8m2!3d-26.3047494!4d-48.8444641!16s%2Fg%2F11yzcxljgw!19sChIJ1-DByGCx3pQRAYfcSKjAj_0",
+      "phone": "(47) 98809-0401",
+      "address": "R. Dr. Marinho Lobo, n° 80 - Sl 203 - Centro, Joinville - SC, 89201-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ortotrauma Clínica de Fisioterapia",
+      "href": "https://www.google.com/maps/place/Ortotrauma+Cl%C3%ADnica+de+Fisioterapia/data=!4m7!3m6!1s0x94deb051e25ecba9:0x90e4ce9bd4ca4967!8m2!3d-26.3100491!4d-48.8460046!16s%2Fg%2F1v16rg2s!19sChIJqcte4lGw3pQRZ0nK1JvO5JA",
+      "phone": "(47) 3026-5155",
+      "address": "Av. Getúlio Vargas, 292 - Anita Garibaldi, Joinville - SC, 89202-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Movimentus Clínica de Fisioterapia e Massoterapia",
+      "href": "https://www.google.com/maps/place/Movimentus+Cl%C3%ADnica+de+Fisioterapia+e+Massoterapia/data=!4m7!3m6!1s0x94deb168df266ebb:0xdf5f2d0ca8ec33bc!8m2!3d-26.306553!4d-48.845598!16s%2Fg%2F11w3z5_prm!19sChIJu24m32ix3pQRvDPsqAwtX98",
+      "phone": "(47) 99975-2422",
+      "address": "Av. Juscelino Kubitscheck, 655 - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jorge Santos - Centro de Fisioterapia e Pilates",
+      "href": "https://www.google.com/maps/place/Jorge+Santos+-+Centro+de+Fisioterapia+e+Pilates/data=!4m7!3m6!1s0x94deb1973d9adf17:0x3f675c3268d7a4df!8m2!3d-26.2895754!4d-48.8488658!16s%2Fg%2F11rqlqlr73!19sChIJF9-aPZex3pQR36TXaDJcZz8",
+      "phone": "(47) 99601-4789",
+      "address": "R. Dr. João Colin, 1285 - Sala Grécia e Sala Islândia, R. Dr. João Colin, 1285 - Sl Islândia - América, Joinville - SC, 89204-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Akron Clinica de Quiropraxia",
+      "href": "https://www.google.com/maps/place/Akron+Clinica+de+Quiropraxia/data=!4m7!3m6!1s0x94deb1b09ac1f769:0x3a384ef96bcc06d5!8m2!3d-26.297756!4d-48.842636!16s%2Fg%2F11z3f39jzf!19sChIJaffBmrCx3pQR1QbMa_lOODo",
+      "phone": "(47) 99179-4133",
+      "address": "Av. Dr. Albano Schulz, 865 - Sl 01 - Centro, Joinville - SC, 89201-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "S&R Físio e RPG",
+      "href": "https://www.google.com/maps/place/S%26R+F%C3%ADsio+e+RPG/data=!4m7!3m6!1s0x94deb1b9cb8512c1:0x1d551ef67ec9ad6f!8m2!3d-26.3049518!4d-48.8468508!16s%2Fg%2F11frs9byct!19sChIJwRKFy7mx3pQRb63JfvYeVR0",
+      "phone": "(47) 98906-3639",
+      "address": "Av. Juscelino Kubitscheck, 410 - Bl B - Sala 305 - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dinâmica Clinica de Fisioterapia e Reabilitação Estética",
+      "href": "https://www.google.com/maps/place/Din%C3%A2mica+Clinica+de+Fisioterapia+e+Reabilita%C3%A7%C3%A3o+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb0547bd66c71:0x3ba7dad057f55308!8m2!3d-26.3139645!4d-48.8428528!16s%2Fg%2F1td7_759!19sChIJcWzWe1Sw3pQRCFP1V9Dapzs",
+      "phone": "(47) 99725-5655",
+      "address": "R. São Paulo, 718 - Bucarein, Joinville - SC, 89202-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapeuta Gabriela dos Santos",
+      "href": "https://www.google.com/maps/place/Fisioterapeuta+Gabriela+dos+Santos/data=!4m7!3m6!1s0x94deb1dcb2bfc2c5:0xa10c30c447ea818c!8m2!3d-26.3049518!4d-48.8468508!16s%2Fg%2F11mrqysszj!19sChIJxcK_styx3pQRjIHqR8QwDKE",
+      "phone": "(47) 99601-1377",
+      "address": "Ed Centro Comercial - Av. Juscelino Kubitscheck, 410 - 10 andar - Centro, Joinville - SC, 89201-906",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Fisioterapia Start Moove",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+Start+Moove/data=!4m7!3m6!1s0x94deb1b0280392d7:0x60cfc8040a9bb30d!8m2!3d-26.3003544!4d-48.8532901!16s%2Fg%2F11n_y7jjbq!19sChIJ15IDKLCx3pQRDbObCgTIz2A",
+      "phone": "(47) 99999-9873",
+      "address": "Edifício Helbor Dual Offices, R. Expedicionário Holz, 550 - Sl 211 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Tia Dé - Fisioterapia Pediátrica | Joinville",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Tia+D%C3%A9+-+Fisioterapia+Pedi%C3%A1trica+%7C+Joinville/data=!4m7!3m6!1s0x94deaf3ec9e33ead:0xd4da7de5171ac85e!8m2!3d-26.2821312!4d-48.8494762!16s%2Fg%2F11z219449b!19sChIJrT7jyT6v3pQRXsgaF-V92tQ",
+      "phone": "(47) 99791-6507",
+      "address": "R. Dr. João Colin, 2079 - Sl 102 - América, Joinville - SC, 89204-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amaitê Clínica Integrada",
+      "href": "https://www.google.com/maps/place/Amait%C3%AA+Cl%C3%ADnica+Integrada/data=!4m7!3m6!1s0x94deb16d38a9d6f7:0x1796a389aaeec93c!8m2!3d-26.2843894!4d-48.8348686!16s%2Fg%2F11vs_ws99w!19sChIJ99apOG2x3pQRPMnuqomjlhc",
+      "phone": "(47) 98477-0873",
+      "address": "R. dos Capuchinhos, 173 - Saguaçu, Joinville - SC, 89221-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dr. Edwards Laurentino Neto - Osteopatia - RPG",
+      "href": "https://www.google.com/maps/place/Dr.+Edwards+Laurentino+Neto+-+Osteopatia+-+RPG/data=!4m7!3m6!1s0x94deafc8128b3c85:0x4cba2b87a8e75c9!8m2!3d-26.2881217!4d-48.8499417!16s%2Fg%2F11c7wf25wb!19sChIJhTyLEsiv3pQRyXWOeriiywQ",
+      "phone": "(47) 99180-2592",
+      "address": "R. Blumenau, 1345 - América, Joinville - SC, 89204-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Físio Sports",
+      "href": "https://www.google.com/maps/place/F%C3%ADsio+Sports/data=!4m7!3m6!1s0x94deb04e4330a403:0xa008235f6672bd07!8m2!3d-26.3085239!4d-48.8464071!16s%2Fg%2F1ptxcq18t!19sChIJA6QwQ06w3pQRB71yZl8jCKA",
+      "phone": "(47) 3028-3712",
+      "address": "R. Profa. Ana Maria Harger, 71 - Anita Garibaldi, Joinville - SC, 89202-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisiotec Fisioterapia",
+      "href": "https://www.google.com/maps/place/Fisiotec+Fisioterapia/data=!4m7!3m6!1s0x94deb0688366f0b7:0xfade0996920f31a2!8m2!3d-26.3155442!4d-48.8628887!16s%2Fg%2F1th5843f!19sChIJt_Bmg2iw3pQRojEPkpYJ3vo",
+      "phone": "(47) 3438-1926",
+      "address": "R. Otto Gerken, 38 - Atiradores, Joinville - SC, 89203-175",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Cristiane Trindade | Fisioterapeuta Pélvica Funcional",
+      "href": "https://www.google.com/maps/place/Dra.+Cristiane+Trindade+%7C+Fisioterapeuta+P%C3%A9lvica+Funcional/data=!4m7!3m6!1s0x94deb103b9205fdb:0xc8ab9c4fbf56ec9c!8m2!3d-26.3031161!4d-48.8538301!16s%2Fg%2F11kr8tqjrv!19sChIJ218guQOx3pQRnOxWv0-cq8g",
+      "phone": "(47) 98848-2034",
+      "address": "Anexo à SRJ Serviços de Reabilitação - R. Expedicionário Holz, 133 - Atiradores, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corporal Centro Reabilitação Fisioterápica",
+      "href": "https://www.google.com/maps/place/Corporal+Centro+Reabilita%C3%A7%C3%A3o+Fisioter%C3%A1pica/data=!4m7!3m6!1s0x94deb0576fefea53:0x83d2ea6c79b19ead!8m2!3d-26.317757!4d-48.8579!16s%2Fg%2F1tdzh43b!19sChIJU-rvb1ew3pQRrZ6xeWzq0oM",
+      "phone": "(47) 3422-0793",
+      "address": "R. Gothard Kaesemodel, 518 - sala 2 - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dr. Augusto Felipe - Fisioterapia Domiciliar e Liberação Miofascial",
+      "href": "https://www.google.com/maps/place/Dr.+Augusto+Felipe+-+Fisioterapia+Domiciliar+e+Libera%C3%A7%C3%A3o+Miofascial/data=!4m7!3m6!1s0x94deb1c9977f8537:0x61ebfc39379bb1f5!8m2!3d-26.2979628!4d-48.8647206!16s%2Fg%2F11vd3qfd30!19sChIJN4V_l8mx3pQR9bGbNzn862E",
+      "phone": "(47) 98879-3880",
+      "address": "R. Evaristo da Veiga, 156 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Espaço Desenvolver",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Espa%C3%A7o+Desenvolver/data=!4m7!3m6!1s0x94deb1bcc4c6cc63:0x58cab909af396ad!8m2!3d-26.3075611!4d-48.8625903!16s%2Fg%2F11n122q9fx!19sChIJY8zGxLyx3pQRrZbzmpCrjAU",
+      "phone": "(47) 3423-0147",
+      "address": "R. Alberto Kroehne, 76 - Atiradores, Joinville - SC, 89203-115",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra Verônica Medeiros Meurer",
+      "href": "https://www.google.com/maps/place/Dra+Ver%C3%B4nica+Medeiros+Meurer/data=!4m7!3m6!1s0x94deb17053163683:0x637e8a64f4794b67!8m2!3d-26.3163039!4d-48.839701!16s%2Fg%2F11q45d5lqf!19sChIJgzYWU3Cx3pQRZ0t59GSKfmM",
+      "phone": "(47) 99638-5396",
+      "address": "R. Inácio Bastos, 534 - Bucarein, Joinville - SC, 89202-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Neuro Reabilitar",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Neuro+Reabilitar/data=!4m7!3m6!1s0x94deb1374be1c119:0x869a1b843f23e3be!8m2!3d-26.2962582!4d-48.8633848!16s%2Fg%2F11n42zjyn_!19sChIJGcHhSzex3pQRvuMjP4QbmoY",
+      "phone": "(47) 99175-1224",
+      "address": "R. Reg. Feijó, 34 - Glória, Joinville - SC, 89216-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Essence Vitali - Saúde Integrada",
+      "href": "https://www.google.com/maps/place/Essence+Vitali+-+Sa%C3%BAde+Integrada/data=!4m7!3m6!1s0x94deb1f5efb35ddf:0x10463a38edf6fc7a!8m2!3d-26.3180202!4d-48.8520321!16s%2Fg%2F11vjpkczjw!19sChIJ312z7_Wx3pQRevz27Tg6RhA",
+      "phone": "(47) 99271-5170",
+      "address": "R. Alagoas, 185 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Upgrade Pilates",
+      "href": "https://www.google.com/maps/place/Studio+Upgrade+Pilates/data=!4m7!3m6!1s0x94deb050fd439e7b:0x7c84b937f7677900!8m2!3d-26.3192828!4d-48.8613987!16s%2Fg%2F11ggw8h58v!19sChIJe55D_VCw3pQRAHln9ze5hHw",
+      "phone": "(47) 99728-6331",
+      "address": "R. Benjamin Willian Frank, 94 - Anita Garibaldi, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Equilibra Estética Facial e Corporal",
+      "href": "https://www.google.com/maps/place/Equilibra+Est%C3%A9tica+Facial+e+Corporal/data=!4m7!3m6!1s0x94deb13fd3f91989:0xd6b72e4be44e9248!8m2!3d-26.3136168!4d-48.8466167!16s%2Fg%2F11rc2n8g21!19sChIJiRn50z-x3pQRSJJO5Esut9Y",
+      "phone": "(47) 99917-2099",
+      "address": "R. Paraná, 105 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lipocenter",
+      "href": "https://www.google.com/maps/place/Lipocenter/data=!4m7!3m6!1s0x94deb0573d839f2b:0x7cfc2a0d8a3db79!8m2!3d-26.3168743!4d-48.8480787!16s%2Fg%2F1ptwzf7jb!19sChIJK5-DPVew3pQReduj2KDCzwc",
+      "phone": "(47) 3026-1146",
+      "address": "R. Anita Garibaldi, 293 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Jeniffer Pontes - Fisioterapeuta pélvica",
+      "href": "https://www.google.com/maps/place/Dra.+Jeniffer+Pontes+-+Fisioterapeuta+p%C3%A9lvica/data=!4m7!3m6!1s0x94deb1d9be0b132b:0xa93123cd9a326beb!8m2!3d-26.3132851!4d-48.8495634!16s%2Fg%2F11yt4px9gw!19sChIJKxMLvtmx3pQR62syms0jMak",
+      "phone": "(47) 99242-4202",
+      "address": "R. Paraná, 420 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Josiâni Fachini Fisioterapeuta",
+      "href": "https://www.google.com/maps/place/Josi%C3%A2ni+Fachini+Fisioterapeuta/data=!4m7!3m6!1s0x94deb04bac3c126f:0x897dadb45d873468!8m2!3d-26.3185324!4d-48.8563425!16s%2Fg%2F11hczxsvp0!19sChIJbxI8rEuw3pQRaDSHXbStfYk",
+      "phone": "(47) 99942-2971",
+      "address": "R. Gothard Kaesemodel, 683 - Anita Garibaldi, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maria Isabella Fisioterapia Acupuntura Pilates",
+      "href": "https://www.google.com/maps/place/Maria+Isabella+Fisioterapia+Acupuntura+Pilates/data=!4m7!3m6!1s0x94deb1aed6593e11:0x5fc9caa8d5d0bdd8!8m2!3d-26.3186147!4d-48.8563876!16s%2Fg%2F11j0twtn3p!19sChIJET5Z1q6x3pQR2L3Q1ajKyV8",
+      "phone": "(47) 98436-4421",
+      "address": "R. Gothard Kaesemodel - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Osteopatia Joinville - Osteopatia | Terapia Manual | Tratamento da Dor Lombar e Cervical",
+      "href": "https://www.google.com/maps/place/Osteopatia+Joinville+-+Osteopatia+%7C+Terapia+Manual+%7C+Tratamento+da+Dor+Lombar+e+Cervical/data=!4m7!3m6!1s0x94deb1fc233e9267:0xde7923234461c367!8m2!3d-26.2763078!4d-48.8486838!16s%2Fg%2F11jgd2237b!19sChIJZ5I-I_yx3pQRZ8NhRCMjed4",
+      "phone": "(47) 99107-9715",
+      "address": "Av. Marcos Wehmuth, 900 - Sl 1 - Saguaçu, Joinville - SC, 89221-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aline Taner | Fisioterapeuta",
+      "href": "https://www.google.com/maps/place/Aline+Taner+%7C+Fisioterapeuta/data=!4m7!3m6!1s0x94deafb063a8e043:0xb4cc4c3bfcb8c07f!8m2!3d-26.2791569!4d-48.8451581!16s%2Fg%2F11yzb18byg!19sChIJQ-CoY7Cv3pQRf8C4_DtMzLQ",
+      "phone": "(47) 99771-5567",
+      "address": "R. Guaratuba - Saguaçu, Joinville - SC, 89221-660",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Fisioterapia Costa e Silva",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+Costa+e+Silva/data=!4m7!3m6!1s0x94deaff4c2cba66b:0x82f1e26f599421f4!8m2!3d-26.273359!4d-48.8763741!16s%2Fg%2F1wl4rrmv!19sChIJa6bLwvSv3pQR9CGUWW_i8YI",
+      "phone": "(47) 3473-8444",
+      "address": "R. Inambu, 427 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Priscila Taufenbach Fisioterapia",
+      "href": "https://www.google.com/maps/place/Priscila+Taufenbach+Fisioterapia/data=!4m7!3m6!1s0x94deafd0115137eb:0x5f0216ec30d6e40b!8m2!3d-26.2987125!4d-48.850077!16s%2Fg%2F11kp_5trng!19sChIJ6zdREdCv3pQRC-TWMOwWAl8",
+      "phone": "(47) 99919-5581",
+      "address": "R. Blumenau, 178 - Sl 611 - Centro, Joinville - SC, 89204-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ivana Parizzi - fisioterapia e esporte",
+      "href": "https://www.google.com/maps/place/Ivana+Parizzi+-+fisioterapia+e+esporte/data=!4m7!3m6!1s0x94deb1360151884f:0x7e27b031950a5738!8m2!3d-26.2986246!4d-48.8534406!16s%2Fg%2F11yx2fh799!19sChIJT4hRATax3pQROFcKlTGwJ34",
+      "phone": "(47) 98900-8787",
+      "address": "R. XV de Novembro, 1156 - Vila Nova, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Keer Pilates e Fisioterapia",
+      "href": "https://www.google.com/maps/place/Studio+Keer+Pilates+e+Fisioterapia/data=!4m7!3m6!1s0x94dea54e30a566af:0xd36fec686542e199!8m2!3d-26.2921775!4d-48.913708!16s%2Fg%2F11j1m6tm_z!19sChIJr2alME6l3pQRmeFCZWjsb9M",
+      "phone": "(47) 99902-5557",
+      "address": "R. São Firmino, 823 - Vila Nova, Joinville - SC, 89237-394",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tatiana Massoterapeuta Integrativa - Vila Nova - Joinville-SC",
+      "href": "https://www.google.com/maps/place/Tatiana+Massoterapeuta+Integrativa+-+Vila+Nova+-+Joinville-SC/data=!4m7!3m6!1s0x94dea5b3852e3dcf:0x4802f987803e71de!8m2!3d-26.2864688!4d-48.907203!16s%2Fg%2F11h6db6hny!19sChIJzz0uhbOl3pQR3nE-gIf5Akg",
+      "phone": "(47) 99942-4431",
+      "address": "Anexo aí Estúdio da Bruna Fisioterapeuta - R. XV de Novembro, 7426 - sala 05 - Vila Nova, Joinville - SC, 89237-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Konrad Werner Kasemodel",
+      "href": "https://www.google.com/maps/place/Konrad+Werner+Kasemodel/data=!4m7!3m6!1s0x94deb0e551464979:0x260ce918631b7723!8m2!3d-26.33129!4d-48.849238!16s%2Fg%2F1v4k7nvb!19sChIJeUlGUeWw3pQRI3cbYxjpDCY",
+      "phone": "(47) 3426-2112",
+      "address": "R. Olaria, 225 - Floresta, Joinville - SC, 89211-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Physio Massoterapia Desportiva e Estética Corporal",
+      "href": "https://www.google.com/maps/place/Physio+Massoterapia+Desportiva+e+Est%C3%A9tica+Corporal/data=!4m7!3m6!1s0x94deb188b644d311:0xf3a6f55b51f23a89!8m2!3d-26.3444271!4d-48.8474042!16s%2Fg%2F11fmt2z3lb!19sChIJEdNEtoix3pQRiTryUVv1pvM",
+      "phone": "(47) 99975-0657",
+      "address": "R. Santa Catarina, 2348 - Sl 16 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vittare Clínica de Fisioterapia-Drª Jaqueline Schulz",
+      "href": "https://www.google.com/maps/place/Vittare+Cl%C3%ADnica+de+Fisioterapia-Dr%C2%AA+Jaqueline+Schulz/data=!4m7!3m6!1s0x94deb1d5c1e01e05:0x237ab9071d35fa7e!8m2!3d-26.2787292!4d-48.8358016!16s%2Fg%2F1vm_z0ry!19sChIJBR7gwdWx3pQRfvo1HQe5eiM",
+      "phone": "(47) 3427-6818",
+      "address": "R. Iririú, 736 - Iririú, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eleve Pilates e Fisioterapia",
+      "href": "https://www.google.com/maps/place/Eleve+Pilates+e+Fisioterapia/data=!4m7!3m6!1s0x94deb1e9a3147c67:0x533c0ba0f5b08697!8m2!3d-26.2718504!4d-48.8170469!16s%2Fg%2F11vbdwyc_l!19sChIJZ3wUo-mx3pQRl4aw9aALPFM",
+      "phone": "(47) 99667-8148",
+      "address": "R. Soure, 197 - Iririú, Joinville - SC, 89227-053",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapia e Cia",
+      "href": "https://www.google.com/maps/place/Fisioterapia+e+Cia/data=!4m7!3m6!1s0x94deae2286d1b24d:0x2fb577ff7d6fa86!8m2!3d-26.2639547!4d-48.8195586!16s%2Fg%2F1tdxx4z0!19sChIJTbLRhiKu3pQRhvrW939X-wI",
+      "phone": "(47) 3434-1379",
+      "address": "R. Tuiuti, 900 - Iririú, Joinville - SC, 89227-473",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Daiane Levandoski",
+      "href": "https://www.google.com/maps/place/Dra.+Daiane+Levandoski/data=!4m7!3m6!1s0x94deb1fc1e1b8a1d:0xd136268cef49f2db!8m2!3d-26.2691355!4d-48.8101511!16s%2Fg%2F11y1r_b5_s!19sChIJHYobHvyx3pQR2_JJ74wmNtE",
+      "phone": "(47) 99928-5519",
+      "address": "R. Dr. Júlio de Mesquita Filho, 230 - Iririú, Joinville - SC, 89224-240",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cássia Terapeuta Manual / Quiropraxia Japonesa",
+      "href": "https://www.google.com/maps/place/C%C3%A1ssia+Terapeuta+Manual+%2F+Quiropraxia+Japonesa/data=!4m7!3m6!1s0x94deb1b5199aa74f:0x1e66b9ad7205e20e!8m2!3d-26.2694218!4d-48.8029594!16s%2Fg%2F11wfpp10gw!19sChIJT6eaGbWx3pQRDuIFcq25Zh4",
+      "phone": "(47) 99717-2244",
+      "address": "R. Reinaldo Schossland, 214 Jardim - Jardim Iririú, Joinville - SC, 89224-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Amanda Hintz - Fisioterapia Pélvica",
+      "href": "https://www.google.com/maps/place/Dra.+Amanda+Hintz+-+Fisioterapia+P%C3%A9lvica/data=!4m7!3m6!1s0x94deb1dd9b2459f1:0x7bfdd1544e7e76ba!8m2!3d-26.2846015!4d-48.8548622!16s%2Fg%2F11y3s4gr60!19sChIJ8Vkkm92x3pQRunZ-TlTR_Xs",
+      "phone": "(47) 99149-7957",
+      "address": "R. Benjamin Constant, 543 - Sl 2 - América, Joinville - SC, 89204-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapeuta Dra SHEILLA BLANK - Fisioterapia/Joinville",
+      "href": "https://www.google.com/maps/place/Fisioterapeuta+Dra+SHEILLA+BLANK+-+Fisioterapia%2FJoinville/data=!4m7!3m6!1s0x94deafa10bd6e489:0x9641e055e44c7b4f!8m2!3d-26.3052912!4d-48.8316599!16s%2Fg%2F11shrkt1j3!19sChIJieTWC6Gv3pQRT3tM5FXgQZY",
+      "phone": "(47) 98827-0247",
+      "address": "Rua José Elias Giuliari, 95 - Boa Vista, Joinville - SC, 89221-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ADEJ - Associação dos Deficientes Físicos de Joinville",
+      "href": "https://www.google.com/maps/place/ADEJ+-+Associa%C3%A7%C3%A3o+dos+Deficientes+F%C3%ADsicos+de+Joinville/data=!4m7!3m6!1s0x94deb1afd6e3129d:0xbc8b1790bf3f2d25!8m2!3d-26.3053261!4d-48.8316282!16s%2Fg%2F11bv2lpn9v!19sChIJnRLj1q-x3pQRJS0_v5AXi7w",
+      "phone": "(47) 3433-6355",
+      "address": "Rua José Elias Giuliari, 95 - Boa Vista, Joinville - SC, 89205-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Pilates + Saúde Comasa - Pilates, Fisioterapia e Pole Sport",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Pilates+%2B+Sa%C3%BAde+Comasa+-+Pilates,+Fisioterapia+e+Pole+Sport/data=!4m7!3m6!1s0x94deb12ac6b67521:0x246e78078546237e!8m2!3d-26.2835529!4d-48.8035037!16s%2Fg%2F11t4tcxxsm!19sChIJIXW2xiqx3pQRfiNGhQd4biQ",
+      "phone": "(47) 99663-2755",
+      "address": "Lateral da Farmácia Preço Popular - R. Pref. Baltasar Buschle, 675 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapeuta - Atendimento Domiciliar",
+      "href": "https://www.google.com/maps/place/Fisioterapeuta+-+Atendimento+Domiciliar/data=!4m7!3m6!1s0x94deb12be10c5b45:0xbfba19817c110c20!8m2!3d-26.2734344!4d-48.8105431!16s%2Fg%2F11ry9cprwr!19sChIJRVsM4Sux3pQRIAwRfIEZur8",
+      "phone": "(47) 98469-1197",
+      "address": "R. Victor Konder - Comasa, Joinville - SC, 89228-397",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Pilates + Saúde Espinheiros - Fisioterapia",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Pilates+%2B+Sa%C3%BAde+Espinheiros+-+Fisioterapia/data=!4m7!3m6!1s0x94deb3135578310f:0x3a53c63f520a819f!8m2!3d-26.2882581!4d-48.7800531!16s%2Fg%2F11wn5016k_!19sChIJDzF4VROz3pQRn4EKUj_GUzo",
+      "phone": "(47) 99930-9889",
+      "address": "R. Pref. Baltasar Buschle, 3245 - Espinheiros, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Fisioterapia e Hidroterapia Joinville-SC",
+      "href": "https://www.google.com/maps/place/Centro+de+Fisioterapia+e+Hidroterapia+Joinville-SC/data=!4m7!3m6!1s0x94deaf00548eb85d:0x65c5f956e04d1a81!8m2!3d-26.2688264!4d-48.8704658!16s%2Fg%2F11yq1z5826!19sChIJXbiOVACv3pQRgRpN4Fb5xWU",
+      "phone": "(47) 3422-2463",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 1105 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Analú Pilates & Estética",
+      "href": "https://www.google.com/maps/place/Anal%C3%BA+Pilates+%26+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb15c251fa893:0xdf1ce832def1efe5!8m2!3d-26.321628!4d-48.8327533!16s%2Fg%2F11gmh7trts!19sChIJk6gfJVyx3pQR5e_x3jLoHN8",
+      "phone": "(47) 99603-6421",
+      "address": "R. Graciosa, 704 - 2 - 704 - 2 - Guanabara, Joinville - SC, 89207-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O3 Vital Clínica Integrativa \"Ozonioterapia e Biorressonância.",
+      "href": "https://www.google.com/maps/place/O3+Vital+Cl%C3%ADnica+Integrativa+%22Ozonioterapia+e+Biorresson%C3%A2ncia./data=!4m7!3m6!1s0x94deb164111df8fb:0xb67ae25d7f185e76!8m2!3d-26.3221808!4d-48.8313823!16s%2Fg%2F11rb5_qx5z!19sChIJ-_gdEWSx3pQRdl4Yf13ierY",
+      "phone": "(47) 99270-4606",
+      "address": "R. Nacar, 153 - Guanabara, Joinville - SC, 89207-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "3Mpilates",
+      "href": "https://www.google.com/maps/place/3Mpilates/data=!4m7!3m6!1s0x94deb1e9b26b60ed:0x719ef9f54650d6ef!8m2!3d-26.2661752!4d-48.8097397!16s%2Fg%2F11ylsqz6dg!19sChIJ7WBrsumx3pQR79ZQRvX5nnE",
+      "phone": "(47) 98466-1551",
+      "address": "R. Morretes, 98 - Jardim Iririú, Joinville - SC, 89224-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alongue Estúdio de Pilates",
+      "href": "https://www.google.com/maps/place/Alongue+Est%C3%BAdio+de+Pilates/data=!4m7!3m6!1s0x94deb197d1795ac7:0xc35ae1a7935b245b!8m2!3d-26.2637698!4d-48.805197!16s%2Fg%2F11pzv471t4!19sChIJx1p50Zex3pQRWyRbk6fhWsM",
+      "phone": "(47) 99638-0188",
+      "address": "R. Janaúba, 685 - Jardim Iririú, Joinville - SC, 89224-281",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Massoterapia FR",
+      "href": "https://www.google.com/maps/place/Massoterapia+FR/data=!4m7!3m6!1s0x94deae1881dcf099:0xf01b45a3eaba74a9!8m2!3d-26.2645877!4d-48.8194928!16s%2Fg%2F11bvcvk9c5!19sChIJmfDcgRiu3pQRqXS66qNFG_A",
+      "phone": "(47) 99674-8362",
+      "address": "R. Guaíra, 994 - Iririú, Joinville - SC, 89227-445",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella & Along Saúde e Reabilitação",
+      "href": "https://www.google.com/maps/place/Bella+%26+Along+Sa%C3%BAde+e+Reabilita%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea66886f68809:0x5c1ad0eb0a70ec06!8m2!3d-26.2103429!4d-48.9095617!16s%2Fg%2F11fylqry5x!19sChIJCYj2hmim3pQRBuxwCuvQGlw",
+      "phone": "(47) 99613-6591",
+      "address": "R. Vinte e Sete de Maio, 493 - Centro (Pirabeiraba), Joinville - SC, 89239-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Estética Virtuosa - Pirabeiraba",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Est%C3%A9tica+Virtuosa+-+Pirabeiraba/data=!4m7!3m6!1s0x94dea70ae3fe7dcd:0x138b255e7b95ee57!8m2!3d-26.2096111!4d-48.9095538!16s%2Fg%2F11fjtw13b8!19sChIJzX3-4wqn3pQRV-6Ve14lixM",
+      "phone": "(47) 3305-4078",
+      "address": "R. Prof. Ohde, 95 - Pirabeiraba, Joinville - SC, 89239-075",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pilates Studio",
+      "href": "https://www.google.com/maps/place/Pilates+Studio/data=!4m7!3m6!1s0x94dea78d575da3b1:0x618be1e38d3ccb13!8m2!3d-26.2108955!4d-48.908205!16s%2Fg%2F11fpl4zkv_!19sChIJsaNdV42n3pQRE8s8jePhi2E",
+      "phone": "(47) 3453-0673",
+      "address": "R. Ver. Guilherme Zuege, 173 - Sl 2 - Pirabeiraba, Joinville - SC, 89239-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fleury Termografia do Movimento e Fisioterapia Regenerativa",
+      "href": "https://www.google.com/maps/place/Fleury+Termografia+do+Movimento+e+Fisioterapia+Regenerativa/data=!4m7!3m6!1s0x94deb13d70a4b89b:0x959ff4bec7939f66!8m2!3d-26.3201196!4d-48.8749978!16s%2Fg%2F11nnpdl3rs!19sChIJm7ikcD2x3pQRZp-Tx770n5U",
+      "phone": "(47) 98852-9772",
+      "address": "Rua Canelinha, 68 - Sl 1 - São Marcos, Joinville - SC, 89214-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapia Domiciliar Joinville",
+      "href": "https://www.google.com/maps/place/Fisioterapia+Domiciliar+Joinville/data=!4m7!3m6!1s0x94deb14aa1f1a81b:0xd2953cd20e62f691!8m2!3d-26.325729!4d-48.8688812!16s%2Fg%2F11fs3ntjz6!19sChIJG6jxoUqx3pQRkfZiDtI8ldI",
+      "phone": "(47) 99924-6109",
+      "address": "R. Barbacena, 603 - São Marcos, Joinville - SC, 89203-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Spaço Saúde Academia",
+      "href": "https://www.google.com/maps/place/Spa%C3%A7o+Sa%C3%BAde+Academia/data=!4m7!3m6!1s0x94debbd850238da9:0x14588e2c1d1579d4!8m2!3d-26.3290623!4d-48.9082646!16s%2Fg%2F11lt9qmw0c!19sChIJqY0jUNi73pQR1HkVHSyOWBQ",
+      "phone": "(47) 99259-0890",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moratelli Saúde Integrada",
+      "href": "https://www.google.com/maps/place/Moratelli+Sa%C3%BAde+Integrada/data=!4m7!3m6!1s0x94deb10c5d5377eb:0x1fe08190be763de0!8m2!3d-26.3149456!4d-48.8513902!16s%2Fg%2F11tczc8b85!19sChIJ63dTXQyx3pQR4D12vpCB4B8",
+      "phone": "(47) 3030-3498",
+      "address": "R. Cel. Santiago, 627 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fisioterapia Domiciliar Joinville",
+      "href": "https://www.google.com/maps/place/Fisioterapia+Domiciliar+Joinville/data=!4m7!3m6!1s0x94deafe72ede70e1:0x959746c40bf13f10!8m2!3d-26.2688858!4d-48.8610439!16s%2Fg%2F11fmdjzbc6!19sChIJ4XDeLuev3pQRED_xC8RGl5U",
+      "phone": "(47) 99624-9132",
+      "address": "Rua Carlos Willy Boehm, 322 - Santo Antônio, Joinville - SC, 89218-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ELIZ Fisioterapia & Pilates",
+      "href": "https://www.google.com/maps/place/ELIZ+Fisioterapia+%26+Pilates/data=!4m7!3m6!1s0x94deb1df1f12b235:0xb48c80959da8f142!8m2!3d-26.2767849!4d-48.8539128!16s%2Fg%2F11n11zzky5!19sChIJNbISH9-x3pQRQvGonZWAjLQ",
+      "phone": "(47) 98881-3838",
+      "address": "R. Aracaju, 1540 - Santo Antônio, Joinville - SC, 89218-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Animal Fit Fisiatria e Reabilitação Veterinária",
+      "href": "https://www.google.com/maps/place/Animal+Fit+Fisiatria+e+Reabilita%C3%A7%C3%A3o+Veterin%C3%A1ria/data=!4m7!3m6!1s0x94deb1925230e487:0xdffb74f12cc3fcc2!8m2!3d-26.2657896!4d-48.8480361!16s%2Fg%2F11j7ffkwnh!19sChIJh-QwUpKx3pQRwvzDLPF0-98",
+      "phone": "(47) 99678-3033",
+      "address": "Rua Otto Benack, 300 - Bom Retiro, Joinville - SC, 89222-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio K Freitas Pilates",
+      "href": "https://www.google.com/maps/place/Studio+K+Freitas+Pilates/data=!4m7!3m6!1s0x94deafcc09f630c3:0x90fc608f01f9bab1!8m2!3d-26.2653979!4d-48.8438465!16s%2Fg%2F11f4rd2sqy!19sChIJwzD2Ccyv3pQRsbr5AY9g_JA",
+      "phone": "(47) 3043-0550",
+      "address": "R. Barriga Verde, 85 - Bom Retiro, Joinville - SC, 89222-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

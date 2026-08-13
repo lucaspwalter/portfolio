@@ -1,0 +1,1019 @@
+{
+  "id": "salao",
+  "nome": "Salão",
+  "terms": [
+    "salão de beleza",
+    "cabeleireiro"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "SL Hair Beauty",
+      "href": "https://www.google.com/maps/place/SL+Hair+Beauty/data=!4m7!3m6!1s0x94deb77baa5d2d8b:0xc3d22381272708c2!8m2!3d-26.3636081!4d-48.8292269!16s%2Fg%2F11nxpqk2lw!19sChIJiy1dqnu33pQRwggnJ4Ej0sM",
+      "phone": "(47) 99170-7995",
+      "address": "R. Adolfo da Veiga, 329 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Deolinda Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Deolinda+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deb6c484c4e2c5:0x510e3770f3ec2347!8m2!3d-26.3665407!4d-48.8277252!16s%2Fg%2F11bvcv5xbx!19sChIJxeLEhMS23pQRRyPs83A3DlE",
+      "phone": "(47) 3454-5593",
+      "address": "R. dos Professores, 158 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mademoiselle Studio de Beleza",
+      "href": "https://www.google.com/maps/place/Mademoiselle+Studio+de+Beleza/data=!4m7!3m6!1s0x94deb71068836b75:0xa7363cbcf90d440c!8m2!3d-26.3688695!4d-48.828005!16s%2Fg%2F11t0r_r3n0!19sChIJdWuDaBC33pQRDEQN-bw8Nqc",
+      "phone": "(47) 99199-9171",
+      "address": "R. Adolfo da Veiga, 962 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio de Beleza",
+      "href": "https://www.google.com/maps/place/Studio+de+Beleza/data=!4m7!3m6!1s0x94deb6cfbac4b1ff:0x4a109b2aa80151d3!8m2!3d-26.360412!4d-48.8278865!16s%2Fg%2F11rhdsfr61!19sChIJ_7HEus-23pQR01EBqCqbEEo",
+      "phone": "(47) 99954-1316",
+      "address": "R. Boehmerwald, 1083 - Boehmerwald, Joinville - SC, 89232-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço da Beleza Daiane Lofy",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+da+Beleza+Daiane+Lofy/data=!4m7!3m6!1s0x94deb1d62cf22f65:0xe53aefbd30dca92e!8m2!3d-26.3464451!4d-48.8316653!16s%2Fg%2F11f9wqc12f!19sChIJZS_yLNax3pQRLqncML3vOuU",
+      "phone": "(47) 99996-6668",
+      "address": "Av. Paulo Schroeder, 2535 - Petrópolis, Joinville - SC, 89208-733",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kalahari Cαbeleireiros Especializados em Noivas",
+      "href": "https://www.google.com/maps/place/Kalahari+C%CE%B1beleireiros+Especializados+em+Noivas/data=!4m7!3m6!1s0x94deb6c77ea4ed0f:0x7587ff82515e8130!8m2!3d-26.3510166!4d-48.8188806!16s%2Fg%2F1tdp65px!19sChIJD-2kfse23pQRMIFeUYL_h3U",
+      "phone": "(47) 99776-0381",
+      "address": "Rua : João Costa, 1225 - João Costa, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço da Beleza Paola Murtinho",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+da+Beleza+Paola+Murtinho/data=!4m7!3m6!1s0x94deb79a07b8eb2f:0xd26bacf62317e4cb!8m2!3d-26.3543065!4d-48.8292284!16s%2Fg%2F11nmls6b6g!19sChIJL-u4B5q33pQRy-QXI_asa9I",
+      "phone": "(47) 99642-1484",
+      "address": "R. Ida Ana Eccel, 739 - Petrópolis, Joinville - SC, 89232-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Fran Kersten",
+      "href": "https://www.google.com/maps/place/Studio+Fran+Kersten/data=!4m7!3m6!1s0x94deb788f99e0fd7:0xabfac9deb4e9e2be!8m2!3d-26.3685421!4d-48.8229975!16s%2Fg%2F11nqc63ygf!19sChIJ1w-e-Yi33pQRvuLptN7J-qs",
+      "phone": "(47) 99661-0196",
+      "address": "R. Nova República, 506 - Boehmerwald, Joinville - SC, 89235-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pura Beleza",
+      "href": "https://www.google.com/maps/place/Pura+Beleza/data=!4m7!3m6!1s0x94deb12daf222201:0x896ba978c594e9b8!8m2!3d-26.3509387!4d-48.8317023!16s%2Fg%2F11b88z2vmw!19sChIJASIiry2x3pQRuOmUxXipa4k",
+      "phone": "(47) 3436-3483",
+      "address": "Av. Paulo Schroeder, 2069 - Petrópolis, Joinville - SC, 89208-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Ana Smak | Salão de Beleza | Joinville",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Ana+Smak+%7C+Sal%C3%A3o+de+Beleza+%7C+Joinville/data=!4m7!3m6!1s0x94deb1428b2e68bb:0x2da86085dd0d05d!8m2!3d-26.3367426!4d-48.8442908!16s%2Fg%2F11lmnhrp6d!19sChIJu2gui0Kx3pQRXdDQXQiG2gI",
+      "phone": "(47) 99222-8993",
+      "address": "R. Floresta, 206 - Floresta, Joinville - SC, 89211-690",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Conceito Joice Santana | Salão de Beleza, Cabeleireira e Estética Feminina",
+      "href": "https://www.google.com/maps/place/Conceito+Joice+Santana+%7C+Sal%C3%A3o+de+Beleza,+Cabeleireira+e+Est%C3%A9tica+Feminina/data=!4m7!3m6!1s0x94deb19b06f3f1fd:0xf26bd6d30ae0cec!8m2!3d-26.3518822!4d-48.8317403!16s%2Fg%2F11l5t_crrb!19sChIJ_fHzBpux3pQR7AyuMG29Jg8",
+      "phone": "(47) 99110-6781",
+      "address": "R. das Telefonistas, 1983 - Petrópolis, Joinville - SC, 89208-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Salão de Beleza Entre Elas",
+      "href": "https://www.google.com/maps/place/Sal%C3%A3o+de+Beleza+Entre+Elas/data=!4m7!3m6!1s0x94deb18342c8944b:0xf7c5d15b4e8ab3fd!8m2!3d-26.3320284!4d-48.8468837!16s%2Fg%2F11fmlg6krq!19sChIJS5TIQoOx3pQR_bOKTlvRxfc",
+      "phone": "(47) 99760-5731",
+      "address": "R. Santa Catarina, 1031 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Celi Cabeleireira",
+      "href": "https://www.google.com/maps/place/Celi+Cabeleireira/data=!4m7!3m6!1s0x94deb6c492ef513b:0xcead73a9519ff55e!8m2!3d-26.3658861!4d-48.8279162!16s%2Fg%2F11bvctv1dy!19sChIJO1HvksS23pQRXvWfUalzrc4",
+      "phone": "(47) 3227-3295",
+      "address": "R. dos Professores, 236 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rosete Cabeleireira",
+      "href": "https://www.google.com/maps/place/Rosete+Cabeleireira/data=!4m7!3m6!1s0x94deb6d1b4f60a5b:0xd561e62137f1dd7!8m2!3d-26.3606955!4d-48.8311544!16s%2Fg%2F11bv6psldl!19sChIJWwr2tNG23pQR1x1_E2IeVg0",
+      "phone": "(47) 99114-3878",
+      "address": "R. Boehmerwald, 776 - Sl 02 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Noeli Cabeleireira",
+      "href": "https://www.google.com/maps/place/Noeli+Cabeleireira/data=!4m7!3m6!1s0x94deb70b05c2686d:0xd8692fd544ef51ee!8m2!3d-26.3660479!4d-48.8278884!16s%2Fg%2F11q4c579f4!19sChIJbWjCBQu33pQR7lHvRNUvadg",
+      "phone": "(47) 99947-4924",
+      "address": "R. dos Professores, 211 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nileine (Lene) Cabeleireira",
+      "href": "https://www.google.com/maps/place/Nileine+%28Lene%29+Cabeleireira/data=!4m7!3m6!1s0x94deb73d51884a87:0x973bdc590e39951c!8m2!3d-26.3615773!4d-48.8249076!16s%2Fg%2F11sff5h0s3!19sChIJh0qIUT233pQRHJU5DlncO5c",
+      "phone": "(47) 99132-2291",
+      "address": "R. Boehmerwald, 1291 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luís Cabeleireiro",
+      "href": "https://www.google.com/maps/place/Lu%C3%ADs+Cabeleireiro/data=!4m7!3m6!1s0x94deb6cf5d15c61d:0x50437f9e277a6404!8m2!3d-26.3608961!4d-48.8257992!16s%2Fg%2F11cnbrtcbr!19sChIJHcYVXc-23pQRBGR6J55_Q1A",
+      "phone": "(47) 99638-6676",
+      "address": "R. Boehmerwald, 1195 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Niko Cabeleireiro",
+      "href": "https://www.google.com/maps/place/Niko+Cabeleireiro/data=!4m7!3m6!1s0x94deb1f18fe786b7:0x8938698ef8363520!8m2!3d-26.3605537!4d-48.8286213!16s%2Fg%2F11bv3vxpzz!19sChIJt4bnj_Gx3pQRIDU2-I5pOIk",
+      "phone": "(47) 93386-9516",
+      "address": "1007 esq, com, R. João Ramalho, Rua - Boehmerwald, Joinville - SC",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Odair Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Odair+Cabeleireiros/data=!4m7!3m6!1s0x94deb6d24e35af33:0x5981f9aba35c2aab!8m2!3d-26.3569211!4d-48.8317011!16s%2Fg%2F11b8b40k_v!19sChIJM681TtK23pQRqypco6v5gVk",
+      "phone": "(47) 3463-8687",
+      "address": "Av. Paulo Schroeder, 1457 - Boehmerwald, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ju Cabeleireira",
+      "href": "https://www.google.com/maps/place/Ju+Cabeleireira/data=!4m7!3m6!1s0x94deb6c67b0fbbd1:0x5e0c88f31a524d45!8m2!3d-26.3628493!4d-48.8241465!16s%2Fg%2F11bv6pgydg!19sChIJ0bsPe8a23pQRRU1SGvOIDF4",
+      "phone": "(47) 3438-2797",
+      "address": "R. Boehmerwald, 1421 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ele e Ela Espaço da beleza",
+      "href": "https://www.google.com/maps/place/Ele+e+Ela+Espa%C3%A7o+da+beleza/data=!4m7!3m6!1s0x94deb049ec292ce9:0xa670fbe1fd5bbac0!8m2!3d-26.3009653!4d-48.8464121!16s%2Fg%2F11b81s3834!19sChIJ6Swp7Emw3pQRwLpb_eH7cKY",
+      "phone": "(47) 99661-5292",
+      "address": "Enfrente à casas bahia - R. do Príncipe, 226 - 1ºAndar- Sala 12 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Salão de Beleza Mh",
+      "href": "https://www.google.com/maps/place/Sal%C3%A3o+de+Beleza+Mh/data=!4m7!3m6!1s0x94deb049caf594e7:0x4f5cb10d9aa605a8!8m2!3d-26.3016912!4d-48.8464287!16s%2Fg%2F11bv1n2hy9!19sChIJ55T1ykmw3pQRqAWmmg2xXE8",
+      "phone": "(47) 3026-4840",
+      "address": "R. 9 de Março, 515 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elis Camargo Studio de Beleza Joinville",
+      "href": "https://www.google.com/maps/place/Elis+Camargo+Studio+de+Beleza+Joinville/data=!4m7!3m6!1s0x94deb13482f805f3:0x3b88f9b39681ed48!8m2!3d-26.3021567!4d-48.84594!16s%2Fg%2F11pzgp4llq!19sChIJ8wX4gjSx3pQRSO2BlrP5iDs",
+      "phone": "(47) 99642-9212",
+      "address": "R. São Joaquim, 55 - Centro, Joinville - SC, 89201-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Beauty Princesa",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Beauty+Princesa/data=!4m7!3m6!1s0x94dea5ad70b5985f:0x652b3a93e209a565!8m2!3d-26.300108!4d-48.846701!16s%2Fg%2F11n78pm5tv!19sChIJX5i1cK2l3pQRZaUJ4pM6K2U",
+      "phone": "(47) 99730-7033",
+      "address": "R. Princesa Isabel, 447 - Centro, Joinville - SC, 89201-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Central da Beleza Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Central+da+Beleza+Cabeleireiros/data=!4m7!3m6!1s0x94deb04e82d5bfe3:0x271e2edaae0776a!8m2!3d-26.3069618!4d-48.8447406!16s%2Fg%2F1vxvj_qp!19sChIJ47_Vgk6w3pQRanfgqu3icQI",
+      "phone": "(47) 3433-8726",
+      "address": "R. do Príncipe, 859 - Centro, Joinville - SC, 89201-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hermes Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Hermes+Cabeleireiros/data=!4m7!3m6!1s0x94deb030617f0569:0x68f6a54e3aefc44a!8m2!3d-26.2981224!4d-48.8457361!16s%2Fg%2F11b81t_tbb!19sChIJaQV_YTCw3pQRSsTvOk6l9mg",
+      "phone": "(47) 99950-9153",
+      "address": "Estamos anexo ao Café Dona Francisca - R. Alexandre Döhler, 190 - Centro, Joinville - SC, 89201-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Laci Hair",
+      "href": "https://www.google.com/maps/place/Laci+Hair/data=!4m7!3m6!1s0x94deb13c8c4e83d1:0xad58d0d9952c7157!8m2!3d-26.3071736!4d-48.8413964!16s%2Fg%2F11zh8pgmdd!19sChIJ0YNOjDyx3pQRV3EsldnQWK0",
+      "phone": "(47) 99761-9502",
+      "address": "R. Min. Calógeras, 160 - Centro, Joinville - SC, 89201-490",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EJ Salão de Beleza - Joinville",
+      "href": "https://www.google.com/maps/place/EJ+Sal%C3%A3o+de+Beleza+-+Joinville/data=!4m7!3m6!1s0x94deaf5ac2762fb3:0x469414f793baf04!8m2!3d-26.2784638!4d-48.853389!16s%2Fg%2F11l5tngsq2!19sChIJsy92wlqv3pQRBK87eU9BaQQ",
+      "phone": "(47) 99918-3356",
+      "address": "R. Alvarenga Peixoto, 288 - América, Joinville - SC, 89204-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alê Leão & Lucas Ferreira",
+      "href": "https://www.google.com/maps/place/Al%C3%AA+Le%C3%A3o+%26+Lucas+Ferreira/data=!4m7!3m6!1s0x94deb154f78e7d47:0x895e27851d609537!8m2!3d-26.2954939!4d-48.8517496!16s%2Fg%2F11b81rpqxd!19sChIJR32O91Sx3pQRN5VgHYUnXok",
+      "phone": "(47) 99920-5282",
+      "address": "R. Mal. Deodoro, 380 - América, Joinville - SC, 89204-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hannie Muniz Studio de Cabelos",
+      "href": "https://www.google.com/maps/place/Hannie+Muniz+Studio+de+Cabelos/data=!4m7!3m6!1s0x94deb11f32cd78c7:0xffd4a857f3b9b895!8m2!3d-26.2867378!4d-48.8453785!16s%2Fg%2F11l1yk02zh!19sChIJx3jNMh-x3pQRlbi581eo1P8",
+      "phone": "(47) 98901-3236",
+      "address": "R. Orestes Guimarães, 1139 - América, Joinville - SC, 89204-061",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Allegra Studio",
+      "href": "https://www.google.com/maps/place/Allegra+Studio/data=!4m7!3m6!1s0x94deb03b076ced69:0xfe930e2b57ff675a!8m2!3d-26.2952658!4d-48.8525159!16s%2Fg%2F11g8pb63fc!19sChIJae1sBzuw3pQRWmf_VysOk_4",
+      "phone": "(47) 3227-2088",
+      "address": "R. Conselheiro Arp, 400 - América, Joinville - SC, 89204-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dom Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Dom+Cabeleireiros/data=!4m7!3m6!1s0x94deafd75fcbb47d:0x4b866c0fb81532d2!8m2!3d-26.2782324!4d-48.8493898!16s%2Fg%2F1tf7ywkw!19sChIJfbTLX9ev3pQR0jIVuA9shks",
+      "phone": "(47) 3029-5888",
+      "address": "R. Dr. João Colin, 2500 - América, Joinville - SC, 89204-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Speed Hair Espaço de Beleza",
+      "href": "https://www.google.com/maps/place/Speed+Hair+Espa%C3%A7o+de+Beleza/data=!4m7!3m6!1s0x94deb149c707acb3:0x9d10bd119152806a!8m2!3d-26.2838603!4d-48.8488549!16s%2Fg%2F11ng5mlpf0!19sChIJs6wHx0mx3pQRaoBSkRG9EJ0",
+      "phone": "(47) 99791-1078",
+      "address": "R. Dr. João Colin, 1872 - América, Joinville - SC, 89204-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cheia de Charme Salão de Beleza",
+      "href": "https://www.google.com/maps/place/Cheia+de+Charme+Sal%C3%A3o+de+Beleza/data=!4m7!3m6!1s0x94deb0321a0d81d3:0xd9880cc40b6f368d!8m2!3d-26.2908638!4d-48.8441806!16s%2Fg%2F11bv2lppn0!19sChIJ04ENGjKw3pQRjTZvC8QMiNk",
+      "phone": "(47) 3804-1344",
+      "address": "R. Orestes Guimarães, 720 - América, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESTÚDIO PERFIL HAIR ESTÉTICA E BELEZA",
+      "href": "https://www.google.com/maps/place/EST%C3%9ADIO+PERFIL+HAIR+EST%C3%89TICA+E+BELEZA/data=!4m7!3m6!1s0x94deb03a173f4c47:0xdf6ae9a76f44bbd6!8m2!3d-26.2973024!4d-48.8517919!16s%2Fg%2F11b81v72wc!19sChIJR0w_Fzqw3pQR1rtEb6fpat8",
+      "phone": "(47) 99714-0336",
+      "address": "R. Luiz Brockmann, 152 - América, Joinville - SC, 89204-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Xuxa Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Xuxa+Cabeleireiros/data=!4m7!3m6!1s0x94deb049a2027377:0x619809fc4d17c0aa!8m2!3d-26.3023752!4d-48.857441!16s%2Fg%2F1tfpqvdp!19sChIJd3MCokmw3pQRqsAXTfwJmGE",
+      "phone": "(47) 99985-8650",
+      "address": "R. Carlos Gruensch, 676 - América, Joinville - SC, 89201-745",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Esmalteria Néia Belas Unhas",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Esmalteria+N%C3%A9ia+Belas+Unhas/data=!4m7!3m6!1s0x94deb6c5493efc25:0x3fea65c255d86c67!8m2!3d-26.3625302!4d-48.8297772!16s%2Fg%2F11bvcv202v!19sChIJJfw-ScW23pQRZ2zYVcJl6j8",
+      "phone": "(47) 99988-9837",
+      "address": "R. Adolfo da Veiga, 226 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alika Coelho Hair | Visagista",
+      "href": "https://www.google.com/maps/place/Alika+Coelho+Hair+%7C+Visagista/data=!4m7!3m6!1s0x94deb1998b7311a1:0x5554bfcd02c8d429!8m2!3d-26.3074015!4d-48.8590331!16s%2Fg%2F11yp6010d_!19sChIJoRFzi5mx3pQRKdTIAs2_VFU",
+      "phone": "(47) 98912-5939",
+      "address": "Nunes Guimarães - R. Des. Nelson Nunes Guimarães, 377 - Atiradores, Joinville - SC, 89203-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jéssica Muraro Estética",
+      "href": "https://www.google.com/maps/place/J%C3%A9ssica+Muraro+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb124a3e24081:0xd928c0ebaf89804c!8m2!3d-26.3092137!4d-48.8547679!16s%2Fg%2F11yvvkvwjy!19sChIJgUDioySx3pQRTICJr-vAKNk",
+      "phone": "(47) 99968-0593",
+      "address": "R. Visc. de Taunay, 1174 - Atiradores, Joinville - SC, 89203-062",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pur'Art Centro de Beleza",
+      "href": "https://www.google.com/maps/place/Pur%27Art+Centro+de+Beleza/data=!4m7!3m6!1s0x94deb12f0e0a4a63:0x6c55b58d504b194c!8m2!3d-26.3024307!4d-48.8512551!16s%2Fg%2F11f7bqt67p!19sChIJY0oKDi-x3pQRTBlLUI21VWw",
+      "phone": "(47) 3025-3013",
+      "address": "R. Dr. Roberto Koch, 36 - Atiradores, Joinville - SC, 89203-088",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aura Concept - Salão de Beleza em Joinville",
+      "href": "https://www.google.com/maps/place/Aura+Concept+-+Sal%C3%A3o+de+Beleza+em+Joinville/data=!4m7!3m6!1s0x94deb11eb0730029:0x2ecd6e63307d6092!8m2!3d-26.3029116!4d-48.8538687!16s%2Fg%2F11zgqzz0d1!19sChIJKQBzsB6x3pQRkmB9MGNuzS4",
+      "phone": "(47) 99183-9488",
+      "address": "R. Expedicionário Holz, 149 - América, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NORTHON SALON",
+      "href": "https://www.google.com/maps/place/NORTHON+SALON/data=!4m7!3m6!1s0x94deb1eff0c5fee7:0xa76c4cfcef0c6dbd!8m2!3d-26.3069713!4d-48.8552657!16s%2Fg%2F11bv6pptx7!19sChIJ5_7F8O-x3pQRvW0M7_xMbKc",
+      "phone": "(47) 99996-0022",
+      "address": "R. Visc. de Taunay, 902 - Atiradores, Joinville - SC, 89203-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Navajo",
+      "href": "https://www.google.com/maps/place/Barbearia+Navajo/data=!4m7!3m6!1s0x94deb0680d67331d:0x52107c733f4ca6f!8m2!3d-26.3150025!4d-48.8621466!16s%2Fg%2F11c0t96sbg!19sChIJHTNnDWiw3pQRb8r0M8cHIQU",
+      "phone": "(47) 99983-7128",
+      "address": "R. Ottokar Doerffel, 730 - Atiradores, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "D Jones Cabeleireiros",
+      "href": "https://www.google.com/maps/place/D+Jones+Cabeleireiros/data=!4m7!3m6!1s0x94deb06886bb2597:0x31d49f69ee1e21ce!8m2!3d-26.3156478!4d-48.8625798!16s%2Fg%2F11b8236q3s!19sChIJlyW7hmiw3pQRziEe7mmf1DE",
+      "phone": "(47) 3438-0056",
+      "address": "R. Ottokar Doerffel, 810 - Atiradores, Joinville - SC, 89203-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Instituto Adriana Lima",
+      "href": "https://www.google.com/maps/place/Instituto+Adriana+Lima/data=!4m7!3m6!1s0x94deb165023c8253:0xdcdc37f4fa5fad13!8m2!3d-26.3169423!4d-48.8497548!16s%2Fg%2F11whz25gnx!19sChIJU4I8AmWx3pQRE61f-vQ33Nw",
+      "phone": "(47) 99286-5281",
+      "address": "R. Cel. Santiago, 870 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alessandra Silva Beauty Studio",
+      "href": "https://www.google.com/maps/place/Alessandra+Silva+Beauty+Studio/data=!4m7!3m6!1s0x94deb0586a36e223:0xb0d4f2c8b1ea59ca!8m2!3d-26.3163947!4d-48.8577471!16s%2Fg%2F11bv2ff96y!19sChIJI-I2aliw3pQRylnqscjy1LA",
+      "phone": "(47) 99669-8528",
+      "address": "R. Concórdia, 551 - Anita Garibaldi, Joinville - SC, 89202-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tutto Bello Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Tutto+Bello+Cabeleireiros/data=!4m7!3m6!1s0x94deb03f0dde19ed:0xe4f01adbc04c8f7!8m2!3d-26.3197304!4d-48.8666311!16s%2Fg%2F1tt8ddz6!19sChIJ7RneDT-w3pQR98gEvK0BTw4",
+      "phone": "(47) 99913-0688",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Emy Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Emy+Cabeleireiros/data=!4m7!3m6!1s0x94deb05cabde61dd:0x118d435d21c052d2!8m2!3d-26.3135322!4d-48.8550594!16s%2Fg%2F11b827krr4!19sChIJ3WHeq1yw3pQR0lLAIV1DjRE",
+      "phone": "(47) 3027-2279",
+      "address": "R. Porto União, 1058 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jolise Bernardes Beauty Studio",
+      "href": "https://www.google.com/maps/place/Jolise+Bernardes+Beauty+Studio/data=!4m7!3m6!1s0x94deb151c697c061:0xa5cc4f470c7a4d6d!8m2!3d-26.3211316!4d-48.8528205!16s%2Fg%2F11y29x4j98!19sChIJYcCXxlGx3pQRbU16DEdPzKU",
+      "phone": "(47) 99738-9577",
+      "address": "R. Anita Garibaldi, 958 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mário Cabeleireiros",
+      "href": "https://www.google.com/maps/place/M%C3%A1rio+Cabeleireiros/data=!4m7!3m6!1s0x94deb0601b09a3fb:0xb76618422d9662c1!8m2!3d-26.324532!4d-48.859483!16s%2Fg%2F1td734g9!19sChIJ-6MJG2Cw3pQRwWKWLUIYZrc",
+      "phone": "(47) 3455-3775",
+      "address": "R. Anita Garibaldi, 1787 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Monan Beleza Consciente",
+      "href": "https://www.google.com/maps/place/Monan+Beleza+Consciente/data=!4m7!3m6!1s0x94deb1c3b9ef8a03:0x26fdde75174b3f80!8m2!3d-26.3181806!4d-48.8517499!16s%2Fg%2F11k_4xq144!19sChIJA4rvucOx3pQRgD9LF3Xe_SY",
+      "phone": "(47) 99662-7299",
+      "address": "R. Alagoas, 163 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vanessa e Mara Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Vanessa+e+Mara+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94deb112a7667bff:0xd9a62a7f7c7593d6!8m2!3d-26.31718!4d-48.850208!16s%2Fg%2F11g0lh0m0z!19sChIJ_3tmpxKx3pQR1pN1fH8qptk",
+      "phone": "(47) 3031-8347",
+      "address": "R. Diringshoffen, 121 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Salão Lilian Miranda",
+      "href": "https://www.google.com/maps/place/Sal%C3%A3o+Lilian+Miranda/data=!4m7!3m6!1s0x94deb11ec655e3a9:0xdddac8422498921e!8m2!3d-26.3251424!4d-48.8587476!16s%2Fg%2F11h3ft_1s_!19sChIJqeNVxh6x3pQRHpKYJELI2t0",
+      "phone": "(47) 99710-2825",
+      "address": "R. Copacabana, 84 - Anita Garibaldi, Joinville - SC, 89203-365",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LD Harmony",
+      "href": "https://www.google.com/maps/place/LD+Harmony/data=!4m7!3m6!1s0x94deb1c57f027993:0x924e2e0bd4914fda!8m2!3d-26.3179062!4d-48.8497823!16s%2Fg%2F11vlc52843!19sChIJk3kCf8Wx3pQR2k-R1AsuTpI",
+      "phone": "(47) 99989-8845",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maga & Vanderlei Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Maga+%26+Vanderlei+Cabeleireiros/data=!4m7!3m6!1s0x94deb0666c3aaaab:0xc2e0470ccaa50673!8m2!3d-26.3178564!4d-48.8640778!16s%2Fg%2F11ggktk34v!19sChIJq6o6bGaw3pQRcwalygxH4MI",
+      "phone": "(47) 99732-7969",
+      "address": "R. Ottokar Doerffel, 1095 - Anita Garibaldi, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcos Elias Cabeleireiro",
+      "href": "https://www.google.com/maps/place/Marcos+Elias+Cabeleireiro/data=!4m7!3m6!1s0x94deb051d0e4609d:0x638c4a3ce1e6905e!8m2!3d-26.3120462!4d-48.8518569!16s%2Fg%2F11b823d32j!19sChIJnWDk0FGw3pQRXpDm4TxKjGM",
+      "phone": "(47) 99619-2145",
+      "address": "R. Pernambuco, 211 - Anita Garibaldi, Joinville - SC, 89202-142",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jane Ribas Centro de Beleza",
+      "href": "https://www.google.com/maps/place/Jane+Ribas+Centro+de+Beleza/data=!4m7!3m6!1s0x94deafd0d2ac593f:0xbdd9c6442ea3df23!8m2!3d-26.2768241!4d-48.8468579!16s%2Fg%2F1tdxrm5v!19sChIJP1ms0tCv3pQRI9-jLkTG2b0",
+      "phone": "(47) 99969-8952",
+      "address": "R. Dona Francisca, 3239 - Saguaçu, Joinville - SC, 89221-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "N&E Salão de Beleza",
+      "href": "https://www.google.com/maps/place/N%26E+Sal%C3%A3o+de+Beleza/data=!4m7!3m6!1s0x94deb02b71bc0fab:0x41806d88d793af3e!8m2!3d-26.2835108!4d-48.8417225!16s%2Fg%2F11d_tz9j2b!19sChIJqw-8cSuw3pQRPq-T14htgEE",
+      "phone": "(47) 3473-9935",
+      "address": "R. Padre Antônio Vieira, 714 - Saguaçu, Joinville - SC, 89221-265",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cris Cabeleireira",
+      "href": "https://www.google.com/maps/place/Cris+Cabeleireira/data=!4m7!3m6!1s0x94deb10e0cda0c01:0xae9a0ebc885088c3!8m2!3d-26.2769798!4d-48.83697!16s%2Fg%2F11g0kn40r3!19sChIJAQzaDA6x3pQRw4hQiLwOmq4",
+      "phone": "(47) 3034-6378",
+      "address": "R. Guilherme Tiburtius, 243 - Saguaçu, Joinville - SC, 89221-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luana salão de beleza",
+      "href": "https://www.google.com/maps/place/Luana+sal%C3%A3o+de+beleza/data=!4m7!3m6!1s0x22635d4771372b17:0x3f81f15fb61a6aa5!8m2!3d-26.2664562!4d-48.8428557!16s%2Fg%2F11vpj9lmn0!19sChIJFys3cUddYyIRpWoatl_xgT8",
+      "phone": "(47) 99704-9781",
+      "address": "R. Piratuba, 1598 - Saguaçu, Joinville - SC, 89222-365",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kaluh Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Kaluh+Cabeleireiros/data=!4m7!3m6!1s0x94deafd0d55b213b:0x6d6c9819105c4b2e!8m2!3d-26.2754554!4d-48.8487449!16s%2Fg%2F11b86v6290!19sChIJOyFb1dCv3pQRLktcEBmYbG0",
+      "phone": "(47) 99951-6750",
+      "address": "R. Coelho Neto, 62 - Saguaçu, Joinville - SC, 89221-539",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Débora sotto",
+      "href": "https://www.google.com/maps/place/Studio+D%C3%A9bora+sotto/data=!4m7!3m6!1s0x94deafec06129375:0x35860018fe9fbac2!8m2!3d-26.276699!4d-48.8411971!16s%2Fg%2F11txzy7vv0!19sChIJdZMSBuyv3pQRwrqf_hgAhjU",
+      "phone": "(47) 99755-3565",
+      "address": "R. Indaial, 590 - Sl 3 - Saguaçu, Joinville - SC, 89221-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eccos Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Eccos+Cabeleireiros/data=!4m7!3m6!1s0x94deb0334375cab5:0xb11ca33875b5db54!8m2!3d-26.2931354!4d-48.8410099!16s%2Fg%2F1vxzbsf0!19sChIJtcp1QzOw3pQRVNu1dTijHLE",
+      "phone": "(47) 3422-0033",
+      "address": "R. Dona Francisca, 1057 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NEI CENTRO DE BELEZA",
+      "href": "https://www.google.com/maps/place/NEI+CENTRO+DE+BELEZA/data=!4m7!3m6!1s0x94deaf084c704cff:0x938c60bd4dede6e!8m2!3d-26.2758914!4d-48.847684!16s%2Fg%2F11sjdxtc9x!19sChIJ_0xwTAiv3pQRbt7e1AvGOAk",
+      "phone": "(47) 99141-4064",
+      "address": "R. Dona Francisca, 3357 - Sl 02 - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sotero Barber Barbershop",
+      "href": "https://www.google.com/maps/place/Sotero+Barber+Barbershop/data=!4m7!3m6!1s0x94deb1006739af6d:0x9b9f333843c88432!8m2!3d-26.2939558!4d-48.8399897!16s%2Fg%2F11wgmr4nly!19sChIJba85ZwCx3pQRMoTIQzgzn5s",
+      "phone": "(47) 99990-8283",
+      "address": "R. Chapecó, 101 - Saguaçu, Joinville - SC, 89221-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ASH Beauty Studio",
+      "href": "https://www.google.com/maps/place/ASH+Beauty+Studio/data=!4m7!3m6!1s0x94deafab73eb194b:0x26a9ff80c7debb0!8m2!3d-26.2749476!4d-48.8342972!16s%2Fg%2F11njsjqwxf!19sChIJSxnrc6uv3pQRsOt9DPifagI",
+      "phone": "(47) 99229-6776",
+      "address": "R. Brasil, 71 - Saguaçu, Joinville - SC, 89221-561",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dagmar Sales Cabelereira",
+      "href": "https://www.google.com/maps/place/Dagmar+Sales+Cabelereira/data=!4m7!3m6!1s0x94deb1d4b6e7bf8f:0xd77c49e51f108489!8m2!3d-26.2825416!4d-48.8393276!16s%2Fg%2F11b86f7qgq!19sChIJj7_nttSx3pQRiYQQH-VJfNc",
+      "phone": "(47) 3472-0330",
+      "address": "R. Iririú, 186 - Saguaçu, Joinville - SC, 89221-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cris Cabeleireira",
+      "href": "https://www.google.com/maps/place/Cris+Cabeleireira/data=!4m7!3m6!1s0x94deae242e2aba81:0x9b97e1063c108244!8m2!3d-26.268769!4d-48.8266419!16s%2Fg%2F11b8t6pf97!19sChIJgboqLiSu3pQRRIIQPAbhl5s",
+      "phone": "(47) 98835-7018",
+      "address": "R. Xaxim, 231 - Iririú, Joinville - SC, 89227-315",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cesar Constante Cabelereiros",
+      "href": "https://www.google.com/maps/place/Cesar+Constante+Cabelereiros/data=!4m7!3m6!1s0x94deaf0031d30f51:0x3c7efbf84f8c5693!8m2!3d-26.2709481!4d-48.8246658!16s%2Fg%2F11vx6c97nn!19sChIJUQ_TMQCv3pQRk1aMT_j7fjw",
+      "phone": "(47) 3467-9874",
+      "address": "R. Iririú, 2247 - Saguaçu, Joinville - SC, 89227-017",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Beard House",
+      "href": "https://www.google.com/maps/place/Barbearia+Beard+House/data=!4m7!3m6!1s0x94deafd310471f3f:0xcf34b420f3e546e0!8m2!3d-26.2766028!4d-48.8348977!16s%2Fg%2F11txdnm2nk!19sChIJPx9HENOv3pQR4Ebl8yC0NM8",
+      "phone": "(47) 99667-3147",
+      "address": "R. Iririú, 997 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rodrigues Cabeleireiros e Barbearia",
+      "href": "https://www.google.com/maps/place/Rodrigues+Cabeleireiros+e+Barbearia/data=!4m7!3m6!1s0x94deb10d3e32aa2d:0x951c8d723f6a5930!8m2!3d-26.3195398!4d-48.8206709!16s%2Fg%2F11c3mqq291!19sChIJLaoyPg2x3pQRMFlqP3KNHJU",
+      "phone": "(47) 99715-0076",
+      "address": "R. Guanabara, 106 - Fátima, Joinville - SC, 89229-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Andy Studio da Beleza",
+      "href": "https://www.google.com/maps/place/Andy+Studio+da+Beleza/data=!4m7!3m6!1s0x94deaff3f246cdb3:0x907a01dcb08439cd!8m2!3d-26.2752151!4d-48.874487!16s%2Fg%2F11c1x43j01!19sChIJs81G8vOv3pQRzTmEsNwBepA",
+      "phone": "(47) 99656-3266",
+      "address": "R. Dona Elza Meinert, 142 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jonathan Adriano Salão de Beleza",
+      "href": "https://www.google.com/maps/place/Jonathan+Adriano+Sal%C3%A3o+de+Beleza/data=!4m7!3m6!1s0x94deaff25bb1d13f:0x634870f07e804719!8m2!3d-26.2732199!4d-48.8716971!16s%2Fg%2F11bv6lcb0h!19sChIJP9GxW_Kv3pQRGUeAfvBwSGM",
+      "phone": "(47) 3027-6318",
+      "address": "R. Promotor Ary Silveira de Souza, 27 - Costa e Silva, Joinville - SC, 89219-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nilson e Cilene Cabeleireiros e Barbearia",
+      "href": "https://www.google.com/maps/place/Nilson+e+Cilene+Cabeleireiros+e+Barbearia/data=!4m7!3m6!1s0x94dea560742ad89d:0x788d595ae56ec65d!8m2!3d-26.2738437!4d-48.8856349!16s%2Fg%2F1ptx279xs!19sChIJndgqdGCl3pQRXcZu5VpZjXg",
+      "phone": "(47) 99935-2248",
+      "address": "Av. Alm. Jaceguay, 3260 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gilmar Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Gilmar+Cabeleireiros/data=!4m7!3m6!1s0x94deaf3d334865f5:0xdd084252c60ee143!8m2!3d-26.2724028!4d-48.8800955!16s%2Fg%2F11txlqkqn8!19sChIJ9WVIMz2v3pQRQ-EOxlJCCN0",
+      "phone": "(47) 99707-7341",
+      "address": "R. Colibri, 43 - Costa e Silva, Joinville - SC, 89220-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio de Beleza Alessandra Santos",
+      "href": "https://www.google.com/maps/place/Studio+de+Beleza+Alessandra+Santos/data=!4m7!3m6!1s0x94deaf806389fe3d:0xbc739d3a4db19093!8m2!3d-26.2693679!4d-48.8740787!16s%2Fg%2F11x0cnm9jc!19sChIJPf6JY4Cv3pQRk5CxTTqdc7w",
+      "phone": "(47) 99182-0146",
+      "address": "R. das Andorinhas, 371 - Costa e Silva, Joinville - SC, 89220-080",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lu Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Lu+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94deaf691a327c53:0xa9aa99c9a2b95ce9!8m2!3d-26.2741064!4d-48.8803511!16s%2Fg%2F11hk1_n64j!19sChIJU3wyGmmv3pQR6Vy5osmZqqk",
+      "phone": "(47) 99927-8495",
+      "address": "R. Pavão, 953 - Costa e Silva, Joinville - SC, 89220-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Cátia Cabeleireira",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+C%C3%A1tia+Cabeleireira/data=!4m7!3m6!1s0x94dea560858ad947:0x66670f88fa424731!8m2!3d-26.273674!4d-48.8829111!16s%2Fg%2F11bvt4_yrx!19sChIJR9mKhWCl3pQRMUdC-ogPZ2Y",
+      "phone": "(47) 99932-3710",
+      "address": "R. Walmor Harger, 46 - Costa e Silva, Joinville - SC, 89220-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aline e Preto Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Aline+e+Preto+Cabeleireiros/data=!4m7!3m6!1s0x94deaff72d8d22a7:0x1e1b14d5dff4998!8m2!3d-26.2794471!4d-48.8751522!16s%2Fg%2F11bzwq22rz!19sChIJpyKNLfev3pQRmEn_XU2x4QE",
+      "phone": "(47) 3028-4056",
+      "address": "R. Cmte. Paulo Serra, 605 - Costa e Silva, Joinville - SC, 89218-660",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hair Design Nice",
+      "href": "https://www.google.com/maps/place/Hair+Design+Nice/data=!4m7!3m6!1s0x94deaff28a6fc1d5:0x94240116fd7afd55!8m2!3d-26.2725848!4d-48.8709841!16s%2Fg%2F11c3n119g6!19sChIJ1cFvivKv3pQRVf16_RYBJJQ",
+      "phone": "(47) 3435-5529",
+      "address": "R. Promotor Ary Silveira de Souza, 137 - Costa e Silva, Joinville - SC, 89219-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rosane Cabelo e Pele",
+      "href": "https://www.google.com/maps/place/Rosane+Cabelo+e+Pele/data=!4m7!3m6!1s0x94deaff217aee76b:0x9b5ada442ccf37c3!8m2!3d-26.2742939!4d-48.8710561!16s%2Fg%2F11bv3vj2z7!19sChIJa-euF_Kv3pQRwzfPLETaWps",
+      "phone": "(47) 3422-6683",
+      "address": "R. Henrique Miers, 49 - Costa e Silva, Joinville - SC, 89218-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dárcia Kniess Cabeleireiros",
+      "href": "https://www.google.com/maps/place/D%C3%A1rcia+Kniess+Cabeleireiros/data=!4m7!3m6!1s0x94deaf8bbb2e3137:0x77b9e6acccf6604b!8m2!3d-26.269134!4d-48.8765367!16s%2Fg%2F11bvt6rq58!19sChIJNzEuu4uv3pQRS2D2zKzmuXc",
+      "phone": "(47) 3473-7518",
+      "address": "R. Bem-Te-Vi, 449 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Daniela Cabeleireira",
+      "href": "https://www.google.com/maps/place/Daniela+Cabeleireira/data=!4m7!3m6!1s0x94deaff331e8f86d:0x4777c76967872d03!8m2!3d-26.273063!4d-48.8812253!16s%2Fg%2F11b8t7hgxk!19sChIJbfjoMfOv3pQRAy2HZ2nHd0c",
+      "phone": "(47) 98899-6227",
+      "address": "R. Luiz Bachtold, 787 - Costa e Silva, Joinville - SC, 89220-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Olga e Cia cabeleireiros",
+      "href": "https://www.google.com/maps/place/Olga+e+Cia+cabeleireiros/data=!4m7!3m6!1s0x94dea52033f631d3:0xe18a762769f8ce64!8m2!3d-26.2873966!4d-48.9171415!16s%2Fg%2F11h0kxj_g!19sChIJ0zH2MyCl3pQRZM74aSd2iuE",
+      "phone": "(47) 3439-6388",
+      "address": "R. XV de Novembro, 8525 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lene Rank Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Lene+Rank+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94dea5388c2f570d:0x71189cf88c194c86!8m2!3d-26.2892744!4d-48.9015621!16s%2Fg%2F11bv6pj282!19sChIJDVcvjDil3pQRhkwZjPicGHE",
+      "phone": "(47) 3455-3867",
+      "address": "R. Joaquim Girardi, 196 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CA Instituto Você é Única",
+      "href": "https://www.google.com/maps/place/CA+Instituto+Voc%C3%AA+%C3%A9+%C3%9Anica/data=!4m7!3m6!1s0x94debba672d06aff:0xbd6e996f57ab3de4!8m2!3d-26.291939!4d-48.913315!16s%2Fg%2F11yz1hhkn4!19sChIJ_2rQcqa73pQR5D2rV2-Zbr0",
+      "phone": "(47) 99634-6971",
+      "address": "R. Maria Santa Corrêa, 498 - Vila Nova, Joinville - SC, 89237-382",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Salão Ele e Ela - Vila Nova",
+      "href": "https://www.google.com/maps/place/Sal%C3%A3o+Ele+e+Ela+-+Vila+Nova/data=!4m7!3m6!1s0x94dea5001be59a71:0xe0effc148e2ec4db!8m2!3d-26.2870234!4d-48.9149386!16s%2Fg%2F11x045_9v0!19sChIJcZrlGwCl3pQR28QujhT87-A",
+      "phone": "(47) 99174-2759",
+      "address": "R. XV de Novembro, 8230 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Silvana Cabeleireira",
+      "href": "https://www.google.com/maps/place/Silvana+Cabeleireira/data=!4m7!3m6!1s0x94dea53a847aaf95:0x5d5d77dd349e6fae!8m2!3d-26.2923958!4d-48.9081254!16s%2Fg%2F11bvt2nw1w!19sChIJla96hDql3pQRrm-eNN13XV0",
+      "phone": "(47) 3416-0510",
+      "address": "R. Harold Carlos Miers, 473 - Vila Nova, Joinville - SC, 89237-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Fernanda Kuhn",
+      "href": "https://www.google.com/maps/place/Studio+Fernanda+Kuhn/data=!4m7!3m6!1s0x94dea58cf6d29f35:0x35eaa6984b5b17d6!8m2!3d-26.2761422!4d-48.902405!16s%2Fg%2F11lv7yj1l6!19sChIJNZ_S9oyl3pQR1hdbS5im6jU",
+      "phone": "(47) 99772-6786",
+      "address": "R. das Intermédias, 143 - Vila Nova, Joinville - SC, 89237-520",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Belle Aura",
+      "href": "https://www.google.com/maps/place/Studio+Belle+Aura/data=!4m7!3m6!1s0x94dea564315ba907:0xb0c892c439b28473!8m2!3d-26.2884675!4d-48.9206773!16s%2Fg%2F11mycj8hh2!19sChIJB6lbMWSl3pQRc4SyOcSSyLA",
+      "phone": "(47) 98489-0130",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aureas By Andreia",
+      "href": "https://www.google.com/maps/place/Aureas+By+Andreia/data=!4m7!3m6!1s0x94dea538fc4f2f11:0xa519925b91571604!8m2!3d-26.2879788!4d-48.9025335!16s%2Fg%2F11bv6pj35r!19sChIJES9P_Dil3pQRBBZXkVuSGaU",
+      "phone": "(47) 99738-5400",
+      "address": "R. Rudolf Baumer, 45 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Le Toky de Beleza",
+      "href": "https://www.google.com/maps/place/Le+Toky+de+Beleza/data=!4m7!3m6!1s0x94dea5403d545465:0x66eca588fcfdde04!8m2!3d-26.2804415!4d-48.898764!16s%2Fg%2F11ddxyv2dz!19sChIJZVRUPUCl3pQRBN79_Iil7GY",
+      "phone": "(47) 99643-6323",
+      "address": "R. João Miers, 748 - Vila Nova, Joinville - SC, 89237-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amorosa Beleza e Cosméticos",
+      "href": "https://www.google.com/maps/place/Amorosa+Beleza+e+Cosm%C3%A9ticos/data=!4m7!3m6!1s0x94dea5d24ae32d5f:0x2b8d6c8f236d8547!8m2!3d-26.2876645!4d-48.9080997!16s%2Fg%2F11ll34gz58!19sChIJXy3jStKl3pQRR4VtI49sjSs",
+      "phone": "(47) 3278-8756",
+      "address": "R. Marquês de Maricá, 102 - Vila Nova, Joinville - SC, 89237-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jucelda Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Jucelda+Cabeleireiros/data=!4m7!3m6!1s0x94dea5393bfc0ac3:0xcb1cdfe46df1bed4!8m2!3d-26.2867791!4d-48.9018478!16s%2Fg%2F11hbl1s249!19sChIJwwr8Ozml3pQR1L7xbeTfHMs",
+      "phone": "(47) 99935-4701",
+      "address": "R. Mário Pedro Schoping, 67 - Vila Nova, Joinville - SC, 89237-245",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Louisfran Hair",
+      "href": "https://www.google.com/maps/place/Louisfran+Hair/data=!4m7!3m6!1s0x94dea5395400a5bd:0xd0c0dda37c349ad7!8m2!3d-26.2907817!4d-48.9093515!16s%2Fg%2F11fxv197kb!19sChIJvaUAVDml3pQR15o0fKPdwNA",
+      "phone": "(47) 3432-0348",
+      "address": "R. Carlos Guilherme Jerke, 288 - Vila Nova, Joinville - SC, 89237-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Osmar Cabeleireiro",
+      "href": "https://www.google.com/maps/place/Osmar+Cabeleireiro/data=!4m7!3m6!1s0x94dea5393e5a4151:0xc1be9a71c802e26a!8m2!3d-26.2921484!4d-48.9009061!16s%2Fg%2F11bv6pczwg!19sChIJUUFaPjml3pQRauICyHGavsE",
+      "phone": "(47) 99911-5926",
+      "address": "R. Leopoldo Beninca, 999 - Vila Nova, Joinville - SC, 89237-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sulla Central da Beleza",
+      "href": "https://www.google.com/maps/place/Sulla+Central+da+Beleza/data=!4m7!3m6!1s0x94dea5d2f5f44561:0x7fee5adb5803706e!8m2!3d-26.2880678!4d-48.9036949!16s%2Fg%2F11t_ykg16q!19sChIJYUX09dKl3pQRbnADWNta7n8",
+      "phone": "(47) 3432-3291",
+      "address": "R. Marcos João Serafim, 80 - Vila Nova, Joinville - SC, 89237-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Traty",
+      "href": "https://www.google.com/maps/place/Traty/data=!4m7!3m6!1s0x94deb0dc9f156cf3:0x7e1b7ac5b6060cd1!8m2!3d-26.344708!4d-48.848453!16s%2Fg%2F11bv6l82rb!19sChIJ82wVn9yw3pQR0QwGtsV6G34",
+      "phone": "(47) 98819-9778",
+      "address": "R. Guilherme Krueger, 42 - Floresta, Joinville - SC, 89212-240",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Brilho Cor de Rosa Beleza feminina",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Brilho+Cor+de+Rosa+Beleza+feminina/data=!4m7!3m6!1s0x94deb1e7d48d057d:0x56ad84e259e34f4f!8m2!3d-26.3428806!4d-48.8477283!16s%2Fg%2F11vrlyb8cd!19sChIJfQWN1Oex3pQRT0_jWeKErVY",
+      "phone": "(47) 99223-9558",
+      "address": "R. Santa Catarina, 2204 - Floresta, Joinville - SC, 89212-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DF Beleza e Estética",
+      "href": "https://www.google.com/maps/place/DF+Beleza+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1b2eb2aeb8d:0xe5094b5edeac123d!8m2!3d-26.3486349!4d-48.8544484!16s%2Fg%2F11xl68lw1x!19sChIJjesq67Kx3pQRPRKs3l5LCeU",
+      "phone": "(47) 98830-1672",
+      "address": "R. Porto Rico, 707 - Floresta, Joinville - SC, 89212-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maria Teles Studio de beleza",
+      "href": "https://www.google.com/maps/place/Maria+Teles+Studio+de+beleza/data=!4m7!3m6!1s0x94deb15ffe57349b:0xcccd79f610f0ca04!8m2!3d-26.3326011!4d-48.8685979!16s%2Fg%2F11rj_vvgl6!19sChIJmzRX_l-x3pQRBMrwEPZ5zcw",
+      "phone": "(47) 99230-5965",
+      "address": "R. Missões, 698 - Nova Brasília, Joinville - SC, 89240-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Studio | Zany Borges",
+      "href": "https://www.google.com/maps/place/Bella+Studio+%7C+Zany+Borges/data=!4m7!3m6!1s0x94deb1751014fac3:0xb560ec497321ec2a!8m2!3d-26.3377976!4d-48.842089!16s%2Fg%2F11yjg24rdl!19sChIJw_oUEHWx3pQRKuwhc0nsYLU",
+      "phone": "(47) 98801-0296",
+      "address": "R. Elly Soares, 555 - Floresta, Joinville - SC, 89211-715",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cabeleireira Unissex",
+      "href": "https://www.google.com/maps/place/Cabeleireira+Unissex/data=!4m7!3m6!1s0x94deb0e09c2c4153:0x8b97a722149981aa!8m2!3d-26.3382059!4d-48.8432184!16s%2Fg%2F11bv30kc8m!19sChIJU0EsnOCw3pQRqoGZFCKnl4s",
+      "phone": "(47) 3436-8723",
+      "address": "R. Gaspar, 81 - Floresta, Joinville - SC, 89211-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SAMY | STUDIO DE BELEZA | JOINVILLE",
+      "href": "https://www.google.com/maps/place/SAMY+%7C+STUDIO+DE+BELEZA+%7C+JOINVILLE/data=!4m7!3m6!1s0x94deb1877f86cbaf:0x78be0bfe9b93ef05!8m2!3d-26.3282129!4d-48.8437401!16s%2Fg%2F11svcr_g93!19sChIJr8uGf4ex3pQRBe-Tm_4Lvng",
+      "phone": "(47) 99285-5570",
+      "address": "R. Uberaba, 193 - Floresta, Joinville - SC, 89211-585",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Laiza Schulte",
+      "href": "https://www.google.com/maps/place/Studio+Laiza+Schulte/data=!4m7!3m6!1s0x94deb1a00b16c67f:0x768a9a308543ab36!8m2!3d-26.32627!4d-48.834564!16s%2Fg%2F11j2h66kkj!19sChIJf8YWC6Cx3pQRNqtDhTCainY",
+      "phone": "(47) 99953-6913",
+      "address": "Anexo a academia Ultra - R. Guanabara, 420 - And superior - Guanabara, Joinville - SC, 89207-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Afrodite Beauty Studio",
+      "href": "https://www.google.com/maps/place/Afrodite+Beauty+Studio/data=!4m7!3m6!1s0x94deb16d0a267de5:0x5a740c891680580d!8m2!3d-26.3366729!4d-48.8481781!16s%2Fg%2F11k09_90sv!19sChIJ5X0mCm2x3pQRDViAFokMdFo",
+      "phone": "(47) 99610-2449",
+      "address": "R. Irani, 40 - Floresta, Joinville - SC, 89211-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Estética Júlia Bernardes",
+      "href": "https://www.google.com/maps/place/Centro+de+Est%C3%A9tica+J%C3%BAlia+Bernardes/data=!4m7!3m6!1s0x94deb0da637de44d:0x6d5b138e8b62d9de!8m2!3d-26.3352873!4d-48.8459401!16s%2Fg%2F1ptwk1_gm!19sChIJTeR9Y9qw3pQR3tlii44TW20",
+      "phone": "(47) 99636-3675",
+      "address": "R. Marabá, 170 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Micheluzzi Cabeleireira",
+      "href": "https://www.google.com/maps/place/Micheluzzi+Cabeleireira/data=!4m7!3m6!1s0x94deb1f352d32325:0xb66e3d538815d937!8m2!3d-26.3319766!4d-48.8469445!16s%2Fg%2F11nnshn7qt!19sChIJJSPTUvOx3pQRN9kViFM9brY",
+      "phone": "(47) 99921-6251",
+      "address": "R. Santa Catarina, 1033 - Floresta, Joinville - SC, 89211-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cris Cabeleireira unissex",
+      "href": "https://www.google.com/maps/place/Cris+Cabeleireira+unissex/data=!4m7!3m6!1s0x94deae4034a1df6d:0xf18bfb59ddf97149!8m2!3d-26.342386!4d-48.8497822!16s%2Fg%2F1v1kq_xg!19sChIJbd-hNECu3pQRSXH53Vn7i_E",
+      "phone": "(47) 99973-1024",
+      "address": "R. Ipira, 138 - Floresta, Joinville - SC, 89212-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Conceição Cabeleireiros",
+      "href": "https://www.google.com/maps/place/Concei%C3%A7%C3%A3o+Cabeleireiros/data=!4m7!3m6!1s0x94deb0c4b8d8971b:0xc87f0f23359b9d5!8m2!3d-26.346826!4d-48.8506919!16s%2Fg%2F11bv6phpx0!19sChIJG5fYuMSw3pQR1blZM_Lwhww",
+      "phone": "(47) 99755-1220",
+      "address": "R. Pedro W Alquíni, 337 - Floresta, Joinville - SC, 89212-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Catulino Cabeleireiro",
+      "href": "https://www.google.com/maps/place/Catulino+Cabeleireiro/data=!4m7!3m6!1s0x94deb0c412fe0eaf:0xfbe5bcc286c5ab66!8m2!3d-26.346576!4d-48.8540742!16s%2Fg%2F11c3n1lbzn!19sChIJrw7-EsSw3pQRZqvFhsK85fs",
+      "phone": "(47) 98866-7417",
+      "address": "R. Elis Regina, 220 - Floresta, Joinville - SC, 89212-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Ramos",
+      "href": "https://www.google.com/maps/place/Barbearia+Ramos/data=!4m7!3m6!1s0x94deb0dc7d75f019:0x7ee2d9100fb89df2!8m2!3d-26.3450326!4d-48.8474172!16s%2Fg%2F1trsz4s6!19sChIJGfB1fdyw3pQR8p24DxDZ4n4",
+      "phone": "(47) 3426-4514",
+      "address": "Próximo ao Terminal Sul - R. Santa Catarina, 2396 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

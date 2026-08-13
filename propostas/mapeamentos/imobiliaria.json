@@ -1,0 +1,362 @@
+{
+  "id": "imobiliaria",
+  "nome": "Imobiliária",
+  "terms": [
+    "imobiliária",
+    "corretor de imóveis"
+  ],
+  "profiles": 244,
+  "qualified": [
+    {
+      "name": "EF Consultoria Imobiliária",
+      "href": "https://www.google.com/maps/place/EF+Consultoria+Imobili%C3%A1ria/data=!4m7!3m6!1s0x94deb1b1812f7949:0x6d5cab978ad38be5!8m2!3d-26.3693656!4d-48.8262452!16s%2Fg%2F11jpvsfk3g!19sChIJSXkvgbGx3pQR5YvTiperXG0",
+      "phone": "(47) 99727-0334",
+      "address": "R. Faustino Busarello, 107 - Boehmerwald, Joinville - SC, 89235-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yuri Hernandes Corretor de Imóveis em Joinville - Gestor imobiliário",
+      "href": "https://www.google.com/maps/place/Yuri+Hernandes+Corretor+de+Im%C3%B3veis+em+Joinville+-+Gestor+imobili%C3%A1rio/data=!4m7!3m6!1s0x94deb1104157777f:0x98532901eaba2edb!8m2!3d-26.2930798!4d-48.8498057!16s%2Fg%2F11n9yksyh_!19sChIJf3dXQRCx3pQR2y666gEpU5g",
+      "phone": "(47) 99291-5220",
+      "address": "R. Emílio Artmann, 796 - América, Joinville - SC, 89204-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Juliano Bauer - Corretor e Perito Avaliador de Imóveis",
+      "href": "https://www.google.com/maps/place/Juliano+Bauer+-+Corretor+e+Perito+Avaliador+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb13ea4816f9b:0xd475866285282afb!8m2!3d-26.319772!4d-48.8461918!16s%2Fg%2F11ntgs6s6_!19sChIJm2-BpD6x3pQR-yoohWKGddQ",
+      "phone": "(47) 99661-0050",
+      "address": "R. Hugo Raimann, 105 - Anita Garibaldi, Joinville - SC, 89202-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Peregrino Imóveis",
+      "href": "https://www.google.com/maps/place/Peregrino+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb0d9b2cdbbad:0x9d1997ed5948d0cd!8m2!3d-26.3460997!4d-48.842!16s%2Fg%2F11bwnd2qxw!19sChIJrbvNstmw3pQRzdBIWe2XGZ0",
+      "phone": "(47) 3278-4000",
+      "address": "R. São Paulo, 4281 - Petrópolis, Joinville - SC, 89208-545",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "H Érica Corretores de Imóveis",
+      "href": "https://www.google.com/maps/place/H+%C3%89rica+Corretores+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb03176cc7647:0x47676f5b56f27ff7!8m2!3d-26.2930802!4d-48.8453817!16s%2Fg%2F1ptx5lr9x!19sChIJR3bMdjGw3pQR93_yVltvZ0c",
+      "phone": "(47) 3025-4503",
+      "address": "R. Orestes Guimarães, 500 - América, Joinville - SC, 89204-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa 30 Imóveis",
+      "href": "https://www.google.com/maps/place/Casa+30+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb1b358229971:0x137f411c29e37e11!8m2!3d-26.3130014!4d-48.8602603!16s%2Fg%2F11z94njg58!19sChIJcZkiWLOx3pQREX7jKRxBfxM",
+      "phone": "(47) 99196-0097",
+      "address": "R. Marajó, 30 - Atiradores, Joinville - SC, 89203-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SPADER EMPREENDIMENTOS IMOBILIÁRIOS",
+      "href": "https://www.google.com/maps/place/SPADER+EMPREENDIMENTOS+IMOBILI%C3%81RIOS/data=!4m7!3m6!1s0x94deb068b13b8e21:0xb7ad15991fb5abb9!8m2!3d-26.3157706!4d-48.8645101!16s%2Fg%2F1wk7r__4!19sChIJIY47sWiw3pQRuau1H5kVrbc",
+      "phone": "(47) 3028-5397",
+      "address": "R. Xavantes, 155 - Atiradores, Joinville - SC, 89203-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Imobiliária Rosa Poffo",
+      "href": "https://www.google.com/maps/place/Imobili%C3%A1ria+Rosa+Poffo/data=!4m7!3m6!1s0x94deb04719d5e353:0x393a533bdcc4e5e3!8m2!3d-26.3026158!4d-48.8532417!16s%2Fg%2F1tfx612g!19sChIJU-PVGUew3pQR4-XE3DtTOjk",
+      "phone": "(47) 3422-9308",
+      "address": "R. Expedicionário Holz, 180 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marisa Leitte - Corretora de Imóveis",
+      "href": "https://www.google.com/maps/place/Marisa+Leitte+-+Corretora+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb1d76aa4ad95:0x735d3c15c86bde8d!8m2!3d-26.3248703!4d-48.8640383!16s%2Fg%2F11fjsrb3qg!19sChIJla2katex3pQRjd5ryBU8XXM",
+      "phone": "(47) 99706-7503",
+      "address": "R. Anita Garibaldi, 2259 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Só Geminados",
+      "href": "https://www.google.com/maps/place/S%C3%B3+Geminados/data=!4m7!3m6!1s0x94deb727c332def3:0x461452797257763e!8m2!3d-26.3170659!4d-48.8482414!16s%2Fg%2F11bw7953ht!19sChIJ894ywye33pQRPnZXcnlSFEY",
+      "phone": "(47) 3034-8866",
+      "address": "R. Anita Garibaldi, 315 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Shirlen Paul",
+      "href": "https://www.google.com/maps/place/Shirlen+Paul/data=!4m7!3m6!1s0x94deb15a2a8f5849:0xff2f4c0682812883!8m2!3d-26.3232379!4d-48.8544276!16s%2Fg%2F11z4wnj2z1!19sChIJSViPKlqx3pQRgyiBggZML_8",
+      "phone": "(47) 99149-3823",
+      "address": "R. Anita Garibaldi, 1253 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VALOR NEGÓCIOS",
+      "href": "https://www.google.com/maps/place/VALOR+NEG%C3%93CIOS/data=!4m7!3m6!1s0x94deb0501b23ffff:0xd8b881492c6b3b79!8m2!3d-26.3116159!4d-48.8491139!16s%2Fg%2F11fkf8kzmd!19sChIJ__8jG1Cw3pQReTtrLEmBuNg",
+      "phone": "(47) 3433-4724",
+      "address": "R. Dr. Plácido Olímpio de Oliveira, 1461 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Residencial Valentina",
+      "href": "https://www.google.com/maps/place/Residencial+Valentina/data=!4m7!3m6!1s0x94deb05849f1fe15:0x7e4460d5a3842bd9!8m2!3d-26.3193341!4d-48.8511124!16s%2Fg%2F1pty3gjzz!19sChIJFf7xSViw3pQR2SuEo9VgRH4",
+      "phone": "(47) 3028-7561",
+      "address": "R. Anita Garibaldi, 704 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Acta Consultoria Imobiliária",
+      "href": "https://www.google.com/maps/place/Acta+Consultoria+Imobili%C3%A1ria/data=!4m7!3m6!1s0x94deb1a6436e19b5:0x6e16f3f23771bc80!8m2!3d-26.313482!4d-48.850316!16s%2Fg%2F11g1pth96w!19sChIJtRluQ6ax3pQRgLxxN_LzFm4",
+      "phone": "(47) 3801-2220",
+      "address": "R. Major Navarro Lins, 450 - Anita Garibaldi, Joinville - SC, 89203-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Avelino Piola Corretor de Imóveis",
+      "href": "https://www.google.com/maps/place/Avelino+Piola+Corretor+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb0890f4f10cd:0xf474905a6ae407d2!8m2!3d-26.3297871!4d-48.8667319!16s%2Fg%2F11bvcvr_zq!19sChIJzRBPD4mw3pQR0gfkalqQdPQ",
+      "phone": "(47) 3426-0922",
+      "address": "R. Fraternidade, 46 - Nova Brasília, Joinville - SC, 89213-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rafael M. Felicio. Corretor de Imóveis",
+      "href": "https://www.google.com/maps/place/Rafael+M.+Felicio.+Corretor+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94d8b172276262d9:0x793e3e0c7446fa47!8m2!3d-26.3403829!4d-48.8559874!16s%2Fg%2F11ln_6qtpc!19sChIJ2WJiJ3Kx2JQRR_pGdAw-Pnk",
+      "phone": "(47) 99136-1901",
+      "address": "R. Aquino Manoel Quintino - Floresta, Joinville - SC, 89212-180",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Encantadores de Imóveis",
+      "href": "https://www.google.com/maps/place/Encantadores+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb1d69751f209:0xe70b20db2d6c20e7!8m2!3d-26.3235415!4d-48.862207!16s%2Fg%2F11my2d2944!19sChIJCfJRl9ax3pQR5yBsLdsgC-c",
+      "phone": "(47) 98803-2082",
+      "address": "R. Carlos Ritzmann, 349 - Anita Garibaldi, Joinville - SC, 89203-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JB Imóveis",
+      "href": "https://www.google.com/maps/place/JB+Im%C3%B3veis/data=!4m7!3m6!1s0x94deae2042ce11c7:0x1885edd3c0eadea!8m2!3d-26.2878531!4d-48.8407037!16s%2Fg%2F11bv3vn707!19sChIJxxHOQiCu3pQR6q0OPN1eiAE",
+      "phone": "(47) 3013-1004",
+      "address": "R. Dona Francisca, 1700 - Sl 28 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marto Lunez Corretor de Imóveis",
+      "href": "https://www.google.com/maps/place/Marto+Lunez+Corretor+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb1d4e084c389:0x3baa10cfd2a2963!8m2!3d-26.2806906!4d-48.8383777!16s%2Fg%2F1tf2tchm!19sChIJicOE4NSx3pQRYykq_QyhugM",
+      "phone": "(47) 3472-0029",
+      "address": "R. Indaial, 58 - Saguaçu, Joinville - SC, 89221-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcelo Ravache - Corretor de Imóveis em Joinville e Balneário Camboriú",
+      "href": "https://www.google.com/maps/place/Marcelo+Ravache+-+Corretor+de+Im%C3%B3veis+em+Joinville+e+Balne%C3%A1rio+Cambori%C3%BA/data=!4m7!3m6!1s0x94deb1c657866dad:0xf2633bdc610064f0!8m2!3d-26.2837928!4d-48.8434521!16s%2Fg%2F11nz42z3kz!19sChIJrW2GV8ax3pQR8GQAYdw7Y_I",
+      "phone": "(47) 99605-5551",
+      "address": "Av. Beira Rio, 45 - América, Joinville - SC, 89204-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Viva Costa e Silva",
+      "href": "https://www.google.com/maps/place/Viva+Costa+e+Silva/data=!4m7!3m6!1s0x94dea5deb3b80d45:0xbb51f12deb3097d1!8m2!3d-26.2835929!4d-48.8799612!16s%2Fg%2F11v0bydggp!19sChIJRQ24s96l3pQR0Zcw6y3xUbs",
+      "phone": "(47) 99758-3163",
+      "address": "R. Prof. Rodrigues Freitas, 115 - Costa e Silva, Joinville - SC, 89217-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HS Corretor de Imóveis",
+      "href": "https://www.google.com/maps/place/HS+Corretor+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94deaff0ce00202f:0x3df1aa9292a61345!8m2!3d-26.279311!4d-48.874644!16s%2Fg%2F11bxg2_8lb!19sChIJLyAAzvCv3pQRRROmkpKq8T0",
+      "phone": "(47) 99657-5942",
+      "address": "R. Dona Elza Meinert, 299 - Sl 02 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Renata Cruz Corretora de Imóveis",
+      "href": "https://www.google.com/maps/place/Renata+Cruz+Corretora+de+Im%C3%B3veis/data=!4m7!3m6!1s0x2466e9c5aca1e97d:0xc9bd0387894cbb45!8m2!3d-26.2671911!4d-48.8586599!16s%2Fg%2F11ydkkr9kz!19sChIJfemhrMXpZiQRRbtMiYcDvck",
+      "phone": "(47) 99769-3372",
+      "address": "R. Félix Heinzelmann, 03 - Costa e Silva, Joinville - SC, 89218-321",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Compra Certa Imóvel",
+      "href": "https://www.google.com/maps/place/Compra+Certa+Im%C3%B3vel/data=!4m7!3m6!1s0x94deafcadbdbffff:0xaa42a845b84f6415!8m2!3d-26.2699259!4d-48.8734386!16s%2Fg%2F11rw_pg71d!19sChIJ___b28qv3pQRFWRPuEWoQqo",
+      "phone": "(47) 99233-9900",
+      "address": "R. Canário-Belga, 108 - Costa e Silva, Joinville - SC, 89220-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amilton Schwartz Corretor de Imóveis",
+      "href": "https://www.google.com/maps/place/Amilton+Schwartz+Corretor+de+Im%C3%B3veis/data=!4m7!3m6!1s0x94dea5236c53123b:0x2d7fb652a810b84a!8m2!3d-26.2880929!4d-48.9121172!16s%2Fg%2F11b6j72j3s!19sChIJOxJTbCOl3pQRSrgQqFK2fy0",
+      "phone": "(47) 3424-0854",
+      "address": "R. Arlindo Corrêa - Pirabeiraba, Joinville - SC, 89239-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vila Nova Joinville SC",
+      "href": "https://www.google.com/maps/place/Vila+Nova+Joinville+SC/data=!4m7!3m6!1s0x94dea5573e138c09:0x3ccd2b974ec80908!8m2!3d-26.2946176!4d-48.9000928!16s%2Fg%2F11stznj6cr!19sChIJCYwTPlel3pQRCAnITpcrzTw",
+      "phone": "(47) 98829-0701",
+      "address": "R. Bento Torquato da Rocha - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "real imoveis joinville",
+      "href": "https://www.google.com/maps/place/real+imoveis+joinville/data=!4m7!3m6!1s0x94deb7f5cbb268f3:0x2d594708796b8511!8m2!3d-26.3280998!4d-48.8455969!16s%2Fg%2F11x1gkl5sx!19sChIJ82iyy_W33pQREYVreQhHWS0",
+      "phone": "(47) 98485-9963",
+      "address": "R. Santa Catarina, 635 - Floresta, Joinville - SC, 89233-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condomínio Jardins Joinville Home Club",
+      "href": "https://www.google.com/maps/place/Condom%C3%ADnio+Jardins+Joinville+Home+Club/data=!4m7!3m6!1s0x94deb0ec2b1ffdd9:0x6ce3de18cb190dc6!8m2!3d-26.3354965!4d-48.8547122!16s%2Fg%2F11c5hxqzmx!19sChIJ2f0fK-yw3pQRxg0Zyxje42w",
+      "phone": "(47) 3023-7667",
+      "address": "R. João Paul, 280 - Floresta, Joinville - SC, 89211-465",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hasta Avaliações",
+      "href": "https://www.google.com/maps/place/Hasta+Avalia%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb0e7adcae007:0x40f3cac876d6d099!8m2!3d-26.3377099!4d-48.8477712!16s%2Fg%2F11rfcxdjgv!19sChIJB-DKreew3pQRmdDWdsjK80A",
+      "phone": "(47) 98809-7963",
+      "address": "R. Santa Catarina, 1642 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Miranda Imóveis Ltda",
+      "href": "https://www.google.com/maps/place/Miranda+Im%C3%B3veis+Ltda/data=!4m7!3m6!1s0x94deb1aed0c3a767:0x323c045bb934dd53!8m2!3d-26.336735!4d-48.8482093!16s%2Fg%2F11v459dg3m!19sChIJZ6fD0K6x3pQRU900uVsEPDI",
+      "phone": "(47) 98835-3232",
+      "address": "R. Irani, 40 - sala 3 - Floresta, Joinville - SC, 89211-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cláudia Marques Imóveis",
+      "href": "https://www.google.com/maps/place/Cl%C3%A1udia+Marques+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb162a280d8bd:0xfe86f7120e135e51!8m2!3d-26.3382233!4d-48.8480703!16s%2Fg%2F11vxhfh_1c!19sChIJvdiAomKx3pQRUV4TDhL3hv4",
+      "phone": "(47) 3407-3046",
+      "address": "R. Guararapes, 46 - Floresta, Joinville - SC, 89212-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Imobiliária Graciosa",
+      "href": "https://www.google.com/maps/place/Imobili%C3%A1ria+Graciosa/data=!4m7!3m6!1s0x94deb103a0f46dab:0x86f079ee227d162a!8m2!3d-26.346576!4d-48.8540742!16s%2Fg%2F11b6yrsxtv!19sChIJq230oAOx3pQRKhZ9Iu558IY",
+      "phone": "(47) 3227-0030",
+      "address": "R. Elis Regina, 220 - Floresta, Joinville - SC, 89208-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Imóveis",
+      "href": "https://www.google.com/maps/place/Bella+Im%C3%B3veis/data=!4m7!3m6!1s0x94deb1b416a90ed3:0xea0aa552783fa0a5!8m2!3d-26.3377099!4d-48.8477712!16s%2Fg%2F11fm6pt7rt!19sChIJ0w6pFrSx3pQRpaA_eFKlCuo",
+      "phone": "(47) 3804-3529",
+      "address": "Rua: Santa Catarina, Sl 04 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Imobiliária imóveis Araquari",
+      "href": "https://www.google.com/maps/place/Imobili%C3%A1ria+im%C3%B3veis+Araquari/data=!4m7!3m6!1s0x94deb132e15cf3b1:0x20d20a4a70337c38!8m2!3d-26.3377503!4d-48.8414135!16s%2Fg%2F11rgxqxt0h!19sChIJsfNc4TKx3pQROHwzcEoK0iA",
+      "phone": "(47) 99600-5633",
+      "address": "R. São Paulo - Floresta, Joinville - SC, 89211-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Spazio Jovitá",
+      "href": "https://www.google.com/maps/place/Spazio+Jovit%C3%A1/data=!4m7!3m6!1s0x94deb0c27717a971:0x9c19e0f88dac198!8m2!3d-26.3419822!4d-48.8537959!16s%2Fg%2F11bvv0fdl9!19sChIJcakXd8Kw3pQRmMHaiA-ewQk",
+      "phone": "(47) 98418-9621",
+      "address": "R. Princesa Mafalda, 474 - Floresta, Joinville - SC, 89212-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PACHER IMÓVEIS",
+      "href": "https://www.google.com/maps/place/PACHER+IM%C3%93VEIS/data=!4m7!3m6!1s0x94deb0f260b7fa5b:0x2814cc598f7ec037!8m2!3d-26.3321511!4d-48.8570673!16s%2Fg%2F11c60plzbd!19sChIJW_q3YPKw3pQRN8B-j1nMFCg",
+      "phone": "(47) 3025-2570",
+      "address": "R. Pres. Nilo Peçanha, 1022 - Floresta, Joinville - SC, 89211-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Innbox Consultoria Imobiliária",
+      "href": "https://www.google.com/maps/place/Innbox+Consultoria+Imobili%C3%A1ria/data=!4m7!3m6!1s0x94deb11dc6fd53f3:0x9c3a7fe536cf0e3e!8m2!3d-26.330601!4d-48.838041!16s%2Fg%2F11s16sshl8!19sChIJ81P9xh2x3pQRPg7PNuV_Opw",
+      "phone": "(47) 99711-1586",
+      "address": "R. Pres. Epitácio Pessoa, 812 - Itaum, Joinville - SC, 89210-191",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Residencial Raimannville",
+      "href": "https://www.google.com/maps/place/Residencial+Raimannville/data=!4m7!3m6!1s0x94deb11941e2d5a9:0x4f349d06ad744ad1!8m2!3d-26.3329349!4d-48.8334832!16s%2Fg%2F11clt03rmg!19sChIJqdXiQRmx3pQR0Up0rQadNE8",
+      "phone": "(47) 3026-4702",
+      "address": "R. Carmen Maria Farias de Vasconcellos - Itaum, Joinville - SC, 89210-134",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RM Negócios Imobiliários Joinville",
+      "href": "https://www.google.com/maps/place/RM+Neg%C3%B3cios+Imobili%C3%A1rios+Joinville/data=!4m7!3m6!1s0x94deb1e71dceadb9:0x1c116c9e179c6625!8m2!3d-26.3242313!4d-48.83844!16s%2Fg%2F11xp7kwnbj!19sChIJua3OHeex3pQRJWacF55sERw",
+      "phone": "(47) 99623-8649",
+      "address": "Rua Alfredo de Oliveira, 27 - Itaum, Joinville - SC, 89210-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

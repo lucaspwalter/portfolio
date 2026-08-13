@@ -1,0 +1,768 @@
+{
+  "id": "agropecuaria",
+  "nome": "Agropecuária",
+  "terms": [
+    "agropecuária",
+    "casa de ração",
+    "produtos rurais"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "Agropet Silva - Agropecuária & Pet Shop",
+      "href": "https://www.google.com/maps/place/Agropet+Silva+-+Agropecu%C3%A1ria+%26+Pet+Shop/data=!4m7!3m6!1s0x94deb6d10eca6ced:0xf6000c5e35fb54c9!8m2!3d-26.3604573!4d-48.8304208!16s%2Fg%2F1v4pv4k0!19sChIJ7WzKDtG23pQRyVT7NV4MAPY",
+      "phone": "(47) 99621-8284",
+      "address": "R. Boehmerwald, 837 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Hemkemeier",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Hemkemeier/data=!4m7!3m6!1s0x94deb508f0aa8f05:0x158d537016cafa9!8m2!3d-26.361854!4d-48.837274!16s%2Fg%2F11z1vwcvxb!19sChIJBY-q8Ai13pQRqa9sATfVWAE",
+      "phone": "(47) 99736-5064",
+      "address": "R. Boehmerwald, 201 - Boehmerwald, Joinville - SC, 89231-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Catarinense",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Catarinense/data=!4m7!3m6!1s0x94deb6cf74e0afb5:0x616eea5406742f1c!8m2!3d-26.3606153!4d-48.8270849!16s%2Fg%2F11bv6pdbqt!19sChIJta_gdM-23pQRHC90BlTqbmE",
+      "phone": "(47) 99742-0644",
+      "address": "R. Boehmerwald, 1200 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Talismã",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Talism%C3%A3/data=!4m7!3m6!1s0x94deb7af75857297:0xc498a6e0ca364eb8!8m2!3d-26.3589081!4d-48.832019!16s%2Fg%2F11mvr0v_qb!19sChIJl3KFda-33pQRuE42yuCmmMQ",
+      "phone": "(47) 99940-7690",
+      "address": "Av. Paulo Schroeder, 1247 - Boehmerwald, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Veiga",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Veiga/data=!4m7!3m6!1s0x94deb6c3ab04dbe5:0xffbaae520ec6fe0d!8m2!3d-26.3689955!4d-48.8269854!16s%2Fg%2F11bvcvqvzb!19sChIJ5dsEq8O23pQRDf7GDlKuuv8",
+      "phone": "(47) 3436-4604",
+      "address": "R. Attílio Vinotti, 74 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Piu Piu",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Piu+Piu/data=!4m7!3m6!1s0x94deb6c1b7614b51:0x950acbd95cee25f4!8m2!3d-26.3686382!4d-48.8227437!16s%2Fg%2F11bccgm5qv!19sChIJUUtht8G23pQR9CXuXNnLCpU",
+      "phone": "(47) 3465-0861",
+      "address": "430, R. Nova República, 507 - Boehmerwald, Joinville - SC",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agropet Heinzen",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agropet+Heinzen/data=!4m7!3m6!1s0x94deb12d77d92c73:0xb50bda302a0befc!8m2!3d-26.348871!4d-48.8275527!16s%2Fg%2F11yzc2kjgm!19sChIJcyzZdy2x3pQR_L6gAqO9UAs",
+      "phone": "(47) 99772-0329",
+      "address": "R. Jorge Weh, 446 - Petrópolis, Joinville - SC, 89208-790",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agromart",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agromart/data=!4m7!3m6!1s0x94deb6ca6591bfd5:0x6540b10b9208661a!8m2!3d-26.3528519!4d-48.8205262!16s%2Fg%2F11b8d4k5fh!19sChIJ1b-RZcq23pQRGmYIkguxQGU",
+      "phone": "(47) 3466-0272",
+      "address": "R. João da Costa Júnior, 1244 - Petrópolis, Joinville - SC, 89209-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Petrópolis",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Petr%C3%B3polis/data=!4m7!3m6!1s0x94deb1a4bbeec343:0xcdde88a6c018b24c!8m2!3d-26.3455454!4d-48.8336701!16s%2Fg%2F11rkj96jnl!19sChIJQ8Puu6Sx3pQRTLIYwKaI3s0",
+      "phone": "(47) 3227-3631",
+      "address": "R. Petrópolis, N°1287 - Petrópolis, Joinville - SC, 89208-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agromil Agropet Joinville",
+      "href": "https://www.google.com/maps/place/Agromil+Agropet+Joinville/data=!4m7!3m6!1s0x94deb12f107ea4f5:0x4f37d9a27bff7f46!8m2!3d-26.3462064!4d-48.8329788!16s%2Fg%2F11b88vndn4!19sChIJ9aR-EC-x3pQRRn__e6LZN08",
+      "phone": "(47) 3436-4720",
+      "address": "R. dos Bancários, 12 - Petrópolis, Joinville - SC, 89208-720",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LaPet",
+      "href": "https://www.google.com/maps/place/LaPet/data=!4m7!3m6!1s0x94deb7728f09a53f:0x2a15a03ac0aebd80!8m2!3d-26.3686004!4d-48.8397811!16s%2Fg%2F11n3wxl41r!19sChIJP6UJj3K33pQRgL2uwDqgFSo",
+      "phone": "(47) 99953-4019",
+      "address": "R. Cidade de Uruaçu - Profipo, Joinville - SC, 89233-445",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária La Casa de Ración",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+La+Casa+de+Raci%C3%B3n/data=!4m7!3m6!1s0x94deb533125cde6d:0x83bb68c3cb68f889!8m2!3d-26.3859109!4d-48.8200948!16s%2Fg%2F11q4g7hbjq!19sChIJbd5cEjO13pQRifhoy8Nou4M",
+      "phone": "(47) 98814-2917",
+      "address": "R. Waldemiro José Borges, 4984 - Itinga, Joinville - SC, 89233-502",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Guarani",
+      "href": "https://www.google.com/maps/place/Comercial+Guarani/data=!4m7!3m6!1s0x94deb7d3e69cd707:0x12ba7be4af2e8450!8m2!3d-26.3553963!4d-48.8059594!16s%2Fg%2F11rhzmbnwd!19sChIJB9ec5tO33pQRUIQur-R7uhI",
+      "phone": "(47) 99671-7270",
+      "address": "Av. Firmino da Silva, 790 - Parque Guarani, Joinville - SC, 89209-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Shop Minuano",
+      "href": "https://www.google.com/maps/place/Agro+Shop+Minuano/data=!4m7!3m6!1s0x94deb0da6548b985:0x6abf26b46057aa29!8m2!3d-26.348558!4d-48.8465591!16s%2Fg%2F11c3n3243h!19sChIJhblIZdqw3pQRKapXYLQmv2o",
+      "phone": "(47) 3436-0564",
+      "address": "R. Santa Catarina, 2775 - Santa Catarina, Joinville - SC, 89233-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Joinvillense Rações",
+      "href": "https://www.google.com/maps/place/Comercial+Joinvillense+Ra%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb11a313e8a1b:0x1448a94b644925aa!8m2!3d-26.3523394!4d-48.8194562!16s%2Fg%2F11b6hmx9zv!19sChIJG4o-MRqx3pQRqiVJZEupSBQ",
+      "phone": "(47) 3466-6714",
+      "address": "R. Rúben Fernandes Dias, 55 - João Costa, Joinville - SC, 89209-444",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Expresso Rural Alimentos do Campo",
+      "href": "https://www.google.com/maps/place/Expresso+Rural+Alimentos+do+Campo/data=!4m7!3m6!1s0x94deafc6ae4b7e71:0x1e66c1760d4e3cad!8m2!3d-26.3014637!4d-48.8638568!16s%2Fg%2F11d_xjgp2j!19sChIJcX5Lrsav3pQRrTxODXbBZh4",
+      "phone": "(47) 99190-0065",
+      "address": "R. Campo Alegre, 586 - Glória, Joinville - SC, 89216-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sementes da Terra Produtos Naturais",
+      "href": "https://www.google.com/maps/place/Sementes+da+Terra+Produtos+Naturais/data=!4m7!3m6!1s0x94deaff2ef23f5ef:0x32fce8c296dec499!8m2!3d-26.2709997!4d-48.871937!16s%2Fg%2F11f50tbwl0!19sChIJ7_Uj7_Kv3pQRmcTelsLo_DI",
+      "phone": "(47) 3028-3643",
+      "address": "Rua Otto Pfuetzenreuter, 382 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agrolar | Material de Construção | Agropecuária | ferragens | Ferramentas | Artigos de Pesca | Loja de madeira | Ração",
+      "href": "https://www.google.com/maps/place/Agrolar+%7C+Material+de+Constru%C3%A7%C3%A3o+%7C+Agropecu%C3%A1ria+%7C+ferragens+%7C+Ferramentas+%7C+Artigos+de+Pesca+%7C+Loja+de+madeira+%7C+Ra%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94debbc7fe721093:0xaf61cd5c22ed9920!8m2!3d-26.325401!4d-48.9087333!16s%2Fg%2F11lgvgsvtc!19sChIJkxBy_se73pQRIJntIlzNYa8",
+      "phone": "(47) 99641-1529",
+      "address": "R. José Antônio da Silva, 18 - Morro do Meio, Joinville - SC, 89215-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Rural",
+      "href": "https://www.google.com/maps/place/Loja+Rural/data=!4m7!3m6!1s0x94deb1b60ef185fd:0xe1bff540a21bf1c9!8m2!3d-26.3040216!4d-48.8792335!16s%2Fg%2F11vjx3w01k!19sChIJ_YXxDrax3pQRyfEbokD1v-E",
+      "phone": "(47) 3433-1828",
+      "address": "R. Leopoldo Dietrich, 415 - Glória, Joinville - SC, 89216-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Comercial Paulo Schroeder",
+      "href": "https://www.google.com/maps/place/Comercial+Paulo+Schroeder/data=!4m7!3m6!1s0x94deb0ff49e79055:0xd4c4eb38d60d4547!8m2!3d-26.3204419!4d-48.8443852!16s%2Fg%2F11bv2gk2h5!19sChIJVZDnSf-w3pQRR0UN1jjrxNQ",
+      "phone": "(47) 3455-2620",
+      "address": "Av. Getúlio Vargas, 1427 - Sl 03 - Anita Garibaldi, Joinville - SC, 89202-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Hoffmann",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Hoffmann/data=!4m7!3m6!1s0x94deb13ff6356879:0xa4be0bef8c0a978a!8m2!3d-26.346316!4d-48.8424384!16s%2Fg%2F11f5lrngfh!19sChIJeWg19j-x3pQRipcKjO8LvqQ",
+      "phone": "(47) 3436-8715",
+      "address": "R. São Paulo, 4298 - Petrópolis, Joinville - SC, 89208-545",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Beija-Flor",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Beija-Flor/data=!4m7!3m6!1s0x94deb19615a1f869:0x40eb43547d131ab!8m2!3d-26.2969139!4d-48.8185299!16s%2Fg%2F11c3l82ym7!19sChIJafihFZax3pQRqzHRRzW0DgQ",
+      "phone": "(47) 3432-1035",
+      "address": "R. Albano Schmidt, 2172 - Boa Vista, Joinville - SC, 89206-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amazon Pet",
+      "href": "https://www.google.com/maps/place/Amazon+Pet/data=!4m7!3m6!1s0x94deb11b839451fd:0x6e7d4042a414f21b!8m2!3d-26.322584!4d-48.8401542!16s%2Fg%2F11f2cl8f5x!19sChIJ_VGUgxux3pQRG_IUpEJAfW4",
+      "phone": "(47) 3028-9293",
+      "address": "R. Florianópolis, 100 - Bucarein, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Galvão",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Galv%C3%A3o/data=!4m7!3m6!1s0x94deb123e10f2709:0x4f410cf6da0a0676!8m2!3d-26.3207314!4d-48.8000114!16s%2Fg%2F11fm248c9q!19sChIJCScP4SOx3pQRdgYK2vYMQU8",
+      "phone": "(47) 99725-9176",
+      "address": "R. Waldemiro Rosa, 545 - Adhemar Garcia, Joinville - SC, 89230-705",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agropet Inambu Costa e Silva",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agropet+Inambu+Costa+e+Silva/data=!4m7!3m6!1s0x94dea5ba4a31a6a9:0xc137e46ff861cd81!8m2!3d-26.2733928!4d-48.8831658!16s%2Fg%2F11pzs9ft8c!19sChIJqaYxSrql3pQRgc1h-G_kN8E",
+      "phone": "(47) 99903-6269",
+      "address": "R. Inambu, N°3053 - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Animália Pet Center - Médico Veterinário e Pet Shop",
+      "href": "https://www.google.com/maps/place/Anim%C3%A1lia+Pet+Center+-+M%C3%A9dico+Veterin%C3%A1rio+e+Pet+Shop/data=!4m7!3m6!1s0x94deb10c654053db:0xc8c83b50f2d92b51!8m2!3d-26.3434097!4d-48.8528837!16s%2Fg%2F11sxx4r105!19sChIJ21NAZQyx3pQRUSvZ8lA7yMg",
+      "phone": "(47) 3804-8417",
+      "address": "R. Francisco Alves, 435 - Sl 02 - Floresta, Joinville - SC, 89212-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agroverdi Joinville",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agroverdi+Joinville/data=!4m7!3m6!1s0x94deb145d366ffbf:0xc6395823975e2096!8m2!3d-26.3356024!4d-48.8143701!16s%2Fg%2F11xf5653p!19sChIJv_9m00Wx3pQRliBelyNYOcY",
+      "phone": "(47) 99763-7219",
+      "address": "R. Agulhas Negras, 293 - Jarivatuba, Joinville - SC, 89230-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agro Lupi",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agro+Lupi/data=!4m7!3m6!1s0x94deaf185ada4041:0x645dcac61c186b92!8m2!3d-26.2466045!4d-48.8104607!16s%2Fg%2F11pwt4h2cf!19sChIJQUDaWhiv3pQRkmsYHMbKXWQ",
+      "phone": "(47) 99159-5656",
+      "address": "R. Prado, 280 - Sala 01 - Aventureiro, Joinville - SC, 89226-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária JM",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+JM/data=!4m7!3m6!1s0x94debaef1b5ee3a7:0xad8331f9bd722ae8!8m2!3d-26.3284842!4d-48.9080253!16s%2Fg%2F11bv6ptm6m!19sChIJp-NeG--63pQR6Cpyvfkxg60",
+      "phone": "(47) 98492-2745",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Rancho Amigo",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Rancho+Amigo/data=!4m7!3m6!1s0x94debb9b2f5c913f:0x914992a4bd3b97fa!8m2!3d-26.3348685!4d-48.903978!16s%2Fg%2F11zb3sjv2b!19sChIJP5FcL5u73pQR-pc7vaSSSZE",
+      "phone": "(47) 98406-2377",
+      "address": "R. Pitaguaras, 228 - Morro do Meio, Joinville - SC, 89215-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Soca Sola",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Soca+Sola/data=!4m7!3m6!1s0x94deb6ee739fa7df:0x55fe686e26234f32!8m2!3d-26.379231!4d-48.8249918!16s%2Fg%2F11b8tbz1kv!19sChIJ36efc-623pQRMk8jJm5o_lU",
+      "phone": "(47) 3465-0280",
+      "address": "R. Waldemiro José Borges, 3493 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Comercial Arthena",
+      "href": "https://www.google.com/maps/place/Agro+Comercial+Arthena/data=!4m7!3m6!1s0x94deb6ba1a5eb045:0xa07f68549612309c!8m2!3d-26.3580948!4d-48.8140628!16s%2Fg%2F11bv6ptz6b!19sChIJRbBeGrq23pQRnDASllRof6A",
+      "phone": "(47) 3439-6551",
+      "address": "R. Daniela Peres, 397 - Parque Guarani, Joinville - SC, 89209-435",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Quatro Patas Comércio de Produtos Veterinários",
+      "href": "https://www.google.com/maps/place/Quatro+Patas+Com%C3%A9rcio+de+Produtos+Veterin%C3%A1rios/data=!4m7!3m6!1s0x94deb04377154691:0x80956c575249373!8m2!3d-26.3163644!4d-48.8499086!16s%2Fg%2F1pty4cvqw!19sChIJkUYVd0Ow3pQRc5MkdcVWCQg",
+      "phone": "(47) 3026-7909",
+      "address": "R. Cel. Santiago, 819 - Anita Garibaldi, Joinville - SC, 19892-273",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Lovers | Estética e Cuidado Animal",
+      "href": "https://www.google.com/maps/place/Pet+Lovers+%7C+Est%C3%A9tica+e+Cuidado+Animal/data=!4m7!3m6!1s0x94deb119346cb809:0x145a944bd66692f1!8m2!3d-26.3054439!4d-48.8533029!16s%2Fg%2F11y49f6dtt!19sChIJCbhsNBmx3pQR8ZJm1kuUWhQ",
+      "phone": "(47) 99119-4009",
+      "address": "R. Duque de Caxias, 475 - Atiradores, Joinville - SC, 89201-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AGRO BR São Marcos",
+      "href": "https://www.google.com/maps/place/AGRO+BR+S%C3%A3o+Marcos/data=!4m7!3m6!1s0x94deb18dfae94cb5:0xc1a1da247da1f8c4!8m2!3d-26.3205874!4d-48.8756465!16s%2Fg%2F11srrgdd3w!19sChIJtUzp-o2x3pQRxPihfSTaocE",
+      "phone": "(47) 3030-1215",
+      "address": "R. Tupy, 1009 - São Marcos, Joinville - SC, 89214-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Campo e Lavoura",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Campo+e+Lavoura/data=!4m7!3m6!1s0x94dea523019885d7:0x11c898d2b9216ddf!8m2!3d-26.2869147!4d-48.9128683!16s%2Fg%2F1tk9rxzv!19sChIJ14WYASOl3pQR320hudKYyBE",
+      "phone": "(47) 3025-5761",
+      "address": "R. XV de Novembro, 7960 - Vila Nova, Joinville - SC, 89237-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Amigo Bicho",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Amigo+Bicho/data=!4m7!3m6!1s0x94deb05addf45d25:0xe50701103452cf2c!8m2!3d-26.3139036!4d-48.8510173!16s%2Fg%2F1tslkwkk!19sChIJJV303Vqw3pQRLM9SNBABB-U",
+      "phone": "(47) 3423-3595",
+      "address": "R. Rio Grande do Sul, 527 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Garibaldi Empório e Frutaria",
+      "href": "https://www.google.com/maps/place/Garibaldi+Emp%C3%B3rio+e+Frutaria/data=!4m7!3m6!1s0x94deb042d676728f:0x59316fdb64241113!8m2!3d-26.3160555!4d-48.8555234!16s%2Fg%2F1ydkhrc2w!19sChIJj3J21kKw3pQRExEkZNtvMVk",
+      "phone": "(47) 99142-8051",
+      "address": "R. Paraíba, 571 - Anita Garibaldi, Joinville - SC, 89203-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro AnimalPet Iririú",
+      "href": "https://www.google.com/maps/place/Agro+AnimalPet+Iriri%C3%BA/data=!4m7!3m6!1s0x94deaf8412a0afc5:0xe8d9b10ac1693c84!8m2!3d-26.2728577!4d-48.8297918!16s%2Fg%2F11mw7ngk5y!19sChIJxa-gEoSv3pQRhDxpwQqx2eg",
+      "phone": "(47) 3227-9289",
+      "address": "R. Iririú, 1631 - Iririú, Joinville - SC, 89227-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AJB Pet - Sua loja de aquarismo",
+      "href": "https://www.google.com/maps/place/AJB+Pet+-+Sua+loja+de+aquarismo/data=!4m7!3m6!1s0x94deb1ce14a13cd3:0xf03bec0bbe7aa3ba!8m2!3d-26.2797095!4d-48.8412492!16s%2Fg%2F11rzg2gyf_!19sChIJ0zyhFM6x3pQRuqN6vgvsO_A",
+      "phone": "(47) 99631-6707",
+      "address": "R. Mondaí, 335 - Saguaçu, Joinville - SC, 89221-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hortifrúti Saguaçu",
+      "href": "https://www.google.com/maps/place/Hortifr%C3%BAti+Sagua%C3%A7u/data=!4m7!3m6!1s0x94deb1d5f8f7874f:0x45149f354134b050!8m2!3d-26.2772109!4d-48.8352407!16s%2Fg%2F11s16szvs0!19sChIJT4f3-NWx3pQRULA0QTWfFEU",
+      "phone": "(47) 99782-6041",
+      "address": "R. Iririú, 901 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santa Maria Comércio Cereais",
+      "href": "https://www.google.com/maps/place/Santa+Maria+Com%C3%A9rcio+Cereais/data=!4m7!3m6!1s0x94deb04d48875717:0x46c450662bdc3233!8m2!3d-26.307065!4d-48.8400509!16s%2Fg%2F1tf2570w!19sChIJF1eHSE2w3pQRMzLcK2ZQxEY",
+      "phone": "(47) 3026-6721",
+      "address": "R. Santos, 86 - Bucarein, Joinville - SC, 89202-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Shop Bepler",
+      "href": "https://www.google.com/maps/place/Agro+Shop+Bepler/data=!4m7!3m6!1s0x94dea562d6defdcd:0xf581f9fdfcf5f2e0!8m2!3d-26.2648247!4d-48.8823009!16s%2Fg%2F11bvt4fn9x!19sChIJzf3e1mKl3pQR4PL1_P35gfU",
+      "phone": "(47) 99281-8718",
+      "address": "R. Rui Barbosa, 2221 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cãotinho Pet Shop",
+      "href": "https://www.google.com/maps/place/C%C3%A3otinho+Pet+Shop/data=!4m7!3m6!1s0x94deaffc9fcea90b:0x887d2be455a75a32!8m2!3d-26.2849026!4d-48.8713275!16s%2Fg%2F11bv6pv7b_!19sChIJC6nOn_yv3pQRMlqnVeQrfYg",
+      "phone": "(47) 3028-0102",
+      "address": "R. Benjamin Constant, 2598 - Costa e Silva, Joinville - SC, 89217-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Animazoo",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Animazoo/data=!4m7!3m6!1s0x94dea7fcf4e28207:0x37a26400f48680cb!8m2!3d-26.2741828!4d-48.88452!16s%2Fg%2F11nnzkvc_c!19sChIJB4Li9Pyn3pQRy4CG9ABkojc",
+      "phone": "(47) 99794-5038",
+      "address": "Av. Alm. Jaceguay, 3165 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bellas Patas Centro de Estética Animal",
+      "href": "https://www.google.com/maps/place/Bellas+Patas+Centro+de+Est%C3%A9tica+Animal/data=!4m7!3m6!1s0x94dea5057fca1a43:0x3d4d4ceee6e170a2!8m2!3d-26.2741298!4d-48.883845!16s%2Fg%2F11t_zbzkny!19sChIJQxrKfwWl3pQRonDh5u5MTT0",
+      "phone": "(47) 98428-3442",
+      "address": "Av. Alm. Jaceguay, 3099 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amigos de Patas",
+      "href": "https://www.google.com/maps/place/Amigos+de+Patas/data=!4m7!3m6!1s0x94deafacb6658fd3:0x91563728f5ef63bc!8m2!3d-26.2757524!4d-48.8746292!16s%2Fg%2F11kk8hlwwj!19sChIJ049ltqyv3pQRvGPv9Sg3VpE",
+      "phone": "(47) 98922-3232",
+      "address": "R. Dona Elza Meinert, 202 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Verdureira Estação das Frutas",
+      "href": "https://www.google.com/maps/place/Verdureira+Esta%C3%A7%C3%A3o+das+Frutas/data=!4m7!3m6!1s0x94deaff4dcfd4681:0x6c438fc706cbfc1d!8m2!3d-26.2733904!4d-48.8769691!16s%2Fg%2F11b7q8s0g6!19sChIJgUb93PSv3pQRHfzLBsePQ2w",
+      "phone": "(47) 3043-6866",
+      "address": "R. Inambu, 371 - Costa e Silva, Joinville - SC, 89220-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A Produtiva Fert",
+      "href": "https://www.google.com/maps/place/A+Produtiva+Fert/data=!4m7!3m6!1s0x94dea5672564eeed:0xfc55dd2e0294e57!8m2!3d-26.2733!4d-48.8856908!16s%2Fg%2F11pww14k6d!19sChIJ7e5kJWel3pQRV04p4NJdxQ8",
+      "phone": "(47) 98874-3017",
+      "address": "R. Inambu, 3275 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Vargas",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Vargas/data=!4m7!3m6!1s0x94dea537a24955c1:0x96bd15290631de3a!8m2!3d-26.2920514!4d-48.9092861!16s%2Fg%2F11f6zv7__y!19sChIJwVVJojel3pQROt4xBikVvZY",
+      "phone": "(47) 99972-7736",
+      "address": "R. São Firmino, 905 - 03 - Vila Nova, Joinville - SC, 88237-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sales Agropecuária",
+      "href": "https://www.google.com/maps/place/Sales+Agropecu%C3%A1ria/data=!4m7!3m6!1s0x94dea576481bae8f:0xc391a27e30371a1!8m2!3d-26.2897944!4d-48.9208692!16s%2Fg%2F11v02y920p!19sChIJj64bSHal3pQRoXED4ycaOQw",
+      "phone": "(47) 99974-7364",
+      "address": "Rod. do Arroz - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Padilha",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Padilha/data=!4m7!3m6!1s0x94dea5325f04c6c1:0xb8ab98f36f0ca5fa!8m2!3d-26.2867878!4d-48.9098158!16s%2Fg%2F11vd756dj2!19sChIJwcYEXzKl3pQR-qUMb_OYq7g",
+      "phone": "(47) 99745-5845",
+      "address": "R. XV de Novembro, 7718 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ração Ville Delivery",
+      "href": "https://www.google.com/maps/place/Ra%C3%A7%C3%A3o+Ville+Delivery/data=!4m7!3m6!1s0x94dea5741e5dc1b9:0xc8b699cf789c328f!8m2!3d-26.2924849!4d-48.9266734!16s%2Fg%2F11y6m22tkc!19sChIJucFdHnSl3pQRjzKceM-Ztsg",
+      "phone": "(47) 99656-0028",
+      "address": "Escritório - Estrada Blumenau, 1057 - Vila Nova, Joinville - SC, 89237-820",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Café Rural Família Roos",
+      "href": "https://www.google.com/maps/place/Caf%C3%A9+Rural+Fam%C3%ADlia+Roos/data=!4m7!3m6!1s0x94dea4ea80b0599b:0xad7cc5cfe273fcfd!8m2!3d-26.2922153!4d-48.9381103!16s%2Fg%2F11c1txwz8v!19sChIJm1mwgOqk3pQR_fxz4s_FfK0",
+      "phone": "(47) 99656-9753",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vila Nova Joinville SC",
+      "href": "https://www.google.com/maps/place/Vila+Nova+Joinville+SC/data=!4m7!3m6!1s0x94dea5573e138c09:0x3ccd2b974ec80908!8m2!3d-26.2946176!4d-48.9000928!16s%2Fg%2F11stznj6cr!19sChIJCYwTPlel3pQRCAnITpcrzTw",
+      "phone": "(47) 98829-0701",
+      "address": "R. Bento Torquato da Rocha - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agrojói",
+      "href": "https://www.google.com/maps/place/Agroj%C3%B3i/data=!4m7!3m6!1s0x94deb0dd068e39b1:0xc321bbe17189a436!8m2!3d-26.3414253!4d-48.8475691!16s%2Fg%2F11bv3rq0ly!19sChIJsTmOBt2w3pQRNqSJceG7IcM",
+      "phone": "(47) 99946-0761",
+      "address": "R. Santa Catarina, 2044 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet mimi",
+      "href": "https://www.google.com/maps/place/Pet+mimi/data=!4m7!3m6!1s0x94deb5f82aabbad9:0xdc3f072e9e8a7324!8m2!3d-26.3282273!4d-48.856972!16s%2Fg%2F11rwmqrvnh!19sChIJ2bqrKvi13pQRJHOKni4HP9w",
+      "phone": "(47) 99624-2284",
+      "address": "R. Paulo Setúbal, 418 - Floresta, Joinville - SC, 89211-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Bicho do Mato",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Bicho+do+Mato/data=!4m7!3m6!1s0x94deb7be891bb9a3:0xdea6d844cd8ad302!8m2!3d-26.3782985!4d-48.8275784!16s%2Fg%2F11fp3ky8yj!19sChIJo7kbib633pQRAtOKzUTYpt4",
+      "phone": "(47) 99953-5703",
+      "address": "R. dos Esportistas, 71 - Itinga, Joinville - SC, 89233-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bio Flora Produtos Naturais",
+      "href": "https://www.google.com/maps/place/Bio+Flora+Produtos+Naturais/data=!4m7!3m6!1s0x94deb0e130bc5cff:0xd9700e0dd598d8de!8m2!3d-26.3353625!4d-48.8441885!16s%2Fg%2F11bv2lqx5m!19sChIJ_1y8MOGw3pQR3tiY1Q0OcNk",
+      "phone": "(47) 3436-2356",
+      "address": "R. Marabá, 325 - Floresta, Joinville - SC, 89211-695",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Ferreira",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Ferreira/data=!4m7!3m6!1s0x94deb12e128127df:0xc5ba0ec54bde33ce!8m2!3d-26.3400486!4d-48.8138627!16s%2Fg%2F11ygnz30y3!19sChIJ3yeBEi6x3pQRzjPeS8UOusU",
+      "phone": "(47) 99648-1893",
+      "address": "R. Monsenhor Gercino, 4103 - Itaum, Joinville - SC, 89230-199",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Guarujá",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Guaruj%C3%A1/data=!4m7!3m6!1s0x94deb1c79cd4675b:0x9c4d48ac0a3297a5!8m2!3d-26.3332701!4d-48.8392083!16s%2Fg%2F11h3wtly9w!19sChIJW2fUnMex3pQRpZcyCqxITZw",
+      "phone": "(47) 98443-8421",
+      "address": "R. Guarujá, 295 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Japonês",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Japon%C3%AAs/data=!4m7!3m6!1s0x94deb151dbc6098b:0x34f1fcff3c34e784!8m2!3d-26.33942!4d-48.809193!16s%2Fg%2F11bvcvj80z!19sChIJiwnG21Gx3pQRhOc0PP_88TQ",
+      "phone": "(47) 99975-7184",
+      "address": "R. Monsenhor Gercino, 4533 - Jarivatuba, Joinville - SC, 89230-199",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropet Canário de Ouro",
+      "href": "https://www.google.com/maps/place/Agropet+Can%C3%A1rio+de+Ouro/data=!4m7!3m6!1s0x94deb17e733f0921:0xc383c56ad6d70121!8m2!3d-26.3312662!4d-48.827215!16s%2Fg%2F11nx_55_96!19sChIJIQk_c36x3pQRIQHX1mrFg8M",
+      "phone": "(47) 98433-0331",
+      "address": "R. Florianópolis, 2096 - Itaum, Joinville - SC, 89210-795",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PET STOP BANHO E TOSA",
+      "href": "https://www.google.com/maps/place/PET+STOP+BANHO+E+TOSA/data=!4m7!3m6!1s0x94deb119c675feab:0x246b0f295b688767!8m2!3d-26.3308779!4d-48.8305743!16s%2Fg%2F11j7x9km60!19sChIJq_51xhmx3pQRZ4doWykPayQ",
+      "phone": "(47) 99738-6268",
+      "address": "R. Florianópolis, 1474 - Itaum, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Familiar",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Familiar/data=!4m7!3m6!1s0x94deb47224dee83b:0xc9e08a5f25bc37cf!8m2!3d-26.3420558!4d-48.7749336!16s%2Fg%2F11dxf352_f!19sChIJO-jeJHK03pQRzze8JV-K4Mk",
+      "phone": "(47) 98457-7045",
+      "address": "Av. Kurt Meinert, 2002 - Paranaguamirim, Joinville - SC, 89234-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fucínhu's Pet Store",
+      "href": "https://www.google.com/maps/place/Fuc%C3%ADnhu%27s+Pet+Store/data=!4m7!3m6!1s0x94deb6bcc72325e9:0xf090f19761c34992!8m2!3d-26.362252!4d-48.8104448!16s%2Fg%2F11bv6pq7sq!19sChIJ6SUjx7y23pQRkknDYZfxkPA",
+      "phone": "(47) 99676-7218",
+      "address": "R. Boehmerwald, 2454 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa AgroBen",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+AgroBen/data=!4m7!3m6!1s0x94deb7e65f077c63:0xbb0165be7c552b86!8m2!3d-26.3693192!4d-48.8277167!16s%2Fg%2F11sjltkqcz!19sChIJY3wHX-a33pQRhitVfL5lAbs",
+      "phone": "(47) 99209-6013",
+      "address": "R. Adolfo da Veiga - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agromais agropecuária",
+      "href": "https://www.google.com/maps/place/Agromais+agropecu%C3%A1ria/data=!4m7!3m6!1s0x94deb5177cda26a9:0xa41f29216bc7516d!8m2!3d-26.3511964!4d-48.7965637!16s%2Fg%2F11v05w_dwm!19sChIJqSbafBe13pQRbVHHayEpH6Q",
+      "phone": "(47) 99758-9257",
+      "address": "Rua: Boehmerwald, 3957 - Paranaguamirim, Joinville - SC, 89231-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agronatur Pet & Garden",
+      "href": "https://www.google.com/maps/place/Agronatur+Pet+%26+Garden/data=!4m7!3m6!1s0x94deae0e63d19913:0xfbc642985069e5a6!8m2!3d-26.2533675!4d-48.8069937!16s%2Fg%2F1v1kq_xf!19sChIJE5nRYw6u3pQRpuVpUJhCxvs",
+      "phone": "(47) 98853-8191",
+      "address": "Rua Willy Schossland, 1199 - Aventureiro, Joinville - SC, 89225-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropet Bicho Nobre",
+      "href": "https://www.google.com/maps/place/Agropet+Bicho+Nobre/data=!4m7!3m6!1s0x94deae3df6d25029:0xaccc3116505cba72!8m2!3d-26.2579672!4d-48.8199566!16s%2Fg%2F11bvt5jnhk!19sChIJKVDS9j2u3pQRcrpcUBYxzKw",
+      "phone": "(47) 3305-4567",
+      "address": "R. Tuiuti, 1540 - Aventureiro, Joinville - SC, 89227-473",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agroville",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agroville/data=!4m7!3m6!1s0x94deafb0fde0f831:0x4a725aa3211b29ff!8m2!3d-26.2486234!4d-48.8161088!16s%2Fg%2F11hds0_f_n!19sChIJMfjg_bCv3pQR_ykbIaNacko",
+      "phone": "(47) 3017-5333",
+      "address": "Rua Emílio Landmann, 495 - Aventureiro, Joinville - SC, 89226-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Jacupiranga",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Jacupiranga/data=!4m7!3m6!1s0x94deae701494a35f:0xfc13cc359fee32ff!8m2!3d-26.2396942!4d-48.8084056!16s%2Fg%2F11bv3vcr89!19sChIJX6OUFHCu3pQR_zLunzXME_w",
+      "phone": "(47) 99656-4035",
+      "address": "R. Jacupiranga, 873 - Aventureiro, Joinville - SC, 89226-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Shop Mar Azul",
+      "href": "https://www.google.com/maps/place/Agro+Shop+Mar+Azul/data=!4m7!3m6!1s0x94deaf8807d152b1:0x397c9a280bea9566!8m2!3d-26.2474597!4d-48.8102539!16s%2Fg%2F11vd0tthcz!19sChIJsVLRB4iv3pQRZpXqCyiafDk",
+      "phone": "(47) 98448-5065",
+      "address": "R. Evaldo Martin Junkes, 976 - Aventureiro, Joinville - SC, 89225-673",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropet Bacuri",
+      "href": "https://www.google.com/maps/place/Agropet+Bacuri/data=!4m7!3m6!1s0x94deaf440864d575:0xd27b891ec1796f66!8m2!3d-26.2656733!4d-48.8012184!16s%2Fg%2F11rsf_3s8f!19sChIJddVkCESv3pQRZm95wR6Je9I",
+      "phone": "(47) 98819-1497",
+      "address": "R. Areia Branca, 682 - Jardim Iririú, Joinville - SC, 89224-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro AnimalPet - das Cegonhas",
+      "href": "https://www.google.com/maps/place/Agro+AnimalPet+-+das+Cegonhas/data=!4m7!3m6!1s0x94deae195d2fac2b:0x9c9ad534957dcb0f!8m2!3d-26.2642497!4d-48.8151257!16s%2Fg%2F11b8c4dddc!19sChIJK6wvXRmu3pQRD8t9lTTVmpw",
+      "phone": "(47) 3027-1630",
+      "address": "R. das Cegonhas, 665 - Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Galego Agropecuária e Floricultura",
+      "href": "https://www.google.com/maps/place/Galego+Agropecu%C3%A1ria+e+Floricultura/data=!4m7!3m6!1s0x94deb1e5566712a7:0xd92c10bfb3d3c793!8m2!3d-26.2780076!4d-48.8099542!16s%2Fg%2F11bv6pr1zn!19sChIJpxJnVuWx3pQRk8fTs78QLNk",
+      "phone": "(47) 3439-2923",
+      "address": "R. Pte. Serrada, 147 - Comasa, Joinville - SC, 89228-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Pet Dois Primos",
+      "href": "https://www.google.com/maps/place/Agro+Pet+Dois+Primos/data=!4m7!3m6!1s0x94deaf57cd972409:0xa5af438b4646293c!8m2!3d-26.2593957!4d-48.802204!16s%2Fg%2F11jfs2cy8t!19sChIJCSSXzVev3pQRPClGRotDr6U",
+      "phone": "(47) 3017-4991",
+      "address": "R. Riacho de Santana, 1020 - Jardim Iririú, Joinville - SC, 89224-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agrop. do Alemão",
+      "href": "https://www.google.com/maps/place/Agrop.+do+Alem%C3%A3o/data=!4m7!3m6!1s0x94deae045d98c8c7:0x17df06da6f0f7779!8m2!3d-26.2611027!4d-48.8066032!16s%2Fg%2F11bvt3n3t6!19sChIJx8iYXQSu3pQReXcPb9oG3xc",
+      "phone": "(47) 3437-8215",
+      "address": "R. Frontin, 1532 - Jardim Iririú, Joinville - SC, 89224-071",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marpet e Cia",
+      "href": "https://www.google.com/maps/place/Marpet+e+Cia/data=!4m7!3m6!1s0x94deb1e2bbcdc219:0x6bec2ae01614347b!8m2!3d-26.2694245!4d-48.8103681!16s%2Fg%2F11f3r2lhmg!19sChIJGcLNu-Kx3pQRezQUFuAq7Gs",
+      "phone": "(47) 3437-3986",
+      "address": "R. Dr. Júlio de Mesquita Filho, 200 - Jardim Iririú, Joinville - SC, 89227-633",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Petshop Dudy",
+      "href": "https://www.google.com/maps/place/Petshop+Dudy/data=!4m7!3m6!1s0x94deae1bfefcbfdb:0x5b409d6fd2f26e5a!8m2!3d-26.2657436!4d-48.8137087!16s%2Fg%2F1w456rqt!19sChIJ27_8_huu3pQRWm7y0m-dQFs",
+      "phone": "(47) 98812-7907",
+      "address": "R. das Cegonhas, 445 - Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropets",
+      "href": "https://www.google.com/maps/place/Agropets/data=!4m7!3m6!1s0x94deb1003a162c65:0x9388ad34b5fdfe16!8m2!3d-26.2960328!4d-48.8181098!16s%2Fg%2F11w28c77t1!19sChIJZSwWOgCx3pQRFv79tTStiJM",
+      "phone": "(47) 99946-4869",
+      "address": "R. Albano Schmidt, 2285 - Boa Vista, Joinville - SC, 89205-103",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária AgroMais",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+AgroMais/data=!4m7!3m6!1s0x94deb11e87e54ec7:0x3fea3ff1a82b2822!8m2!3d-26.2969139!4d-48.8185299!16s%2Fg%2F11vywkdktr!19sChIJx07lhx6x3pQRIigrqPE_6j8",
+      "phone": "(47) 99188-5086",
+      "address": "R. Albano Schmidt, 2172 - Boa Vista, Joinville - SC, 89206-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bicho Rei Pet Shop",
+      "href": "https://www.google.com/maps/place/Bicho+Rei+Pet+Shop/data=!4m7!3m6!1s0x94deb1bb5c2093f7:0xc335d3690dbe28a!8m2!3d-26.3028447!4d-48.825974!16s%2Fg%2F11c45kc2sd!19sChIJ95MgXLux3pQRiuLbkDZdMww",
+      "phone": "(47) 3027-6923",
+      "address": "R. Pref. Helmuth Fallgatter, 1136 - Boa Vista, Joinville - SC, 89206-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Golfinho Petshop",
+      "href": "https://www.google.com/maps/place/Golfinho+Petshop/data=!4m7!3m6!1s0x94deb1bb484e7863:0x3777bbf414fcbaaf!8m2!3d-26.302606!4d-48.8257987!16s%2Fg%2F11bzwn4x1b!19sChIJY3hOSLux3pQRr7r8FPS7dzc",
+      "phone": "(47) 3439-1703",
+      "address": "R. Pref. Helmuth Fallgatter, 1148 - Boa Vista, Joinville - SC, 89206-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

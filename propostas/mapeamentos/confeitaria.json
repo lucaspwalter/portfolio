@@ -1,0 +1,660 @@
+{
+  "id": "confeitaria",
+  "nome": "Confeitaria",
+  "terms": [
+    "confeitaria",
+    "doceria",
+    "bolos personalizados"
+  ],
+  "profiles": 249,
+  "qualified": [
+    {
+      "name": "Panificadora e Confeitaria Primas",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Primas/data=!4m7!3m6!1s0x94deb6d1159780b3:0xc84110bcca3fc417!8m2!3d-26.3606995!4d-48.8314708!16s%2Fg%2F1tkb67vl!19sChIJs4CXFdG23pQRF8Q_yrwQQcg",
+      "phone": "(47) 3465-0325",
+      "address": "R. Boehmerwald, 750 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Sophya",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Sophya/data=!4m7!3m6!1s0x94deb6c52e8da03f:0xf64d3237f2d9f9c6!8m2!3d-26.3652201!4d-48.8293502!16s%2Fg%2F11bv6pfv5b!19sChIJP6CNLsW23pQRxvnZ8jcyTfY",
+      "phone": "(47) 99263-7689",
+      "address": "R. Adolfo da Veiga, 495 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Kelly",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Kelly/data=!4m7!3m6!1s0x94deb0d340855b9f:0xb564d5f4af700d6f!8m2!3d-26.3571182!4d-48.8462634!16s%2Fg%2F1thfglhx!19sChIJn1uFQNOw3pQRbw1wr_TVZLU",
+      "phone": "(47) 3465-2846",
+      "address": "R. Santa Catarina, 4026 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Fortunato",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Fortunato/data=!4m7!3m6!1s0x94deb6b54f70b51b:0x29b4295b0e32b106!8m2!3d-26.3498229!4d-48.8188169!16s%2Fg%2F11c3mrbzwr!19sChIJG7VwT7W23pQRBrEyDlsptCk",
+      "phone": "(47) 3017-2389",
+      "address": "R. João da Costa Júnior, 1062 - João Costa, Joinville - SC, 89209-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Mega Pão",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Mega+P%C3%A3o/data=!4m7!3m6!1s0x94deb12abf6ccb15:0xf06fa8d5a214c43e!8m2!3d-26.3550632!4d-48.8385022!16s%2Fg%2F11bv6pryy7!19sChIJFctsvyqx3pQRPsQUotWob_A",
+      "phone": "(47) 3463-9763",
+      "address": "R. Dona Cezarina, 761 - Boehmerwald, Joinville - SC, 89232-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moinho Mariano Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Moinho+Mariano+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deb12e5a6507f9:0x96ecb712a1c11aa2!8m2!3d-26.3471231!4d-48.8317556!16s%2Fg%2F11b88_5lqg!19sChIJ-QdlWi6x3pQRohrBoRK37JY",
+      "phone": "(47) 98912-7290",
+      "address": "Av. Paulo Schroeder, 2461 - Petrópolis, Joinville - SC, 89208-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Três Meninas",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Tr%C3%AAs+Meninas/data=!4m7!3m6!1s0x94deb7c6b02be76f:0x87306c1ff190e30d!8m2!3d-26.3615813!4d-48.8143994!16s%2Fg%2F11n24kpmh7!19sChIJb-crsMa33pQRDeOQ8R9sMIc",
+      "phone": "(47) 99914-5559",
+      "address": "R. Boehmerwald, 2107 - Parque Guarani, Joinville - SC, 89235-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Helena Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Helena+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deb14e4e3b4b73:0xe5a27617bd7230ee!8m2!3d-26.3398044!4d-48.8113171!16s%2Fg%2F11b8t778m3!19sChIJc0s7Tk6x3pQR7jByvRd2ouU",
+      "phone": "(47) 3085-1537",
+      "address": "R. Monsenhor Gercino, 4328 - João Costa, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sonho de Doces",
+      "href": "https://www.google.com/maps/place/Sonho+de+Doces/data=!4m7!3m6!1s0x94deb6ea0846e5b1:0x98f1ef26a650859b!8m2!3d-26.37056!4d-48.823918!16s%2Fg%2F11cfhgqwd!19sChIJseVGCOq23pQRm4VQpibv8Zg",
+      "phone": "(47) 99135-9452",
+      "address": "R. Ângelo Sotopietra - Boehmerwald, Joinville - SC, 89235-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donatudo Embalagens, Doces e Festas",
+      "href": "https://www.google.com/maps/place/Donatudo+Embalagens,+Doces+e+Festas/data=!4m7!3m6!1s0x94deb6c3aaf78613:0x9d3106bae452776a!8m2!3d-26.3678634!4d-48.8291022!16s%2Fg%2F11bvcv94mj!19sChIJE4b3qsO23pQRandS5LoGMZ0",
+      "phone": "(47) 3278-7155",
+      "address": "R. Afonso Moreira, 588 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Divina Gula",
+      "href": "https://www.google.com/maps/place/Divina+Gula/data=!4m7!3m6!1s0x94deb0334730179b:0x86782eba481ce23!8m2!3d-26.2927051!4d-48.8404476!16s%2Fg%2F1tj2pm8n!19sChIJmxcwRzOw3pQRI86BpOuCZwg",
+      "phone": "(47) 3422-3940",
+      "address": "R. Dona Francisca, 1120 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gi Bolos e Doces Confeitaria e Padaria",
+      "href": "https://www.google.com/maps/place/Gi+Bolos+e+Doces+Confeitaria+e+Padaria/data=!4m7!3m6!1s0x94deb1eb37b5884d:0x941a9dd14cbbaa2f!8m2!3d-26.3283539!4d-48.8098611!16s%2Fg%2F11vz75gxhf!19sChIJTYi1N-ux3pQRL6q7TNGdGpQ",
+      "phone": "(47) 99621-0858",
+      "address": "R. Agulhas Negras, 1268 - Jarivatuba, Joinville - SC, 89230-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carla Thiesen Bolos Gourmet",
+      "href": "https://www.google.com/maps/place/Carla+Thiesen+Bolos+Gourmet/data=!4m7!3m6!1s0x94deb771c023154d:0xf357927aeaf89016!8m2!3d-26.3710896!4d-48.8188601!16s%2Fg%2F11njvdn2r_!19sChIJTRUjwHG33pQRFpD46nqSV_M",
+      "phone": "(47) 99602-8919",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Frutaria Monte das Oliveiras",
+      "href": "https://www.google.com/maps/place/Frutaria+Monte+das+Oliveiras/data=!4m7!3m6!1s0x94deb6cfd4418b27:0x543b59912feec130!8m2!3d-26.3604717!4d-48.8294281!16s%2Fg%2F11bv6pwn0q!19sChIJJ4tB1M-23pQRMMHuL5FZO1Q",
+      "phone": "(47) 99752-5190",
+      "address": "R. Boehmerwald, 931 - Boehmerwald, Joinville - SC, 89235-770",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amor e Canela",
+      "href": "https://www.google.com/maps/place/Amor+e+Canela/data=!4m7!3m6!1s0x94deb0287aa0adc7:0xe43811ecbc68e294!8m2!3d-26.283613!4d-48.8495627!16s%2Fg%2F1pxqc_c5n!19sChIJx62geiiw3pQRlOJovOwROOQ",
+      "phone": "(47) 3473-5650",
+      "address": "R. Dr. João Colin, 1893 - América, Joinville - SC, 89204-033",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chocante",
+      "href": "https://www.google.com/maps/place/Chocante/data=!4m7!3m6!1s0x94deb03821eea165:0xfb37d4f75f31f89!8m2!3d-26.302702!4d-48.84495!16s%2Fg%2F1tdwr7kg!19sChIJZaHuITiw3pQRiR_zdU99sw8",
+      "phone": "(47) 3433-8093",
+      "address": "R. Jerônimo Coelho, 40 - Centro, Joinville - SC, 89201-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kopenhagen América",
+      "href": "https://www.google.com/maps/place/Kopenhagen+Am%C3%A9rica/data=!4m7!3m6!1s0x94deb1313b6466f1:0x2afdc5d27417fe37!8m2!3d-26.3014937!4d-48.859368!16s%2Fg%2F11vxtzhmtc!19sChIJ8WZkOzGx3pQRN_4XdNLF_So",
+      "phone": "(47) 99187-7434",
+      "address": "R. Aquidaban, 634 - Lj 02 - América, Joinville - SC, 89201-652",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mundo Fit Confeitaria",
+      "href": "https://www.google.com/maps/place/Mundo+Fit+Confeitaria/data=!4m7!3m6!1s0x94deb11ccde59153:0xd2e149abe7439f76!8m2!3d-26.2965589!4d-48.851371!16s%2Fg%2F11h5yxm62b!19sChIJU5HlzRyx3pQRdp9D56tJ4dI",
+      "phone": "(47) 98907-0677",
+      "address": "R. Lages, 766 - Loja 2 - América, Joinville - SC, 89204-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santo Doce Alta Confeitaria",
+      "href": "https://www.google.com/maps/place/Santo+Doce+Alta+Confeitaria/data=!4m7!3m6!1s0x94deafd3be533663:0x991de2c2ded7d63b!8m2!3d-26.2843722!4d-48.8467401!16s%2Fg%2F11df0603rj!19sChIJYzZTvtOv3pQRO9bX3sLiHZk",
+      "phone": "(47) 3467-7295",
+      "address": "R. Pref. Aristides Largura, 216 - América, Joinville - SC, 89204-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fiorello Café e Bistrô",
+      "href": "https://www.google.com/maps/place/Fiorello+Caf%C3%A9+e+Bistr%C3%B4/data=!4m7!3m6!1s0x94deb102e8d30f4d:0xfd2b4b79093fad3d!8m2!3d-26.3027775!4d-48.8537779!16s%2Fg%2F11h1fztf7m!19sChIJTQ_T6AKx3pQRPa0_CXlLK_0",
+      "phone": "(47) 3202-6910",
+      "address": "R. Expedicionário Holz, 167 - América, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Feirão Frutaville Escolinha",
+      "href": "https://www.google.com/maps/place/Feir%C3%A3o+Frutaville+Escolinha/data=!4m7!3m6!1s0x94deb6c54a426439:0x1c272ca05a9bdd07!8m2!3d-26.3638168!4d-48.8295405!16s%2Fg%2F11c40pbxgl!19sChIJOWRCSsW23pQRB92bWqAsJxw",
+      "phone": "(47) 3801-1113",
+      "address": "R. Adolfo da Veiga, 362 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Delivery Priess Cakes - doces inclusivos",
+      "href": "https://www.google.com/maps/place/Delivery+Priess+Cakes+-+doces+inclusivos/data=!4m7!3m6!1s0xa62a1f2586d2b827:0x3769289a796ee76c!8m2!3d-26.3080073!4d-48.8470897!16s%2Fg%2F11nnvgt8bg!19sChIJJ7jShiUfKqYRbOdueZooaTc",
+      "phone": "(47) 98919-6125",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jubicão Confeitaria Pet",
+      "href": "https://www.google.com/maps/place/Jubic%C3%A3o+Confeitaria+Pet/data=!4m7!3m6!1s0x94deb1d6a8542845:0xe0db700747f15e37!8m2!3d-26.3147019!4d-48.8538404!16s%2Fg%2F11hzgpm9b8!19sChIJRShUqNax3pQRN17xRwdw2-A",
+      "phone": "(47) 99129-1214",
+      "address": "R. Porto União, 862 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dolce Fino - Viviane Vale",
+      "href": "https://www.google.com/maps/place/Dolce+Fino+-+Viviane+Vale/data=!4m7!3m6!1s0x94deb1093ca16431:0xa0e497eae8236249!8m2!3d-26.3233444!4d-48.855816!16s%2Fg%2F11j6sd8t6g!19sChIJMWShPAmx3pQRSWIj6OqX5KA",
+      "phone": "(47) 99111-8020",
+      "address": "R. Max Heiden, 121 - Sl 7 - Anita Garibaldi, Joinville - SC, 89203-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doce Encanto Bistro",
+      "href": "https://www.google.com/maps/place/Doce+Encanto+Bistro/data=!4m7!3m6!1s0x94deb12e67165423:0xb74f188f4e9efe67!8m2!3d-26.3162556!4d-48.859974!16s%2Fg%2F11yvy132bb!19sChIJI1QWZy6x3pQRZ_6eTo8YT7c",
+      "phone": "(47) 98890-3716",
+      "address": "R. Gothard Kaesemodel, 254 - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Quitutes Caseiros Naru",
+      "href": "https://www.google.com/maps/place/Quitutes+Caseiros+Naru/data=!4m7!3m6!1s0x94deb18481732bc1:0xccb4749e788de03e!8m2!3d-26.3213751!4d-48.8676599!16s%2Fg%2F11h75skpt8!19sChIJwStzgYSx3pQRPuCNeJ50tMw",
+      "phone": "(47) 3438-6699",
+      "address": "R. Bagé, 270 - Anita Garibaldi, Joinville - SC, 89203-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Porto Rico",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Porto+Rico/data=!4m7!3m6!1s0x94deb0e4cd207aed:0xaa505022d85c6faa!8m2!3d-26.33005!4d-48.8468469!16s%2Fg%2F1wcxf7cz!19sChIJ7XogzeSw3pQRqm9c2CJQUKo",
+      "phone": "(47) 3426-2806",
+      "address": "R. Santa Catarina, 836 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Babi Bakery",
+      "href": "https://www.google.com/maps/place/Babi+Bakery/data=!4m7!3m6!1s0x94deb1dcfd5ffdc1:0x5db2e99200ec2391!8m2!3d-26.3145503!4d-48.8520723!16s%2Fg%2F11q255jcgm!19sChIJwf1f_dyx3pQRkSPsAJLpsl0",
+      "phone": "(47) 98463-9278",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jô Doces - Confeitaria Afetiva",
+      "href": "https://www.google.com/maps/place/J%C3%B4+Doces+-+Confeitaria+Afetiva/data=!4m7!3m6!1s0x94deb1c1f6d6c975:0x1cba9d3b2e30dd37!8m2!3d-26.2911745!4d-48.8407808!16s%2Fg%2F11z7t724s2!19sChIJdcnW9sGx3pQRN90wLjuduhw",
+      "phone": "(47) 99254-4510",
+      "address": "R. Dona Francisca, 1295 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sany Doces e Salgados",
+      "href": "https://www.google.com/maps/place/Sany+Doces+e+Salgados/data=!4m7!3m6!1s0x94deafd0e15ee39f:0xfdddda3cad422744!8m2!3d-26.2748861!4d-48.8476467!16s%2Fg%2F1tctstv0!19sChIJn-Ne4dCv3pQRRCdCrTza3f0",
+      "phone": "(47) 99756-1303",
+      "address": "R. Ten. Antônio João, 53 - Saguaçu, Joinville - SC, 89221-543",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cafeteria Jardim das Delícias",
+      "href": "https://www.google.com/maps/place/Cafeteria+Jardim+das+Del%C3%ADcias/data=!4m7!3m6!1s0x94deb1d55ea33045:0xc7752187178c660e!8m2!3d-26.2854894!4d-48.8426661!16s%2Fg%2F11sfkt_v3f!19sChIJRTCjXtWx3pQRDmaMF4chdcc",
+      "phone": "(47) 2050-0879",
+      "address": "R. Alfredo Marquardt, 17 - Saguaçu, Joinville - SC, 89221-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Itália Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/It%C3%A1lia+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94deaf89fc287487:0xbe9b7d6e3900be36!8m2!3d-26.2679861!4d-48.8797116!16s%2Fg%2F11bvt0rb8_!19sChIJh3Qo_Imv3pQRNr4AOW59m74",
+      "phone": "(47) 3207-2610",
+      "address": "R. Duarte Schuttel, 10 - Costa e Silva, Joinville - SC, 89220-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Monte Carlo",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Monte+Carlo/data=!4m7!3m6!1s0x94deaf926ca9692b:0x6b77192000da4359!8m2!3d-26.272343!4d-48.8719967!16s%2Fg%2F1w6r9fg1!19sChIJK2mpbJKv3pQRWUPaACAZd2s",
+      "phone": "(47) 3435-1080",
+      "address": "Rua Otto Pfuetzenreuter, 156 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Mercearia Dona Erna",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Mercearia+Dona+Erna/data=!4m7!3m6!1s0x94deaff539ea0e3f:0xa8205bace95e96e1!8m2!3d-26.273096!4d-48.878671!16s%2Fg%2F1td4fp_b!19sChIJPw7qOfWv3pQR4ZZe6axbIKg",
+      "phone": "(47) 3473-8972",
+      "address": "R. Inambu, 636 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santo Anjo Embalagens",
+      "href": "https://www.google.com/maps/place/Santo+Anjo+Embalagens/data=!4m7!3m6!1s0x94deaff3a363fe0b:0x689ea4f15cc4231b!8m2!3d-26.2739274!4d-48.8734256!16s%2Fg%2F11bv3tvp0t!19sChIJC_5jo_Ov3pQRGyPEXPGknmg",
+      "phone": "(47) 3300-2305",
+      "address": "Av. Alm. Jaceguay, 2775 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora do Lino",
+      "href": "https://www.google.com/maps/place/Panificadora+do+Lino/data=!4m7!3m6!1s0x94deaf932d755c89:0x7e9b9b949d0376fa!8m2!3d-26.2685709!4d-48.8668677!16s%2Fg%2F11c3l80z3c!19sChIJiVx1LZOv3pQR-nYDnZSbm34",
+      "phone": "(47) 3028-4045",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 765 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Cafeteria Vovó Salete",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Cafeteria+Vov%C3%B3+Salete/data=!4m7!3m6!1s0x94deaf5718333bfd:0x2738c416ed7520f6!8m2!3d-26.272354!4d-48.8797148!16s%2Fg%2F11z2_d109m!19sChIJ_TszGFev3pQR9iB17RbEOCc",
+      "phone": "(47) 98820-1676",
+      "address": "R. Colibri, 7 - Costa e Silva, Joinville - SC, 89220-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Paps",
+      "href": "https://www.google.com/maps/place/Panificadora+Paps/data=!4m7!3m6!1s0x94deafdc71286fb9:0x64419fe11efef9b5!8m2!3d-26.2763986!4d-48.8746298!16s%2Fg%2F11fj8mp2xg!19sChIJuW8ocdyv3pQRtfn-HuGfQWQ",
+      "phone": "(47) 99662-4691",
+      "address": "R. Dona Elza Meinert, 274 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Queiroga Padaria",
+      "href": "https://www.google.com/maps/place/Queiroga+Padaria/data=!4m7!3m6!1s0x94dea52fc5997fb9:0x3b4434bb5e9c8d04!8m2!3d-26.2766682!4d-48.8843057!16s%2Fg%2F11rbytkg91!19sChIJuX-ZxS-l3pQRBI2cXrs0RDs",
+      "phone": "(47) 99729-7762",
+      "address": "R. Willy Affonso Jacob, 285 - Costa e Silva, Joinville - SC, 89220-720",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yona Café - Cafeteria temática",
+      "href": "https://www.google.com/maps/place/Yona+Caf%C3%A9+-+Cafeteria+tem%C3%A1tica/data=!4m7!3m6!1s0x94deaf8e2fcaf62d:0xd48a9b3962f978bb!8m2!3d-26.2698233!4d-48.8629431!16s%2Fg%2F11l5kmv6wr!19sChIJLfbKL46v3pQRu3j5YjmbitQ",
+      "phone": "(47) 99165-2594",
+      "address": "R. Marquês de Olinda, 550 - Costa e Silva, Joinville - SC, 89219-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Feito Alegria Doces Artesanais",
+      "href": "https://www.google.com/maps/place/Feito+Alegria+Doces+Artesanais/data=!4m7!3m6!1s0x1239fdad5142fc1:0xd53ad9456fbb9238!8m2!3d-26.2688064!4d-48.8709643!16s%2Fg%2F11v3jdy26l!19sChIJwS8U1dqfIwEROJK7b0XZOtU",
+      "phone": "(47) 99986-6165",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 1137 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "The Cake's",
+      "href": "https://www.google.com/maps/place/The+Cake%27s/data=!4m7!3m6!1s0x94deaf5624d023b7:0x7a89e8e1819b6467!8m2!3d-26.2831536!4d-48.8758466!16s%2Fg%2F11p59d1wsc!19sChIJtyPQJFav3pQRZ2SbgeHoiXo",
+      "phone": "(47) 3436-1104",
+      "address": "R. Adriano Schondermank, 175 - Costa e Silva, Joinville - SC, 89217-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lázaro doces",
+      "href": "https://www.google.com/maps/place/L%C3%A1zaro+doces/data=!4m7!3m6!1s0x94dea5799d0f2059:0xc91a7b0ddf858c34!8m2!3d-26.268006!4d-48.8833362!16s%2Fg%2F11pyj9k1gf!19sChIJWSAPnXml3pQRNIyF3w17Gsk",
+      "phone": "(47) 99222-0179",
+      "address": "R. Correia Pinto, 331 - Costa e Silva, Joinville - SC, 89220-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doces Marotos da Danni",
+      "href": "https://www.google.com/maps/place/Doces+Marotos+da+Danni/data=!4m7!3m6!1s0x94dea564a52ed53f:0x52d288ccba941629!8m2!3d-26.2662222!4d-48.8856324!16s%2Fg%2F11c51w6d8c!19sChIJP9UupWSl3pQRKRaUusyI0lI",
+      "phone": "(47) 3804-5393",
+      "address": "R. José Manoel de Souza, 205 - Costa e Silva, Joinville - SC, 89220-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "KAIBARA Doces Orientais",
+      "href": "https://www.google.com/maps/place/KAIBARA+Doces+Orientais/data=!4m7!3m6!1s0x94deaf920afc20ab:0xc36f2757b611eecc!8m2!3d-26.2727043!4d-48.8870318!16s%2Fg%2F11xgpbvr2g!19sChIJqyD8CpKv3pQRzO4Rtlcnb8M",
+      "phone": "(47) 99776-5929",
+      "address": "R. Maria Judith Lopes Pereira - Costa e Silva, Joinville - SC, 89220-832",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sorveteria Lolla Costa e Silva",
+      "href": "https://www.google.com/maps/place/Sorveteria+Lolla+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf005955ac69:0xdadfb9cbe1ade88!8m2!3d-26.2739988!4d-48.8732042!16s%2Fg%2F11w3tqhr1k!19sChIJaaxVWQCv3pQRiN4avpz7rQ0",
+      "phone": "(47) 99967-6453",
+      "address": "Av. Alm. Jaceguay, 2751 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Palácio select",
+      "href": "https://www.google.com/maps/place/Pal%C3%A1cio+select/data=!4m7!3m6!1s0x94deaf289396d8d9:0x9474a264c103a505!8m2!3d-26.2709214!4d-48.8723934!16s%2Fg%2F11l2fsrqsm!19sChIJ2diWkyiv3pQRBaUDwWSidJQ",
+      "phone": "(47) 99220-1210",
+      "address": "Rua Otto Pfuetzenreuter, 371 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banoffee Cake",
+      "href": "https://www.google.com/maps/place/Banoffee+Cake/data=!4m7!3m6!1s0x94deb12d06705801:0x90a4e45cad1ad1b!8m2!3d-26.2849807!4d-48.8691853!16s%2Fg%2F11sx0t146k!19sChIJAVhwBi2x3pQRG63RykVOCgk",
+      "phone": "(47) 98892-4778",
+      "address": "R. Rodolfo Plotow, 82 - Glória, Joinville - SC, 89217-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "7 Grãos Pães e Doces",
+      "href": "https://www.google.com/maps/place/7+Gr%C3%A3os+P%C3%A3es+e+Doces/data=!4m7!3m6!1s0x94dea58912828ffd:0x5495e74f2fd5f0da!8m2!3d-26.2873579!4d-48.9206308!16s%2Fg%2F11fpd9y15w!19sChIJ_Y-CEoml3pQR2vDVL0_nlVQ",
+      "phone": "(47) 3207-3603",
+      "address": "R. XV de Novembro, 8862 - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sabor & Arte Panificadora e Confeitaria",
+      "href": "https://www.google.com/maps/place/Sabor+%26+Arte+Panificadora+e+Confeitaria/data=!4m7!3m6!1s0x94dea514a1f68da3:0x82708fc1861f2d1!8m2!3d-26.276084!4d-48.9013405!16s%2Fg%2F11dymnr7bv!19sChIJo432oRSl3pQR0fJhGPwIJwg",
+      "phone": "(47) 3432-7781",
+      "address": "R. das Purpuratas, 51 - Vila Nova, Joinville - SC, 89237-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora Klimber",
+      "href": "https://www.google.com/maps/place/Panificadora+Klimber/data=!4m7!3m6!1s0x94dea5d676dc116b:0xe045022fecf8fd86!8m2!3d-26.288781!4d-48.9022717!16s%2Fg%2F11jzzyzryc!19sChIJaxHcdtal3pQRhv347C8CReA",
+      "phone": "(47) 3432-4160",
+      "address": "R. Rudolf Baumer, 130 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Divino confeitaria",
+      "href": "https://www.google.com/maps/place/Divino+confeitaria/data=!4m7!3m6!1s0x94dea50055e31035:0xf56ac8ac751168f5!8m2!3d-26.2923025!4d-48.9078192!16s%2Fg%2F11mkzxtd5q!19sChIJNRDjVQCl3pQR9WgRdazIavU",
+      "phone": "(47) 99128-4903",
+      "address": "R. Marquês de Maricá, 546 - Vila Nova, Joinville - SC, 89237-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gotas de Baunilha Confeitaria Artesanal | Joinville",
+      "href": "https://www.google.com/maps/place/Gotas+de+Baunilha+Confeitaria+Artesanal+%7C+Joinville/data=!4m7!3m6!1s0x94dea55a8a1f1e5b:0x2133afa63d406ca1!8m2!3d-26.2775873!4d-48.9118358!16s%2Fg%2F11y94_qq9f!19sChIJWx4filql3pQRoWxAPaavMyE",
+      "phone": "(47) 98835-6578",
+      "address": "R. Sen. Virgílio Távora, n° 09 - Sala 01 - Vila Nova, Joinville - SC, 89237-735",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Padaria Sonho Meu",
+      "href": "https://www.google.com/maps/place/Padaria+Sonho+Meu/data=!4m7!3m6!1s0x94dea524b2a35267:0xe252b68068c5d981!8m2!3d-26.2892595!4d-48.9101329!16s%2Fg%2F11bvt3qvcz!19sChIJZ1KjsiSl3pQRgdnFaIC2UuI",
+      "phone": "(47) 99625-9423",
+      "address": "R. Márcio Luckow, 114 - Vila Nova, Joinville - SC, 89237-335",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Aline",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Aline/data=!4m7!3m6!1s0x94dea5af16face21:0x90ccc242584e77d3!8m2!3d-26.2797544!4d-48.8990385!16s%2Fg%2F11g4d58rbs!19sChIJIc76Fq-l3pQR03dOWELCzJA",
+      "phone": "(47) 3017-3669",
+      "address": "R. João Miers, 795 - Vila Nova, Joinville - SC, 89237-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sorveteria La Dolce",
+      "href": "https://www.google.com/maps/place/Sorveteria+La+Dolce/data=!4m7!3m6!1s0x94dea5348030d281:0x82a7355c802a77e5!8m2!3d-26.2991106!4d-48.9051139!16s%2Fg%2F11bvt4ss1s!19sChIJgdIwgDSl3pQR5XcqgFw1p4I",
+      "phone": "(47) 3434-1955",
+      "address": "R. Dante Nazato, 1354 - Vila Nova, Joinville - SC, 89237-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sim, quero doce",
+      "href": "https://www.google.com/maps/place/Sim,+quero+doce/data=!4m7!3m6!1s0x94dea5378a8fbb43:0xf02976b26dd10194!8m2!3d-26.2917682!4d-48.9134735!16s%2Fg%2F11zb1mc8_z!19sChIJQ7uPijel3pQRlAHRbbJ2KfA",
+      "phone": "(47) 99709-1167",
+      "address": "R. Maria Santa Corrêa, 488 - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mary Doces e artesanatos",
+      "href": "https://www.google.com/maps/place/Mary+Doces+e+artesanatos/data=!4m7!3m6!1s0x94dea5c32eae9219:0x601821535b097aad!8m2!3d-26.2949861!4d-48.9000419!16s%2Fg%2F11njspz62z!19sChIJGZKuLsOl3pQRrXoJW1MhGGA",
+      "phone": "(47) 99647-1186",
+      "address": "R. Cmte. Karl Busch - Vila Nova, Joinville - SC, 89237-163",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Arte de Açúcar",
+      "href": "https://www.google.com/maps/place/Arte+de+A%C3%A7%C3%BAcar/data=!4m7!3m6!1s0x94dea53412f08449:0x1f6e7eff378c5b7e!8m2!3d-26.2758728!4d-48.9033776!16s%2Fg%2F11p5hrjgw1!19sChIJSYTwEjSl3pQRfluMN_9-bh8",
+      "phone": "(47) 99917-4541",
+      "address": "R. das Intermédias, 280 - Vila Nova, Joinville - SC, 89237-520",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pink Doces Finos",
+      "href": "https://www.google.com/maps/place/Pink+Doces+Finos/data=!4m7!3m6!1s0x94deb1e456089bf3:0x9ac641f16618f29a!8m2!3d-26.3470368!4d-48.8536747!16s%2Fg%2F11wfg2z557!19sChIJ85sIVuSx3pQRmvIYZvFBxpo",
+      "phone": "(47) 99288-9505",
+      "address": "R. Mário Arins Caldeira, 321 - Floresta, Joinville - SC, 89212-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CANTINHO DA TIA",
+      "href": "https://www.google.com/maps/place/CANTINHO+DA+TIA/data=!4m7!3m6!1s0x94deb180b1c49ad9:0x765b87eb3c284c2a!8m2!3d-26.3371208!4d-48.8442479!16s%2Fg%2F11z4_cyhfn!19sChIJ2ZrEsYCx3pQRKkwoPOuHW3Y",
+      "phone": "(47) 98816-1386",
+      "address": "R. Floresta, 128 - Floresta, Joinville - SC, 89211-690",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nany confeitaria",
+      "href": "https://www.google.com/maps/place/Nany+confeitaria/data=!4m7!3m6!1s0x94deb179055a1b75:0xa8f58d8ac3cb2a31!8m2!3d-26.3404056!4d-48.8542434!16s%2Fg%2F11vhw70l97!19sChIJdRtaBXmx3pQRMSrLw4qN9ag",
+      "phone": "(47) 98421-6085",
+      "address": "R. Aquino Manoel Quintino, 536 - Floresta, Joinville - SC, 89212-180",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PANIFICADORA FLOR DE LIS",
+      "href": "https://www.google.com/maps/place/PANIFICADORA+FLOR+DE+LIS/data=!4m7!3m6!1s0x94deb1ab82ac3af7:0x8b1f91204a48a4a5!8m2!3d-26.3285969!4d-48.8502145!16s%2Fg%2F11vhc0lmyg!19sChIJ9zqsgqux3pQRpaRISiCRH4s",
+      "phone": "(47) 99655-9357",
+      "address": "R. Farroupilha, 364 - Floresta, Joinville - SC, 89211-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Brigaderia 47",
+      "href": "https://www.google.com/maps/place/Brigaderia+47/data=!4m7!3m6!1s0x94deb11b3061a3bb:0x610beee1b6f2ca00!8m2!3d-26.335187!4d-48.8549708!16s%2Fg%2F11sbh8d59t!19sChIJu6NhMBux3pQRAMrytuHuC2E",
+      "phone": "(47) 99650-3017",
+      "address": "R. João Paul, 280 - Floresta, Joinville - SC, 89211-465",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kristal Doces",
+      "href": "https://www.google.com/maps/place/Kristal+Doces/data=!4m7!3m6!1s0x94deb1e3ab193e41:0xa05298e2d3a8cd9!8m2!3d-26.3351759!4d-48.8549623!16s%2Fg%2F11yhkc14yq!19sChIJQT4Zq-Ox3pQR2Yw6LY4pBQo",
+      "phone": "(47) 92000-1904",
+      "address": "R. João Paul, 280 - Floresta, Joinville - SC, 89211-465",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Wilma Doces e Salgados",
+      "href": "https://www.google.com/maps/place/Wilma+Doces+e+Salgados/data=!4m7!3m6!1s0x94deb0e6c9629f05:0xfdffcf5f43e10f80!8m2!3d-26.3351562!4d-48.8444238!16s%2Fg%2F11h1jd62_!19sChIJBZ9iyeaw3pQRgA_hQ1_P__0",
+      "phone": "(47) 3426-7653",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Doces e Salgados Cláudia",
+      "href": "https://www.google.com/maps/place/Doces+e+Salgados+Cl%C3%A1udia/data=!4m7!3m6!1s0x94deb0954ede45a7:0x57af845963f2e3f!8m2!3d-26.3427338!4d-48.8602815!16s%2Fg%2F1v75t1j5!19sChIJp0XeTpWw3pQRPy4_lkX4egU",
+      "phone": "(47) 3436-0161",
+      "address": "R. Tamoio, 48 - Nova Brasília, Joinville - SC, 89213-185",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Aquários",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Aqu%C3%A1rios/data=!4m7!3m6!1s0x94deb138671e2deb:0xe2f132e03b790cfd!8m2!3d-26.3381613!4d-48.8207248!16s%2Fg%2F11bv3tywzc!19sChIJ6y0eZzix3pQR_Qx5O-Ay8eI",
+      "phone": "(47) 99992-9759",
+      "address": "R. Anitápolis, 435 - Itaum, Joinville - SC, 89210-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "jv doces artesanais",
+      "href": "https://www.google.com/maps/place/jv+doces+artesanais/data=!4m7!3m6!1s0x94deb71fb55f339f:0xa01da9d7870a32ea!8m2!3d-26.3744529!4d-48.8280559!16s%2Fg%2F11vx6w3sxl!19sChIJnzNftR-33pQR6jIKh9epHaA",
+      "phone": "(47) 99242-6314",
+      "address": "R. Osmar Eloy Meira, 95 - Itinga, Joinville - SC, 89235-175",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora & Confeitaria Barbi",
+      "href": "https://www.google.com/maps/place/Panificadora+%26+Confeitaria+Barbi/data=!4m7!3m6!1s0x94deb11c78bc0963:0x46c833e44f519983!8m2!3d-26.328119!4d-48.8343565!16s%2Fg%2F1tkr0f3d!19sChIJYwm8eByx3pQRg5lRT-QzyEY",
+      "phone": "(47) 3436-3545",
+      "address": "R. Voluntários da Pátria, 584 - Itaum, Joinville - SC, 89210-095",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panificadora e Confeitaria Joipan",
+      "href": "https://www.google.com/maps/place/Panificadora+e+Confeitaria+Joipan/data=!4m7!3m6!1s0x94deb11a313e8a1b:0xe212d419cf951c21!8m2!3d-26.3463934!4d-48.791775!16s%2Fg%2F11b6hp9zfp!19sChIJG4o-MRqx3pQRIRyVzxnUEuI",
+      "phone": "(47) 3085-9210",
+      "address": "R. Monsenhor Gercino, 6832 - Paranaguamirim, Joinville - SC, 89231-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bia Rocha confeitaria",
+      "href": "https://www.google.com/maps/place/Bia+Rocha+confeitaria/data=!4m7!3m6!1s0x94deb1de0754c42b:0xdb5a310f37069595!8m2!3d-26.3361026!4d-48.8295066!16s%2Fg%2F11hz6t66f8!19sChIJK8RUB96x3pQRlZUGNw8xWts",
+      "phone": "(47) 99909-0886",
+      "address": "Rua: Estrada de Ferro nº: 250, Joinville - SC, 89209-331",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

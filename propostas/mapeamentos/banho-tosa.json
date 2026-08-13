@@ -1,0 +1,920 @@
+{
+  "id": "banho-tosa",
+  "nome": "Banho e Tosa",
+  "terms": [
+    "banho e tosa",
+    "groomer"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "Banho e Tosa AgroBen",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+AgroBen/data=!4m7!3m6!1s0x94deb7e65f077c63:0xbb0165be7c552b86!8m2!3d-26.3693192!4d-48.8277167!16s%2Fg%2F11sjltkqcz!19sChIJY3wHX-a33pQRhitVfL5lAbs",
+      "phone": "(47) 99209-6013",
+      "address": "R. Adolfo da Veiga - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Encanto Banho e Tosa",
+      "href": "https://www.google.com/maps/place/Pet+Encanto+Banho+e+Tosa/data=!4m7!3m6!1s0x94deb7f5299a6111:0x166c1e3d73a27d7a!8m2!3d-26.3620305!4d-48.8205929!16s%2Fg%2F11x0tyvh8b!19sChIJEWGaKfW33pQRen2icz0ebBY",
+      "phone": "(47) 92004-0588",
+      "address": "R. Boehmerwald, 2103 - Boehmerwald, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropet Silva - Agropecuária & Pet Shop",
+      "href": "https://www.google.com/maps/place/Agropet+Silva+-+Agropecu%C3%A1ria+%26+Pet+Shop/data=!4m7!3m6!1s0x94deb6d10eca6ced:0xf6000c5e35fb54c9!8m2!3d-26.3604573!4d-48.8304208!16s%2Fg%2F1v4pv4k0!19sChIJ7WzKDtG23pQRyVT7NV4MAPY",
+      "phone": "(47) 99621-8284",
+      "address": "R. Boehmerwald, 837 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa - Tia Kel",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+-+Tia+Kel/data=!4m7!3m6!1s0x94deb124d7916093:0x2e1b390e9b913971!8m2!3d-26.3430188!4d-48.8126792!16s%2Fg%2F11tmhzzy3f!19sChIJk2CR1ySx3pQRcTmRmw45Gy4",
+      "phone": "(47) 99910-6055",
+      "address": "R. Santa Izabel, 354 - João Costa, Joinville - SC, 89209-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESPAÇO PET JASMIM",
+      "href": "https://www.google.com/maps/place/ESPA%C3%87O+PET+JASMIM/data=!4m7!3m6!1s0x94deb14a226e6923:0xea1a24bcd2ae474e!8m2!3d-26.3585873!4d-48.8523462!16s%2Fg%2F11zd9hjj2y!19sChIJI2luIkqx3pQRTkeu0rwkGuo",
+      "phone": "(47) 99953-8999",
+      "address": "R. Jasmim, 654 - Santa Catarina, Joinville - SC, 89233-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fucínhu's Pet Store",
+      "href": "https://www.google.com/maps/place/Fuc%C3%ADnhu%27s+Pet+Store/data=!4m7!3m6!1s0x94deb6bcc72325e9:0xf090f19761c34992!8m2!3d-26.362252!4d-48.8104448!16s%2Fg%2F11bv6pq7sq!19sChIJ6SUjx7y23pQRkknDYZfxkPA",
+      "phone": "(47) 99676-7218",
+      "address": "R. Boehmerwald, 2454 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PET STOP BANHO E TOSA",
+      "href": "https://www.google.com/maps/place/PET+STOP+BANHO+E+TOSA/data=!4m7!3m6!1s0x94deb119c675feab:0x246b0f295b688767!8m2!3d-26.3308779!4d-48.8305743!16s%2Fg%2F11j7x9km60!19sChIJq_51xhmx3pQRZ4doWykPayQ",
+      "phone": "(47) 99738-6268",
+      "address": "R. Florianópolis, 1474 - Itaum, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Parada Animal",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Parada+Animal/data=!4m7!3m6!1s0x94deb11a49fac533:0x6751b65d08059b50!8m2!3d-26.3320719!4d-48.8133584!16s%2Fg%2F11rb_rdmfk!19sChIJM8X6SRqx3pQRUJsFCF22UWc",
+      "phone": "(47) 99981-2464",
+      "address": "R. Agulhas Negras, 657 - Fátima, Joinville - SC, 89229-347",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa Fofinhos",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+Fofinhos/data=!4m7!3m6!1s0x6324f816c7c98aa5:0x2f594347a4472e79!8m2!3d-26.3395967!4d-48.7933048!16s%2Fg%2F11tdf53btr!19sChIJpYrJxxb4JGMReS5HpEdDWS8",
+      "phone": "(47) 99608-2915",
+      "address": "R. dos Ciprestes, 76 - Paranaguamirim, Joinville - SC, 89231-316",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BichoZen PetShop",
+      "href": "https://www.google.com/maps/place/BichoZen+PetShop/data=!4m7!3m6!1s0x94deb14f6ae439b1:0x986a3b71aca6a279!8m2!3d-26.3395234!4d-48.8126628!16s%2Fg%2F11dz55c1g5!19sChIJsTnkak-x3pQReaKmrHE7apg",
+      "phone": "(47) 3463-3931",
+      "address": "R. Thomaz do Amaral, 45 - Jarivatuba, Joinville - SC, 89230-206",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "pet bonito",
+      "href": "https://www.google.com/maps/place/pet+bonito/data=!4m7!3m6!1s0x94deb14fed611d6f:0x9134b46a2650e0a2!8m2!3d-26.3317008!4d-48.8040045!16s%2Fg%2F11myg4wb_g!19sChIJbx1h7U-x3pQRouBQJmq0NJE",
+      "phone": "(47) 98432-0097",
+      "address": "R. Getúlio Reimer, 145 - Jarivatuba, Joinville - SC, 89230-481",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Guapecas Hotel Pet",
+      "href": "https://www.google.com/maps/place/Guapecas+Hotel+Pet/data=!4m7!3m6!1s0x8f9482a6eacfd869:0x99b55822e257d581!8m2!3d-26.3468003!4d-48.8386989!16s%2Fg%2F11x8frwtjp!19sChIJadjP6qaClI8RgdVX4iJYtZk",
+      "phone": "(47) 99906-8856",
+      "address": "R. dos Tupiniquins, 293 - Petrópolis, Joinville - SC, 89208-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bicho Solto - Animal Care",
+      "href": "https://www.google.com/maps/place/Bicho+Solto+-+Animal+Care/data=!4m7!3m6!1s0x94deb0691ad65d05:0xb692f125767b0544!8m2!3d-26.3003818!4d-48.8596459!16s%2Fg%2F11b6yf6hv_!19sChIJBV3WGmmw3pQRRAV7diXxkrY",
+      "phone": "(47) 99751-5499",
+      "address": "R. Aquidaban, 730 - Glória, Joinville - SC, 89201-652",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Patinhas",
+      "href": "https://www.google.com/maps/place/Pet+Patinhas/data=!4m7!3m6!1s0x94deb04f6b2d1d13:0x128105a91034e0bf!8m2!3d-26.3074988!4d-48.8485373!16s%2Fg%2F11bv6pv9dn!19sChIJEx0ta0-w3pQRv-A0EKkFgRI",
+      "phone": "(47) 99606-2617",
+      "address": "R. Min. Calógeras, 910 - Centro, Joinville - SC, 89201-490",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Style",
+      "href": "https://www.google.com/maps/place/Pet+Style/data=!4m7!3m6!1s0x94deb1fb674328e7:0x6fa05c37ce0e037b!8m2!3d-26.3128687!4d-48.8526522!16s%2Fg%2F11xmh2257_!19sChIJ5yhDZ_ux3pQRewMOzjdcoG8",
+      "phone": "(47) 99251-1157",
+      "address": "R. Rio Grande do Sul, 316 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Latpet Estética Animal - Banho e Tosa",
+      "href": "https://www.google.com/maps/place/Latpet+Est%C3%A9tica+Animal+-+Banho+e+Tosa/data=!4m7!3m6!1s0x94deb11ed72d53eb:0xb2d2ebf6ceb908c8!8m2!3d-26.3060847!4d-48.8369714!16s%2Fg%2F11yfrhg303!19sChIJ61Mt1x6x3pQRyAi5zvbr0rI",
+      "phone": "(47) 99647-2652",
+      "address": "Rua Aubé, 777 - Sl 01 - Boa Vista, Joinville - SC, 89205-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PetStyle",
+      "href": "https://www.google.com/maps/place/PetStyle/data=!4m7!3m6!1s0x94deb028ce83567d:0x756542bd2ef0f072!8m2!3d-26.286252!4d-48.8481431!16s%2Fg%2F11g9mfv08y!19sChIJfVaDziiw3pQRcvDwLr1CZXU",
+      "phone": "(47) 3034-6673",
+      "address": "R. Edgar Schneider, 74 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Patas para o Ar - Pet Shop",
+      "href": "https://www.google.com/maps/place/Patas+para+o+Ar+-+Pet+Shop/data=!4m7!3m6!1s0x94deb029984aeafb:0xb2efe8be755fac2a!8m2!3d-26.2826611!4d-48.845858!16s%2Fg%2F11cp7fct3t!19sChIJ--pKmCmw3pQRKqxfdb7o77I",
+      "phone": "(47) 99917-8852",
+      "address": "R. Padre Antônio Vieira, 378 - América, Joinville - SC, 89204-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vanilla Pet Center",
+      "href": "https://www.google.com/maps/place/Vanilla+Pet+Center/data=!4m7!3m6!1s0x94deaf0f03d22e77:0x33965959f68dd92e!8m2!3d-26.2817841!4d-48.8525577!16s%2Fg%2F12m90mwq2!19sChIJdy7SAw-v3pQRLtmN9llZljM",
+      "phone": "(47) 99668-0403",
+      "address": "R. Machado de Assis, 263 - América, Joinville - SC, 89204-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Domus Cannis Pet Salon",
+      "href": "https://www.google.com/maps/place/Domus+Cannis+Pet+Salon/data=!4m7!3m6!1s0x94deafce873e1745:0x856e86ee02f3e6c4!8m2!3d-26.3039991!4d-48.8625285!16s%2Fg%2F11by_nd3w5!19sChIJRRc-h86v3pQRxObzAu6GboU",
+      "phone": "(47) 3013-2101",
+      "address": "R. Camboriú, 310 - Glória, Joinville - SC, 89216-222",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amare Saúde e Estética Animal",
+      "href": "https://www.google.com/maps/place/Amare+Sa%C3%BAde+e+Est%C3%A9tica+Animal/data=!4m7!3m6!1s0x94deafb18ebea2fd:0x9ad8cf505e1926c0!8m2!3d-26.2788582!4d-48.8548749!16s%2Fg%2F11ll5wmd4p!19sChIJ_aK-jrGv3pQRwCYZXlDP2Jo",
+      "phone": "(47) 3034-5444",
+      "address": "R. Visc. de Mauá, 1491 - América, Joinville - SC, 89204-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jubicão Confeitaria Pet",
+      "href": "https://www.google.com/maps/place/Jubic%C3%A3o+Confeitaria+Pet/data=!4m7!3m6!1s0x94deb1d6a8542845:0xe0db700747f15e37!8m2!3d-26.3147019!4d-48.8538404!16s%2Fg%2F11hzgpm9b8!19sChIJRShUqNax3pQRN17xRwdw2-A",
+      "phone": "(47) 99129-1214",
+      "address": "R. Porto União, 862 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donna Vet",
+      "href": "https://www.google.com/maps/place/Donna+Vet/data=!4m7!3m6!1s0x94deb7cb16466fed:0xbfe0238405484af7!8m2!3d-26.3077756!4d-48.8590909!16s%2Fg%2F11hn6_v2q3!19sChIJ7W9GFsu33pQR90pIBYQj4L8",
+      "phone": "(47) 99280-3572",
+      "address": "R. Ricardo Klaas, 55 - Atiradores, Joinville - SC, 89203-054",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Baby Pet",
+      "href": "https://www.google.com/maps/place/Baby+Pet/data=!4m7!3m6!1s0x94deb1ce90f0eba9:0x9242e2cc7e9ab5bb!8m2!3d-26.3110385!4d-48.851216!16s%2Fg%2F11lclpts3p!19sChIJqevwkM6x3pQRu7WafsziQpI",
+      "phone": "(47) 99984-3636",
+      "address": "R. Gen. Valgas Neves, 354 - Anita Garibaldi, Joinville - SC, 89202-138",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GlamPet",
+      "href": "https://www.google.com/maps/place/GlamPet/data=!4m7!3m6!1s0x94deb1df254d38f9:0x8404b2271cbef5a9!8m2!3d-26.3192505!4d-48.845851!16s%2Fg%2F11t74phks2!19sChIJ-ThNJd-x3pQRqfW-HCeyBIQ",
+      "phone": "(47) 98802-7724",
+      "address": "R. Cel. Francisco Gomes, 1153 - Anita Garibaldi, Joinville - SC, 89202-073",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Roque Adestramento",
+      "href": "https://www.google.com/maps/place/Roque+Adestramento/data=!4m7!3m6!1s0x94deb13d8c4bb8f5:0xd83b3c619e3fc321!8m2!3d-26.315243!4d-48.8627135!16s%2Fg%2F11wfy4t9s4!19sChIJ9bhLjD2x3pQRIcM_nmE8O9g",
+      "phone": "(47) 99237-9998",
+      "address": "R. Carlos Parucker, 45 - Atiradores, Joinville - SC, 89203-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maison Agropet",
+      "href": "https://www.google.com/maps/place/Maison+Agropet/data=!4m7!3m6!1s0x94deb0504e90d73f:0x6ef4ae60dac9c5cf!8m2!3d-26.3188338!4d-48.8504478!16s%2Fg%2F1ptx58nrm!19sChIJP9eQTlCw3pQRz8XJ2mCu9G4",
+      "phone": "(47) 3433-0500",
+      "address": "R. Anita Garibaldi, 612 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "pet shop manu",
+      "href": "https://www.google.com/maps/place/pet+shop+manu/data=!4m7!3m6!1s0x94deb1b123ea5751:0x53bb950a4cef6292!8m2!3d-26.3231232!4d-48.854342!16s%2Fg%2F11t1h5d6kg!19sChIJUVfqI7Gx3pQRkmLvTAqVu1M",
+      "phone": "(47) 3278-2900",
+      "address": "R. Anita Garibaldi, 1213 - Anita Garibaldi, Joinville - SC, 89203-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Quatro Patas Comércio de Produtos Veterinários",
+      "href": "https://www.google.com/maps/place/Quatro+Patas+Com%C3%A9rcio+de+Produtos+Veterin%C3%A1rios/data=!4m7!3m6!1s0x94deb04377154691:0x80956c575249373!8m2!3d-26.3163644!4d-48.8499086!16s%2Fg%2F1pty4cvqw!19sChIJkUYVd0Ow3pQRc5MkdcVWCQg",
+      "phone": "(47) 3026-7909",
+      "address": "R. Cel. Santiago, 819 - Anita Garibaldi, Joinville - SC, 19892-273",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Amigo Bicho",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Amigo+Bicho/data=!4m7!3m6!1s0x94deb05addf45d25:0xe50701103452cf2c!8m2!3d-26.3139036!4d-48.8510173!16s%2Fg%2F1tslkwkk!19sChIJJV303Vqw3pQRLM9SNBABB-U",
+      "phone": "(47) 3423-3595",
+      "address": "R. Rio Grande do Sul, 527 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stetika Pet",
+      "href": "https://www.google.com/maps/place/Stetika+Pet/data=!4m7!3m6!1s0x94deb1eb5fb7c911:0x38c6bb30201f80a9!8m2!3d-26.3155802!4d-48.847454!16s%2Fg%2F11g0ht9lv0!19sChIJEcm3X-ux3pQRqYAfIDC7xjg",
+      "phone": "(47) 3455-2444",
+      "address": "R. Eugênio Moreira, 503 - Anita Garibaldi, Joinville - SC, 89702-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Josi Pets",
+      "href": "https://www.google.com/maps/place/Josi+Pets/data=!4m7!3m6!1s0x94deb1a102be4f61:0x6105adb24a3cc349!8m2!3d-26.3203685!4d-48.8635836!16s%2Fg%2F11kqsc487j!19sChIJYU--AqGx3pQRScM8SrKtBWE",
+      "phone": "(47) 99699-8601",
+      "address": "R. Oscar Schwartz - Anita Garibaldi, Joinville - SC, 89203-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Veterinária Univet",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Univet/data=!4m7!3m6!1s0x94deb05a83f2a151:0x7c890b128011ab04!8m2!3d-26.3130152!4d-48.8498657!16s%2Fg%2F1tdbm4dy!19sChIJUaHyg1qw3pQRBKsRgBILiXw",
+      "phone": "(47) 98805-1545",
+      "address": "195, R. Pedro Mayerle, 365 - Anita Garibaldi, Joinville - SC, 89202-193",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Império das Patas",
+      "href": "https://www.google.com/maps/place/Imp%C3%A9rio+das+Patas/data=!4m7!3m6!1s0x94deaf23816705dd:0xb86e9f61ec2f2d91!8m2!3d-26.2668117!4d-48.848286!16s%2Fg%2F11t6x0dtr7!19sChIJ3QVngSOv3pQRkS0v7GGfbrg",
+      "phone": "(47) 98911-1360",
+      "address": "R. Dom Bosco, 330 - Bom Retiro, Joinville - SC, 89222-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bichanu's Pet Shop",
+      "href": "https://www.google.com/maps/place/Bichanu%27s+Pet+Shop/data=!4m7!3m6!1s0x94deae2c935eaaab:0xcc525c8c9f88c4d1!8m2!3d-26.2721767!4d-48.8381526!16s%2Fg%2F11ggkr_npz!19sChIJq6pekyyu3pQR0cSIn4xcUsw",
+      "phone": "(47) 3085-0133",
+      "address": "R. Brasil, 567 - Sala 1 - Saguaçu, Joinville - SC, 89221-561",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bellas Patas Centro de Estética Animal",
+      "href": "https://www.google.com/maps/place/Bellas+Patas+Centro+de+Est%C3%A9tica+Animal/data=!4m7!3m6!1s0x94dea5057fca1a43:0x3d4d4ceee6e170a2!8m2!3d-26.2741298!4d-48.883845!16s%2Fg%2F11t_zbzkny!19sChIJQxrKfwWl3pQRonDh5u5MTT0",
+      "phone": "(47) 98428-3442",
+      "address": "Av. Alm. Jaceguay, 3099 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Pet Zen - Estética Animal Humanizada",
+      "href": "https://www.google.com/maps/place/Studio+Pet+Zen+-+Est%C3%A9tica+Animal+Humanizada/data=!4m7!3m6!1s0x94deafa83965cdb3:0xe80b139986104fe3!8m2!3d-26.274681!4d-48.8732923!16s%2Fg%2F11shs__8cr!19sChIJs81lOaiv3pQR408QhpkTC-g",
+      "phone": "(47) 99685-5799",
+      "address": "R. Cmte. Irapuã, 86 - Costa e Silva, Joinville - SC, 89218-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amigos de Patas",
+      "href": "https://www.google.com/maps/place/Amigos+de+Patas/data=!4m7!3m6!1s0x94deafacb6658fd3:0x91563728f5ef63bc!8m2!3d-26.2757524!4d-48.8746292!16s%2Fg%2F11kk8hlwwj!19sChIJ049ltqyv3pQRvGPv9Sg3VpE",
+      "phone": "(47) 98922-3232",
+      "address": "R. Dona Elza Meinert, 202 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cãotinho Pet Shop",
+      "href": "https://www.google.com/maps/place/C%C3%A3otinho+Pet+Shop/data=!4m7!3m6!1s0x94deaffc9fcea90b:0x887d2be455a75a32!8m2!3d-26.2849026!4d-48.8713275!16s%2Fg%2F11bv6pv7b_!19sChIJC6nOn_yv3pQRMlqnVeQrfYg",
+      "phone": "(47) 3028-0102",
+      "address": "R. Benjamin Constant, 2598 - Costa e Silva, Joinville - SC, 89217-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Galvão Agropecuária e Banho e Tosa Costa e Silva",
+      "href": "https://www.google.com/maps/place/Galv%C3%A3o+Agropecu%C3%A1ria+e+Banho+e+Tosa+Costa+e+Silva/data=!4m7!3m6!1s0x94deaffadd74bf79:0xfbc469da40cb189d!8m2!3d-26.2690052!4d-48.8740712!16s%2Fg%2F11r9lcc4y2!19sChIJeb903fqv3pQRnRjLQNppxPs",
+      "phone": "(47) 99725-9176",
+      "address": "R. Bem-Te-Vi, 175 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paraíso di Patas",
+      "href": "https://www.google.com/maps/place/Para%C3%ADso+di+Patas/data=!4m7!3m6!1s0x94deaf9851e366dd:0x6f26779f2bd4434c!8m2!3d-26.2712675!4d-48.8719946!16s%2Fg%2F11t7ygkr9d!19sChIJ3WbjUZiv3pQRTEPUK593Jm8",
+      "phone": "(47) 99779-2470",
+      "address": "Rua Otto Pfuetzenreuter, 304 - Sala 2 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Império Animal",
+      "href": "https://www.google.com/maps/place/Imp%C3%A9rio+Animal/data=!4m7!3m6!1s0x94dea796e3d8574b:0x28f9dfc475df7f2f!8m2!3d-26.2853957!4d-48.8710626!16s%2Fg%2F11tgcd20y8!19sChIJS1fY45an3pQRL3_fdcTf-Sg",
+      "phone": "(47) 99702-5080",
+      "address": "R. Benjamin Constant, 2565 - Glória, Joinville - SC, 89217-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bloom Estética Animal e Atendimento Veterinário",
+      "href": "https://www.google.com/maps/place/Bloom+Est%C3%A9tica+Animal+e+Atendimento+Veterin%C3%A1rio/data=!4m7!3m6!1s0x94dea5b3cbe2d46f:0xc0add5d53bb73620!8m2!3d-26.2868754!4d-48.9167803!16s%2Fg%2F11y3rzthfs!19sChIJb9Tiy7Ol3pQRIDa3O9XVrcA",
+      "phone": "(47) 99134-4827",
+      "address": "R. XV de Novembro, 8470 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa Dog House",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+Dog+House/data=!4m7!3m6!1s0x94dea52519ba6275:0x187b6049a22f99db!8m2!3d-26.298989!4d-48.934494!16s%2Fg%2F11bvcvfhz5!19sChIJdWK6GSWl3pQR25kvoklgexg",
+      "phone": "(47) 99921-9703",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Animalândia Veterinária e Banho e Tosa",
+      "href": "https://www.google.com/maps/place/Animal%C3%A2ndia+Veterin%C3%A1ria+e+Banho+e+Tosa/data=!4m7!3m6!1s0x94debbb499bada85:0x7d6ea9702b01aec4!8m2!3d-26.2912051!4d-48.9078589!16s%2Fg%2F11j3h2gwsc!19sChIJhdq6mbS73pQRxK4BK3Cpbn0",
+      "phone": "(47) 99293-2773",
+      "address": "R. Marquês de Maricá, 450 - Vila Nova, Joinville - SC, 89237-353",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cafuné Estética Animal",
+      "href": "https://www.google.com/maps/place/Cafun%C3%A9+Est%C3%A9tica+Animal/data=!4m7!3m6!1s0x94dea51bea40705d:0xf232825e054051f2!8m2!3d-26.2916503!4d-48.9093214!16s%2Fg%2F11nmlzzjv8!19sChIJXXBA6hul3pQR8lFABV6CMvI",
+      "phone": "(47) 99119-3202",
+      "address": "R. Carlos Guilherme Jerke, 374 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Pitanga",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Pitanga/data=!4m7!3m6!1s0x94dea5f696ecf0e1:0x86e34af15b6091d9!8m2!3d-26.2784632!4d-48.8993895!16s%2Fg%2F11yjqzb_3g!19sChIJ4fDslval3pQR2ZFgW_FK44Y",
+      "phone": "(47) 98890-4009",
+      "address": "R. Sebastião Jonck, 453 - Vila Nova, Joinville - SC, 89237-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa da Tere",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+da+Tere/data=!4m7!3m6!1s0x94dea5db7d06406f:0x124ff57150a347d7!8m2!3d-26.2866168!4d-48.9037933!16s%2Fg%2F11f6j3k9dd!19sChIJb0AGfdul3pQR10ejUHH1TxI",
+      "phone": "(47) 99178-5202",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hotel e Creche AmiCão",
+      "href": "https://www.google.com/maps/place/Hotel+e+Creche+AmiC%C3%A3o/data=!4m7!3m6!1s0x94dea583511998e9:0xe85b678c7c3dd5f2!8m2!3d-26.2773081!4d-48.9151805!16s%2Fg%2F11rfnxqtp0!19sChIJ6ZgZUYOl3pQR8tU9fIxnW-g",
+      "phone": "(47) 99936-2276",
+      "address": "R. Nivaldo Vogelsanger, 51 - Vila Nova, Joinville - SC, 89237-781",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Buddies - Personal Pet Care",
+      "href": "https://www.google.com/maps/place/Buddies+-+Personal+Pet+Care/data=!4m7!3m6!1s0x94deb035cff6dcf5:0xb52d0a655f05feb5!8m2!3d-26.2839462!4d-48.9203096!16s%2Fg%2F11gfh96cx7!19sChIJ9dz2zzWw3pQRtf4FX2UKLbU",
+      "phone": "(47) 99792-2229",
+      "address": "R. Catharina Baumer, 90 - Vila Nova, Joinville - SC, 89237-685",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Campo e Lavoura",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Campo+e+Lavoura/data=!4m7!3m6!1s0x94dea523019885d7:0x11c898d2b9216ddf!8m2!3d-26.2869147!4d-48.9128683!16s%2Fg%2F1tk9rxzv!19sChIJ14WYASOl3pQR320hudKYyBE",
+      "phone": "(47) 3025-5761",
+      "address": "R. XV de Novembro, 7960 - Vila Nova, Joinville - SC, 89237-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Bella Pata",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Bella+Pata/data=!4m7!3m6!1s0x94deb0c413a57c9f:0x46275b067d9efacd!8m2!3d-26.3476262!4d-48.8537646!16s%2Fg%2F11bv6l5_sr!19sChIJn3ylE8Sw3pQRzfqefQZbJ0Y",
+      "phone": "(47) 3436-8389",
+      "address": "R. Elis Regina, 311 - Floresta, Joinville - SC, 89212-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Titi Pet",
+      "href": "https://www.google.com/maps/place/Titi+Pet/data=!4m7!3m6!1s0x94deb11c46637241:0xe2d68af76fddf43d!8m2!3d-26.3372186!4d-48.8551264!16s%2Fg%2F11s73zy814!19sChIJQXJjRhyx3pQRPfTdb_eK1uI",
+      "phone": "(47) 99926-7023",
+      "address": "R. Dona Emma, 272 - Floresta, Joinville - SC, 89211-435",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet mimi",
+      "href": "https://www.google.com/maps/place/Pet+mimi/data=!4m7!3m6!1s0x94deb5f82aabbad9:0xdc3f072e9e8a7324!8m2!3d-26.3282273!4d-48.856972!16s%2Fg%2F11rwmqrvnh!19sChIJ2bqrKvi13pQRJHOKni4HP9w",
+      "phone": "(47) 99624-2284",
+      "address": "R. Paulo Setúbal, 418 - Floresta, Joinville - SC, 89211-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Animália Pet Center - Médico Veterinário e Pet Shop",
+      "href": "https://www.google.com/maps/place/Anim%C3%A1lia+Pet+Center+-+M%C3%A9dico+Veterin%C3%A1rio+e+Pet+Shop/data=!4m7!3m6!1s0x94deb10c654053db:0xc8c83b50f2d92b51!8m2!3d-26.3434097!4d-48.8528837!16s%2Fg%2F11sxx4r105!19sChIJ21NAZQyx3pQRUSvZ8lA7yMg",
+      "phone": "(47) 3804-8417",
+      "address": "R. Francisco Alves, 435 - Sl 02 - Floresta, Joinville - SC, 89212-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESCOLA PET JACSON KORTELT (Centro de Estética Animal)",
+      "href": "https://www.google.com/maps/place/ESCOLA+PET+JACSON+KORTELT+%28Centro+de+Est%C3%A9tica+Animal%29/data=!4m7!3m6!1s0x94deb6d2435b52cb:0x9f56fe4e793ac95c!8m2!3d-26.341313!4d-48.8483116!16s%2Fg%2F11b6gn3tyc!19sChIJy1JbQ9K23pQRXMk6eU7-Vp8",
+      "phone": "(47) 98447-0645",
+      "address": "R. Santa Maria, 85 - Floresta, Joinville - SC, 89211-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Veterinária Mundo Animal",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Mundo+Animal/data=!4m7!3m6!1s0x94deb0e2d44ae573:0x3a094ce2fca0f72a!8m2!3d-26.328207!4d-48.842842!16s%2Fg%2F1tdksz4_!19sChIJc-VK1OKw3pQRKveg_OJMCTo",
+      "phone": "(47) 3436-3359",
+      "address": "R. Uberaba, 287 - Floresta, Joinville - SC, 89211-585",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro Shop Minuano",
+      "href": "https://www.google.com/maps/place/Agro+Shop+Minuano/data=!4m7!3m6!1s0x94deb0da6548b985:0x6abf26b46057aa29!8m2!3d-26.348558!4d-48.8465591!16s%2Fg%2F11c3n3243h!19sChIJhblIZdqw3pQRKapXYLQmv2o",
+      "phone": "(47) 3436-0564",
+      "address": "R. Santa Catarina, 2775 - Santa Catarina, Joinville - SC, 89233-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agrojói",
+      "href": "https://www.google.com/maps/place/Agroj%C3%B3i/data=!4m7!3m6!1s0x94deb0dd068e39b1:0xc321bbe17189a436!8m2!3d-26.3414253!4d-48.8475691!16s%2Fg%2F11bv3rq0ly!19sChIJsTmOBt2w3pQRNqSJceG7IcM",
+      "phone": "(47) 99946-0761",
+      "address": "R. Santa Catarina, 2044 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Disk Pet Shop",
+      "href": "https://www.google.com/maps/place/Disk+Pet+Shop/data=!4m7!3m6!1s0x94deb0f4e16f91a3:0xc9c6a23d7dcd4d28!8m2!3d-26.3268589!4d-48.8582255!16s%2Fg%2F1tdksz50!19sChIJo5Fv4fSw3pQRKE3NfT2ixsk",
+      "phone": "(47) 3454-4440",
+      "address": "R. Copacabana, 269 - Floresta, Joinville - SC, 89211-388",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agroneni Pet shop banho tosa veterinário unidade Itaum",
+      "href": "https://www.google.com/maps/place/Agroneni+Pet+shop+banho+tosa+veterin%C3%A1rio+unidade+Itaum/data=!4m7!3m6!1s0x94deb1f77546124b:0x2a270254078a6742!8m2!3d-26.3410932!4d-48.8210127!16s%2Fg%2F11xmg0gbmc!19sChIJSxJGdfex3pQRQmeKB1QCJyo",
+      "phone": "(47) 99681-4992",
+      "address": "R. Monsenhor Gercino, 3408 - Itaum, Joinville - SC, 89209-403",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Bicho Mimado",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Bicho+Mimado/data=!4m7!3m6!1s0x94deb167933d25a1:0x308e84a27544629a!8m2!3d-26.3414722!4d-48.8343545!16s%2Fg%2F11l6_c1yf5!19sChIJoSU9k2ex3pQRmmJEdaKEjjA",
+      "phone": "(47) 99146-9967",
+      "address": "R. Alfredo Wagner, 607 - Sala 1 - Itaum, Joinville - SC, 89208-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet my friend",
+      "href": "https://www.google.com/maps/place/Pet+my+friend/data=!4m7!3m6!1s0x94deb1235def3dcb:0x636be97d5e170ab4!8m2!3d-26.3356935!4d-48.819632!16s%2Fg%2F11y04y0_kn!19sChIJyz3vXSOx3pQRtAoXXn3pa2M",
+      "phone": "(47) 99771-0696",
+      "address": "R. João Afonso Moreira - Itaum, Joinville - SC, 89210-730",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mantas Pet Nina Pug",
+      "href": "https://www.google.com/maps/place/Mantas+Pet+Nina+Pug/data=!4m7!3m6!1s0x94deb194cadc77dd:0xcb907a1713cdfa79!8m2!3d-26.3376112!4d-48.8382684!16s%2Fg%2F11sczpzmqc!19sChIJ3XfcypSx3pQRefrNExd6kMs",
+      "phone": "(47) 99257-3967",
+      "address": "R. Barra Velha - Itaum, Joinville - SC, 89210-601",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Guarujá",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Guaruj%C3%A1/data=!4m7!3m6!1s0x94deb1c79cd4675b:0x9c4d48ac0a3297a5!8m2!3d-26.3332701!4d-48.8392083!16s%2Fg%2F11h3wtly9w!19sChIJW2fUnMex3pQRpZcyCqxITZw",
+      "phone": "(47) 98443-8421",
+      "address": "R. Guarujá, 295 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dog Star Pet Shop",
+      "href": "https://www.google.com/maps/place/Dog+Star+Pet+Shop/data=!4m7!3m6!1s0x94deb0554581c5c7:0xeb0184a1665bac56!8m2!3d-26.3256623!4d-48.8300759!16s%2Fg%2F1tkjmbrv!19sChIJx8WBRVWw3pQRVqxbZqGEAes",
+      "phone": "(47) 3025-4622",
+      "address": "R. Guanabara, 830 - Guanabara, Joinville - SC, 89202-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Black Cat - Granulado Higiênico de Madeira.",
+      "href": "https://www.google.com/maps/place/Black+Cat+-+Granulado+Higi%C3%AAnico+de+Madeira./data=!4m7!3m6!1s0x94deb19c296aef11:0x32e6bf30adc714e1!8m2!3d-26.3373995!4d-48.8355415!16s%2Fg%2F11qz9r59q4!19sChIJEe9qKZyx3pQR4RTHrTC_5jI",
+      "phone": "(47) 99230-8453",
+      "address": "R. Barra Velha, 1423 - Itaum, Joinville - SC, 89210-601",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropet Canário de Ouro",
+      "href": "https://www.google.com/maps/place/Agropet+Can%C3%A1rio+de+Ouro/data=!4m7!3m6!1s0x94deb17e733f0921:0xc383c56ad6d70121!8m2!3d-26.3312662!4d-48.827215!16s%2Fg%2F11nx_55_96!19sChIJIQk_c36x3pQRIQHX1mrFg8M",
+      "phone": "(47) 98433-0331",
+      "address": "R. Florianópolis, 2096 - Itaum, Joinville - SC, 89210-795",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Hemkemeier",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Hemkemeier/data=!4m7!3m6!1s0x94deb508f0aa8f05:0x158d537016cafa9!8m2!3d-26.361854!4d-48.837274!16s%2Fg%2F11z1vwcvxb!19sChIJBY-q8Ai13pQRqa9sATfVWAE",
+      "phone": "(47) 99736-5064",
+      "address": "R. Boehmerwald, 201 - Boehmerwald, Joinville - SC, 89231-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rataria Rudnick",
+      "href": "https://www.google.com/maps/place/Rataria+Rudnick/data=!4m7!3m6!1s0x94deb7a7b8742839:0x3d6f44e19837cd2a!8m2!3d-26.3637066!4d-48.8360364!16s%2Fg%2F11vr_ch452!19sChIJOSh0uKe33pQRKs03mOFEbz0",
+      "phone": "(47) 98903-8847",
+      "address": "R. Oswaldir A Lopes, 198 - Boehmerwald, Joinville - SC, 89235-128",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Talismã",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Talism%C3%A3/data=!4m7!3m6!1s0x94deb7af75857297:0xc498a6e0ca364eb8!8m2!3d-26.3589081!4d-48.832019!16s%2Fg%2F11mvr0v_qb!19sChIJl3KFda-33pQRuE42yuCmmMQ",
+      "phone": "(47) 99940-7690",
+      "address": "Av. Paulo Schroeder, 1247 - Boehmerwald, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fofidog Banho e Tosa, creche e hotel para cães",
+      "href": "https://www.google.com/maps/place/Fofidog+Banho+e+Tosa,+creche+e+hotel+para+c%C3%A3es/data=!4m7!3m6!1s0x94deaf88eaac0889:0x4fcad454340a8db7!8m2!3d-26.23895!4d-48.8120158!16s%2Fg%2F11wbz2dm29!19sChIJiQis6oiv3pQRt40KNFTUyk8",
+      "phone": "(47) 99955-4157",
+      "address": "R. Santa Luzia, 835 - Aventureiro, Joinville - SC, 89226-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Laurindo Pet",
+      "href": "https://www.google.com/maps/place/Laurindo+Pet/data=!4m7!3m6!1s0x94deaf7f36242f63:0x5eb1f58354d3b660!8m2!3d-26.2436984!4d-48.8188833!16s%2Fg%2F11fsw34wy_!19sChIJYy8kNn-v3pQRYLbTVIP1sV4",
+      "phone": "(47) 99725-1179",
+      "address": "R. Mafalda Laurindo, 113 - Aventureiro, Joinville - SC, 89226-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estética Animal Priscila Benigres",
+      "href": "https://www.google.com/maps/place/Est%C3%A9tica+Animal+Priscila+Benigres/data=!4m7!3m6!1s0x94deafd1e812aadb:0x3b182be12cbd3ee5!8m2!3d-26.2513214!4d-48.8243993!16s%2Fg%2F11fk3crymk!19sChIJ26oS6NGv3pQR5T69LOErGDs",
+      "phone": "(47) 99665-7923",
+      "address": "R. Nelson Brandão, 402 - Aventureiro, Joinville - SC, 89226-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cheirinho de pet",
+      "href": "https://www.google.com/maps/place/Cheirinho+de+pet/data=!4m7!3m6!1s0x94deaf167e63c101:0xbc76bde4095af3a3!8m2!3d-26.2513373!4d-48.8041236!16s%2Fg%2F11x8h_3jvw!19sChIJAcFjfhav3pQRo_NaCeS9drw",
+      "phone": "(47) 98475-8515",
+      "address": "R. Renato César de Oliveira - Aventureiro, Joinville - SC, 89225-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Patudos Alegres - Banho e Tosa",
+      "href": "https://www.google.com/maps/place/Patudos+Alegres+-+Banho+e+Tosa/data=!4m7!3m6!1s0x94deaf1054c7701f:0x17882186c5d76d3d!8m2!3d-26.2603271!4d-48.8091971!16s%2Fg%2F11wh377d0g!19sChIJH3DHVBCv3pQRPW3XxYYhiBc",
+      "phone": "(47) 99908-5497",
+      "address": "R. Sen. Rodrigo Lobo, 1682 - Jardim Iririú, Joinville - SC, 89224-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Irma Banho & Tosa",
+      "href": "https://www.google.com/maps/place/Irma+Banho+%26+Tosa/data=!4m7!3m6!1s0x94deaf2f6009956f:0xb27f53029567b11c!8m2!3d-26.2475441!4d-48.8079264!16s%2Fg%2F11ty16mjpj!19sChIJb5UJYC-v3pQRHLFnlQJTf7I",
+      "phone": "(47) 99157-1015",
+      "address": "R. Dilma Virgilina Garcia, 333 - Aventureiro, Joinville - SC, 89225-800",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Patinhas Pet",
+      "href": "https://www.google.com/maps/place/Patinhas+Pet/data=!4m7!3m6!1s0x94deaf92208d0a1f:0x86bcd473da1cf848!8m2!3d-26.2566585!4d-48.8061426!16s%2Fg%2F11w_t0w9pc!19sChIJHwqNIJKv3pQRSPgc2nPUvIY",
+      "phone": "(47) 99634-9777",
+      "address": "R. Uruguaiana, 2823 - Jardim Iririú, Joinville - SC, 89224-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cão Alegre Pet Shop",
+      "href": "https://www.google.com/maps/place/C%C3%A3o+Alegre+Pet+Shop/data=!4m7!3m6!1s0x94deae0ad0e6db99:0xedb3cad0929999e0!8m2!3d-26.2472328!4d-48.8011134!16s%2Fg%2F11bwgh8bxp!19sChIJmdvm0Aqu3pQR4JmZktDKs-0",
+      "phone": "(47) 99931-8469",
+      "address": "R. Carlos Roberto Vilpert, 2116 - Aventureiro, Joinville - SC, 89225-701",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agronatur Pet & Garden",
+      "href": "https://www.google.com/maps/place/Agronatur+Pet+%26+Garden/data=!4m7!3m6!1s0x94deae0e63d19913:0xfbc642985069e5a6!8m2!3d-26.2533675!4d-48.8069937!16s%2Fg%2F1v1kq_xf!19sChIJE5nRYw6u3pQRpuVpUJhCxvs",
+      "phone": "(47) 98853-8191",
+      "address": "Rua Willy Schossland, 1199 - Aventureiro, Joinville - SC, 89225-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e tosa Teodoro",
+      "href": "https://www.google.com/maps/place/Banho+e+tosa+Teodoro/data=!4m7!3m6!1s0x94deafb846a8ff21:0x8b6c1dfe5c030fd3!8m2!3d-26.2432755!4d-48.8429822!16s%2Fg%2F11yn22cth7!19sChIJIf-oRriv3pQR0w8DXP4dbIs",
+      "phone": "(47) 99129-8418",
+      "address": "R. Astra Urban, 141 - Jardim Sofia, Joinville - SC, 89223-405",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "D'Lara pet shop",
+      "href": "https://www.google.com/maps/place/D%27Lara+pet+shop/data=!4m7!3m6!1s0x94deaf1fd3a78b8b:0xe5a7351df97f3466!8m2!3d-26.240104!4d-48.814801!16s%2Fg%2F11t626vyvx!19sChIJi4un0x-v3pQRZjR_-R01p-U",
+      "phone": "(47) 99748-8805",
+      "address": "R. Habib Farah, 371 - Aventureiro, Joinville - SC, 89226-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Banho e Tosa Bicho Mania",
+      "href": "https://www.google.com/maps/place/Banho+e+Tosa+Bicho+Mania/data=!4m7!3m6!1s0x94deaf573dcccd77:0x37a806a94ab7ea2f!8m2!3d-26.2495779!4d-48.8212932!16s%2Fg%2F11ld5c5s8s!19sChIJd83MPVev3pQRL-q3SqkGqDc",
+      "phone": "(47) 90000-0000",
+      "address": "R. Tuiuti, 2797 - Aventureiro, Joinville - SC, 89226-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ADESTRA PET",
+      "href": "https://www.google.com/maps/place/ADESTRA+PET/data=!4m7!3m6!1s0x94deaf0fc6c27aad:0xa17fe1061515c5f8!8m2!3d-26.255517!4d-48.8151578!16s%2Fg%2F11sn_4d2nv!19sChIJrXrCxg-v3pQR-MUVFQbhf6E",
+      "phone": "(47) 98472-5308",
+      "address": "R. Alois Finder - Aventureiro, Joinville - SC, 89225-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Shop Patrulha de Aumigos",
+      "href": "https://www.google.com/maps/place/Pet+Shop+Patrulha+de+Aumigos/data=!4m7!3m6!1s0x94deaf1587dd8d45:0x471cb19639cdae66!8m2!3d-26.2659998!4d-48.8163817!16s%2Fg%2F11xm4v1y0b!19sChIJRY3dhxWv3pQRZq7NOZaxHEc",
+      "phone": "(47) 98880-9602",
+      "address": "R. Sen. Rodrigo Lobo, 710 - Jardim Iririú, Joinville - SC, 89227-557",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gabi Pet Care",
+      "href": "https://www.google.com/maps/place/Gabi+Pet+Care/data=!4m7!3m6!1s0x94deaf5a822265e9:0x956a4b3ff1c9878f!8m2!3d-26.2778115!4d-48.8536918!16s%2Fg%2F11t1tcvck8!19sChIJ6WUiglqv3pQRj4fJ8T9LapU",
+      "phone": "(47) 99933-8331",
+      "address": "R. João Pessoa - América, Joinville - SC, 89218-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Família Pet Mel",
+      "href": "https://www.google.com/maps/place/Fam%C3%ADlia+Pet+Mel/data=!4m7!3m6!1s0x94deb1b5eef509db:0x197a8bfc4256f989!8m2!3d-26.2803424!4d-48.8245478!16s%2Fg%2F11smg1x_c0!19sChIJ2wn17rWx3pQRiflWQvyLehk",
+      "phone": "(47) 92000-7836",
+      "address": "R. Itamaracá, 77 - Iririú, Joinville - SC, 89227-148",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AgroPet Max",
+      "href": "https://www.google.com/maps/place/AgroPet+Max/data=!4m7!3m6!1s0x94deafa0f6d9873b:0xa9cb72db9fd16b9d!8m2!3d-26.2401488!4d-48.801352!16s%2Fg%2F11zh8sf54t!19sChIJO4fZ9qCv3pQRnWvRn9tyy6k",
+      "phone": "(47) 98837-7918",
+      "address": "R. Harold Maul, 205 - Aventureiro, Joinville - SC, 89225-840",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Consultório Veterinário Chaiene Rodrigues",
+      "href": "https://www.google.com/maps/place/Consult%C3%B3rio+Veterin%C3%A1rio+Chaiene+Rodrigues/data=!4m7!3m6!1s0x94deafe5e722055b:0xda4ab87f7503913!8m2!3d-26.2595143!4d-48.819011!16s%2Fg%2F11w94l9y3b!19sChIJWwUi5-Wv3pQREzlQ94erpA0",
+      "phone": "(47) 99645-4054",
+      "address": "R. Martim-Pescador, 22 - Sl 1A - Aventureiro, Joinville - SC, 89225-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agropecuária Agro Lupi",
+      "href": "https://www.google.com/maps/place/Agropecu%C3%A1ria+Agro+Lupi/data=!4m7!3m6!1s0x94deaf185ada4041:0x645dcac61c186b92!8m2!3d-26.2466045!4d-48.8104607!16s%2Fg%2F11pwt4h2cf!19sChIJQUDaWhiv3pQRkmsYHMbKXWQ",
+      "phone": "(47) 99159-5656",
+      "address": "R. Prado, 280 - Sala 01 - Aventureiro, Joinville - SC, 89226-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Petshop Dudy",
+      "href": "https://www.google.com/maps/place/Petshop+Dudy/data=!4m7!3m6!1s0x94deae1bfefcbfdb:0x5b409d6fd2f26e5a!8m2!3d-26.2657436!4d-48.8137087!16s%2Fg%2F1w456rqt!19sChIJ27_8_huu3pQRWm7y0m-dQFs",
+      "phone": "(47) 98812-7907",
+      "address": "R. das Cegonhas, 445 - Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro AnimalPet Iririú",
+      "href": "https://www.google.com/maps/place/Agro+AnimalPet+Iriri%C3%BA/data=!4m7!3m6!1s0x94deaf8412a0afc5:0xe8d9b10ac1693c84!8m2!3d-26.2728577!4d-48.8297918!16s%2Fg%2F11mw7ngk5y!19sChIJxa-gEoSv3pQRhDxpwQqx2eg",
+      "phone": "(47) 3227-9289",
+      "address": "R. Iririú, 1631 - Iririú, Joinville - SC, 89227-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pet Chique",
+      "href": "https://www.google.com/maps/place/Pet+Chique/data=!4m7!3m6!1s0x94deaf2f9bd9a2bb:0x1e762d58391feae1!8m2!3d-26.2635139!4d-48.8027915!16s%2Fg%2F11rc2m4z6h!19sChIJu6LZmy-v3pQR4eofOVgtdh4",
+      "phone": "(47) 99951-1990",
+      "address": "R. Areia Branca, 934 - Jardim Iririú, Joinville - SC, 89224-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Márcia Estética Animal",
+      "href": "https://www.google.com/maps/place/M%C3%A1rcia+Est%C3%A9tica+Animal/data=!4m7!3m6!1s0x94deb167221e9cbb:0x99c1b1f284ac6c69!8m2!3d-26.2752361!4d-48.8333447!16s%2Fg%2F11rcmsn8zy!19sChIJu5weImex3pQRaWyshPKxwZk",
+      "phone": "(47) 98855-6634",
+      "address": "R. Iririú, 1188 - Iririú, Joinville - SC, 89227-045",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Angel's Banho & Tosa",
+      "href": "https://www.google.com/maps/place/Angel%27s+Banho+%26+Tosa/data=!4m7!3m6!1s0x94deb1ffad99a901:0xce2d61344eb31bb9!8m2!3d-26.2674924!4d-48.8018237!16s%2Fg%2F11fr3xw0ky!19sChIJAamZrf-x3pQRuRuzTjRhLc4",
+      "phone": "(47) 99934-9524",
+      "address": "R. Telêmaco Borba, 706 - Jardim Iririú, Joinville - SC, 89224-415",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "julipet Banho e Tosa",
+      "href": "https://www.google.com/maps/place/julipet+Banho+e+Tosa/data=!4m7!3m6!1s0x94deafcbd33a3a05:0x8e3274152cccbedc!8m2!3d-26.2652598!4d-48.8011882!16s%2Fg%2F11w20lybdt!19sChIJBTo608uv3pQR3L7MLBV0Mo4",
+      "phone": "(47) 98925-3848",
+      "address": "R. Areia Branca, 682 - iririu, Joinville - SC, 89224-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Hanna banho e tosa",
+      "href": "https://www.google.com/maps/place/Hanna+banho+e+tosa/data=!4m7!3m6!1s0x94deaddf24cdc7d7:0x5e486ebb58e7a55c!8m2!3d-26.2589239!4d-48.7991877!16s%2Fg%2F11yn1v3sf0!19sChIJ18fNJN-t3pQRXKXnWLtuSF4",
+      "phone": "(47) 99276-9208",
+      "address": "R. Delcinha do Rosário - Jardim Iririú, Joinville - SC, 89224-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Petshop Doce Patinhas",
+      "href": "https://www.google.com/maps/place/Petshop+Doce+Patinhas/data=!4m7!3m6!1s0x94deb173b6900c63:0xcafe3b68763d80ca!8m2!3d-26.2762981!4d-48.8144309!16s%2Fg%2F11h136c_mt!19sChIJYwyQtnOx3pQRyoA9dmg7_so",
+      "phone": "(47) 99656-1268",
+      "address": "R. Victor Konder, 740 - Iririú, Joinville - SC, 89227-240",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Agro AnimalPet - das Cegonhas",
+      "href": "https://www.google.com/maps/place/Agro+AnimalPet+-+das+Cegonhas/data=!4m7!3m6!1s0x94deae195d2fac2b:0x9c9ad534957dcb0f!8m2!3d-26.2642497!4d-48.8151257!16s%2Fg%2F11b8c4dddc!19sChIJK6wvXRmu3pQRD8t9lTTVmpw",
+      "phone": "(47) 3027-1630",
+      "address": "R. das Cegonhas, 665 - Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luna pet shop",
+      "href": "https://www.google.com/maps/place/Luna+pet+shop/data=!4m7!3m6!1s0x94deafba5c59a4cb:0xd316aab904f9388f!8m2!3d-26.2638977!4d-48.8044383!16s%2Fg%2F11w8xqzy_t!19sChIJy6RZXLqv3pQRjzj5BLmqFtM",
+      "phone": "(47) 99938-6501",
+      "address": "R. Aristides Rudnick, 323 - Jardim Iririú, Joinville - SC, 89224-381",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cantinho Pet Chic",
+      "href": "https://www.google.com/maps/place/Cantinho+Pet+Chic/data=!4m7!3m6!1s0x94deb1b1b26a5ed3:0x86cfc3edcfc80d0d!8m2!3d-26.2789375!4d-48.811926!16s%2Fg%2F11h8ch586p!19sChIJ015qsrGx3pQRDQ3Iz-3Dz4Y",
+      "phone": "(47) 99612-7466",
+      "address": "R. Miquerinos, 50 - Iririú, Joinville - SC, 89227-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

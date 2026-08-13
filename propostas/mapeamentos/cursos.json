@@ -1,0 +1,417 @@
+{
+  "id": "cursos",
+  "nome": "Cursos",
+  "terms": [
+    "curso profissionalizante",
+    "escola de cursos",
+    "centro de treinamento"
+  ],
+  "profiles": 251,
+  "qualified": [
+    {
+      "name": "CESITA - Centro Educacional e Social do Itaum",
+      "href": "https://www.google.com/maps/place/CESITA+-+Centro+Educacional+e+Social+do+Itaum/data=!4m7!3m6!1s0x94deb11d0670cbe9:0x6e717a5d4d312aa4!8m2!3d-26.3287422!4d-48.838002!16s%2Fg%2F12cpgdz5m!19sChIJ6ctwBh2x3pQRpCoxTV16cW4",
+      "phone": "(47) 3489-7900",
+      "address": "R. Monsenhor Gercino, 1040 - Itaum, Joinville - SC, 89210-146",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lupa Assessoria e Treinamento",
+      "href": "https://www.google.com/maps/place/Lupa+Assessoria+e+Treinamento/data=!4m7!3m6!1s0x94deb148e1239ff7:0xe9b9ba93bd410ece!8m2!3d-26.3407619!4d-48.8160378!16s%2Fg%2F11b6rvv_s6!19sChIJ958j4Uix3pQRzg5BvZO6uek",
+      "phone": "(47) 3466-6529",
+      "address": "R. Monsenhor Gercino, 3810 - Jarivatuba, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Enfael Cursos - Ensino Fácil de Elétrica",
+      "href": "https://www.google.com/maps/place/Enfael+Cursos+-+Ensino+F%C3%A1cil+de+El%C3%A9trica/data=!4m7!3m6!1s0x94deb16ca111a77b:0xcbbbfff64efb5e26!8m2!3d-26.3312368!4d-48.8322462!16s%2Fg%2F11fr3qvhjt!19sChIJe6cRoWyx3pQRJl77Tvb_u8s",
+      "phone": "(47) 99693-0909",
+      "address": "R. Arlindo Pereira de Macedo, 225 - Itaum, Joinville - SC, 89210-173",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JP Cursos",
+      "href": "https://www.google.com/maps/place/JP+Cursos/data=!4m7!3m6!1s0x94deb1c2eda81bbb:0x2510e45895b5b714!8m2!3d-26.3136759!4d-48.8517848!16s%2Fg%2F11h045vjf6!19sChIJuxuo7cKx3pQRFLe1lVjkECU",
+      "phone": "(47) 99265-1011",
+      "address": "R. Rio Grande do Sul, 464 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Recentralize Studio de Pilates",
+      "href": "https://www.google.com/maps/place/Recentralize+Studio+de+Pilates/data=!4m7!3m6!1s0x94deb1aff4876be5:0xaeaa48f351e331ea!8m2!3d-26.3637847!4d-48.8292483!16s%2Fg%2F11h3dwksx_!19sChIJ5WuH9K-x3pQR6jHjUfNIqq4",
+      "phone": "(47) 99608-2470",
+      "address": "R. Adolfo da Veiga, 355 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Continuada dos Profissionais da Educação de Joinville",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Continuada+dos+Profissionais+da+Educa%C3%A7%C3%A3o+de+Joinville/data=!4m7!3m6!1s0x94deb003c5739ceb:0xb441c53a3ffeb0cd!8m2!3d-26.2944889!4d-48.8741264!16s%2Fg%2F1jgm5gjhs!19sChIJ65xzxQOw3pQRzbD-PzrFQbQ",
+      "phone": "(47) 3453-2555",
+      "address": "R. Brigada Lopes, 153 - Glória, Joinville - SC, 89216-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GRUPO CERTO - PROTEÇÃO VEICULAR",
+      "href": "https://www.google.com/maps/place/GRUPO+CERTO+-+PROTE%C3%87%C3%83O+VEICULAR/data=!4m7!3m6!1s0x94deb7381e6fe549:0x8b918a6a58e73566!8m2!3d-26.3640839!4d-48.8319097!16s%2Fg%2F11f6ncj83n!19sChIJSeVvHji33pQRZjXnWGqKkYs",
+      "phone": "(47) 3436-8689",
+      "address": "Av. Paulo Schroeder, 680 - Boehmerwald, Joinville - SC, 89232-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Spartacus",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Spartacus/data=!4m7!3m6!1s0x94deb7f40715c3c3:0x8b06e05bc25ad9f2!8m2!3d-26.367169!4d-48.8348281!16s%2Fg%2F11m2j_0g6z!19sChIJw8MVB_S33pQR8tlawlvgBos",
+      "phone": "(47) 99253-2421",
+      "address": "R. Afonso Moreira, 77 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "2e studio de treinamento",
+      "href": "https://www.google.com/maps/place/2e+studio+de+treinamento/data=!4m7!3m6!1s0x94deb1e979f269ad:0xa11e3d6f3c93106f!8m2!3d-26.3407456!4d-48.8229488!16s%2Fg%2F11gjm7cpn9!19sChIJrWnyeemx3pQRbxCTPG89HqE",
+      "phone": "(47) 99962-4201",
+      "address": "R. Monsenhor Gercino, 3186 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Altus Treinamento Personalizado",
+      "href": "https://www.google.com/maps/place/Altus+Treinamento+Personalizado/data=!4m7!3m6!1s0x94deb1480af1101b:0x92bd2cfc49ff7d5f!8m2!3d-26.2968772!4d-48.8711814!16s%2Fg%2F11yx4b14k9!19sChIJGxDxCkix3pQRX33_SfwsvZI",
+      "phone": "(47) 99284-5546",
+      "address": "R. XV de Novembro, 2947 - Vila Nova, Joinville - SC, 89216-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Union Of Fight",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Union+Of+Fight/data=!4m7!3m6!1s0x94deb3ddc61a5245:0xa6cf61ca184d8569!8m2!3d-26.3386651!4d-48.7964684!16s%2Fg%2F11t2_x9qss!19sChIJRVIaxt2z3pQRaYVNGMphz6Y",
+      "phone": "(47) 99903-8711",
+      "address": "R. Cidade de Otacílio Costa, 218 - Jarivatuba, Joinville - SC, 89231-443",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corpori Sani - Curso técnico de Enfermagem e Radiologia",
+      "href": "https://www.google.com/maps/place/Corpori+Sani+-+Curso+t%C3%A9cnico+de+Enfermagem+e+Radiologia/data=!4m7!3m6!1s0x94deb05b2c157ef3:0xe5c6ac5dfb89355b!8m2!3d-26.3072593!4d-48.8421326!16s%2Fg%2F1pv5ykn8v!19sChIJ834VLFuw3pQRWzWJ-12sxuU",
+      "phone": "(47) 99241-7579",
+      "address": "R. Min. Calógeras, 242 - Centro, Joinville - SC, 89201-490",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Enjoy",
+      "href": "https://www.google.com/maps/place/Enjoy/data=!4m7!3m6!1s0x94deb1a1c6694a23:0x9e412052b1c96843!8m2!3d-26.304812!4d-48.8448744!16s%2Fg%2F11ttb74785!19sChIJI0ppxqGx3pQRQ2jJsVIgQZ4",
+      "phone": "(47) 99641-0635",
+      "address": "R. Dr. Marinho Lobo, 50 - Centro, Joinville - SC, 89201-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "INOVE CROSS TRAINING",
+      "href": "https://www.google.com/maps/place/INOVE+CROSS+TRAINING/data=!4m7!3m6!1s0x94deb1305b079dab:0xd76ab19c5251b029!8m2!3d-26.3011949!4d-48.8506076!16s%2Fg%2F11nl80nn78!19sChIJq50HWzCx3pQRKbBRUpyxatc",
+      "phone": "(47) 98457-6441",
+      "address": "R. 9 de Março, 870 - Sl 2 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CENTRO DE TREINAMENTO KING BOXING",
+      "href": "https://www.google.com/maps/place/CENTRO+DE+TREINAMENTO+KING+BOXING/data=!4m7!3m6!1s0x94deb176e2fe7695:0x2aa319a57b8f45b7!8m2!3d-26.2980448!4d-48.8486591!16s%2Fg%2F11khcnc3t6!19sChIJlXb-4nax3pQRt0WPe6UZoyo",
+      "phone": "(47) 99129-5930",
+      "address": "R. dos Ginásticos, 96 - Centro, Joinville - SC, 89201-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Top face cursos",
+      "href": "https://www.google.com/maps/place/Top+face+cursos/data=!4m7!3m6!1s0x85458312303977bf:0xd221eb11e530518b!8m2!3d-26.2790162!4d-48.8445892!16s%2Fg%2F11qg03pfdf!19sChIJv3c5MBKDRYURi1Ew5RHrIdI",
+      "phone": "(47) 99104-0472",
+      "address": "R. Guaratuba, 110 - Saguaçu, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GNS - Genesis Academy Joinville - JiuJitsu",
+      "href": "https://www.google.com/maps/place/GNS+-+Genesis+Academy+Joinville+-+JiuJitsu/data=!4m7!3m6!1s0x94deaff64b1f9e3f:0x5c465fe49c58d274!8m2!3d-26.2816285!4d-48.8505518!16s%2Fg%2F11n40sgq9v!19sChIJP54fS_av3pQRdNJYnORfRlw",
+      "phone": "(47) 3513-6631",
+      "address": "R. Blumenau, 2215 - América, Joinville - SC, 89204-251",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CESAF - Centro de Saúde e Atividade Física",
+      "href": "https://www.google.com/maps/place/CESAF+-+Centro+de+Sa%C3%BAde+e+Atividade+F%C3%ADsica/data=!4m7!3m6!1s0x94deb1ebe83c7f43:0xf247a484fcd8ede9!8m2!3d-26.2845767!4d-48.8541011!16s%2Fg%2F11s0jrg7js!19sChIJQ3886Oux3pQR6e3Y_ISkR_I",
+      "phone": "(47) 99923-7337",
+      "address": "R. Benjamin Constant, 509 - América, Joinville - SC, 89204-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bio Balance Studio Treinamento Funcional",
+      "href": "https://www.google.com/maps/place/Bio+Balance+Studio+Treinamento+Funcional/data=!4m7!3m6!1s0x94deb1ea1e010177:0x64ac196234eefd21!8m2!3d-26.2859445!4d-48.847282!16s%2Fg%2F11zb2zyzd2!19sChIJdwEBHuqx3pQRIf3uNGIZrGQ",
+      "phone": "(47) 98820-4638",
+      "address": "R. Edgar Schneider, 130 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Living Fitness Academia",
+      "href": "https://www.google.com/maps/place/Living+Fitness+Academia/data=!4m7!3m6!1s0x94deb028cde230c9:0x180d22b35b2c862!8m2!3d-26.2859805!4d-48.8473036!16s%2Fg%2F124ydvsc4!19sChIJyTDizSiw3pQRYsiyNSvSgAE",
+      "phone": "(47) 3028-8949",
+      "address": "R. Edgar Schneider, 130 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tigre S/A | Centro de Treinamento João Hansen Júnior",
+      "href": "https://www.google.com/maps/place/Tigre+S%2FA+%7C+Centro+de+Treinamento+Jo%C3%A3o+Hansen+J%C3%BAnior/data=!4m7!3m6!1s0x94deb066119ce8f5:0x8824b443decd4da6!8m2!3d-26.3172603!4d-48.8642404!16s%2Fg%2F11dx8mfkwq!19sChIJ9eicEWaw3pQRpk3N3kO0JIg",
+      "phone": "(47) 99983-2095",
+      "address": "R. Ottokar Doerffel, 1112 - Atiradores, Joinville - SC, 89203-212",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Seth Anita Garibaldi",
+      "href": "https://www.google.com/maps/place/Seth+Anita+Garibaldi/data=!4m7!3m6!1s0x94deb15dda7c9799:0xea4e50ca66e777fd!8m2!3d-26.3164495!4d-48.8530975!16s%2Fg%2F11kjg9hnms!19sChIJmZd82l2x3pQR_XfnZspQTuo",
+      "phone": "(47) 98484-2201",
+      "address": "R. Major Navarro Lins, 841 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Sparta",
+      "href": "https://www.google.com/maps/place/Academia+Sparta/data=!4m7!3m6!1s0x94deb17e5caf7463:0x9150ced07ea6ce1c!8m2!3d-26.3135265!4d-48.8473862!16s%2Fg%2F11fn72d7rd!19sChIJY3SvXH6x3pQRHM6mftDOUJE",
+      "phone": "(47) 98843-4468",
+      "address": "R. Paraná, 175 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atos Joinville",
+      "href": "https://www.google.com/maps/place/Atos+Joinville/data=!4m7!3m6!1s0x94deb1a68250f12f:0xadc3555d5e81604!8m2!3d-26.3240096!4d-48.857555!16s%2Fg%2F11wbhgzykm!19sChIJL_FQgqax3pQRBBbo1VU13Ao",
+      "phone": "(47) 99249-8642",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "REALIIZA EVENTOS TEAM FUNCIONALBALL",
+      "href": "https://www.google.com/maps/place/REALIIZA+EVENTOS+TEAM+FUNCIONALBALL/data=!4m7!3m6!1s0x94deb126f723ee53:0x14ed0bef0f9ab1e4!8m2!3d-26.3135229!4d-48.8473633!16s%2Fg%2F11fkt7wnr9!19sChIJU-4j9yax3pQR5LGaD-8L7RQ",
+      "phone": "(47) 99917-4726",
+      "address": "R. Paraná, 175 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CF047 Fitness",
+      "href": "https://www.google.com/maps/place/CF047+Fitness/data=!4m7!3m6!1s0x94deb17a9a0bd1f5:0xa0623c05ffad21fb!8m2!3d-26.2884639!4d-48.8412337!16s%2Fg%2F11w26njqrb!19sChIJ9dELmnqx3pQR-yGt_wU8YqA",
+      "phone": "(47) 98899-1828",
+      "address": "R. Dona Francisca, 1587 - Saguaçu, Joinville - SC, 89221-007",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fran Alves Cílios e Cursos",
+      "href": "https://www.google.com/maps/place/Fran+Alves+C%C3%ADlios+e+Cursos/data=!4m7!3m6!1s0x94deaf21fabdef47:0xc7cb73df9c51ff60!8m2!3d-26.2810855!4d-48.8753315!16s%2Fg%2F11nttk8n_8!19sChIJR--9-iGv3pQRYP9RnN9zy8c",
+      "phone": "(47) 98846-1696",
+      "address": "R. Adriano Schondermank, 324 - Costa e Silva, Joinville - SC, 89217-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola de Costura Catarina Coral",
+      "href": "https://www.google.com/maps/place/Escola+de+Costura+Catarina+Coral/data=!4m7!3m6!1s0x94deb104f2a2c7ef:0x89cbb4b1a0ae131f!8m2!3d-26.2830037!4d-48.8630444!16s%2Fg%2F11v6747xc0!19sChIJ78ei8gSx3pQRHxOuoLG0y4k",
+      "phone": "(47) 99612-2040",
+      "address": "R. Benjamin Constant, 1658 - Glória, Joinville - SC, 89204-361",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola de Educação Básica Arnaldo Moreira Douat",
+      "href": "https://www.google.com/maps/place/Escola+de+Educa%C3%A7%C3%A3o+B%C3%A1sica+Arnaldo+Moreira+Douat/data=!4m7!3m6!1s0x94deaff168935c85:0xe1e71c3d60a1db09!8m2!3d-26.276644!4d-48.872212!16s%2Fg%2F1th6f_bc!19sChIJhVyTaPGv3pQRCduhYD0c5-E",
+      "phone": "(47) 3481-2428",
+      "address": "R. Geny Peixer, 153 - Costa e Silva, Joinville - SC, 89218-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Professora Particular Reforço Joinville Santa Catarina",
+      "href": "https://www.google.com/maps/place/Professora+Particular+Refor%C3%A7o+Joinville+Santa+Catarina/data=!4m7!3m6!1s0x94dea5f3ebc3d977:0x7919c3c13bf29fb4!8m2!3d-26.273394!4d-48.8833971!16s%2Fg%2F11yz21gbty!19sChIJd9nD6_Ol3pQRtJ_yO8HDGXk",
+      "phone": "(47) 99789-4614",
+      "address": "R. Inambu, 3065 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Monitorias Reforço Escolar - Unidade Costa e Silva",
+      "href": "https://www.google.com/maps/place/Monitorias+Refor%C3%A7o+Escolar+-+Unidade+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf15c004de45:0x6a2065fa4fc9abac!8m2!3d-26.2740438!4d-48.8709251!16s%2Fg%2F11xh861n4f!19sChIJRd4EwBWv3pQRrKvJT_plIGo",
+      "phone": "(47) 98857-5459",
+      "address": "R. Guilherme, 1621 - Sl 5 - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Pequena Sereia",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Pequena+Sereia/data=!4m7!3m6!1s0x94dea55833ec62f1:0xcecc6732f39f7c54!8m2!3d-26.2827383!4d-48.8821465!16s%2Fg%2F11bzywm8_y!19sChIJ8WLsM1il3pQRVHyf8zJnzM4",
+      "phone": "(47) 3473-7754",
+      "address": "R. Roberto Hermann, 37 - Costa e Silva, Joinville - SC, 89217-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MovLife Academia - Costa e Silva",
+      "href": "https://www.google.com/maps/place/MovLife+Academia+-+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf493882653d:0xbddc5d254c05f18d!8m2!3d-26.2692354!4d-48.874017!16s%2Fg%2F11v5y3y23x!19sChIJPWWCOEmv3pQRjfEFTCVd3L0",
+      "phone": "(47) 3023-9688",
+      "address": "R. das Andorinhas, 385 - Costa e Silva, Joinville - SC, 89220-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ATP Joinville - Academia de Treinamento Personalizado",
+      "href": "https://www.google.com/maps/place/ATP+Joinville+-+Academia+de+Treinamento+Personalizado/data=!4m7!3m6!1s0x94deaf0033855f7d:0x818f279489dae320!8m2!3d-26.2700438!4d-48.8717895!16s%2Fg%2F11vs1m5ntl!19sChIJfV-FMwCv3pQRIOPaiZQnj4E",
+      "phone": "(47) 99132-6051",
+      "address": "R. Sen. Nilo Coelho, 38 - Costa e Silva, Joinville - SC, 89219-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CBC Treinamento",
+      "href": "https://www.google.com/maps/place/CBC+Treinamento/data=!4m7!3m6!1s0x94deaff5241346d3:0xbdec6c799715b2a1!8m2!3d-26.2837865!4d-48.8775289!16s%2Fg%2F11gm7qrk_z!19sChIJ00YTJPWv3pQRobIVl3ls7L0",
+      "phone": "(47) 98880-6745",
+      "address": "Rua, Serv. João Crispim da Luz - Costa e Silva, Joinville - SC, 89217-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Team Jeanis - Treinamento personalizado",
+      "href": "https://www.google.com/maps/place/Team+Jeanis+-+Treinamento+personalizado/data=!4m7!3m6!1s0x94deaf0cc37c589d:0x3c8e514823a2a886!8m2!3d-26.2708444!4d-48.8759269!16s%2Fg%2F11vsqxky5x!19sChIJnVh8wwyv3pQRhqiiI0hRjjw",
+      "phone": "(47) 99651-8001",
+      "address": "R. Codornas, 247 - Costa e Silva, Joinville - SC, 89220-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Gicélia Lima | Cursos Cílios e Sobrancelhas | Joinville",
+      "href": "https://www.google.com/maps/place/Studio+Gic%C3%A9lia+Lima+%7C+Cursos+C%C3%ADlios+e+Sobrancelhas+%7C+Joinville/data=!4m7!3m6!1s0x94dea534743c04bb:0x9c4a4cbab3630a8f!8m2!3d-26.2894949!4d-48.9001731!16s%2Fg%2F11mzt3_4n3!19sChIJuwQ8dDSl3pQRjwpjs7pMSpw",
+      "phone": "(47) 99674-1140",
+      "address": "R. Bento Torquato da Rocha, 241 - Sala 3 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sousar Serviços Técnicos | Curso de Ar Condicionado",
+      "href": "https://www.google.com/maps/place/Sousar+Servi%C3%A7os+T%C3%A9cnicos+%7C+Curso+de+Ar+Condicionado/data=!4m7!3m6!1s0xa09c4151b5dcd009:0xc9489f43cc505bd!8m2!3d-26.283487!4d-48.9020414!16s%2Fg%2F11nb3bm705!19sChIJCdDctVFBnKARvQXFPPSJlAw",
+      "phone": "(47) 98827-0259",
+      "address": "R. Mário Pedro Schoping, 365 - Vila Nova, Joinville - SC, 89237-245",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tatiane Sousa Beauty - Extensão de cílios, maquiagem, penteado e cursos",
+      "href": "https://www.google.com/maps/place/Tatiane+Sousa+Beauty+-+Extens%C3%A3o+de+c%C3%ADlios,+maquiagem,+penteado+e+cursos/data=!4m7!3m6!1s0x94dea52f127701f1:0x6125b519f5a400cc!8m2!3d-26.2959603!4d-48.9011807!16s%2Fg%2F11nw9__f6z!19sChIJ8QF3Ei-l3pQRzACk9Rm1JWE",
+      "phone": "(47) 99691-1104",
+      "address": "R. Joaquim Girardi, 938 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Fazendo Eu Aprendo",
+      "href": "https://www.google.com/maps/place/CEI+Fazendo+Eu+Aprendo/data=!4m7!3m6!1s0x94dea5475a933e79:0xf80ce118e682f391!8m2!3d-26.2853925!4d-48.8995445!16s%2Fg%2F1tfg8t_c!19sChIJeT6TWkel3pQRkfOC5hjhDPg",
+      "phone": "(47) 99757-3396",
+      "address": "R. Alfredo Bachtold, 228 - Vila Nova, Joinville - SC, 89237-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Sigelfrid Poffo",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Sigelfrid+Poffo/data=!4m7!3m6!1s0x94dea53ed15d3617:0x8b3dadefbfea7987!8m2!3d-26.2856566!4d-48.9031321!16s%2Fg%2F11c1p4lcsy!19sChIJFzZd0T6l3pQRh3nqv--tPYs",
+      "phone": "(47) 3439-0489",
+      "address": "R. Alwin Pasold, 7 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Paschoa Poffo",
+      "href": "https://www.google.com/maps/place/CEI+Paschoa+Poffo/data=!4m7!3m6!1s0x94dea5005a4d1667:0xfc6b804e9b742082!8m2!3d-26.287089!4d-48.9176858!16s%2Fg%2F11w84m5srm!19sChIJZxZNWgCl3pQRgiB0m06Aa_w",
+      "phone": "(47) 3509-1447",
+      "address": "R. XV de Novembro, 8550 - Vila Nova, Joinville - SC, 89237-448",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Professor Bernardo Tank",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Professor+Bernardo+Tank/data=!4m7!3m6!1s0x94dea5201837e509:0x3628c59da472255d!8m2!3d-26.2872924!4d-48.9224144!16s%2Fg%2F1whdkhx4!19sChIJCeU3GCCl3pQRXSVypJ3FKDY",
+      "phone": "(47) 3439-5159",
+      "address": "R. XV de Novembro, 8574 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Futvila",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Futvila/data=!4m7!3m6!1s0x94dea59dd966b8cf:0xd1553e2189068352!8m2!3d-26.2848069!4d-48.9138886!16s%2Fg%2F11l66tpz1v!19sChIJz7hm2Z2l3pQRUoMGiSE-VdE",
+      "phone": "(47) 99977-5081",
+      "address": "R. Gerhard Barkemeyer, 260 - Vila Nova, Joinville - SC, 89237-638",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Valentim João da Rocha",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Valentim+Jo%C3%A3o+da+Rocha/data=!4m7!3m6!1s0x94dea5391f6a7df1:0xe854caa6d092b9c6!8m2!3d-26.2871286!4d-48.9030534!16s%2Fg%2F1tdgldpx!19sChIJ8X1qHzml3pQRxrmS0KbKVOg",
+      "phone": "(47) 3437-8700",
+      "address": "R. XV de Novembro, 7030 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

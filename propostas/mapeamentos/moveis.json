@@ -1,0 +1,705 @@
+{
+  "id": "moveis",
+  "nome": "Móveis",
+  "terms": [
+    "loja de móveis",
+    "móveis planejados",
+    "marcenaria"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "GB Móveis",
+      "href": "https://www.google.com/maps/place/GB+M%C3%B3veis/data=!4m7!3m6!1s0x94deb6d1a20a65d7:0x8bbcafda08395e02!8m2!3d-26.3574719!4d-48.831173!16s%2Fg%2F1tfffbk0!19sChIJ12UKotG23pQRAl45CNqvvIs",
+      "phone": "(47) 3465-3672",
+      "address": "Av. Paulo Schroeder, 1400 - Boehmerwald, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Roberto Móveis LTDA",
+      "href": "https://www.google.com/maps/place/Roberto+M%C3%B3veis+LTDA/data=!4m7!3m6!1s0x94deb1709bd9a64b:0xcdfbc9bb45771af5!8m2!3d-26.3530638!4d-48.8311143!16s%2Fg%2F11jlpg942g!19sChIJS6bZm3Cx3pQR9Rp3RbvJ-80",
+      "phone": "(47) 99756-1627",
+      "address": "Av. Paulo Schroeder, 1860 - Petrópolis, Joinville - SC, 89232-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estoque Móveis",
+      "href": "https://www.google.com/maps/place/Estoque+M%C3%B3veis/data=!4m7!3m6!1s0x94deb6ef28a9b7cf:0x592e20385d92bd9a!8m2!3d-26.3771879!4d-48.8273894!16s%2Fg%2F11bzwnyw85!19sChIJz7epKO-23pQRmr2SXTggLlk",
+      "phone": "(47) 99766-0250",
+      "address": "R. Waldemiro José Borges, 3125 - Itinga, Joinville - SC, 89235-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GB Móveis",
+      "href": "https://www.google.com/maps/place/GB+M%C3%B3veis/data=!4m7!3m6!1s0x94deb6d1135d08a5:0xbd9b3ef44d2da6ad!8m2!3d-26.360374!4d-48.8331079!16s%2Fg%2F11c3l9f16p!19sChIJpQhdE9G23pQRraYtTfQ-m70",
+      "phone": "(47) 3465-0437",
+      "address": "R. Boehmerwald, 543 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Evolve Marcenaria",
+      "href": "https://www.google.com/maps/place/Evolve+Marcenaria/data=!4m7!3m6!1s0x94deb789dc58f491:0x6ef3456f59047664!8m2!3d-26.3625028!4d-48.8334189!16s%2Fg%2F11vzcvvjkh!19sChIJkfRY3Im33pQRZHYEWW9F824",
+      "phone": "(47) 99915-2511",
+      "address": "R. da Amizade, 50 - Boehmerwald, Joinville - SC, 89235-075",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Madarte Moveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Madarte+Moveis+Sob+Medida/data=!4m7!3m6!1s0x94deb1aff9a4a07b:0x62483e8ac7f22ff0!8m2!3d-26.3635974!4d-48.8365659!16s%2Fg%2F11lmhqyxd5!19sChIJe6Ck-a-x3pQR8C_yx4o-SGI",
+      "phone": "(47) 99645-6356",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Bankhardt",
+      "href": "https://www.google.com/maps/place/Marcenaria+Bankhardt/data=!4m7!3m6!1s0x94deb173f8f0f39f:0x39f110bb6fed8801!8m2!3d-26.3557773!4d-48.8456391!16s%2Fg%2F11rvglndry!19sChIJn_Pw-HOx3pQRAYjtb7sQ8Tk",
+      "phone": "(47) 99903-7171",
+      "address": "R. Dona Cezarina, 53 - Galpão 2 - Santa Catarina, Joinville - SC, 89232-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personalizze Móveis Planejados",
+      "href": "https://www.google.com/maps/place/Personalizze+M%C3%B3veis+Planejados/data=!4m7!3m6!1s0x94deb74700d40255:0x83f6daf3cf84d888!8m2!3d-26.3617252!4d-48.8251984!16s%2Fg%2F11f637tp2d!19sChIJVQLUAEe33pQRiNiEz_Pa9oM",
+      "phone": "(47) 99978-1124",
+      "address": "R. Charlote Luíze Ernestine Schoene, 2-332 - Boehmerwald, Joinville - SC, 89232-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria G.L LTDA ME",
+      "href": "https://www.google.com/maps/place/Marcenaria+G.L+LTDA+ME/data=!4m7!3m6!1s0x94deb1f1faba3afb:0x35ba2c9e57dfcac3!8m2!3d-26.354195!4d-48.8416049!16s%2Fg%2F11q95d6p7s!19sChIJ-zq6-vGx3pQRw8rfV54sujU",
+      "phone": "(47) 99984-6440",
+      "address": "R. Jonecir José Baierski, 220 - Boehmerwald, Joinville - SC, 89233-039",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Alves moveis sob medidas",
+      "href": "https://www.google.com/maps/place/Marcenaria+Alves+moveis+sob+medidas/data=!4m7!3m6!1s0x94deb7e240c0826f:0x6dc1a01d75e6bcb9!8m2!3d-26.3852215!4d-48.8222254!16s%2Fg%2F11z7mh0ygm!19sChIJb4LAQOK33pQRubzmdR2gwW0",
+      "phone": "(47) 99985-4599",
+      "address": "R. Arildo da Silva, 259 - Itinga, Joinville - SC, 89233-775",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Cipres móveis personalizados",
+      "href": "https://www.google.com/maps/place/Marcenaria+Cipres+m%C3%B3veis+personalizados/data=!4m7!3m6!1s0x94deb1c201d2e349:0x9cfccaae16e52cb0!8m2!3d-26.3475878!4d-48.8308206!16s%2Fg%2F11lydqlw36!19sChIJSePSAcKx3pQRsCzlFq7K_Jw",
+      "phone": "(47) 99149-2141",
+      "address": "R. dos Jornalistas, 144 - Petrópolis, Joinville - SC, 89208-765",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JJN Marcenaria Reinert",
+      "href": "https://www.google.com/maps/place/JJN+Marcenaria+Reinert/data=!4m7!3m6!1s0x94deb73e93306b6f:0xeca7f8a537ec33d2!8m2!3d-26.3795119!4d-48.8231422!16s%2Fg%2F11f5v7lc0d!19sChIJb2swkz633pQR0jPsN6X4p-w",
+      "phone": "(47) 99288-2870",
+      "address": "R. Oscar André Pinheiro, 35 - Itinga, Joinville - SC, 89235-288",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Recomeçar Móveis Planejados",
+      "href": "https://www.google.com/maps/place/Marcenaria+Recome%C3%A7ar+M%C3%B3veis+Planejados/data=!4m7!3m6!1s0x94deb7c7718bad2f:0x56e737bbd6696e10!8m2!3d-26.3513171!4d-48.8272226!16s%2Fg%2F11vqvd_cn6!19sChIJL62Lcce33pQREG5p1rs351Y",
+      "phone": "(47) 99151-7758",
+      "address": "R. Rancho Bom, 8 - Petrópolis, Joinville - SC, 89208-813",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Metri Marcenaria",
+      "href": "https://www.google.com/maps/place/Metri+Marcenaria/data=!4m7!3m6!1s0x94deb1025dfee5f9:0x62074919a97c5a89!8m2!3d-26.3539644!4d-48.8524563!16s%2Fg%2F11tnj2rlrf!19sChIJ-eX-XQKx3pQRiVp8qRlJB2I",
+      "phone": "(47) 98803-9046",
+      "address": "Rua Francisco Bernardo Boettcher, 577 - Santa Catarina, Joinville - SC, 89212-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Prime interiores marcenaria",
+      "href": "https://www.google.com/maps/place/Prime+interiores+marcenaria/data=!4m7!3m6!1s0x94deb1c175eadccd:0xfc5d4473f16409ce!8m2!3d-26.349444!4d-48.8275407!16s%2Fg%2F11xdt8yd3x!19sChIJzdzqdcGx3pQRzglk8XNEXfw",
+      "phone": "(47) 98924-2898",
+      "address": "R. Nilza Maria Santana de Moraes - Petrópolis, Joinville - SC, 89208-795",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Suprema",
+      "href": "https://www.google.com/maps/place/Marcenaria+Suprema/data=!4m7!3m6!1s0x94deb14c77524111:0x9a680f9e58684ef1!8m2!3d-26.3446732!4d-48.8143303!16s%2Fg%2F12qft0_kn!19sChIJEUFSd0yx3pQR8U5oWJ4PaJo",
+      "phone": "(47) 99149-8243",
+      "address": "R. Leopoldo Finder, 26 - João Costa, Joinville - SC, 89209-125",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Versátil Móveis Ltda.",
+      "href": "https://www.google.com/maps/place/Vers%C3%A1til+M%C3%B3veis+Ltda./data=!4m7!3m6!1s0x94deb6f3729c125b:0x61724c831e36fbe7!8m2!3d-26.3537835!4d-48.832836!16s%2Fg%2F11fyzxsfj6!19sChIJWxKccvO23pQR5_s2HoNMcmE",
+      "phone": "(47) 99665-3811",
+      "address": "R. Palmeiras das Missões, 614 - Petrópolis, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Angular Móveis - Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Angular+M%C3%B3veis+-+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deafe8ee593d6b:0x26d7632197209785!8m2!3d-26.3038386!4d-48.8471767!16s%2Fg%2F11c6ld_ry0!19sChIJaz1Z7uiv3pQRhZcglyFj1yY",
+      "phone": "(47) 98870-9741",
+      "address": "R. Jacob Richlin, 163 - Sl 4 - Centro, Joinville - SC, 89201-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Imaginatta Design",
+      "href": "https://www.google.com/maps/place/Imaginatta+Design/data=!4m7!3m6!1s0x94deb0447e3dcf97:0xad0784006f4fc5f9!8m2!3d-26.3070078!4d-48.8512557!16s%2Fg%2F1tfbd9kj!19sChIJl889fkSw3pQR-cVPbwCEB60",
+      "phone": "(47) 3028-1967",
+      "address": "R. Duque de Caxias, 220 - Centro, Joinville - SC, 89201-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Correa Ambientes - Móveis Planejados",
+      "href": "https://www.google.com/maps/place/Correa+Ambientes+-+M%C3%B3veis+Planejados/data=!4m7!3m6!1s0x94deb1d0e789241b:0x2522a7081af67835!8m2!3d-26.2769295!4d-48.834941!16s%2Fg%2F11h3l_c5_n!19sChIJGySJ59Cx3pQRNXj2GginIiU",
+      "phone": "(47) 98475-7741",
+      "address": "R. Iririú, 947 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Akaza móveis sob medida",
+      "href": "https://www.google.com/maps/place/Akaza+m%C3%B3veis+sob+medida/data=!4m7!3m6!1s0x89178e93e49def01:0xfc46db092f6c7c28!8m2!3d-26.3241262!4d-48.8552771!16s%2Fg%2F11rysq92n3!19sChIJAe-d5JOOF4kRKHxsLwnbRvw",
+      "phone": "(47) 99677-5191",
+      "address": "R. Anita Garibaldi, 1381 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Central das Marcenarias",
+      "href": "https://www.google.com/maps/place/Central+das+Marcenarias/data=!4m7!3m6!1s0x94deb31a7413bfad:0xe1cc82b07ce1c20c!8m2!3d-26.3201423!4d-48.8258817!16s%2Fg%2F11jcfnxfks!19sChIJrb8TdBqz3pQRDMLhfLCCzOE",
+      "phone": "(47) 98857-2943",
+      "address": "Rua: Santo Agostinho Nº45, SALA 2 - Guanabara, Joinville - SC, 89207-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Madeira Maciça",
+      "href": "https://www.google.com/maps/place/Marcenaria+Madeira+Maci%C3%A7a/data=!4m7!3m6!1s0x94deb1b2ff3cb4ef:0x4ea5b1d579123f1f!8m2!3d-26.3282565!4d-48.8426896!16s%2Fg%2F11gsn1lvx5!19sChIJ77Q8_7Kx3pQRHz8SedWxpU4",
+      "phone": "(47) 98415-8264",
+      "address": "R. Uberaba, 297 - Floresta, Joinville - SC, 89211-585",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Casa Feliz",
+      "href": "https://www.google.com/maps/place/Marcenaria+Casa+Feliz/data=!4m7!3m6!1s0x94deb1d2ca68b663:0xedb57435bf51cda3!8m2!3d-26.3246962!4d-48.8395443!16s%2Fg%2F11h_3xckbk!19sChIJY7ZoytKx3pQRo81RvzV0te0",
+      "phone": "(47) 3437-2218",
+      "address": "R. Monsenhor Gercino, 518 - Itaum, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Joacyr (Móveis Sob Medida)",
+      "href": "https://www.google.com/maps/place/Marcenaria+Joacyr+%28M%C3%B3veis+Sob+Medida%29/data=!4m7!3m6!1s0x94deb153dcb31f0f:0x1fe6d8c503c6b773!8m2!3d-26.3404961!4d-48.8061134!16s%2Fg%2F11bxfjf3qh!19sChIJDx-z3FOx3pQRc7fGA8XY5h8",
+      "phone": "(47) 99606-1433",
+      "address": "R. Olindo João Dias, 158 - Jarivatuba, Joinville - SC, 89230-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Criative Marcenaria",
+      "href": "https://www.google.com/maps/place/Criative+Marcenaria/data=!4m7!3m6!1s0x94deb02f9941c05f:0xd2a775a0c6e836e5!8m2!3d-26.2895641!4d-48.848794!16s%2Fg%2F11h2n6z6n5!19sChIJX8BBmS-w3pQR5TboxqB1p9I",
+      "phone": "(47) 3227-9780",
+      "address": "R. Dr. João Colin, 1285 - sala 3 - Jardim Iririú, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Decor Designer. Móveis de alto padrão.",
+      "href": "https://www.google.com/maps/place/Decor+Designer.+M%C3%B3veis+de+alto+padr%C3%A3o./data=!4m7!3m6!1s0x94deb7a34757d033:0x26eb596fa7c58ec3!8m2!3d-26.357299!4d-48.8164326!16s%2Fg%2F11nxnwpwr5!19sChIJM9BXR6O33pQRw47Fp29Z6yY",
+      "phone": "(47) 99233-1220",
+      "address": "R. Antídio Paulo Gesser, 151 - Parque Guarani, Joinville - SC, 89209-472",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RM SOLUÇÕES PARA MARCENARIA - JOINLACK",
+      "href": "https://www.google.com/maps/place/RM+SOLU%C3%87%C3%95ES+PARA+MARCENARIA+-+JOINLACK/data=!4m7!3m6!1s0x94deb721e36b13dd:0x449dd25a50d2e4fb!8m2!3d-26.3933866!4d-48.8143367!16s%2Fg%2F11x0qbnq17!19sChIJ3RNr4yG33pQR--TSUFrSnUQ",
+      "phone": "(47) 98445-7825",
+      "address": "R. Waldemiro José Borges, 5293 - Itinga, Joinville - SC, 89235-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CASA CATARINA",
+      "href": "https://www.google.com/maps/place/CASA+CATARINA/data=!4m7!3m6!1s0x94deb1af1e9461db:0x71810d4b6646fba6!8m2!3d-26.3014864!4d-48.8537365!16s%2Fg%2F11yvjtpmv9!19sChIJ22GUHq-x3pQRpvtGZksNgXE",
+      "phone": "(47) 99911-7515",
+      "address": "R. Expedicionário Holz, 325 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Sartotti",
+      "href": "https://www.google.com/maps/place/Marcenaria+Sartotti/data=!4m7!3m6!1s0x94deb6c9f876f239:0x59a90ca9bf519b9b!8m2!3d-26.3537586!4d-48.8203494!16s%2Fg%2F1tcym5qf!19sChIJOfJ2-Mm23pQRm5tRv6kMqVk",
+      "phone": "(47) 3466-1155",
+      "address": "R. João da Costa Júnior, 1586 - Petrópolis, Joinville - SC, 89232-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mazzon Móveis de Gramado",
+      "href": "https://www.google.com/maps/place/Mazzon+M%C3%B3veis+de+Gramado/data=!4m7!3m6!1s0x94deb051ed9e6b5d:0x8b4baba9fcd8226f!8m2!3d-26.3110863!4d-48.8453667!16s%2Fg%2F1thbxtt3!19sChIJXWue7VGw3pQRbyLY_KmrS4s",
+      "phone": "(47) 3028-2545",
+      "address": "Av. Getúlio Vargas, 389 - Bucarein, Joinville - SC, 89202-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Remake Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Remake+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deb07766e5f7fd:0x4dfe0fbac9a21328!8m2!3d-26.3202585!4d-48.8764565!16s%2Fg%2F11fyxbkfyp!19sChIJ_fflZnew3pQRKBOiyboP_k0",
+      "phone": "(47) 98408-0828",
+      "address": "R. Fernando Drefahl, 49 - São Marcos, Joinville - SC, 89214-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BT Wood Marcenaria Router CNC",
+      "href": "https://www.google.com/maps/place/BT+Wood+Marcenaria+Router+CNC/data=!4m7!3m6!1s0x94deb15515e534ff:0xd3dbed64e6a7edba!8m2!3d-26.3229939!4d-48.8568003!16s%2Fg%2F11khrnfl9k!19sChIJ_zTlFVWx3pQRuu2n5mTt29M",
+      "phone": "(47) 99678-7293",
+      "address": "R. Max Heiden - Anita Garibaldi, Joinville - SC, 89203-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Falabretti",
+      "href": "https://www.google.com/maps/place/Falabretti/data=!4m7!3m6!1s0x94deb0f8b96493ad:0xbd1ba5b01f9793f0!8m2!3d-26.320618!4d-48.8456029!16s%2Fg%2F11bv2gz6qj!19sChIJrZNkufiw3pQR8JOXH7ClG70",
+      "phone": "(47) 3027-5219",
+      "address": "Av. Getúlio Vargas, 1446 - Anita Garibaldi, Joinville - SC, 89202-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estofaria Elite | Estofados sob medida",
+      "href": "https://www.google.com/maps/place/Estofaria+Elite+%7C+Estofados+sob+medida/data=!4m7!3m6!1s0x94deb1a81f53fe7f:0x3c1eb0caac9b5e08!8m2!3d-26.3216884!4d-48.8458115!16s%2Fg%2F11pq116fhr!19sChIJf_5TH6ix3pQRCF6brMqwHjw",
+      "phone": "(47) 99136-0145",
+      "address": "R. Leite Ribeiro, 90 - Anita Garibaldi, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa Gramado Madeira",
+      "href": "https://www.google.com/maps/place/Casa+Gramado+Madeira/data=!4m7!3m6!1s0x94deb1a4fc6cca0d:0xbf687a74694fa968!8m2!3d-26.3110839!4d-48.845277!16s%2Fg%2F11lv7v__ss!19sChIJDcps_KSx3pQRaKlPaXR6aL8",
+      "phone": "(47) 99149-4334",
+      "address": "Av. Getúlio Vargas, 389 - Bucarein, Joinville - SC, 89202-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Casa e Cozinha",
+      "href": "https://www.google.com/maps/place/Casa+e+Cozinha/data=!4m7!3m6!1s0x94deb0569add4861:0x82760c8a7f8dc586!8m2!3d-26.3157451!4d-48.8436153!16s%2Fg%2F11bv1p94tv!19sChIJYUjdmlaw3pQRhsWNf4oMdoI",
+      "phone": "(47) 3026-7409",
+      "address": "Giassi Bucarein - R. Inácio Bastos, 173 - Piso terreo Piso terreo - Bucarein, Joinville - SC, 89202-312",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moveis Sob Medida - Fugazza",
+      "href": "https://www.google.com/maps/place/Moveis+Sob+Medida+-+Fugazza/data=!4m7!3m6!1s0x94deb1832529882d:0xb23a3e1c039207ce!8m2!3d-26.3037569!4d-48.8133975!16s%2Fg%2F11yvy5hgdk!19sChIJLYgpJYOx3pQRzgeSAxw-OrI",
+      "phone": "(47) 99915-4922",
+      "address": "Rua: - Servidão Faustino Sebastião da Silva, 71 - Boa Vista, Joinville - SC, 89206-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Móveis Estrela",
+      "href": "https://www.google.com/maps/place/M%C3%B3veis+Estrela/data=!4m7!3m6!1s0x94dea5606e88fb0b:0x201808113d03267!8m2!3d-26.2731768!4d-48.8816129!16s%2Fg%2F11bvt11q10!19sChIJC_uIbmCl3pQRZzLQE4GAAQI",
+      "phone": "(47) 3435-5755",
+      "address": "R. Inambu, 2898 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mega Móveis Usados",
+      "href": "https://www.google.com/maps/place/Mega+M%C3%B3veis+Usados/data=!4m7!3m6!1s0x94dea53b230f1d9d:0xdc37ddfe96f1c7fa!8m2!3d-26.2737076!4d-48.8831431!16s%2Fg%2F11g310mqtr!19sChIJnR0PIzul3pQR-sfxlv7dN9w",
+      "phone": "(47) 99183-1039",
+      "address": "Av. Alm. Jaceguay, 3044 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Allbeta Loja Decor",
+      "href": "https://www.google.com/maps/place/Allbeta+Loja+Decor/data=!4m7!3m6!1s0x94deafb8e8a8a811:0x83983530e8456ae6!8m2!3d-26.2711996!4d-48.8723737!16s%2Fg%2F11zg1fb1t1!19sChIJEaio6Liv3pQR5mpF6DA1mIM",
+      "phone": "(47) 99255-4966",
+      "address": "Rua Otto Pfuetzenreuter - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Móveis Usados da Nina",
+      "href": "https://www.google.com/maps/place/M%C3%B3veis+Usados+da+Nina/data=!4m7!3m6!1s0x94deaf89d702f39f:0x1a3e5f6d0d8fe169!8m2!3d-26.2663619!4d-48.8798089!16s%2Fg%2F11bvt8kk18!19sChIJn_MC14mv3pQRaeGPDW1fPho",
+      "phone": "(47) 99235-7998",
+      "address": "R. Bernardo Welter, 32 - Costa e Silva, Joinville - SC, 89220-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Montador de móveis em geral",
+      "href": "https://www.google.com/maps/place/Montador+de+m%C3%B3veis+em+geral/data=!4m7!3m6!1s0x94dea53ceec12659:0xe98f0d1ecbd273c3!8m2!3d-26.2768689!4d-48.8850189!16s%2Fg%2F11h1jp9dch!19sChIJWSbB7jyl3pQRw3PSyx4Nj-k",
+      "phone": "(47) 99619-3608",
+      "address": "R. das Costureiras, 301 - Costa e Silva, Joinville - SC, 89220-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ED MÓVEIS SOB MEDIDA",
+      "href": "https://www.google.com/maps/place/ED+M%C3%93VEIS+SOB+MEDIDA/data=!4m7!3m6!1s0x94deaf3099fbfa6b:0x291cb2748f900d40!8m2!3d-26.2655488!4d-48.8634646!16s%2Fg%2F11h6cfbqld!19sChIJa_r7mTCv3pQRQA2Qj3SyHCk",
+      "phone": "(47) 99935-2506",
+      "address": "R. Fritz Koelling, 200 - Costa e Silva, Joinville - SC, 89219-130",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NAVALSKI Móveis sob medida",
+      "href": "https://www.google.com/maps/place/NAVALSKI+M%C3%B3veis+sob+medida/data=!4m7!3m6!1s0x456362335a43f785:0x1bcf1c6a6e19be94!8m2!3d-26.2774832!4d-48.8685989!16s%2Fg%2F11y8h5h_bq!19sChIJhfdDWjNiY0URlL4Zbmoczxs",
+      "phone": "(47) 98839-0994",
+      "address": "R. Sen. Mathias Schroeder, 85 - fundos - Costa e Silva, Joinville - SC, 89218-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Coelho móveis sob medida",
+      "href": "https://www.google.com/maps/place/Coelho+m%C3%B3veis+sob+medida/data=!4m7!3m6!1s0x94deb5b74ff9053b:0xbc24c81950ec024d!8m2!3d-26.281325!4d-48.8962674!16s%2Fg%2F11q29xgpk9!19sChIJOwX5T7e13pQRTQLsUBnIJLw",
+      "phone": "(47) 99167-3261",
+      "address": "R. Elário Gastão Baumer, 467 - Vila Nova, Joinville - SC, 89237-263",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "J Medeiros Móveis",
+      "href": "https://www.google.com/maps/place/J+Medeiros+M%C3%B3veis/data=!4m7!3m6!1s0x94deaf8b771fc3c3:0xf856426cd2902ccd!8m2!3d-26.2692667!4d-48.8759291!16s%2Fg%2F1vbnqkk2!19sChIJw8Mfd4uv3pQRzSyQ0mxCVvg",
+      "phone": "(47) 3473-5955",
+      "address": "R. Codornas, 427 - Costa e Silva, Joinville - SC, 89220-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AD Móveis Marcenaria",
+      "href": "https://www.google.com/maps/place/AD+M%C3%B3veis+Marcenaria/data=!4m7!3m6!1s0x94deaf8a0cc2dd31:0x54c1f673a949c3ed!8m2!3d-26.2688691!4d-48.8797828!16s%2Fg%2F1tfh5tj1!19sChIJMd3CDIqv3pQR7cNJqXP2wVQ",
+      "phone": "(47) 3473-5399",
+      "address": "R. Bernardo Welter, 322 - Costa e Silva, Joinville - SC, 89220-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JS Marcenaria Design",
+      "href": "https://www.google.com/maps/place/JS+Marcenaria+Design/data=!4m7!3m6!1s0x94deb1c61e54a905:0x9da5f9ce24ba9bf9!8m2!3d-26.3534408!4d-48.8201329!16s%2Fg%2F11gs5fz0lp!19sChIJBalUHsax3pQR-Zu6JM75pZ0",
+      "phone": "(47) 99719-1478",
+      "address": "R. João da Costa Júnior, 1285 - João Costa, Joinville - SC, 89209-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Schmidt",
+      "href": "https://www.google.com/maps/place/Marcenaria+Schmidt/data=!4m7!3m6!1s0x94dea57b369498ad:0x1a27f639ff1d4c3d!8m2!3d-26.2654894!4d-48.8866048!16s%2Fg%2F1tfh5thy!19sChIJrZiUNnul3pQRPUwd_zn2Jxo",
+      "phone": "(47) 99971-1131",
+      "address": "R. Guilherme Finkbeiner, 132 - Costa e Silva, Joinville - SC, 89220-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Móveis Jedan",
+      "href": "https://www.google.com/maps/place/M%C3%B3veis+Jedan/data=!4m7!3m6!1s0x94dea5b6f4838ce5:0xe6b75b835347d1f8!8m2!3d-26.292356!4d-48.8996752!16s%2Fg%2F11qgdfh98m!19sChIJ5YyD9Lal3pQR-NFHU4Nbt-Y",
+      "phone": "(47) 99630-7928",
+      "address": "R. Leopoldo Beninca, 817 - Vila Nova, Joinville - SC, 89237-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bruluc Móveis",
+      "href": "https://www.google.com/maps/place/Bruluc+M%C3%B3veis/data=!4m7!3m6!1s0x94dea5cbb089e525:0x7cd4d626c6e8a68c!8m2!3d-26.2951844!4d-48.9021695!16s%2Fg%2F11pdmv97j8!19sChIJJeWJsMul3pQRjKboxibW1Hw",
+      "phone": "(47) 98881-8688",
+      "address": "R. Cmte. Karl Busch - Vila Nova, Joinville - SC, 89237-163",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Júnior Móveis Usados",
+      "href": "https://www.google.com/maps/place/J%C3%BAnior+M%C3%B3veis+Usados/data=!4m7!3m6!1s0x94dea547aef085b5:0x752020e2e7ac07cb!8m2!3d-26.2872857!4d-48.8980176!16s%2Fg%2F11f40pgyvl!19sChIJtYXwrkel3pQRywes5-IgIHU",
+      "phone": "(47) 3422-2554",
+      "address": "R. XV de Novembro, 5378 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HN PLANEJADOS",
+      "href": "https://www.google.com/maps/place/HN+PLANEJADOS/data=!4m7!3m6!1s0x807932d8bb27724b:0xe35ac4ce2c329ea2!8m2!3d-26.2842317!4d-48.8998378!16s%2Fg%2F11z4xnkt0d!19sChIJS3Inu9gyeYARop4yLM7EWuM",
+      "phone": "(47) 99159-3608",
+      "address": "R. Alfredo Bachtold, 351 - Vila Nova, Joinville - SC, 89237-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marciel móveis",
+      "href": "https://www.google.com/maps/place/Marciel+m%C3%B3veis/data=!4m7!3m6!1s0x94dea59be1c2e5f9:0x988f7fcbe19b3b6a!8m2!3d-26.2829331!4d-48.8986952!16s%2Fg%2F11p5n8bvk4!19sChIJ-eXC4Zul3pQRajub4ct_j5g",
+      "phone": "(47) 99671-3894",
+      "address": "R. João Miers - Vila Nova, Joinville - SC, 89237-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lojas Cachoeira filial 4",
+      "href": "https://www.google.com/maps/place/Lojas+Cachoeira+filial+4/data=!4m7!3m6!1s0x94dea5ee018419a1:0x87a1580011a89557!8m2!3d-26.2913691!4d-48.900357!16s%2Fg%2F11j_0pf8r2!19sChIJoRmEAe6l3pQRV5WoEQBYoYc",
+      "phone": "(47) 98902-0754",
+      "address": "R. Bento Torquato da Rocha, 462 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TM Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/TM+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94dea5201849fd5d:0xb4fc1acc91415454!8m2!3d-26.2848086!4d-48.9184313!16s%2Fg%2F11dxcknz66!19sChIJXf1JGCCl3pQRVFRBkcwa_LQ",
+      "phone": "(47) 3433-1615",
+      "address": "R. Maria Margareta Hasselmann, 237 - Vila Nova, Joinville - SC, 89237-663",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "My House Projetados - Móveis Sob medida",
+      "href": "https://www.google.com/maps/place/My+House+Projetados+-+M%C3%B3veis+Sob+medida/data=!4m7!3m6!1s0x94dea55367198479:0xf08d9e444ef87a2e!8m2!3d-26.2897096!4d-48.9136119!16s%2Fg%2F11snyvcr60!19sChIJeYQZZ1Ol3pQRLnr4TkSejfA",
+      "phone": "(47) 99980-7953",
+      "address": "R. Maria Santa Corrêa, n° 266 - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Primus Interiores",
+      "href": "https://www.google.com/maps/place/Primus+Interiores/data=!4m7!3m6!1s0x94dea541a5dea9f3:0xbdd58ed05167b906!8m2!3d-26.2831893!4d-48.8965784!16s%2Fg%2F11f3c8_rb8!19sChIJ86nepUGl3pQRBrlnUdCO1b0",
+      "phone": "(47) 3473-6341",
+      "address": "R. Pascoal Filippi, 426 - Vila Nova, Joinville - SC, 89237-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maxnobre Móveis Planejados",
+      "href": "https://www.google.com/maps/place/Maxnobre+M%C3%B3veis+Planejados/data=!4m7!3m6!1s0x94dea56cb2598dcd:0x89904c3226c6c139!8m2!3d-26.2932861!4d-48.8983667!16s%2Fg%2F11k549_s7t!19sChIJzY1Zsmyl3pQROcHGJjJMkIk",
+      "phone": "(47) 99221-8622",
+      "address": "R. Alex Kricheldorf, 200 - Vila Nova, Joinville - SC, 89237-156",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Economic Móveis Planejados",
+      "href": "https://www.google.com/maps/place/Economic+M%C3%B3veis+Planejados/data=!4m7!3m6!1s0x94dea542831cd5e5:0x82c6ef5205c5b670!8m2!3d-26.2976788!4d-48.9052324!16s%2Fg%2F11kq2d_d92!19sChIJ5dUcg0Kl3pQRcLbFBVLvxoI",
+      "phone": "(47) 99649-6040",
+      "address": "R. Dante Nazato, 1180 - Vila Nova, Joinville - SC, 89237-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rodrigo Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Rodrigo+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deb51a415e9b05:0x9ba465a318be33d5!8m2!3d-26.349878!4d-48.7951336!16s%2Fg%2F11gxw7qwwg!19sChIJBZteQRq13pQR1TO-GKNlpJs",
+      "phone": "(47) 99736-1070",
+      "address": "R. Seis de Janeiro, 519 - Paranaguamirim, Joinville - SC, 89231-442",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Lehnnkuhl",
+      "href": "https://www.google.com/maps/place/Marcenaria+Lehnnkuhl/data=!4m7!3m6!1s0x94dea56aaf103e7d:0xb3046a70d86b542e!8m2!3d-26.2795672!4d-48.9002549!16s%2Fg%2F1ptv_pnwc!19sChIJfT4Qr2ql3pQRLlRr2HBqBLM",
+      "phone": "(47) 3439-0751",
+      "address": "R. Gustavo Augusto Henrique Kuhl, 318 - Vila Nova, Joinville - SC, 89220-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Manus Marcenaria",
+      "href": "https://www.google.com/maps/place/Manus+Marcenaria/data=!4m7!3m6!1s0x94dea5d7fc1e6ed9:0x5fd018ea4419c5e7!8m2!3d-26.2905269!4d-48.8953538!16s%2Fg%2F11f71g6h01!19sChIJ2W4e_Nel3pQR58UZROoY0F8",
+      "phone": "(47) 3439-1725",
+      "address": "R. Miguel Vogelsanger, 124 - Vila Nova, Joinville - SC, 89237-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Trapp marcenaria",
+      "href": "https://www.google.com/maps/place/Trapp+marcenaria/data=!4m7!3m6!1s0x94dea5201a62c431:0xcdf592ac84ccf054!8m2!3d-26.2875059!4d-48.9194919!16s%2Fg%2F11hc_jpcbt!19sChIJMcRiGiCl3pQRVPDMhKyS9c0",
+      "phone": "(47) 99622-3047",
+      "address": "R. XV de Novembro, 8743 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fabrinew",
+      "href": "https://www.google.com/maps/place/Fabrinew/data=!4m7!3m6!1s0x94dea5237ed30d27:0x4e02f736409ca82!8m2!3d-26.2891039!4d-48.9125449!16s%2Fg%2F11bvt2cc0g!19sChIJJw3TfiOl3pQRgsoJZHMv4AQ",
+      "phone": "(47) 3466-3582",
+      "address": "R. Arlindo Corrêa, 81 - Vila Nova, Joinville - SC, 89237-394",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Móveis Antonowiski",
+      "href": "https://www.google.com/maps/place/M%C3%B3veis+Antonowiski/data=!4m7!3m6!1s0x94dea5d99803a2bd:0x6961fab1ca66b7fa!8m2!3d-26.2828543!4d-48.9119054!16s%2Fg%2F11g4d6sn2h!19sChIJvaIDmNml3pQR-rdmyrH6YWk",
+      "phone": "(47) 99284-3079",
+      "address": "R. Amandus Penski - Vila Nova, Joinville - SC, 89237-625",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Meu Espaço Marcenaria",
+      "href": "https://www.google.com/maps/place/Meu+Espa%C3%A7o+Marcenaria/data=!4m7!3m6!1s0x94dea5340ae6a987:0xa594a641145fe90f!8m2!3d-26.2976621!4d-48.9051472!16s%2Fg%2F11f4qm1dp_!19sChIJh6nmCjSl3pQRD-lfFEGmlKU",
+      "phone": "(47) 98923-7310",
+      "address": "R. Dante Nazato, 1180 - Vila Nova, Joinville - SC, 89237-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Armário Velho",
+      "href": "https://www.google.com/maps/place/Marcenaria+Arm%C3%A1rio+Velho/data=!4m7!3m6!1s0x94dea51bc438f8b1:0x9de37b04ded80c25!8m2!3d-26.2801757!4d-48.9080655!16s%2Fg%2F11lffzzj85!19sChIJsfg4xBul3pQRJQzY3gR7450",
+      "phone": "(47) 99129-6303",
+      "address": "R. João Woehl, 80 - Vila Nova, Joinville - SC, 89237-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria São João",
+      "href": "https://www.google.com/maps/place/Marcenaria+S%C3%A3o+Jo%C3%A3o/data=!4m7!3m6!1s0x94deb15bcae4de3d:0xc1b1578ed2bc1b16!8m2!3d-26.3320155!4d-48.8055714!16s%2Fg%2F1v3j03vk!19sChIJPd7kylux3pQRFhu80o5XscE",
+      "phone": "(47) 99716-4488",
+      "address": "R. Jarivatuba, 650 - Jarivatuba, Joinville - SC, 89230-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Heidemann Ltda",
+      "href": "https://www.google.com/maps/place/Marcenaria+Heidemann+Ltda/data=!4m7!3m6!1s0x94deb11b964b3763:0xf989c152cbcfa86a!8m2!3d-26.328145!4d-48.8335954!16s%2Fg%2F1tczrhpj!19sChIJYzdLlhux3pQRaqjPy1LBifk",
+      "phone": "(47) 3436-8317",
+      "address": "R. Florianópolis, 1077 - Guanabara, Joinville - SC, 89207-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alpha Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Alpha+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deb193c91691b1:0x51057d9ede383bca!8m2!3d-26.3393106!4d-48.8576264!16s%2Fg%2F11z3v_kkq_!19sChIJsZEWyZOx3pQRyjs43p59BVE",
+      "phone": "(47) 99230-5070",
+      "address": "R. Copacabana, 1770 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ariel Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Ariel+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deb0f07fe3871f:0x35c234e30a4d1f0f!8m2!3d-26.3284706!4d-48.8498525!16s%2Fg%2F11b86trzz0!19sChIJH4fjf_Cw3pQRDx9NCuM0wjU",
+      "phone": "(47) 99606-7865",
+      "address": "R. Guarani, 244 - Floresta, Joinville - SC, 89211-335",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Green Home Móveis Sob Medida",
+      "href": "https://www.google.com/maps/place/Green+Home+M%C3%B3veis+Sob+Medida/data=!4m7!3m6!1s0x94deb151f22c520d:0x483fd1c3e7597a06!8m2!3d-26.3414886!4d-48.8544607!16s%2Fg%2F11y3m23151!19sChIJDVIs8lGx3pQRBnpZ58PRP0g",
+      "phone": "(47) 99969-1825",
+      "address": "R. Santa Maria, 637 - Floresta, Joinville - SC, 89212-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marcenaria Stang",
+      "href": "https://www.google.com/maps/place/Marcenaria+Stang/data=!4m7!3m6!1s0x94deb15b421a93d1:0xa225a6335017e108!8m2!3d-26.3318815!4d-48.808366!16s%2Fg%2F11fyljqy16!19sChIJ0ZMaQlux3pQRCOEXUDOmJaI",
+      "phone": "(47) 99961-1899",
+      "address": "R. Bernini, 312 - Jarivatuba, Joinville - SC, 89230-593",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ana's Móveis",
+      "href": "https://www.google.com/maps/place/Ana%27s+M%C3%B3veis/data=!4m7!3m6!1s0x94deb1f6af445893:0x69ec5530505dfc2d!8m2!3d-26.3315225!4d-48.825846!16s%2Fg%2F11gy3hg361!19sChIJk1hEr_ax3pQRLfxdUDBV7Gk",
+      "phone": "(47) 99149-6781",
+      "address": "R. Prof. José A Dias Barreto, 37 - Itaum, Joinville - SC, 89210-563",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Perfix - Acessórios para Móveis",
+      "href": "https://www.google.com/maps/place/Perfix+-+Acess%C3%B3rios+para+M%C3%B3veis/data=!4m7!3m6!1s0x94deb13f32e8d6ef:0x7f9c98dc9cb012c7!8m2!3d-26.335477!4d-48.8215207!16s%2Fg%2F1ptwrvzrn!19sChIJ79boMj-x3pQRxxKwnNyYnH8",
+      "phone": "(47) 3454-9740",
+      "address": "R. Cidade de Boa Viagem, 151 - Itaum, Joinville - SC, 89210-705",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

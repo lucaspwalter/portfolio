@@ -1,0 +1,777 @@
+{
+  "id": "reformas",
+  "nome": "Reformas",
+  "terms": [
+    "empresa de reformas",
+    "reforma residencial",
+    "empreiteiro"
+  ],
+  "profiles": 245,
+  "qualified": [
+    {
+      "name": "Giz Construções e Reformas",
+      "href": "https://www.google.com/maps/place/Giz+Constru%C3%A7%C3%B5es+e+Reformas/data=!4m7!3m6!1s0x94deb1e117aadee9:0x9c30feec3e7cc51c!8m2!3d-26.3002967!4d-48.8533009!16s%2Fg%2F11f771vtk5!19sChIJ6d6qF-Gx3pQRHMV8Puz-MJw",
+      "phone": "(47) 99199-4640",
+      "address": "R. Expedicionário Holz, 550 - Sl 503 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moura construções e reformas",
+      "href": "https://www.google.com/maps/place/Moura+constru%C3%A7%C3%B5es+e+reformas/data=!4m7!3m6!1s0x94deb7c871b5c18f:0x1d3b18969b8a7b6f!8m2!3d-26.3739489!4d-48.8273056!16s%2Fg%2F11rnc6y6fq!19sChIJj8G1cci33pQRb3uKm5YYOx0",
+      "phone": "(47) 99975-2801",
+      "address": "R. Emílio Endres, 178 - Itinga, Joinville - SC, 89235-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dinho Reformas e Manutenções – Empresa especializada em Reparos Reformas e Manutenções.",
+      "href": "https://www.google.com/maps/place/Dinho+Reformas+e+Manuten%C3%A7%C3%B5es+%E2%80%93+Empresa+especializada+em+Reparos+Reformas+e+Manuten%C3%A7%C3%B5es./data=!4m7!3m6!1s0x94deb6cb32e95555:0xca6ed3c428313310!8m2!3d-26.3507606!4d-48.8228638!16s%2Fg%2F11h94p60b4!19sChIJVVXpMsu23pQREDMxKMTTbso",
+      "phone": "(47) 99985-5800",
+      "address": "R. Celestino Cândido de Oliveira, 469 - João Costa, Joinville - SC, 89209-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paulinho Reformas e Construções",
+      "href": "https://www.google.com/maps/place/Paulinho+Reformas+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb78fa635443f:0xc6174cd6f3cef784!8m2!3d-26.3608792!4d-48.8046379!16s%2Fg%2F11k9t22ftt!19sChIJP0Q1po-33pQRhPfO89ZMF8Y",
+      "phone": "(47) 98884-7711",
+      "address": "R. Paula Mayerle Wulf, 194 - Parque Guarani, Joinville - SC, 89209-268",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Reformas Realeza / Construções, reformas manutenções",
+      "href": "https://www.google.com/maps/place/Reformas+Realeza+%2F+Constru%C3%A7%C3%B5es,+reformas+manuten%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb2219541d2fd:0xa2fa7711de4e9531!8m2!3d-26.2841215!4d-48.7955576!16s%2Fg%2F11bwywmtfr!19sChIJ_dJBlSGy3pQRMZVO3hF3-qI",
+      "phone": "(47) 98464-5353",
+      "address": "Agende sua visita - R. Pref. Baltasar Buschle, 1509 - Sl 3 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Reformas Santos",
+      "href": "https://www.google.com/maps/place/Reformas+Santos/data=!4m7!3m6!1s0x94deb3028bf9bce7:0x80a384a01bf9ca31!8m2!3d-26.3283437!4d-48.7971498!16s%2Fg%2F11ffl_l5v8!19sChIJ57z5iwKz3pQRMcr5G6CEo4A",
+      "phone": "(47) 98433-7714",
+      "address": "R. Prof. Avelino Marcante, 437 - Ulysses Guimarães, Joinville - SC, 89230-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "M.E reforma de rodas",
+      "href": "https://www.google.com/maps/place/M.E+reforma+de+rodas/data=!4m7!3m6!1s0x94deb7d4a7517c61:0xeca93e5bdc7f36c2!8m2!3d-26.3648749!4d-48.8299938!16s%2Fg%2F11zcmlnncx!19sChIJYXxRp9S33pQRwjZ_3Fs-qew",
+      "phone": "(47) 99785-0813",
+      "address": "Joinville - R. Constantino Caetano, 40 - Boehmerwald, Joinville - SC, 89235-045",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dunzer Construção e Engenharia",
+      "href": "https://www.google.com/maps/place/Dunzer+Constru%C3%A7%C3%A3o+e+Engenharia/data=!4m7!3m6!1s0x94deb7b438fb9a43:0x4fdd790e54f48467!8m2!3d-26.362424!4d-48.8169233!16s%2Fg%2F11ntp1jk8q!19sChIJQ5r7OLS33pQRZ4T0VA553U8",
+      "phone": "(47) 99686-9130",
+      "address": "R. Boehmerwald, 1890 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MASTE INTELIGÊNCIA EM OBRAS",
+      "href": "https://www.google.com/maps/place/MASTE+INTELIG%C3%8ANCIA+EM+OBRAS/data=!4m7!3m6!1s0x94deb108bb7f3a21:0xbb1d727255f36b4c!8m2!3d-26.3104571!4d-48.8538997!16s%2Fg%2F11wfkwzmbh!19sChIJITp_uwix3pQRTGvzVXJyHbs",
+      "phone": "(47) 99148-5823",
+      "address": "R. Min. Calógeras, 1499 - Anita Garibaldi, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jr Brasil Construção",
+      "href": "https://www.google.com/maps/place/Jr+Brasil+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x812aa0bab4f1e549:0x868ec74da8da18c5!8m2!3d-26.3621688!4d-48.8196145!16s%2Fg%2F11t9h6rksv!19sChIJSeXxtLqgKoERxRjaqE3HjoY",
+      "phone": "(47) 99179-0528",
+      "address": "R. Boehmerwald, 1769 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira Gonçalves",
+      "href": "https://www.google.com/maps/place/Empreiteira+Gon%C3%A7alves/data=!4m7!3m6!1s0x94deb1390aeafe61:0x37cad1430e1cd598!8m2!3d-26.3385504!4d-48.8234205!16s%2Fg%2F11c3n1w802!19sChIJYf7qCjmx3pQRmNUcDkPRyjc",
+      "phone": "(47) 3085-3330",
+      "address": "R. Anitápolis, 150 - Itaum, Joinville - SC, 89210-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santa Catarina Engenharia e Impermeabilização",
+      "href": "https://www.google.com/maps/place/Santa+Catarina+Engenharia+e+Impermeabiliza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb73e19b84a31:0x2466a7ec547d07fd!8m2!3d-26.3685989!4d-48.8241415!16s%2Fg%2F11kpy6j2k1!19sChIJMUq4GT633pQR_Qd9VOynZiQ",
+      "phone": "(47) 99648-9518",
+      "address": "R. dos Agrônomos, 375 - Guanabara, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Construbel Empreiteira de Mão de Obra",
+      "href": "https://www.google.com/maps/place/Construbel+Empreiteira+de+M%C3%A3o+de+Obra/data=!4m7!3m6!1s0x94deb40e05e85c43:0x9de1587c98d2306f!8m2!3d-26.3466139!4d-48.7851342!16s%2Fg%2F1trqjccx!19sChIJQ1zoBQ603pQRbzDSmHxY4Z0",
+      "phone": "(47) 3436-3274",
+      "address": "R. Tiatira, 65 - Paranaguamirim, Joinville - SC, 89231-730",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bela Vista Construções",
+      "href": "https://www.google.com/maps/place/Bela+Vista+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb6bd9f6874c7:0x3519e41d02f866ae!8m2!3d-26.365308!4d-48.8130471!16s%2Fg%2F1tdkht8y!19sChIJx3Ron7223pQRrmb4Ah3kGTU",
+      "phone": "(47) 3438-2816",
+      "address": "R. Cidade de Maracajá, 73 - Parque Guarani, Joinville - SC, 89235-735",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adecompar Empreiteira De Mao De Obra",
+      "href": "https://www.google.com/maps/place/Adecompar+Empreiteira+De+Mao+De+Obra/data=!4m7!3m6!1s0x94deb166361991ff:0xc1cba112a00c5bf6!8m2!3d-26.3234022!4d-48.8085297!16s%2Fg%2F11hbkhxh8p!19sChIJ_5EZNmax3pQR9lsMoBKhy8E",
+      "phone": "(47) 3028-5647",
+      "address": "R. Jarivatuba, 1758 - Jarivatuba, Joinville - SC, 89230-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira Renato",
+      "href": "https://www.google.com/maps/place/Empreiteira+Renato/data=!4m7!3m6!1s0x94deb017c8957067:0x75343d4f867dc6b!8m2!3d-26.2977913!4d-48.8610185!16s%2Fg%2F11b861mdjm!19sChIJZ3CVyBew3pQRa9xn-NRDUwc",
+      "phone": "(47) 3028-6302",
+      "address": "R. XV de Novembro, 1927 - Glória, Joinville - SC, 89201-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira",
+      "href": "https://www.google.com/maps/place/Empreiteira/data=!4m7!3m6!1s0x94deb1887e654c13:0xe4377c9991624f55!8m2!3d-26.3045057!4d-48.8461212!16s%2Fg%2F11hz6609l9!19sChIJE0xlfoix3pQRVU9ikZl8N-Q",
+      "phone": "(47) 99958-2082",
+      "address": "Av. Juscelino Kubitscheck - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CMB Empreiteira de Mão de Obra",
+      "href": "https://www.google.com/maps/place/CMB+Empreiteira+de+M%C3%A3o+de+Obra/data=!4m7!3m6!1s0x94deafcbc60d4699:0x6e60881d0480fc1d!8m2!3d-26.2638295!4d-48.8437928!16s%2Fg%2F11bv6pq6c7!19sChIJmUYNxsuv3pQRHfyABB2IYG4",
+      "phone": "(47) 3425-4629",
+      "address": "R. Avaí, 77 - Bom Retiro, Joinville - SC, 89222-480",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JMO Empreiteira",
+      "href": "https://www.google.com/maps/place/JMO+Empreiteira/data=!4m7!3m6!1s0x94deb105da9e8797:0x2e757815957fee15!8m2!3d-26.3202011!4d-48.8313884!16s%2Fg%2F1tls3zzx!19sChIJl4ee2gWx3pQRFe5_lRV4dS4",
+      "phone": "(47) 98427-2555",
+      "address": "R. Graciosa, 914 - Guanabara, Joinville - SC, 89207-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aqui Resolve",
+      "href": "https://www.google.com/maps/place/Aqui+Resolve/data=!4m7!3m6!1s0x94deb1a6bbb4c233:0x5b8fd98814e50a1a!8m2!3d-26.3055505!4d-48.8433052!16s%2Fg%2F11z1tbfcfd!19sChIJM8K0u6ax3pQRGgrlFIjZj1s",
+      "phone": "(47) 99109-2882",
+      "address": "R. Abdon Batista, 183 - Fundos - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio 3x1 - Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Studio+3x1+-+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deb17298e77945:0x2e89213fcaee5567!8m2!3d-26.3028172!4d-48.8511776!16s%2Fg%2F11q19gxbj0!19sChIJRXnnmHKx3pQRZ1Xuyj8hiS4",
+      "phone": "(47) 99715-7057",
+      "address": "Edificio Helbor offices, Rua Henrique Meyer, 280 - sala 811 - Centro, Joinville - SC, 89201-405",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Equipe da Construção - Joinville",
+      "href": "https://www.google.com/maps/place/Equipe+da+Constru%C3%A7%C3%A3o+-+Joinville/data=!4m7!3m6!1s0x94deb1409abe5157:0x26769654deb02bee!8m2!3d-26.3081097!4d-48.8354622!16s%2Fg%2F11sd_wv7c1!19sChIJV1G-mkCx3pQR7iuw3lSWdiY",
+      "phone": "(47) 99255-4199",
+      "address": "Rua Aubé, 1039 - Boa Vista, Joinville - SC, 89205-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Reformas Perucelli",
+      "href": "https://www.google.com/maps/place/Reformas+Perucelli/data=!4m7!3m6!1s0x94deaf3082d508d7:0x279ad12c314b59ea!8m2!3d-26.2427526!4d-48.8011252!16s%2Fg%2F11xct4qr69!19sChIJ1wjVgjCv3pQR6llLMSzRmic",
+      "phone": "(47) 99178-0316",
+      "address": "R. Vitorino Silvino Bittencourt - Aventureiro, Joinville - SC, 89225-830",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "F M M Construções Civis",
+      "href": "https://www.google.com/maps/place/F+M+M+Constru%C3%A7%C3%B5es+Civis/data=!4m7!3m6!1s0x94deb04c162cc7d3:0xb88ff4e4f6d4d9b2!8m2!3d-26.3054235!4d-48.8440241!16s%2Fg%2F1pt_zpvw0!19sChIJ08csFkyw3pQRstnU9uT0j7g",
+      "phone": "(47) 3029-5521",
+      "address": "R. Abdon Batista, 121 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Construtora Nobre",
+      "href": "https://www.google.com/maps/place/Construtora+Nobre/data=!4m7!3m6!1s0x94deb04c7d66a4c7:0xa2107874e697e0b4!8m2!3d-26.3044881!4d-48.8424998!16s%2Fg%2F1tm0v9m7!19sChIJx6RmfUyw3pQRtOCX5nR4EKI",
+      "phone": "(47) 3423-2954",
+      "address": "R. Sete de Setembro, 130 - Centro, Joinville - SC, 89201-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stilo Construtora e Incorporadora",
+      "href": "https://www.google.com/maps/place/Stilo+Construtora+e+Incorporadora/data=!4m7!3m6!1s0x94deb04bbb31894d:0x6bca006e3ceca9e2!8m2!3d-26.3023295!4d-48.8428254!16s%2Fg%2F11bx55h_rk!19sChIJTYkxu0uw3pQR4qnsPG4Ayms",
+      "phone": "(47) 3436-6896",
+      "address": "R. Jerônimo Coelho, 245 - Centro, Joinville - SC, 89201-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira De Mao De Obra Quatro Aguas Ltda",
+      "href": "https://www.google.com/maps/place/Empreiteira+De+Mao+De+Obra+Quatro+Aguas+Ltda/data=!4m7!3m6!1s0x94deb049686bec21:0xb6bb55867728d85b!8m2!3d-26.3037423!4d-48.845462!16s%2Fg%2F11j2yqcpz2!19sChIJIexraEmw3pQRW9god4ZVu7Y",
+      "phone": "(47) 99665-6610",
+      "address": "R. do Príncipe, 507 - Centro, Joinville - SC, 89201-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Santos & Santos Construção Civil",
+      "href": "https://www.google.com/maps/place/Santos+%26+Santos+Constru%C3%A7%C3%A3o+Civil/data=!4m7!3m6!1s0x94deb04a0711fba9:0x4bce700af07d1108!8m2!3d-26.2998945!4d-48.8443402!16s%2Fg%2F1ptxh1s9d!19sChIJqfsRB0qw3pQRCBF98Apwzks",
+      "phone": "(47) 3426-2917",
+      "address": "R. Princesa Isabel, 238 - Slj - Sl.1 - Centro, Joinville - SC, 89201-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Wazzo Construtora e Incorporadora",
+      "href": "https://www.google.com/maps/place/Wazzo+Construtora+e+Incorporadora/data=!4m7!3m6!1s0x94deb181810d9cb7:0x1126fa3140da6d4a!8m2!3d-26.3049836!4d-48.846759!16s%2Fg%2F11nt89j6r7!19sChIJt5wNgYGx3pQRSm3aQDH6JhE",
+      "phone": "(47) 99136-3133",
+      "address": "Av. Juscelino Kubitscheck - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Construtora RM",
+      "href": "https://www.google.com/maps/place/Construtora+RM/data=!4m7!3m6!1s0x94deb037bc2cbccd:0x428a02d307fe439e!8m2!3d-26.2997011!4d-48.8485309!16s%2Fg%2F1tgd7pj1!19sChIJzbwsvDew3pQRnkP-B9MCikI",
+      "phone": "(47) 3422-6111",
+      "address": "R. Mário Lobo, 61 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "vb empreiteira de mão de na construção civil",
+      "href": "https://www.google.com/maps/place/vb+empreiteira+de+m%C3%A3o+de+na+constru%C3%A7%C3%A3o+civil/data=!4m7!3m6!1s0x94deb02f971a7bf3:0x8d25890e269f88e8!8m2!3d-26.2897721!4d-48.8485774!16s%2Fg%2F11r96qg_d!19sChIJ83saly-w3pQR6IifJg6JJY0",
+      "phone": "(47) 98400-0130",
+      "address": "R. Dr. João Colin, 1285 - América, Joinville - SC, 89202-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AJG Construtora & Reformas",
+      "href": "https://www.google.com/maps/place/AJG+Construtora+%26+Reformas/data=!4m7!3m6!1s0x94deb03d74058e79:0x8a39cfe813797cc5!8m2!3d-26.2971808!4d-48.8592143!16s%2Fg%2F1pv603q__!19sChIJeY4FdD2w3pQRxXx5E-jPOYo",
+      "phone": "(47) 3455-1848",
+      "address": "R. Lages, 1640 - América, Joinville - SC, 89204-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A2 Construtora e Incorporadora",
+      "href": "https://www.google.com/maps/place/A2+Construtora+e+Incorporadora/data=!4m7!3m6!1s0x94deb04bec1ad583:0x53ab39c418c3efaa!8m2!3d-26.3043036!4d-48.8444251!16s%2Fg%2F11g6qrhb7x!19sChIJg9Ua7Euw3pQRqu_DGMQ5q1M",
+      "phone": "(47) 3028-9005",
+      "address": "Rua Alameda Bruestlein, 83 - Centro, Joinville - SC, 89201-455",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro Civil Rafael Chaves Amorim - Joinville SC",
+      "href": "https://www.google.com/maps/place/Engenheiro+Civil+Rafael+Chaves+Amorim+-+Joinville+SC/data=!4m7!3m6!1s0x288c44b71c4dc615:0xeaa98f718db3ebb3!8m2!3d-26.2843139!4d-48.8484353!16s%2Fg%2F11tffcj8td!19sChIJFcZNHLdEjCgRs-uzjXGPqeo",
+      "phone": "(47) 98815-0983",
+      "address": "R. Pref. Aristides Largura, 68 - Sl 08 - América, Joinville - SC, 89204-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira Braço Forte",
+      "href": "https://www.google.com/maps/place/Empreiteira+Bra%C3%A7o+Forte/data=!4m7!3m6!1s0x2e7670041bbc6ee5:0x561a89182d79552e!8m2!3d-26.2807268!4d-48.8498608!16s%2Fg%2F11y2nfg__r!19sChIJ5W68GwRwdi4RLlV5LRiJGlY",
+      "phone": "(47) 99713-5472",
+      "address": "R. Humberto de Campos, 29 - América, Joinville - SC, 89204-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Reis Empreiteira Mão de Obra",
+      "href": "https://www.google.com/maps/place/Reis+Empreiteira+M%C3%A3o+de+Obra/data=!4m7!3m6!1s0x94deb12fb0dbdbc1:0xc10c0aee40d3f5ea!8m2!3d-26.3219861!4d-48.8138893!16s%2Fg%2F11mtfhsbg0!19sChIJwdvbsC-x3pQR6vXTQO4KDME",
+      "phone": "(47) 3034-2098",
+      "address": "Rua Marechal Luz, 549 - Fátima, Joinville - SC, 89229-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maste Soluções e Reparos",
+      "href": "https://www.google.com/maps/place/Maste+Solu%C3%A7%C3%B5es+e+Reparos/data=!4m7!3m6!1s0x4ec0360e32e9df39:0x456e0bac3288585b!8m2!3d-26.3104513!4d-48.853894!16s%2Fg%2F11zdrss9qq!19sChIJOd_pMg42wE4RW1iIMqwLbkU",
+      "phone": "(47) 98420-6450",
+      "address": "R. Min. Calógeras, 1499 - Anita Garibaldi, Joinville - SC, 89202-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Termotech Montagens",
+      "href": "https://www.google.com/maps/place/Termotech+Montagens/data=!4m7!3m6!1s0x94deb1d276c93303:0x1c789d62d6793419!8m2!3d-26.2895392!4d-48.8488192!16s%2Fg%2F1ptxcjw3m!19sChIJAzPJdtKx3pQRGTR51mKdeBw",
+      "phone": "(47) 3027-1553",
+      "address": "R. Dr. João Colin, 1285 - América, Joinville - SC, 89204-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adriano Revestimento",
+      "href": "https://www.google.com/maps/place/Adriano+Revestimento/data=!4m7!3m6!1s0x94deb18e37f9ecfd:0xd1fd5352ea978698!8m2!3d-26.3170698!4d-48.8525796!16s%2Fg%2F11rfn3vzq3!19sChIJ_ez5N46x3pQRmIaX6lJT_dE",
+      "phone": "(47) 99901-2982",
+      "address": "R. Alagoas, 256 - Casa - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corlet Engenharia e Construções",
+      "href": "https://www.google.com/maps/place/Corlet+Engenharia+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb1ecdbb839bb:0x2c663203d116550!8m2!3d-26.3044739!4d-48.8594896!16s%2Fg%2F11qwr898kt!19sChIJuzm42-yx3pQRUGURPSBjxgI",
+      "phone": "(47) 99613-2895",
+      "address": "R. Aquidaban, 263 - Glória, Joinville - SC, 89216-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ratier Engenharia",
+      "href": "https://www.google.com/maps/place/Ratier+Engenharia/data=!4m7!3m6!1s0x94deb181f545748f:0x736ad361f47fc0d2!8m2!3d-26.3121802!4d-48.8512461!16s%2Fg%2F11h04b9gxs!19sChIJj3RF9YGx3pQR0sB_9GHTanM",
+      "phone": "(47) 99991-9174",
+      "address": "R. Pernambuco - Anita Garibaldi, Joinville - SC, 89202-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Edificazzo Construtora e Incorporadora",
+      "href": "https://www.google.com/maps/place/Edificazzo+Construtora+e+Incorporadora/data=!4m7!3m6!1s0x94deb0391c255555:0x1b8a76ac78555dee!8m2!3d-26.3003194!4d-48.8532795!16s%2Fg%2F11fd468s_2!19sChIJVVUlHDmw3pQR7l1VeKx2ihs",
+      "phone": "(47) 3013-5113",
+      "address": "R. Expedicionário Holz, 550 - Atiradores, Joinville - SC, 89203-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fabre Construtora",
+      "href": "https://www.google.com/maps/place/Fabre+Construtora/data=!4m7!3m6!1s0x94deb04465bf012b:0xf86d45f3ddfc05b1!8m2!3d-26.3099132!4d-48.8539831!16s%2Fg%2F11bv2glbyh!19sChIJKwG_ZUSw3pQRsQX83fNFbfg",
+      "phone": "(47) 3026-5588",
+      "address": "R. Pernambuco, 523 - Atiradores, Joinville - SC, 89203-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "TC Construtora Joinville",
+      "href": "https://www.google.com/maps/place/TC+Construtora+Joinville/data=!4m7!3m6!1s0x94deb1a97ac708bb:0x4e86776016b01368!8m2!3d-26.3150386!4d-48.8649368!16s%2Fg%2F11rb3gfthy!19sChIJuwjHeqmx3pQRaBOwFmB3hk4",
+      "phone": "(47) 98822-8006",
+      "address": "R. Xavantes, N 218 - Atiradores, Joinville - SC, 89203-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "N Correia Construções e Incorporações",
+      "href": "https://www.google.com/maps/place/N+Correia+Constru%C3%A7%C3%B5es+e+Incorpora%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb047346e0a15:0x91e7ce293382daea!8m2!3d-26.3048305!4d-48.8543507!16s%2Fg%2F1ptxsnsl8!19sChIJFQpuNEew3pQR6tqCMynO55E",
+      "phone": "(47) 3423-0315",
+      "address": "R. Jacob Eisenhuth, 329 - Atiradores, Joinville - SC, 89203-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FEY Instalação elétrica e hidráulicas",
+      "href": "https://www.google.com/maps/place/FEY+Instala%C3%A7%C3%A3o+el%C3%A9trica+e+hidr%C3%A1ulicas/data=!4m7!3m6!1s0xac2aff130e9f14cf:0x2affb66bacadb316!8m2!3d-26.314291!4d-48.850957!16s%2Fg%2F11ts9d_9sd!19sChIJzxSfDhP_KqwRFrOtrGu2_yo",
+      "phone": "(47) 99675-2071",
+      "address": "R. Rio Grande do Sul - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A R Construções de Edifícios",
+      "href": "https://www.google.com/maps/place/A+R+Constru%C3%A7%C3%B5es+de+Edif%C3%ADcios/data=!4m7!3m6!1s0x94deb063e4a6ebd5:0x311bda7d04e76e27!8m2!3d-26.3221217!4d-48.8651779!16s%2Fg%2F1pv1hygw8!19sChIJ1eum5GOw3pQRJ27nBH3aGzE",
+      "phone": "(47) 3027-7202",
+      "address": "R. Dona Marieta Stock, 270 - Anita Garibaldi, Joinville - SC, 43892-184",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Residencial Valentina",
+      "href": "https://www.google.com/maps/place/Residencial+Valentina/data=!4m7!3m6!1s0x94deb05849f1fe15:0x7e4460d5a3842bd9!8m2!3d-26.3193341!4d-48.8511124!16s%2Fg%2F1pty3gjzz!19sChIJFf7xSViw3pQR2SuEo9VgRH4",
+      "phone": "(47) 3028-7561",
+      "address": "R. Anita Garibaldi, 704 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estúdio Criativo Arquitetura e Interiores",
+      "href": "https://www.google.com/maps/place/Est%C3%BAdio+Criativo+Arquitetura+e+Interiores/data=!4m7!3m6!1s0x94deb165d9e60669:0xa51ae1fb7343ad76!8m2!3d-26.3246795!4d-48.8617305!16s%2Fg%2F1v62jtd5!19sChIJaQbm2WWx3pQRdq1Dc_vhGqU",
+      "phone": "(47) 3017-2777",
+      "address": "Com estacionamento - R. Anita Garibaldi, 2027 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estofaria Elite | Estofados sob medida",
+      "href": "https://www.google.com/maps/place/Estofaria+Elite+%7C+Estofados+sob+medida/data=!4m7!3m6!1s0x94deb1a81f53fe7f:0x3c1eb0caac9b5e08!8m2!3d-26.3216884!4d-48.8458115!16s%2Fg%2F11pq116fhr!19sChIJf_5TH6ix3pQRCF6brMqwHjw",
+      "phone": "(47) 99136-0145",
+      "address": "R. Leite Ribeiro, 90 - Anita Garibaldi, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Falabretti",
+      "href": "https://www.google.com/maps/place/Falabretti/data=!4m7!3m6!1s0x94deb0f8b96493ad:0xbd1ba5b01f9793f0!8m2!3d-26.320618!4d-48.8456029!16s%2Fg%2F11bv2gz6qj!19sChIJrZNkufiw3pQR8JOXH7ClG70",
+      "phone": "(47) 3027-5219",
+      "address": "Av. Getúlio Vargas, 1446 - Anita Garibaldi, Joinville - SC, 89202-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "First Incorporações e Construções",
+      "href": "https://www.google.com/maps/place/First+Incorpora%C3%A7%C3%B5es+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb05b4c528933:0x9cf9c46eb2787245!8m2!3d-26.3135599!4d-48.8549315!16s%2Fg%2F1ptwgjhpy!19sChIJM4lSTFuw3pQRRXJ4sm7E-Zw",
+      "phone": "(47) 3027-1268",
+      "address": "R. Concórdia, 130 - Anita Garibaldi, Joinville - SC, 54892-176",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Construtora Evecon",
+      "href": "https://www.google.com/maps/place/Construtora+Evecon/data=!4m7!3m6!1s0x94deb01986e6a3a9:0x30d1be7655079fa4!8m2!3d-26.3168134!4d-48.8498507!16s%2Fg%2F11b87c3k1n!19sChIJqaPmhhmw3pQRpJ8HVXa-0TA",
+      "phone": "(47) 99963-4828",
+      "address": "R. Cel. Santiago, 868 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RDN Serviços Ltda",
+      "href": "https://www.google.com/maps/place/RDN+Servi%C3%A7os+Ltda/data=!4m7!3m6!1s0x94deb0434c6baf21:0x5b4091dbe96afc68!8m2!3d-26.3149084!4d-48.8478068!16s%2Fg%2F1ptwy_hsw!19sChIJIa9rTEOw3pQRaPxq6duRQFs",
+      "phone": "(47) 3801-4821",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luana Braga Engenheira Civil",
+      "href": "https://www.google.com/maps/place/Luana+Braga+Engenheira+Civil/data=!4m7!3m6!1s0x94deb1d9595d2c75:0x3cc9038d7144d646!8m2!3d-26.2835929!4d-48.8357908!16s%2Fg%2F11h0n7yjl3!19sChIJdSxdWdmx3pQRRtZEcY0DyTw",
+      "phone": "(47) 99205-1476",
+      "address": "R. Guaramirim, 408 - Saguaçu, Joinville - SC, 89221-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DM CONSTRUTORA EM JOINVILLE",
+      "href": "https://www.google.com/maps/place/DM+CONSTRUTORA+EM+JOINVILLE/data=!4m7!3m6!1s0x94deb143cde62db5:0xeb5f1141c3b45bf5!8m2!3d-26.2846723!4d-48.8327764!16s%2Fg%2F11w4kvlnkw!19sChIJtS3mzUOx3pQR9Vu0w0ERX-s",
+      "phone": "(47) 99971-1196",
+      "address": "R. Ágata, 178 - Saguaçu, Joinville - SC, 89221-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dalleon",
+      "href": "https://www.google.com/maps/place/Dalleon/data=!4m7!3m6!1s0x94deafd657778059:0x3b84c8ce566a69e8!8m2!3d-26.2788838!4d-48.8466823!16s%2Fg%2F11jp21g7lz!19sChIJWYB3V9av3pQR6GlqVs7IhDs",
+      "phone": "(47) 3202-6244",
+      "address": "R. Fortaleza, 73 - Saguaçu, Joinville - SC, 89221-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VB EMPREITEIRA",
+      "href": "https://www.google.com/maps/place/VB+EMPREITEIRA/data=!4m7!3m6!1s0x211f0085a8529599:0xef192f0fdc29eb8d!8m2!3d-26.256315!4d-48.802291!16s%2Fg%2F11ynw1xc5s!19sChIJmZVSqIUAHyERjesp3A8vGe8",
+      "phone": "(47) 98875-2611",
+      "address": "R. Rocha Pombo, 4116 - Jardim Iririú, Joinville - SC, 89224-041",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AWS construções e reformas",
+      "href": "https://www.google.com/maps/place/AWS+constru%C3%A7%C3%B5es+e+reformas/data=!4m7!3m6!1s0x94deaf25c248c111:0x59d2a348cd9d5570!8m2!3d-26.2686136!4d-48.8649958!16s%2Fg%2F11qn4vhb6k!19sChIJEcFIwiWv3pQRcFWdzUij0lk",
+      "phone": "(47) 3278-1901",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 585 - sala 01 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AllPlace Engenharia - Projetos de Engenharia",
+      "href": "https://www.google.com/maps/place/AllPlace+Engenharia+-+Projetos+de+Engenharia/data=!4m7!3m6!1s0x94deb1d25e11a82d:0xbcfd1ee17994ddc0!8m2!3d-26.2946592!4d-48.8405014!16s%2Fg%2F11rq14r649!19sChIJLagRXtKx3pQRwN2UeeEe_bw",
+      "phone": "(47) 99764-9269",
+      "address": "R. Saguaçu, 75 - Saguaçu, Joinville - SC, 89221-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kalserak prestadora de serviços e reparos",
+      "href": "https://www.google.com/maps/place/Kalserak+prestadora+de+servi%C3%A7os+e+reparos/data=!4m7!3m6!1s0x94deaf2d6e47a43f:0x496cbd49bc4ab886!8m2!3d-26.2747775!4d-48.8715424!16s%2Fg%2F11fjbqxhzs!19sChIJP6RHbi2v3pQRhrhKvEm9bEk",
+      "phone": "(47) 99655-0599",
+      "address": "R. Henrique Miers, n° 1669 - Costa e Silva, Joinville - SC, 89218-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "WS cerviços e Reformas",
+      "href": "https://www.google.com/maps/place/WS+cervi%C3%A7os+e+Reformas/data=!4m7!3m6!1s0x94deaf4005f77f7b:0x19c88f0a22974402!8m2!3d-26.2392072!4d-48.8359469!16s%2Fg%2F11sbq65rrg!19sChIJe3_3BUCv3pQRAkSXIgqPyBk",
+      "phone": "(47) 99665-5128",
+      "address": "R. Vital Silva, 64 - Jardim Sofia, Joinville - SC, 89223-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Acompanhantes Bairro Costa e Silva",
+      "href": "https://www.google.com/maps/place/Acompanhantes+Bairro+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf52f828d97f:0x12b9187d04c37188!8m2!3d-26.2707728!4d-48.8698354!16s%2Fg%2F11t1566zsy!19sChIJf9ko-FKv3pQRiHHDBH0YuRI",
+      "phone": "(47) 99642-0325",
+      "address": "R. Prof. Humberto Rohden, 230 - Costa e Silva, Joinville - SC, 89219-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Schneider Engenheiros",
+      "href": "https://www.google.com/maps/place/Schneider+Engenheiros/data=!4m7!3m6!1s0x94deafed6b365ccf:0x7c0b17759f6627f7!8m2!3d-26.2706175!4d-48.8687441!16s%2Fg%2F1tjbt9tx!19sChIJz1w2a-2v3pQR9ydmn3UXC3w",
+      "phone": "(47) 3207-3698",
+      "address": "R. Edgar Klein, 37 - Costa e Silva, Joinville - SC, 89218-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Condomínio Residencial Costa e Silva",
+      "href": "https://www.google.com/maps/place/Condom%C3%ADnio+Residencial+Costa+e+Silva/data=!4m7!3m6!1s0x94dea5657fce6e3d:0x1839459bda99ed6a!8m2!3d-26.2690361!4d-48.8900954!16s%2Fg%2F1tcvk7qx!19sChIJPW7Of2Wl3pQRau2Z2ptFORg",
+      "phone": "(47) 3026-6882",
+      "address": "R. Inambu, 4000 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Viva Costa e Silva",
+      "href": "https://www.google.com/maps/place/Viva+Costa+e+Silva/data=!4m7!3m6!1s0x94dea5deb3b80d45:0xbb51f12deb3097d1!8m2!3d-26.2835929!4d-48.8799612!16s%2Fg%2F11v0bydggp!19sChIJRQ24s96l3pQR0Zcw6y3xUbs",
+      "phone": "(47) 99758-3163",
+      "address": "R. Prof. Rodrigues Freitas, 115 - Costa e Silva, Joinville - SC, 89217-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Obra Reformas Inteligentes",
+      "href": "https://www.google.com/maps/place/Obra+Reformas+Inteligentes/data=!4m7!3m6!1s0x94deafda455445bf:0xf28c67d6c13bd48a!8m2!3d-26.2733951!4d-48.8614748!16s%2Fg%2F11fsmvlmfb!19sChIJv0VURdqv3pQRitQ7wdZnjPI",
+      "phone": "(47) 99638-8220",
+      "address": "Av. Alm. Jaceguay - Santo Antônio, Joinville - SC, 89075-218",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A.a Vilson - Pedreiro ( 30 Anos de Experiência)",
+      "href": "https://www.google.com/maps/place/A.a+Vilson+-+Pedreiro+%28+30+Anos+de+Experi%C3%AAncia%29/data=!4m7!3m6!1s0x94dea5669dd3b54d:0x2915405244fcdeaa!8m2!3d-26.2707881!4d-48.8869127!16s%2Fg%2F1pv0ymvq6!19sChIJTbXTnWal3pQRqt78RFJAFSk",
+      "phone": "(47) 3026-1462",
+      "address": "R. Alberto Wiest, 145 - Costa e Silva, Joinville - SC, 89220-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NR Gesso",
+      "href": "https://www.google.com/maps/place/NR+Gesso/data=!4m7!3m6!1s0x94dea5c4cacfd9c9:0xd811ce0028c840c8!8m2!3d-26.2737607!4d-48.8859205!16s%2Fg%2F11yzc35xrh!19sChIJydnPysSl3pQRyEDIKADOEdg",
+      "phone": "(47) 99614-7999",
+      "address": "Av. Alm. Jaceguay, 3346 - Costa e Silva, Joinville - SC, 89221-705",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Construtora J A",
+      "href": "https://www.google.com/maps/place/Construtora+J+A/data=!4m7!3m6!1s0x94deaf935b64f025:0x49bc4ace7445dfbc!8m2!3d-26.2672577!4d-48.8653729!16s%2Fg%2F11bzrlbjrj!19sChIJJfBkW5Ov3pQRvN9FdM5KvEk",
+      "phone": "(47) 99988-8670",
+      "address": "R. Piritiba, 350 - Costa e Silva, Joinville - SC, 89219-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MN soluções elétricas - eletricista - Joinville - instalações - industrial - projeto elétrico - infraestrutura.",
+      "href": "https://www.google.com/maps/place/MN+solu%C3%A7%C3%B5es+el%C3%A9tricas+-+eletricista+-+Joinville+-+instala%C3%A7%C3%B5es+-+industrial+-+projeto+el%C3%A9trico+-+infraestrutura./data=!4m7!3m6!1s0x94dea5d6c006ff3f:0x34ba69383500d167!8m2!3d-26.2783352!4d-48.8959242!16s%2Fg%2F11kqkxr4xh!19sChIJP_8GwNal3pQRZ9EANThpujQ",
+      "phone": "(47) 99732-8604",
+      "address": "R. Sebastião Jonck - Vila Nova, Joinville - SC, 89237-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "HN PLANEJADOS",
+      "href": "https://www.google.com/maps/place/HN+PLANEJADOS/data=!4m7!3m6!1s0x807932d8bb27724b:0xe35ac4ce2c329ea2!8m2!3d-26.2842317!4d-48.8998378!16s%2Fg%2F11z4xnkt0d!19sChIJS3Inu9gyeYARop4yLM7EWuM",
+      "phone": "(47) 99159-3608",
+      "address": "R. Alfredo Bachtold, 351 - Vila Nova, Joinville - SC, 89237-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Benevenutti Material de Construção",
+      "href": "https://www.google.com/maps/place/Benevenutti+Material+de+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb11bb476c5a3:0xadda207bfcca44f4!8m2!3d-26.2874089!4d-48.8974915!16s%2Fg%2F1s04bb57b!19sChIJo8V2tBux3pQR9ETK_Hsg2q0",
+      "phone": "(47) 3439-0377",
+      "address": "R. XV de Novembro, 5380 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JVW7 ALIANÇA",
+      "href": "https://www.google.com/maps/place/JVW7+ALIAN%C3%87A/data=!4m7!3m6!1s0x94dea5b696c4dbb5:0x4b7d127b95be3eeb!8m2!3d-26.2794358!4d-48.8999594!16s%2Fg%2F11rb2ppvw0!19sChIJtdvElral3pQR6z6-lXsSfUs",
+      "phone": "(47) 99230-3928",
+      "address": "R. Gustavo Augusto Henrique Kuhl, 33 - Vila Nova, Joinville - SC, 89237-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira Tayane",
+      "href": "https://www.google.com/maps/place/Empreiteira+Tayane/data=!4m7!3m6!1s0x94dea57eb4bee5e7:0xccb80d940507cf5e!8m2!3d-26.2920863!4d-48.9133432!16s%2Fg%2F11t89c03fx!19sChIJ5-W-tH6l3pQRXs8HBZQNuMw",
+      "phone": "(47) 99188-0845",
+      "address": "R. Maria Santa Corrêa - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ALG Soluções em Pavimentação",
+      "href": "https://www.google.com/maps/place/ALG+Solu%C3%A7%C3%B5es+em+Pavimenta%C3%A7%C3%A3o/data=!4m7!3m6!1s0x861a730354e908f:0xe1412b4c69e79d07!8m2!3d-26.2889357!4d-48.9132399!16s%2Fg%2F11wnm3vv4v!19sChIJj5BONTCnYQgRB53naUwrQeE",
+      "phone": "(47) 99176-9961",
+      "address": "R. Maria Santa Corrêa, 177 - Vila Nova, Joinville - SC, 89237-390",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "INOVAVILLE Reformas & Construções",
+      "href": "https://www.google.com/maps/place/INOVAVILLE+Reformas+%26+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb1c8261d7cbb:0x1767388ebcc7da53!8m2!3d-26.3393182!4d-48.8731875!16s%2Fg%2F11gnsc2kkw!19sChIJu3wdJsix3pQRU9rHvI44Zxc",
+      "phone": "(47) 99747-2119",
+      "address": "Rua Ida Schneider, 177 - Nova Brasília, Joinville - SC, 89213-636",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marlon Reeck Eletricista",
+      "href": "https://www.google.com/maps/place/Marlon+Reeck+Eletricista/data=!4m7!3m6!1s0x94dea5cace6ab813:0x4b17fdae7e721c6f!8m2!3d-26.2795948!4d-48.8956159!16s%2Fg%2F11vzc3bg66!19sChIJE7hqzsql3pQRbxxyfq79F0s",
+      "phone": "(47) 99761-6203",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vila Nova Joinville SC",
+      "href": "https://www.google.com/maps/place/Vila+Nova+Joinville+SC/data=!4m7!3m6!1s0x94dea5573e138c09:0x3ccd2b974ec80908!8m2!3d-26.2946176!4d-48.9000928!16s%2Fg%2F11stznj6cr!19sChIJCYwTPlel3pQRCAnITpcrzTw",
+      "phone": "(47) 98829-0701",
+      "address": "R. Bento Torquato da Rocha - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bela Arte Pinturas E Reformas",
+      "href": "https://www.google.com/maps/place/Bela+Arte+Pinturas+E+Reformas/data=!4m7!3m6!1s0x94dea540e0cda1b9:0x1e69d79b6630447b!8m2!3d-26.2742329!4d-48.9354783!16s%2Fg%2F11hzk50fdd!19sChIJuaHN4ECl3pQRe0QwZpvXaR4",
+      "phone": "(47) 99623-1793",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Galvanoplastia Vila Nova - Galvanização/Zincagem e Pintura a Pó",
+      "href": "https://www.google.com/maps/place/Galvanoplastia+Vila+Nova+-+Galvaniza%C3%A7%C3%A3o%2FZincagem+e+Pintura+a+P%C3%B3/data=!4m7!3m6!1s0x94dea5792ad70fbf:0xd38f59df326d9459!8m2!3d-26.2895203!4d-48.896986!16s%2Fg%2F11ghp2j1tj!19sChIJvw_XKnml3pQRWZRtMt9Zj9M",
+      "phone": "(47) 3439-0471",
+      "address": "R. Amália Manfrini Tambosi - Vila Nova, Joinville - SC, 89237-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RW Serralheria & CIA",
+      "href": "https://www.google.com/maps/place/RW+Serralheria+%26+CIA/data=!4m7!3m6!1s0x94dea592ee4d7883:0xe0ca6356ba1894f6!8m2!3d-26.2952819!4d-48.9082625!16s%2Fg%2F11fnbtw2wy!19sChIJg3hN7pKl3pQR9pQYulZjyuA",
+      "phone": "(47) 99183-5819",
+      "address": "R. Harold Carlos Miers, 768 - Vila Nova, Joinville - SC, 89237-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Empreiteira Kalb Ltda",
+      "href": "https://www.google.com/maps/place/Empreiteira+Kalb+Ltda/data=!4m7!3m6!1s0x94dea4e00482f481:0x57ee74f1d0068ffe!8m2!3d-26.2894313!4d-48.920758!16s%2Fg%2F1vpfkph9!19sChIJgfSCBOCk3pQR_o8G0PF07lc",
+      "phone": "(47) 3422-4607",
+      "address": "R. Eugênio Gudin, 170 - Vila Nova, Joinville - SC, 89237-805",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Completa Incorporadora LTDA",
+      "href": "https://www.google.com/maps/place/Completa+Incorporadora+LTDA/data=!4m7!3m6!1s0x94deaf9809f030ed:0x66f7a8c929df0a91!8m2!3d-26.288434!4d-48.9183318!16s%2Fg%2F11qhkmkcdx!19sChIJ7TDwCZiv3pQRkQrfKcmo92Y",
+      "phone": "(47) 98448-6834",
+      "address": "Rua Margarida Trapp, 61 - Vila Nova, Joinville - SC, 89237-679",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Silvano perfuração e corte em concreto",
+      "href": "https://www.google.com/maps/place/Silvano+perfura%C3%A7%C3%A3o+e+corte+em+concreto/data=!4m7!3m6!1s0x94dea516b6499f95:0x6cd43039d7178dd3!8m2!3d-26.295324!4d-48.9106421!16s%2Fg%2F11vwvbnqj0!19sChIJlZ9Jthal3pQR040X1zkw1Gw",
+      "phone": "(47) 99129-4469",
+      "address": "R. Rad. Daniel da Silva - Vila Nova, Joinville - SC, 89237-338",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

@@ -1,0 +1,1011 @@
+{
+  "id": "manicure",
+  "nome": "Manicure",
+  "terms": [
+    "manicure",
+    "nail designer",
+    "esmalteria"
+  ],
+  "profiles": 243,
+  "qualified": [
+    {
+      "name": "Manicure Pedicure unhas em Gel",
+      "href": "https://www.google.com/maps/place/Manicure+Pedicure+unhas+em+Gel/data=!4m7!3m6!1s0x94deb527af1b635d:0x403df3eddbc93a9!8m2!3d-26.3678349!4d-48.829329!16s%2Fg%2F11s731gnvy!19sChIJXWMbrye13pQRqZO83T7fAwQ",
+      "phone": "(47) 99664-5290",
+      "address": "R. Afonso Moreira, 498 - Boehmerwald, Joinville - SC, 89235-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luciana Souza Nail Designer",
+      "href": "https://www.google.com/maps/place/Luciana+Souza+Nail+Designer/data=!4m7!3m6!1s0x94deb7dc90faa777:0x759e4ac0f1acac4f!8m2!3d-26.3615807!4d-48.8249267!16s%2Fg%2F11ss_38v0k!19sChIJd6f6kNy33pQRT6ys8cBKnnU",
+      "phone": "(47) 99137-3593",
+      "address": "R. Boehmerwald, 1291 - Boehmerwald, Joinville - SC, 89232-455",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Esmalteria Néia Belas Unhas",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Esmalteria+N%C3%A9ia+Belas+Unhas/data=!4m7!3m6!1s0x94deb6c5493efc25:0x3fea65c255d86c67!8m2!3d-26.3625302!4d-48.8297772!16s%2Fg%2F11bvcv202v!19sChIJJfw-ScW23pQRZ2zYVcJl6j8",
+      "phone": "(47) 99988-9837",
+      "address": "R. Adolfo da Veiga, 226 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alleh Franqui | Nail Designer Joinville Boehmerwald",
+      "href": "https://www.google.com/maps/place/Alleh+Franqui+%7C+Nail+Designer+Joinville+Boehmerwald/data=!4m7!3m6!1s0x94deb7abb7fa3a5f:0xb7ac1df7bc3d148b!8m2!3d-26.3591063!4d-48.8353985!16s%2Fg%2F11z4q59n3n!19sChIJXzr6t6u33pQRixQ9vPcdrLc",
+      "phone": "(47) 98455-6324",
+      "address": "R. Cidade de Arco Verde, 252 - Boehmerwald, Joinville - SC, 89232-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Deolinda Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Deolinda+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deb6c484c4e2c5:0x510e3770f3ec2347!8m2!3d-26.3665407!4d-48.8277252!16s%2Fg%2F11bvcv5xbx!19sChIJxeLEhMS23pQRRyPs83A3DlE",
+      "phone": "(47) 3454-5593",
+      "address": "R. dos Professores, 158 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Nanda Glen",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Nanda+Glen/data=!4m7!3m6!1s0x94deb1a29239b753:0xac12fa83b5e936cc!8m2!3d-26.357129!4d-48.8317827!16s%2Fg%2F11j5bgpjlq!19sChIJU7c5kqKx3pQRzDbptYP6Eqw",
+      "phone": "(47) 99205-6888",
+      "address": "Av. Paulo Schroeder, 1427 - Boehmerwald, Joinville - SC, 89232-302",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Isa Letícia Nail Designer",
+      "href": "https://www.google.com/maps/place/Isa+Let%C3%ADcia+Nail+Designer/data=!4m7!3m6!1s0x94deb7a4d3a10787:0x247c9ec6a0284c3!8m2!3d-26.3686795!4d-48.8266316!16s%2Fg%2F11z4yl_j8v!19sChIJhweh06S33pQRw4QCauzJRwI",
+      "phone": "(47) 99656-9476",
+      "address": "Rua: Attilio Vinotti, 30 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clau Unhas Manicure",
+      "href": "https://www.google.com/maps/place/Clau+Unhas+Manicure/data=!4m7!3m6!1s0x94deb7c95b1b4c63:0x4b7d1e2724a96469!8m2!3d-26.3581064!4d-48.8360189!16s%2Fg%2F11z3wwn70b!19sChIJY0wbW8m33pQRaWSpJCcefUs",
+      "phone": "(47) 99695-7312",
+      "address": "R. Ernani Lopes, 62 - Boehmerwald, Joinville - SC, 89232-760",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jana Mazzocatto Nails",
+      "href": "https://www.google.com/maps/place/Jana+Mazzocatto+Nails/data=!4m7!3m6!1s0x94deb1f00f0c571d:0xa6a8138106cbc32b!8m2!3d-26.3598793!4d-48.8294765!16s%2Fg%2F11h3mpvl89!19sChIJHVcMD_Cx3pQRK8PLBoETqKY",
+      "phone": "(47) 99744-6386",
+      "address": "Em Frente a Mazzocatto Automóveis - R. Ida Ana Eccel, 70 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jaque Schweig | Alongamento de Unha | Blindagem em Gel",
+      "href": "https://www.google.com/maps/place/Jaque+Schweig+%7C+Alongamento+de+Unha+%7C+Blindagem+em+Gel/data=!4m7!3m6!1s0x94deb1f0a98c32ff:0x516dd210d446e135!8m2!3d-26.3509798!4d-48.8244144!16s%2Fg%2F11hl7dw5qy!19sChIJ_zKMqfCx3pQRNeFG1BDSbVE",
+      "phone": "(47) 98404-7351",
+      "address": "R. Colombo, 1016 - Petrópolis, Joinville - SC, 89208-895",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sol Nails",
+      "href": "https://www.google.com/maps/place/Sol+Nails/data=!4m7!3m6!1s0x94deb7aeb83c6ae3:0xba0ec637998e3cb!8m2!3d-26.3604436!4d-48.8245591!16s%2Fg%2F11v5sh0m7z!19sChIJ42o8uK633pQRy-OYeWPsoAs",
+      "phone": "(47) 99901-9336",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Veridiana Regina",
+      "href": "https://www.google.com/maps/place/Studio+Veridiana+Regina/data=!4m7!3m6!1s0x94deb1004e56420f:0xfd0e8e60de7f6208!8m2!3d-26.3661674!4d-48.8278233!16s%2Fg%2F11w4450b6l!19sChIJD0JWTgCx3pQRCGJ_3mCODv0",
+      "phone": "(47) 99603-1244",
+      "address": "R. dos Professores - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Gesser nail designer",
+      "href": "https://www.google.com/maps/place/Studio+Gesser+nail+designer/data=!4m7!3m6!1s0x94deb7db744d73ad:0xda58beafebf53b92!8m2!3d-26.3709457!4d-48.840702!16s%2Fg%2F11xn49h_xw!19sChIJrXNNdNu33pQRkjv166--WNo",
+      "phone": "(47) 99718-2639",
+      "address": "R. Cidade de Cambuci, 159 - Profipo, Joinville - SC, 89233-385",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marga Nails designer",
+      "href": "https://www.google.com/maps/place/Marga+Nails+designer/data=!4m7!3m6!1s0x94deb710c2249875:0xf3b48f8e051da64a!8m2!3d-26.3609404!4d-48.8341147!16s%2Fg%2F11ypz0_x3s!19sChIJdZgkwhC33pQRSqYdBY6PtPM",
+      "phone": "(47) 99728-7973",
+      "address": "R. Boehmerwald, 586 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Cknails",
+      "href": "https://www.google.com/maps/place/Studio+Cknails/data=!4m7!3m6!1s0x94deb77f784f7755:0xda89a830efab8e4c!8m2!3d-26.3620202!4d-48.81421!16s%2Fg%2F11npt4h79r!19sChIJVXdPeH-33pQRTI6r7zCoido",
+      "phone": "(47) 99738-4206",
+      "address": "R. Boehmerwald, 2124 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Danielle Santos Nail Designer",
+      "href": "https://www.google.com/maps/place/Danielle+Santos+Nail+Designer/data=!4m7!3m6!1s0x94deb7ccc1fa2bf9:0x89eb83a34ce06d6e!8m2!3d-26.366401!4d-48.8232961!16s%2Fg%2F11p5gcxgf3!19sChIJ-Sv6wcy33pQRbm3gTKOD64k",
+      "phone": "(47) 99647-1175",
+      "address": "R. Jorge Parucker Júnior, 379 - Boehmerwald, Joinville - SC, 89235-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jully Rabelo unhas",
+      "href": "https://www.google.com/maps/place/Jully+Rabelo+unhas/data=!4m7!3m6!1s0x94deb1d79ede1e47:0xe375bed14c283c22!8m2!3d-26.3628976!4d-48.8370402!16s%2Fg%2F11y573sxqr!19sChIJRx7entex3pQRIjwoTNG-deM",
+      "phone": "(47) 99940-5895",
+      "address": "R. Olíbio de Oliveira, 122 - Jarivatuba, Joinville - SC, 89235-135",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nika Souza Esmalteria",
+      "href": "https://www.google.com/maps/place/Nika+Souza+Esmalteria/data=!4m7!3m6!1s0x94deb7e555c20c2f:0x68fb6c1ed4d63871!8m2!3d-26.3608723!4d-48.8386579!16s%2Fg%2F11rbfr0h4q!19sChIJLwzCVeW33pQRcTjW1B5s-2g",
+      "phone": "(47) 99180-4914",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Geisiane Souza",
+      "href": "https://www.google.com/maps/place/Esmalteria+Geisiane+Souza/data=!4m7!3m6!1s0x94deb7537d9d56cd:0xdba86da68d775783!8m2!3d-26.3699042!4d-48.8456904!16s%2Fg%2F11l6xblfjc!19sChIJzVadfVO33pQRg1d3jaZtqNs",
+      "phone": "(47) 99787-7127",
+      "address": "R. Cidade de Patos de Minas, 263 - Profipo, Joinville - SC, 89233-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Nayra Costa",
+      "href": "https://www.google.com/maps/place/Esmalteria+Nayra+Costa/data=!4m7!3m6!1s0x94deafcf2ce269db:0x7557e916534a0358!8m2!3d-26.2782169!4d-48.8707695!16s%2Fg%2F11yw1xkf47!19sChIJ22niLM-v3pQRWANKUxbpV3U",
+      "phone": "(47) 98870-6691",
+      "address": "R. João Adolfo Müller - Costa e Silva, Joinville - SC, 89218-590",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Della’s Esmalteria - Spazio Della’s",
+      "href": "https://www.google.com/maps/place/Della%E2%80%99s+Esmalteria+-+Spazio+Della%E2%80%99s/data=!4m7!3m6!1s0x94deb1abea2eaafb:0x176f248d4cc5223e!8m2!3d-26.327011!4d-48.8456797!16s%2Fg%2F11lq1pd1mf!19sChIJ-6ou6qux3pQRPiLFTI0kbxc",
+      "phone": "(47) 99624-4841",
+      "address": "R. Santa Catarina, 518 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Cor di Rosa",
+      "href": "https://www.google.com/maps/place/Esmalteria+Cor+di+Rosa/data=!4m7!3m6!1s0x94deb11237eba191:0x1194ccde9218aea8!8m2!3d-26.3212783!4d-48.8468583!16s%2Fg%2F11w3rhbbh0!19sChIJkaHrNxKx3pQRqK4Ykt7MlBE",
+      "phone": "(47) 99662-6090",
+      "address": "R. Leite Ribeiro, 12 - Floresta, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Bella&Cor",
+      "href": "https://www.google.com/maps/place/Esmalteria+Bella%26Cor/data=!4m7!3m6!1s0x94deb10a7316513b:0xe838bb2fba917dbc!8m2!3d-26.344655!4d-48.8474042!16s%2Fg%2F11nt_5llvm!19sChIJO1EWcwqx3pQRvH2Rui-7OOg",
+      "phone": "(47) 99657-2385",
+      "address": "R. Santa Catarina, 2674 - Floresta, Joinville - SC, 89212-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jade Esmalteria Express",
+      "href": "https://www.google.com/maps/place/Jade+Esmalteria+Express/data=!4m7!3m6!1s0x94deb16320a1c1a9:0xb8b5114350174cf6!8m2!3d-26.3284762!4d-48.833718!16s%2Fg%2F11ydrh68c2!19sChIJqcGhIGOx3pQR9kwXUEMRtbg",
+      "phone": "(47) 99686-8867",
+      "address": "R. Florianópolis, 1058 - Itaum, Joinville - SC, 89229-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lanny Barbosa | Manicure | Unha em gel | Esmaltação em gel em Joinville 💅🏻",
+      "href": "https://www.google.com/maps/place/Lanny+Barbosa+%7C+Manicure+%7C+Unha+em+gel+%7C+Esmalta%C3%A7%C3%A3o+em+gel+em+Joinville+%F0%9F%92%85%F0%9F%8F%BB/data=!4m7!3m6!1s0x94deaf419c270cf7:0x52704f0d10e8305b!8m2!3d-26.2698378!4d-48.8178048!16s%2Fg%2F11nb422hnf!19sChIJ9wwnnEGv3pQRWzDoEA1PcFI",
+      "phone": "(47) 99671-8619",
+      "address": "R. Frontin, 81 - Sala 3 - Iririú, Joinville - SC, 89227-575",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "💅 Esmalteria Aventureiro | Josiane Batista Nails Unhas tradicionais Spa",
+      "href": "https://www.google.com/maps/place/%F0%9F%92%85+Esmalteria+Aventureiro+%7C+Josiane+Batista+Nails+Unhas+tradicionais+Spa/data=!4m7!3m6!1s0x94deaf23247ad79d:0xa519aa596fa9002f!8m2!3d-26.259122!4d-48.8126792!16s%2Fg%2F11p9bld53t!19sChIJndd6JCOv3pQRLwCpb1mqGaU",
+      "phone": "(47) 99132-2406",
+      "address": "R. Martinho Van Biene, 922 - Jardim Iririú, Joinville - SC, 89224-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dellas Beleza e Bem-Estar",
+      "href": "https://www.google.com/maps/place/Dellas+Beleza+e+Bem-Estar/data=!4m7!3m6!1s0x94deb1f4985221b1:0xb510feada1842b78!8m2!3d-26.300054!4d-48.819328!16s%2Fg%2F11hzz40srp!19sChIJsSFSmPSx3pQReCuEoa3-ELU",
+      "phone": "(47) 99900-3595",
+      "address": "R. Santa Mônica, 167 - Boa Vista, Joinville - SC, 89206-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rubi Art Nails Joinville",
+      "href": "https://www.google.com/maps/place/Rubi+Art+Nails+Joinville/data=!4m7!3m6!1s0x94deb1dfb0f76751:0x4ca52c899f2930b7!8m2!3d-26.30177!4d-48.846497!16s%2Fg%2F11z0jlzj1n!19sChIJUWf3sN-x3pQRtzApn4kspUw",
+      "phone": "(47) 99222-2904",
+      "address": "R. Cmte. Eugênio Lepper, 15 - Centro, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ivonete Amaro - Unhas em Gel",
+      "href": "https://www.google.com/maps/place/Ivonete+Amaro+-+Unhas+em+Gel/data=!4m7!3m6!1s0x94deb1354e1d5f4d:0x8f3351e4cd9b4ea8!8m2!3d-26.307195!4d-48.8454274!16s%2Fg%2F11n48cx2nh!19sChIJTV8dTjWx3pQRqE6bzeRRM48",
+      "phone": "(47) 99916-6141",
+      "address": "Av. Juscelino Kubitscheck, 705 - Centro, Joinville - SC, 89201-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sil Nail Designer",
+      "href": "https://www.google.com/maps/place/Sil+Nail+Designer/data=!4m7!3m6!1s0x94deb1c2e17fea9b:0x55c37a1f53156eb3!8m2!3d-26.3031409!4d-48.8448887!16s%2Fg%2F11wtlgw2kw!19sChIJm-p_4cKx3pQRs24VUx96w1U",
+      "phone": "(47) 98482-0306",
+      "address": "Galeria das Palmeiras - R. do Príncipe, 429 - Sl 30 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ele e Ela Espaço da beleza",
+      "href": "https://www.google.com/maps/place/Ele+e+Ela+Espa%C3%A7o+da+beleza/data=!4m7!3m6!1s0x94deb049ec292ce9:0xa670fbe1fd5bbac0!8m2!3d-26.3009653!4d-48.8464121!16s%2Fg%2F11b81s3834!19sChIJ6Swp7Emw3pQRwLpb_eH7cKY",
+      "phone": "(47) 99661-5292",
+      "address": "Enfrente à casas bahia - R. do Príncipe, 226 - 1ºAndar- Sala 12 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Beauty Princesa",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Beauty+Princesa/data=!4m7!3m6!1s0x94dea5ad70b5985f:0x652b3a93e209a565!8m2!3d-26.300108!4d-48.846701!16s%2Fg%2F11n78pm5tv!19sChIJX5i1cK2l3pQRZaUJ4pM6K2U",
+      "phone": "(47) 99730-7033",
+      "address": "R. Princesa Isabel, 447 - Centro, Joinville - SC, 89201-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Manicure Ale e May",
+      "href": "https://www.google.com/maps/place/Manicure+Ale+e+May/data=!4m7!3m6!1s0x94deb13cc2ad3c7b:0x7a02d4a86ab3818d!8m2!3d-26.2998716!4d-48.8485351!16s%2Fg%2F11vy28xqwz!19sChIJezytwjyx3pQRjYGzaqjUAno",
+      "phone": "(47) 99289-1137",
+      "address": "R. Mário Lobo, 61 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kuchlik nails",
+      "href": "https://www.google.com/maps/place/Kuchlik+nails/data=!4m7!3m6!1s0x94deb17cdf1d50e9:0xb08e1bb1ff7dd6b4!8m2!3d-26.3053585!4d-48.8533786!16s%2Fg%2F11z5_mnzvq!19sChIJ6VAd33yx3pQRtNZ9_7EbjrA",
+      "phone": "(47) 98924-2827",
+      "address": "R. Duque de Caxias, 475 - América, Joinville - SC, 89201-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pâmela Schuchardt Miranda Nail designer",
+      "href": "https://www.google.com/maps/place/P%C3%A2mela+Schuchardt+Miranda+Nail+designer/data=!4m7!3m6!1s0x94deb05011fb04e5:0xd2fcc190128db804!8m2!3d-26.3120597!4d-48.8491534!16s%2Fg%2F11f2w5v_8w!19sChIJ5QT7EVCw3pQRBLiNEpDB_NI",
+      "phone": "(47) 98865-1552",
+      "address": "R. Rio Grande do Sul, 891 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Regina Cabral Naildesign",
+      "href": "https://www.google.com/maps/place/Regina+Cabral+Naildesign/data=!4m7!3m6!1s0x94deb1a0743dc61d:0xe15e27d4d1046f89!8m2!3d-26.299848!4d-48.846682!16s%2Fg%2F11kqzysgs5!19sChIJHcY9dKCx3pQRiW8E0dQnXuE",
+      "phone": "(47) 99724-5096",
+      "address": "R. Princesa Isabel, 447 - Centro, Joinville - SC, 89201-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dahlia Esmalteria",
+      "href": "https://www.google.com/maps/place/Dahlia+Esmalteria/data=!4m7!3m6!1s0x94deb1aaf590467f:0xde47e5f16fc6a4d8!8m2!3d-26.2995662!4d-48.8502359!16s%2Fg%2F11z9ghz476!19sChIJf0aQ9aqx3pQR2KTGb_HlR94",
+      "phone": "(47) 98825-5169",
+      "address": "Galeria Adville Business - R. Blumenau, 64 - Centro, Joinville - SC, 89204-248",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lary Santos - Nail Designer",
+      "href": "https://www.google.com/maps/place/Lary+Santos+-+Nail+Designer/data=!4m7!3m6!1s0x94deb1c1eddc184f:0xc6b2fa8181e5ffb1!8m2!3d-26.3001526!4d-48.8212508!16s%2Fg%2F11y39dm43n!19sChIJTxjc7cGx3pQRsf_lgYH6ssY",
+      "phone": "(47) 99686-9197",
+      "address": "R. Albano Schmidt, 1722 - sala 2 - Boa Vista, Joinville - SC, 89205-103",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Brilho Cor de Rosa Beleza feminina",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Brilho+Cor+de+Rosa+Beleza+feminina/data=!4m7!3m6!1s0x94deb1e7d48d057d:0x56ad84e259e34f4f!8m2!3d-26.3428806!4d-48.8477283!16s%2Fg%2F11vrlyb8cd!19sChIJfQWN1Oex3pQRT0_jWeKErVY",
+      "phone": "(47) 99223-9558",
+      "address": "R. Santa Catarina, 2204 - Floresta, Joinville - SC, 89212-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Destak Unha e Cabelo",
+      "href": "https://www.google.com/maps/place/Destak+Unha+e+Cabelo/data=!4m7!3m6!1s0x94deb104c9508971:0x8eb8041abe048d8b!8m2!3d-26.2984648!4d-48.8482689!16s%2Fg%2F11kj2_kgkd!19sChIJcYlQyQSx3pQRi40EvhoEuI4",
+      "phone": "(47) 99105-8105",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donas Studio de beleza",
+      "href": "https://www.google.com/maps/place/Donas+Studio+de+beleza/data=!4m7!3m6!1s0x94deb7b4ebadd46d:0xdf3ea0c133dd0838!8m2!3d-26.3692468!4d-48.8236065!16s%2Fg%2F11xsbdf0zv!19sChIJbdSt67S33pQROAjdM8GgPt8",
+      "phone": "(47) 99917-9585",
+      "address": "R. Attílio Vinotti, 412 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estúdio Aura Nail spa",
+      "href": "https://www.google.com/maps/place/Est%C3%BAdio+Aura+Nail+spa/data=!4m7!3m6!1s0x94deb1cd02e788bb:0x2c9610c6804b982d!8m2!3d-26.2906911!4d-48.8622297!16s%2Fg%2F11zfqh1m1v!19sChIJu4jnAs2x3pQRLZhLgMYQliw",
+      "phone": "(47) 99759-8568",
+      "address": "R. Alvino Tilp, 46 - América, Joinville - SC, 89204-625",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Fran Kersten",
+      "href": "https://www.google.com/maps/place/Studio+Fran+Kersten/data=!4m7!3m6!1s0x94deb788f99e0fd7:0xabfac9deb4e9e2be!8m2!3d-26.3685421!4d-48.8229975!16s%2Fg%2F11nqc63ygf!19sChIJ1w-e-Yi33pQRvuLptN7J-qs",
+      "phone": "(47) 99661-0196",
+      "address": "R. Nova República, 506 - Boehmerwald, Joinville - SC, 89235-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Leia soares manicure",
+      "href": "https://www.google.com/maps/place/Leia+soares+manicure/data=!4m7!3m6!1s0x94deb1953e6b0c69:0x78657078f8d502cd!8m2!3d-26.3211514!4d-48.81623!16s%2Fg%2F11p0rj4d51!19sChIJaQxrPpWx3pQRzQLV-HhwZXg",
+      "phone": "(47) 99642-9167",
+      "address": "R. Fátima, 2346 - Fátima, Joinville - SC, 89229-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Jana Moreira Nail Designer",
+      "href": "https://www.google.com/maps/place/Studio+Jana+Moreira+Nail+Designer/data=!4m7!3m6!1s0x94deb15b880a1ae5:0x68eee0d9a4ce894e!8m2!3d-26.3342935!4d-48.8540588!16s%2Fg%2F11tsdfp0wp!19sChIJ5RoKiFux3pQRTonOpNng7mg",
+      "phone": "(47) 99606-8969",
+      "address": "Clínica Singulari - Av. Antônio Ramos Alvim, 480 - Anexo a - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jéssica Luchese Nail Designer",
+      "href": "https://www.google.com/maps/place/J%C3%A9ssica+Luchese+Nail+Designer/data=!4m7!3m6!1s0x94deb7c7b6a51dd5:0xe8cfc38fb5d73f5d!8m2!3d-26.3699654!4d-48.8209783!16s%2Fg%2F11vys7n006!19sChIJ1R2ltse33pQRXT_XtY_Dz-g",
+      "phone": "(47) 98816-5750",
+      "address": "R. Pref. João Acácio Gomes de Oliveira, 310 - Boehmerwald, Joinville - SC, 89235-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Brenda Cristine",
+      "href": "https://www.google.com/maps/place/Studio+Brenda+Cristine/data=!4m7!3m6!1s0x94deafa53371734f:0xc83c537e2cef546c!8m2!3d-26.2973024!4d-48.8517919!16s%2Fg%2F11nqcj_cxm!19sChIJT3NxM6Wv3pQRbFTvLH5TPMg",
+      "phone": "(47) 98483-6667",
+      "address": "R. Luiz Brockmann, 152 - América, Joinville - SC, 89204-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NAYA Ateliê de Beleza",
+      "href": "https://www.google.com/maps/place/NAYA+Ateli%C3%AA+de+Beleza/data=!4m7!3m6!1s0x94deb17560eeda01:0xc386de35daf15958!8m2!3d-26.2866582!4d-48.8506356!16s%2Fg%2F11ygpmvtld!19sChIJAdruYHWx3pQRWFnx2jXehsM",
+      "phone": "(47) 98838-7048",
+      "address": "R. Tubarão, 159 - América, Joinville - SC, 89204-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amanda Hake Esmalteria",
+      "href": "https://www.google.com/maps/place/Amanda+Hake+Esmalteria/data=!4m7!3m6!1s0x94deb1b1a7e2ccc7:0x6ade178ac6172a04!8m2!3d-26.3008418!4d-48.8104996!16s%2Fg%2F11w1gjvvy9!19sChIJx8zip7Gx3pQRBCoXxooX3mo",
+      "phone": "(47) 99906-3549",
+      "address": "R. Juazeiro do Norte, 244 - Boa Vista, Joinville - SC, 89206-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Maiara nail designer",
+      "href": "https://www.google.com/maps/place/Studio+Maiara+nail+designer/data=!4m7!3m6!1s0x94deb1426ece8257:0xe149a05388143a69!8m2!3d-26.3087436!4d-48.8609527!16s%2Fg%2F11ssf71q5f!19sChIJV4LObkKx3pQRaToUiFOgSeE",
+      "phone": "(47) 99661-6684",
+      "address": "R. Dr. Alfredo Schlemm, 107 - Atiradores, Joinville - SC, 89203-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Irene Studio de unhas",
+      "href": "https://www.google.com/maps/place/Irene+Studio+de+unhas/data=!4m7!3m6!1s0x94deb16c78a066d1:0x4c8b8649127a84c7!8m2!3d-26.3043356!4d-48.8615367!16s%2Fg%2F11npd701pb!19sChIJ0WageGyx3pQRx4R6EkmGi0w",
+      "phone": "(47) 98803-7707",
+      "address": "R. Euzébio de Queirós, 258 - Fundos - Atiradores, Joinville - SC, 89203-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alessandra Silva Beauty Studio",
+      "href": "https://www.google.com/maps/place/Alessandra+Silva+Beauty+Studio/data=!4m7!3m6!1s0x94deb0586a36e223:0xb0d4f2c8b1ea59ca!8m2!3d-26.3163947!4d-48.8577471!16s%2Fg%2F11bv2ff96y!19sChIJI-I2aliw3pQRylnqscjy1LA",
+      "phone": "(47) 99669-8528",
+      "address": "R. Concórdia, 551 - Anita Garibaldi, Joinville - SC, 89202-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sabrina Guedes Naildesing manicure",
+      "href": "https://www.google.com/maps/place/Sabrina+Guedes+Naildesing+manicure/data=!4m7!3m6!1s0x94deb19bc9bf46dd:0x849b94a427adcc1c!8m2!3d-26.3027008!4d-48.8630413!16s%2Fg%2F11yywqhpvw!19sChIJ3Ua_yZux3pQRHMytJ6SUm4Q",
+      "phone": "(47) 98472-4960",
+      "address": "R. Camboriú, 4370 - Glória, Joinville - SC, 89216-222",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Francine Santos",
+      "href": "https://www.google.com/maps/place/Studio+Francine+Santos/data=!4m7!3m6!1s0x94deb19b7bcd5faf:0x5d00521029ef951!8m2!3d-26.3003373!4d-48.8532805!16s%2Fg%2F11h_bp0l4f!19sChIJr1_Ne5ux3pQRUfmeAiEF0AU",
+      "phone": "(47) 3202-6372",
+      "address": "R. Expedicionário Holz, 550 - América, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Nil Martins",
+      "href": "https://www.google.com/maps/place/Studio+Nil+Martins/data=!4m7!3m6!1s0x94deb18827c9db21:0xfd4f8fc4979e4508!8m2!3d-26.3150309!4d-48.8454324!16s%2Fg%2F11zb9k48h7!19sChIJIdvJJ4ix3pQRCEWel8SPT_0",
+      "phone": "(47) 98858-3694",
+      "address": "Av. Getúlio Vargas, 830 - Bucarein, Joinville - SC, 89202-245",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Débora Ávila Nail Designer",
+      "href": "https://www.google.com/maps/place/D%C3%A9bora+%C3%81vila+Nail+Designer/data=!4m7!3m6!1s0x94deb1aafacd8021:0xf32ffc6b790eb1eb!8m2!3d-26.3005331!4d-48.8646909!16s%2Fg%2F11ybnrl5cr!19sChIJIYDN-qqx3pQR67EOeWv8L_M",
+      "phone": "(47) 99706-8572",
+      "address": "R. Evaristo da Veiga, 424 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pur'Art Centro de Beleza",
+      "href": "https://www.google.com/maps/place/Pur%27Art+Centro+de+Beleza/data=!4m7!3m6!1s0x94deb12f0e0a4a63:0x6c55b58d504b194c!8m2!3d-26.3024307!4d-48.8512551!16s%2Fg%2F11f7bqt67p!19sChIJY0oKDi-x3pQRTBlLUI21VWw",
+      "phone": "(47) 3025-3013",
+      "address": "R. Dr. Roberto Koch, 36 - Atiradores, Joinville - SC, 89203-088",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESTUDIO GABRIELA NAILS",
+      "href": "https://www.google.com/maps/place/ESTUDIO+GABRIELA+NAILS/data=!4m7!3m6!1s0x94deb1a53fd01363:0xab253dbe0d25fd5d!8m2!3d-26.3093432!4d-48.8548362!16s%2Fg%2F11y5mpl2mh!19sChIJYxPQP6Wx3pQRXf0lDb49Jas",
+      "phone": "(47) 99756-6108",
+      "address": "R. Visc. de Taunay, 1174 - Atiradores, Joinville - SC, 89203-005",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fernanda Cavaliere Esmalteria",
+      "href": "https://www.google.com/maps/place/Fernanda+Cavaliere+Esmalteria/data=!4m7!3m6!1s0x94deb1cd48d1b755:0x39a42dba8a32c744!8m2!3d-26.3024425!4d-48.8562203!16s%2Fg%2F11lzn8xq3q!19sChIJVbfRSM2x3pQRRMcyirotpDk",
+      "phone": "(47) 98825-8995",
+      "address": "R. Otto Boehm, 590 - América, Joinville - SC, 89201-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Simone Vinotti Beauté",
+      "href": "https://www.google.com/maps/place/Simone+Vinotti+Beaut%C3%A9/data=!4m7!3m6!1s0x94deb17e3bc8b2f7:0x7b17d2496a7d6149!8m2!3d-26.300337!4d-48.853281!16s%2Fg%2F11s47qjqxr!19sChIJ97LIO36x3pQRSWF9aknSF3s",
+      "phone": "(47) 99607-5962",
+      "address": "R. Expedicionário Holz, 550 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alika Coelho Hair | Visagista",
+      "href": "https://www.google.com/maps/place/Alika+Coelho+Hair+%7C+Visagista/data=!4m7!3m6!1s0x94deb1998b7311a1:0x5554bfcd02c8d429!8m2!3d-26.3074015!4d-48.8590331!16s%2Fg%2F11yp6010d_!19sChIJoRFzi5mx3pQRKdTIAs2_VFU",
+      "phone": "(47) 98912-5939",
+      "address": "Nunes Guimarães - R. Des. Nelson Nunes Guimarães, 377 - Atiradores, Joinville - SC, 89203-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jessica Oliveira Beauty Artist",
+      "href": "https://www.google.com/maps/place/Jessica+Oliveira+Beauty+Artist/data=!4m7!3m6!1s0x94deb1a83562402d:0x415fa61ab3fe3474!8m2!3d-26.3045441!4d-48.8594893!16s%2Fg%2F11sk3bbldk!19sChIJLUBiNaix3pQRdDT-sxqmX0E",
+      "phone": "(47) 99900-5598",
+      "address": "Anexo ao Espaço Rennova - R. Aquidaban, 263 - Atiradores, Joinville - SC, 89216-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vanessa e Mara Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Vanessa+e+Mara+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94deb112a7667bff:0xd9a62a7f7c7593d6!8m2!3d-26.31718!4d-48.850208!16s%2Fg%2F11g0lh0m0z!19sChIJ_3tmpxKx3pQR1pN1fH8qptk",
+      "phone": "(47) 3031-8347",
+      "address": "R. Diringshoffen, 121 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Instituto Adriana Lima",
+      "href": "https://www.google.com/maps/place/Instituto+Adriana+Lima/data=!4m7!3m6!1s0x94deb165023c8253:0xdcdc37f4fa5fad13!8m2!3d-26.3169423!4d-48.8497548!16s%2Fg%2F11whz25gnx!19sChIJU4I8AmWx3pQRE61f-vQ33Nw",
+      "phone": "(47) 99286-5281",
+      "address": "R. Cel. Santiago, 870 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ateliê de unhas Silvana Gonçalves",
+      "href": "https://www.google.com/maps/place/Ateli%C3%AA+de+unhas+Silvana+Gon%C3%A7alves/data=!4m7!3m6!1s0x94deb1f9a96d0cc5:0xa65e5c760a145952!8m2!3d-26.313665!4d-48.8472153!16s%2Fg%2F11f77vkxyf!19sChIJxQxtqfmx3pQRUlkUCnZcXqY",
+      "phone": "(47) 99715-0721",
+      "address": "R. Eugênio Moreira, 321 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bru Nail Designer",
+      "href": "https://www.google.com/maps/place/Bru+Nail+Designer/data=!4m7!3m6!1s0x94deb1fe795d5af5:0xe0466240a7c903e!8m2!3d-26.3163231!4d-48.845806!16s%2Fg%2F11m6rksbkx!19sChIJ9Vpdef6x3pQRPpB8CiRmBA4",
+      "phone": "(47) 99666-6953",
+      "address": "R. Anita Garibaldi, 46 - Anita Garibaldi, Joinville - SC, 89203-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Monan Beleza Consciente",
+      "href": "https://www.google.com/maps/place/Monan+Beleza+Consciente/data=!4m7!3m6!1s0x94deb1c3b9ef8a03:0x26fdde75174b3f80!8m2!3d-26.3181806!4d-48.8517499!16s%2Fg%2F11k_4xq144!19sChIJA4rvucOx3pQRgD9LF3Xe_SY",
+      "phone": "(47) 99662-7299",
+      "address": "R. Alagoas, 163 - Anita Garibaldi, Joinville - SC, 89203-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fran Góes Nails",
+      "href": "https://www.google.com/maps/place/Fran+G%C3%B3es+Nails/data=!4m7!3m6!1s0x94deb12eef8bf909:0x34cdf9afa1c1e74!8m2!3d-26.3241262!4d-48.8552771!16s%2Fg%2F11v63106tb!19sChIJCfmL7y6x3pQRdB4c-prfTAM",
+      "phone": "(47) 99723-9836",
+      "address": "R. Anita Garibaldi, 1381 - Sl 204 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Stefani Borges Nails Designer",
+      "href": "https://www.google.com/maps/place/Stefani+Borges+Nails+Designer/data=!4m7!3m6!1s0x94deb11de08e8ac9:0x78caee31930b2f6b!8m2!3d-26.3169423!4d-48.8497548!16s%2Fg%2F11mzwl145g!19sChIJyYqO4B2x3pQRay8LkzHuyng",
+      "phone": "(47) 99696-5511",
+      "address": "R. Cel. Santiago, 870 - Anita Garibaldi, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fabi Vieira - Nail Designer",
+      "href": "https://www.google.com/maps/place/Fabi+Vieira+-+Nail+Designer/data=!4m7!3m6!1s0x94deb1105b129a77:0xbc805475c657d4f4!8m2!3d-26.3213394!4d-48.8593704!16s%2Fg%2F11rp4f7mdw!19sChIJd5oSWxCx3pQR9NRXxnVUgLw",
+      "phone": "(47) 99920-7754",
+      "address": "R. Concórdia, 1135 - Anita Garibaldi, Joinville - SC, 89203-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mary Rocha Nail designer",
+      "href": "https://www.google.com/maps/place/Mary+Rocha+Nail+designer/data=!4m7!3m6!1s0x94deb13a75868bcd:0x5c97ef952c40ddb3!8m2!3d-26.3181212!4d-48.8506272!16s%2Fg%2F11xgkdgq8f!19sChIJzYuGdTqx3pQRs91ALJXvl1w",
+      "phone": "(47) 99679-8161",
+      "address": "R. Porto União, 387 - Anita Garibaldi, Joinville - SC, 89203-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jana Salvador Nail Designer",
+      "href": "https://www.google.com/maps/place/Jana+Salvador+Nail+Designer/data=!4m7!3m6!1s0x94deb12d3bd25313:0x64b16ee9cdbbc469!8m2!3d-26.3162942!4d-48.8598937!16s%2Fg%2F11qbzxcs9z!19sChIJE1PSOy2x3pQRacS7zelusWQ",
+      "phone": "(47) 99964-1205",
+      "address": "R. Gothard Kaesemodel - Anita Garibaldi, Joinville - SC, 89203-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Pathy Ferraz Manicure",
+      "href": "https://www.google.com/maps/place/Pathy+Ferraz+Manicure/data=!4m7!3m6!1s0x94deb17d86ae16fd:0xc3c65297f0fb213f!8m2!3d-26.3213478!4d-48.8470729!16s%2Fg%2F11ldlq8pk4!19sChIJ_Rauhn2x3pQRPyH78JdSxsM",
+      "phone": "(47) 98892-1016",
+      "address": "R. Leite Ribeiro, 232 - Anita Garibaldi, Joinville - SC, 89202-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jane Ribas Centro de Beleza",
+      "href": "https://www.google.com/maps/place/Jane+Ribas+Centro+de+Beleza/data=!4m7!3m6!1s0x94deafd0d2ac593f:0xbdd9c6442ea3df23!8m2!3d-26.2768241!4d-48.8468579!16s%2Fg%2F1tdxrm5v!19sChIJP1ms0tCv3pQRI9-jLkTG2b0",
+      "phone": "(47) 99969-8952",
+      "address": "R. Dona Francisca, 3239 - Saguaçu, Joinville - SC, 89221-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "KP Studio Nails",
+      "href": "https://www.google.com/maps/place/KP+Studio+Nails/data=!4m7!3m6!1s0x94deb7a73efc7ba7:0x52b0db702596d3ec!8m2!3d-26.375752!4d-48.8227521!16s%2Fg%2F11hfgc_pgt!19sChIJp3v8Pqe33pQR7NOWJXDbsFI",
+      "phone": "(47) 99771-0942",
+      "address": "R. Adolfo da Veiga, 1996 - Cs da esquina - Boehmerwald, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Débora sotto",
+      "href": "https://www.google.com/maps/place/Studio+D%C3%A9bora+sotto/data=!4m7!3m6!1s0x94deafec06129375:0x35860018fe9fbac2!8m2!3d-26.276699!4d-48.8411971!16s%2Fg%2F11txzy7vv0!19sChIJdZMSBuyv3pQRwrqf_hgAhjU",
+      "phone": "(47) 99755-3565",
+      "address": "R. Indaial, 590 - Sl 3 - Saguaçu, Joinville - SC, 89221-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Karolyne Almeida",
+      "href": "https://www.google.com/maps/place/Karolyne+Almeida/data=!4m7!3m6!1s0x94deaf231bdb0977:0xb70ef50595ac41c2!8m2!3d-26.2826878!4d-48.8423209!16s%2Fg%2F11y19kkysc!19sChIJdwnbGyOv3pQRwkGslQX1Drc",
+      "phone": "(47) 99163-8769",
+      "address": "R. Dona Francisca, 2447 - Saguaçu, Joinville - SC, 89221-008",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sara Nails Designer",
+      "href": "https://www.google.com/maps/place/Sara+Nails+Designer/data=!4m7!3m6!1s0x94deafdb7632ae49:0xb88a0114f2ec2831!8m2!3d-26.2777278!4d-48.8391252!16s%2Fg%2F11nb_mm7h7!19sChIJSa4ydtuv3pQRMSjs8hQBirg",
+      "phone": "(47) 99699-1037",
+      "address": "Rua Professor Ricardo Buss, 129 - sala comercial - Saguaçu, Joinville - SC, 89221-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Raquel Machado - Nail Designer",
+      "href": "https://www.google.com/maps/place/Raquel+Machado+-+Nail+Designer/data=!4m7!3m6!1s0x94deb1184a6a3257:0x529c4f381ce74d46!8m2!3d-26.2821997!4d-48.841106!16s%2Fg%2F11jz5ybk1d!19sChIJVzJqShix3pQRRk3nHDhPnFI",
+      "phone": "(47) 99956-8722",
+      "address": "DELLAS CLÍNICA - Rua: Itapiranga, 82 - Saguaçu, Joinville - SC, 89221-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Érika Rocha Nails",
+      "href": "https://www.google.com/maps/place/%C3%89rika+Rocha+Nails/data=!4m7!3m6!1s0x94deafa395ed27b1:0xd1b4a81d426169c3!8m2!3d-26.2738659!4d-48.8450238!16s%2Fg%2F11mrjpgws8!19sChIJsSftlaOv3pQRw2lhQh2otNE",
+      "phone": "(47) 98835-7720",
+      "address": "R. Assis Brasil, 47 - Saguaçu, Joinville - SC, 89221-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mia Grein Nail Designer",
+      "href": "https://www.google.com/maps/place/Mia+Grein+Nail+Designer/data=!4m7!3m6!1s0x94deafb42adc64c3:0x4b245c2a2c7fcd16!8m2!3d-26.274927!4d-48.8739492!16s%2Fg%2F11ld885f38!19sChIJw2TcKrSv3pQRFs1_LCpcJEs",
+      "phone": "(47) 99743-3536",
+      "address": "R. Martiminiano Cercal, 140 - Costa e Silva, Joinville - SC, 89218-630",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ju Borges espaço da beleza",
+      "href": "https://www.google.com/maps/place/Ju+Borges+espa%C3%A7o+da+beleza/data=!4m7!3m6!1s0x94deaf61f0fee06f:0x427151e2d81afea9!8m2!3d-26.2707531!4d-48.833689!16s%2Fg%2F11q8rpsc6j!19sChIJb-D-8GGv3pQRqf4a2OJRcUI",
+      "phone": "(47) 99139-5214",
+      "address": "R. Piratuba, 409 - Saguaçu, Joinville - SC, 89221-596",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço da Unha Esmalteria",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+da+Unha+Esmalteria/data=!4m7!3m6!1s0x94deb1e7dd66594f:0xcc348a2981687c0c!8m2!3d-26.2775049!4d-48.8225823!16s%2Fg%2F11bv3vw7zg!19sChIJT1lm3eex3pQRDHxogSmKNMw",
+      "phone": "(47) 99977-1043",
+      "address": "R. Arthur Zoefeld, 728 - Sl 6 - Iririú, Joinville - SC, 89227-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mayara Backes Makeup",
+      "href": "https://www.google.com/maps/place/Mayara+Backes+Makeup/data=!4m7!3m6!1s0x94deafe37a49ff23:0xb5fbe3fdcd13b832!8m2!3d-26.2774257!4d-48.8370016!16s%2Fg%2F11h3l2f27c!19sChIJI_9JeuOv3pQRMrgTzf3j-7U",
+      "phone": "(47) 99140-6507",
+      "address": "R. Guilherme Tiburtius, 203 - Saguaçu, Joinville - SC, 89221-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Silvânia Senem",
+      "href": "https://www.google.com/maps/place/Esmalteria+Silv%C3%A2nia+Senem/data=!4m7!3m6!1s0x94dea560b9a809a7:0x2e2bc9f603a431eb!8m2!3d-26.2737399!4d-48.8842586!16s%2Fg%2F11b8tbz1w7!19sChIJpwmouWCl3pQR6zGkA_bJKy4",
+      "phone": "(47) 98417-4780",
+      "address": "Av. Alm. Jaceguay, 3128 - Costa e Silva, Joinville - SC, 89220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Manicure_unhasfeitas",
+      "href": "https://www.google.com/maps/place/Manicure_unhasfeitas/data=!4m7!3m6!1s0x94deafbc4f8111a3:0x7be12af99910acc1!8m2!3d-26.271203!4d-48.8758273!16s%2Fg%2F11nqw_05ys!19sChIJoxGBT7yv3pQRwawQmfkq4Xs",
+      "phone": "(47) 99741-4533",
+      "address": "R. Codornas, 211 - Costa e Silva, Joinville - SC, 89220-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anaýsa Studio de Beleza",
+      "href": "https://www.google.com/maps/place/Ana%C3%BDsa+Studio+de+Beleza/data=!4m7!3m6!1s0x94deaf7578e70409:0xe0cbd9b34a4d888f!8m2!3d-26.2668929!4d-48.8829767!16s%2Fg%2F11rrqllmsx!19sChIJCQTneHWv3pQRj4hNSrPZy-A",
+      "phone": "(47) 99699-9150",
+      "address": "R. Oscar Rosas, 296 - Costa e Silva, Joinville - SC, 89220-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Unhas Naturais Joinville",
+      "href": "https://www.google.com/maps/place/Unhas+Naturais+Joinville/data=!4m7!3m6!1s0x94deaf5915a4ccef:0x5fb2b4789a4c6221!8m2!3d-26.2712678!4d-48.8842547!16s%2Fg%2F11lvqnslq3!19sChIJ78ykFVmv3pQRIWJMmni0sl8",
+      "phone": "(47) 98918-3061",
+      "address": "R. Souza Lobo, 940 - Costa e Silva, Joinville - SC, 89220-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Andy Studio da Beleza",
+      "href": "https://www.google.com/maps/place/Andy+Studio+da+Beleza/data=!4m7!3m6!1s0x94deaff3f246cdb3:0x907a01dcb08439cd!8m2!3d-26.2752151!4d-48.874487!16s%2Fg%2F11c1x43j01!19sChIJs81G8vOv3pQRzTmEsNwBepA",
+      "phone": "(47) 99656-3266",
+      "address": "R. Dona Elza Meinert, 142 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cheila Cristina Fernandes manicure e pedicure em Joinville",
+      "href": "https://www.google.com/maps/place/Cheila+Cristina+Fernandes+manicure+e+pedicure+em+Joinville/data=!4m7!3m6!1s0x94deaf8ea955f773:0x486fe60346c70f9a!8m2!3d-26.2749542!4d-48.8668732!16s%2Fg%2F11svd_7tf5!19sChIJc_dVqY6v3pQRmg_HRgPmb0g",
+      "phone": "(47) 99938-2237",
+      "address": "R. Guilherme, 1191 - Costa e Silva, Joinville - SC, 89218-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Império das Unhas",
+      "href": "https://www.google.com/maps/place/Imp%C3%A9rio+das+Unhas/data=!4m7!3m6!1s0x94dea518f5eab27b:0x6989ddd8f35b785!8m2!3d-26.2710655!4d-48.8878651!16s%2Fg%2F11z56hc51c!19sChIJe7Lq9Ril3pQRhbc1j92dmAY",
+      "phone": "(47) 93300-1142",
+      "address": "R. Inambu, 1341 - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lu Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Lu+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94deaf691a327c53:0xa9aa99c9a2b95ce9!8m2!3d-26.2741064!4d-48.8803511!16s%2Fg%2F11hk1_n64j!19sChIJU3wyGmmv3pQR6Vy5osmZqqk",
+      "phone": "(47) 99927-8495",
+      "address": "R. Pavão, 953 - Costa e Silva, Joinville - SC, 89220-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Rafaela Estevão Nails",
+      "href": "https://www.google.com/maps/place/Rafaela+Estev%C3%A3o+Nails/data=!4m7!3m6!1s0x94deaf0ae4c5db39:0x1040f8c2f4a98adc!8m2!3d-26.2700373!4d-48.8711833!16s%2Fg%2F11p_5_d5jc!19sChIJOdvF5Aqv3pQR3Iqp9ML4QBA",
+      "phone": "(47) 99616-4015",
+      "address": "R. Sen. Nilo Coelho, 102 - Costa e Silva, Joinville - SC, 89219-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Nails - by Gabrielle machado",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Nails+-+by+Gabrielle+machado/data=!4m7!3m6!1s0x94deafe3118b4e0d:0x69fd5d129ff5f249!8m2!3d-26.2810855!4d-48.8753315!16s%2Fg%2F11t5_61w3h!19sChIJDU6LEeOv3pQRSfL1nxJd_Wk",
+      "phone": "(47) 99653-7242",
+      "address": "R. Adriano Schondermank, 324 - Costa e Silva, Joinville - SC, 89217-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RS Schwartz Esmalteria",
+      "href": "https://www.google.com/maps/place/RS+Schwartz+Esmalteria/data=!4m7!3m6!1s0x94deaf7145f4b791:0xae6397dbf18218b9!8m2!3d-26.2698233!4d-48.8629431!16s%2Fg%2F11pf2qcxhz!19sChIJkbf0RXGv3pQRuRiC8duXY64",
+      "phone": "(47) 98848-3977",
+      "address": "R. Marquês de Olinda, 550 - Santo Antônio, Joinville - SC, 89218-251",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria e Studio Pâmela Magalhães",
+      "href": "https://www.google.com/maps/place/Esmalteria+e+Studio+P%C3%A2mela+Magalh%C3%A3es/data=!4m7!3m6!1s0x94deaf3afa0e2a57:0x5804fbef93c24c21!8m2!3d-26.2690889!4d-48.8774894!16s%2Fg%2F11rd2hrvcr!19sChIJVyoO-jqv3pQRIUzCk-_7BFg",
+      "phone": "(47) 99668-3673",
+      "address": "R. Bem-Te-Vi, 665 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "By Giovanna Rodrigues nails",
+      "href": "https://www.google.com/maps/place/By+Giovanna+Rodrigues+nails/data=!4m7!3m6!1s0x94deaf5e50f86233:0x7ea0b885d4beb230!8m2!3d-26.2731895!4d-48.8723953!16s%2Fg%2F11x5dwrp8b!19sChIJM2L4UF6v3pQRMLK-1IW4oH4",
+      "phone": "(47) 98855-9837",
+      "address": "Espaço Cíntia Reis, Comercial Inambu - R. Inambu, 29 - Sl 5 - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Olga e Cia cabeleireiros",
+      "href": "https://www.google.com/maps/place/Olga+e+Cia+cabeleireiros/data=!4m7!3m6!1s0x94dea52033f631d3:0xe18a762769f8ce64!8m2!3d-26.2873966!4d-48.9171415!16s%2Fg%2F11h0kxj_g!19sChIJ0zH2MyCl3pQRZM74aSd2iuE",
+      "phone": "(47) 3439-6388",
+      "address": "R. XV de Novembro, 8525 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ana Maria Nail Design",
+      "href": "https://www.google.com/maps/place/Ana+Maria+Nail+Design/data=!4m7!3m6!1s0x94dea522fead92cd:0x634ffb8d7263483c!8m2!3d-26.2870499!4d-48.9057953!16s%2Fg%2F11l1nwq4ss!19sChIJzZKt_iKl3pQRPEhjco37T2M",
+      "phone": "(47) 99197-5182",
+      "address": "R. XV de Novembro, 7333 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Pami Quintino",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Pami+Quintino/data=!4m7!3m6!1s0x94dea52b1b0e879f:0xd6e911becb826617!8m2!3d-26.2921712!4d-48.9125779!16s%2Fg%2F11ntp6sbgs!19sChIJn4cOGyul3pQRF2aCy74R6dY",
+      "phone": "(47) 99640-4625",
+      "address": "R. Arlindo Corrêa, 405 - Vila Nova, Joinville - SC, 89237-394",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amorosa Beleza e Cosméticos",
+      "href": "https://www.google.com/maps/place/Amorosa+Beleza+e+Cosm%C3%A9ticos/data=!4m7!3m6!1s0x94dea5d24ae32d5f:0x2b8d6c8f236d8547!8m2!3d-26.2876645!4d-48.9080997!16s%2Fg%2F11ll34gz58!19sChIJXy3jStKl3pQRR4VtI49sjSs",
+      "phone": "(47) 3278-8756",
+      "address": "R. Marquês de Maricá, 102 - Vila Nova, Joinville - SC, 89237-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Jéssica Paixão",
+      "href": "https://www.google.com/maps/place/Studio+J%C3%A9ssica+Paix%C3%A3o/data=!4m7!3m6!1s0x94deb15e388f0c35:0x3fbfc5c52fc22a92!8m2!3d-26.2903486!4d-48.9115704!16s%2Fg%2F11krkvfnld!19sChIJNQyPOF6x3pQRkirCL8XFvz8",
+      "phone": "(47) 99788-1759",
+      "address": "R. Hildo Novaes, 640 - Vila Nova, Joinville - SC, 89237-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lene Rank Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Lene+Rank+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94dea5388c2f570d:0x71189cf88c194c86!8m2!3d-26.2892744!4d-48.9015621!16s%2Fg%2F11bv6pj282!19sChIJDVcvjDil3pQRhkwZjPicGHE",
+      "phone": "(47) 3455-3867",
+      "address": "R. Joaquim Girardi, 196 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Viviane nail designer",
+      "href": "https://www.google.com/maps/place/Viviane+nail+designer/data=!4m7!3m6!1s0x94dea54235e6bc75:0x8f003c54cf93f0d2!8m2!3d-26.2843565!4d-48.9069827!16s%2Fg%2F11t8p00ll1!19sChIJdbzmNUKl3pQR0vCTz1Q8AI8",
+      "phone": "(47) 99994-4428",
+      "address": "R. Paulo Schneider, 175 - Vila Nova, Joinville - SC, 89237-540",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Camila S Schlemper Beauty",
+      "href": "https://www.google.com/maps/place/Camila+S+Schlemper+Beauty/data=!4m7!3m6!1s0x94dea54f07176b0f:0x85f336f8a0fe2949!8m2!3d-26.2769374!4d-48.9046365!16s%2Fg%2F11w_hfm96m!19sChIJD2sXB0-l3pQRSSn-oPg284U",
+      "phone": "(47) 99617-9184",
+      "address": "Rua Denizart Peixoto, 407 - Vila Nova, Joinville - SC, 89237-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CA Instituto Você é Única",
+      "href": "https://www.google.com/maps/place/CA+Instituto+Voc%C3%AA+%C3%A9+%C3%9Anica/data=!4m7!3m6!1s0x94debba672d06aff:0xbd6e996f57ab3de4!8m2!3d-26.291939!4d-48.913315!16s%2Fg%2F11yz1hhkn4!19sChIJ_2rQcqa73pQR5D2rV2-Zbr0",
+      "phone": "(47) 99634-6971",
+      "address": "R. Maria Santa Corrêa, 498 - Vila Nova, Joinville - SC, 89237-382",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Belle Aura",
+      "href": "https://www.google.com/maps/place/Studio+Belle+Aura/data=!4m7!3m6!1s0x94dea564315ba907:0xb0c892c439b28473!8m2!3d-26.2884675!4d-48.9206773!16s%2Fg%2F11mycj8hh2!19sChIJB6lbMWSl3pQRc4SyOcSSyLA",
+      "phone": "(47) 98489-0130",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Camilla Mafra Manicure",
+      "href": "https://www.google.com/maps/place/Camilla+Mafra+Manicure/data=!4m7!3m6!1s0x94dea522da85eaef:0xa4a15d27f688e09!8m2!3d-26.2880156!4d-48.9025351!16s%2Fg%2F11n4vsz3rn!19sChIJ7-qF2iKl3pQRCY5of9IVSgo",
+      "phone": "(47) 98482-4037",
+      "address": "Atendimento dentro do salão By Andreia - R. Rudolf Baumer, 45 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Thaís Coutinho Studio Nails",
+      "href": "https://www.google.com/maps/place/Tha%C3%ADs+Coutinho+Studio+Nails/data=!4m7!3m6!1s0x94dea52cb9d88539:0xc87723076e849bde!8m2!3d-26.2904828!4d-48.9004708!16s%2Fg%2F11jnx9yblz!19sChIJOYXYuSyl3pQR3puEbgcjd8g",
+      "phone": "(47) 99739-9497",
+      "address": "R. Bento Torquato da Rocha, 342 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esmalteria Amanda Rodrigues",
+      "href": "https://www.google.com/maps/place/Esmalteria+Amanda+Rodrigues/data=!4m7!3m6!1s0x94dea591fc58e2f5:0xb39b753f85075648!8m2!3d-26.2784632!4d-48.8993895!16s%2Fg%2F11pw8gzl0w!19sChIJ9eJY_JGl3pQRSFYHhT91m7M",
+      "phone": "(47) 99605-1469",
+      "address": "R. Sebastião Jonck, 453 - Vila Nova, Joinville - SC, 89237-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ale Nail Designer",
+      "href": "https://www.google.com/maps/place/Ale+Nail+Designer/data=!4m7!3m6!1s0x94dea5e5dba78529:0x1514d3186f44bc1d!8m2!3d-26.2981973!4d-48.8993676!16s%2Fg%2F11q24fwy6l!19sChIJKYWn2-Wl3pQRHbxEbxjTFBU",
+      "phone": "(47) 99269-1984",
+      "address": "R. São Gabriel Arcanjo, 304 - Sala 2 - Vila Nova, Joinville - SC, 89237-180",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

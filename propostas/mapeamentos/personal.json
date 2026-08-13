@@ -1,0 +1,668 @@
+{
+  "id": "personal",
+  "nome": "Personal Trainer",
+  "terms": [
+    "personal trainer",
+    "treinador pessoal"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "Limfit academia",
+      "href": "https://www.google.com/maps/place/Limfit+academia/data=!4m7!3m6!1s0x94deb76b324c7865:0x4f2e08d55f92ae5!8m2!3d-26.3637847!4d-48.8292483!16s%2Fg%2F11ypst88y6!19sChIJZXhMMmu33pQR5Sr5VY3g8gQ",
+      "phone": "(47) 99152-0853",
+      "address": "R. Adolfo da Veiga, 355 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "2e studio de treinamento",
+      "href": "https://www.google.com/maps/place/2e+studio+de+treinamento/data=!4m7!3m6!1s0x94deb1e979f269ad:0xa11e3d6f3c93106f!8m2!3d-26.3407456!4d-48.8229488!16s%2Fg%2F11gjm7cpn9!19sChIJrWnyeemx3pQRbxCTPG89HqE",
+      "phone": "(47) 99962-4201",
+      "address": "R. Monsenhor Gercino, 3186 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Altus Treinamento Personalizado",
+      "href": "https://www.google.com/maps/place/Altus+Treinamento+Personalizado/data=!4m7!3m6!1s0x94deb1480af1101b:0x92bd2cfc49ff7d5f!8m2!3d-26.2968772!4d-48.8711814!16s%2Fg%2F11yx4b14k9!19sChIJGxDxCkix3pQRX33_SfwsvZI",
+      "phone": "(47) 99284-5546",
+      "address": "R. XV de Novembro, 2947 - Vila Nova, Joinville - SC, 89216-201",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OVJ Fit Academia",
+      "href": "https://www.google.com/maps/place/OVJ+Fit+Academia/data=!4m7!3m6!1s0x94deb74c08a93e89:0x68ca0e4e3232d187!8m2!3d-26.3556628!4d-48.8064047!16s%2Fg%2F11ss1fsqq5!19sChIJiT6pCEy33pQRh9EyMk4Oymg",
+      "phone": "(47) 99610-6938",
+      "address": "Av. Firmino da Silva, 765 - Parque Guarani, Joinville - SC, 89209-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fitness Studio",
+      "href": "https://www.google.com/maps/place/Fitness+Studio/data=!4m7!3m6!1s0x94deb1da83f6c1e3:0x9c0ab1299439b6d6!8m2!3d-26.2928398!4d-48.8487654!16s%2Fg%2F11ng5kf_r6!19sChIJ48H2g9qx3pQR1rY5lCmxCpw",
+      "phone": "(47) 99292-7400",
+      "address": "R. Emílio Artmann, 56 - América, Joinville - SC, 89204-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personal Trainer Eliana do Rosário",
+      "href": "https://www.google.com/maps/place/Personal+Trainer+Eliana+do+Ros%C3%A1rio/data=!4m7!3m6!1s0x94deb16a2a24e655:0x171d1bed11806ae6!8m2!3d-26.3343551!4d-48.837584!16s%2Fg%2F11m75ctklw!19sChIJVeYkKmqx3pQR5mqAEe0bHRc",
+      "phone": "(47) 99804-5014",
+      "address": "R. João Machado, 201 - Itaum, Joinville - SC, 89210-148",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESTÚDIO +FIT - Treinos Personalizados",
+      "href": "https://www.google.com/maps/place/EST%C3%9ADIO+%2BFIT+-+Treinos+Personalizados/data=!4m7!3m6!1s0x94dea55635586413:0x436dc7ca3a8eb595!8m2!3d-26.2616924!4d-48.7993491!16s%2Fg%2F11pf2dk2cv!19sChIJE2RYNVal3pQRlbWOOsrHbUM",
+      "phone": "(47) 99200-4318",
+      "address": "R. Augusto Gessner, 725 - Jardim Iririú, Joinville - SC, 89224-363",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AM3 Performance e Saúde",
+      "href": "https://www.google.com/maps/place/AM3+Performance+e+Sa%C3%BAde/data=!4m7!3m6!1s0x94deb1bee699db0f:0x79f22c4222b759db!8m2!3d-26.3278892!4d-48.8325859!16s%2Fg%2F11j27t1p25!19sChIJD9uZ5r6x3pQR21m3IkIs8nk",
+      "phone": "(47) 99730-6297",
+      "address": "R. Valença, 270 - Guanabara, Joinville - SC, 89210-058",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carlos Wutzow Personal Trainer",
+      "href": "https://www.google.com/maps/place/Carlos+Wutzow+Personal+Trainer/data=!4m7!3m6!1s0x94deafdb310d7299:0xea4dc6c93803f50e!8m2!3d-26.2813955!4d-48.8536821!16s%2Fg%2F11c6cy5750!19sChIJmXINMduv3pQRDvUDOMnGTeo",
+      "phone": "(47) 99609-3160",
+      "address": "R. Fernando Machado, 314 - América, Joinville - SC, 89204-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Roque Adestramento",
+      "href": "https://www.google.com/maps/place/Roque+Adestramento/data=!4m7!3m6!1s0x94deb13d8c4bb8f5:0xd83b3c619e3fc321!8m2!3d-26.315243!4d-48.8627135!16s%2Fg%2F11wfy4t9s4!19sChIJ9bhLjD2x3pQRIcM_nmE8O9g",
+      "phone": "(47) 99237-9998",
+      "address": "R. Carlos Parucker, 45 - Atiradores, Joinville - SC, 89203-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Way Academia",
+      "href": "https://www.google.com/maps/place/Way+Academia/data=!4m7!3m6!1s0x94dea53c665e47d3:0xf7f45fbdd5c3c343!8m2!3d-26.2864843!4d-48.9072045!16s%2Fg%2F11b8jc_6kq!19sChIJ00deZjyl3pQRQ8PD1b1f9Pc",
+      "phone": "(47) 99767-9546",
+      "address": "R. XV de Novembro, 7426 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "INOVE CROSS TRAINING",
+      "href": "https://www.google.com/maps/place/INOVE+CROSS+TRAINING/data=!4m7!3m6!1s0x94deb1305b079dab:0xd76ab19c5251b029!8m2!3d-26.3011949!4d-48.8506076!16s%2Fg%2F11nl80nn78!19sChIJq50HWzCx3pQRKbBRUpyxatc",
+      "phone": "(47) 98457-6441",
+      "address": "R. 9 de Março, 870 - Sl 2 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Andrea Guimarães |Personal Trainer -Joinville SC",
+      "href": "https://www.google.com/maps/place/Andrea+Guimar%C3%A3es+%7CPersonal+Trainer+-Joinville+SC/data=!4m7!3m6!1s0x94deb11520025057:0xe019e2d977e6a605!8m2!3d-26.2933012!4d-48.8452064!16s%2Fg%2F11xmcf10qz!19sChIJV1ACIBWx3pQRBabmd9niGeA",
+      "phone": "(47) 99974-0606",
+      "address": "R. Orestes Guimarães, 480 - Apto 1003A - América, Joinville - SC, 89204-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Getúlio",
+      "href": "https://www.google.com/maps/place/Academia+Get%C3%BAlio/data=!4m7!3m6!1s0x94deb051de8f58dd:0x9f20a03d49f7f578!8m2!3d-26.310292!4d-48.845924!16s%2Fg%2F1tmgdl55!19sChIJ3ViP3lGw3pQRePX3ST2gIJ8",
+      "phone": "(47) 3422-0222",
+      "address": "R. Dr. Plácido Gomes, 308 - Anita Garibaldi, Joinville - SC, 89202-203",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Físio & Movement",
+      "href": "https://www.google.com/maps/place/Studio+F%C3%ADsio+%26+Movement/data=!4m7!3m6!1s0x94deb1679f6f8fdf:0x28f1ce5e8f43d62a!8m2!3d-26.3054235!4d-48.8440241!16s%2Fg%2F11fnpnk5k9!19sChIJ349vn2ex3pQRKtZDj17O8Sg",
+      "phone": "(47) 99107-0008",
+      "address": "R. Abdon Batista, 121 - Sala 902 - Centro, Joinville - SC, 89201-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Josiane Martins - Nutricionista Especialista em Saúde da Mulher 40+/Menopausa e Climatério",
+      "href": "https://www.google.com/maps/place/Josiane+Martins+-+Nutricionista+Especialista+em+Sa%C3%BAde+da+Mulher+40%2B%2FMenopausa+e+Climat%C3%A9rio/data=!4m7!3m6!1s0x94deb1db85d4ef01:0x152f694fbadcc766!8m2!3d-26.279176!4d-48.847192!16s%2Fg%2F11ftbk6cgg!19sChIJAe_Uhdux3pQRZsfcuk9pLxU",
+      "phone": "(47) 99943-9641",
+      "address": "R. Fortaleza, 147 - Sl 16 - Saguaçu, Joinville - SC, 89221-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Morvan",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Morvan/data=!4m7!3m6!1s0x94deb115f97ef11d:0xf89a35a4b7e218c9!8m2!3d-26.3029106!4d-48.8629612!16s%2Fg%2F11wjpxt2ms!19sChIJHfF--RWx3pQRyRjit6Q1mvg",
+      "phone": "(47) 99253-2421",
+      "address": "R. Leonardo Meinert, 4370 - Glória, Joinville - SC, 89216-228",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bio Balance Studio Treinamento Funcional",
+      "href": "https://www.google.com/maps/place/Bio+Balance+Studio+Treinamento+Funcional/data=!4m7!3m6!1s0x94deb1ea1e010177:0x64ac196234eefd21!8m2!3d-26.2859445!4d-48.847282!16s%2Fg%2F11zb2zyzd2!19sChIJdwEBHuqx3pQRIf3uNGIZrGQ",
+      "phone": "(47) 98820-4638",
+      "address": "R. Edgar Schneider, 130 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Recovery Wellness",
+      "href": "https://www.google.com/maps/place/Recovery+Wellness/data=!4m7!3m6!1s0x94deb1f8fbf6ce9b:0xe27416224f520f5f!8m2!3d-26.2927771!4d-48.8507059!16s%2Fg%2F11qgd5znfb!19sChIJm872-_ix3pQRXw9STyIWdOI",
+      "phone": "(47) 99694-4889",
+      "address": "R. Emílio Artmann, 252 - América, Joinville - SC, 89204-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Life Espaço Fitness",
+      "href": "https://www.google.com/maps/place/Studio+Life+Espa%C3%A7o+Fitness/data=!4m7!3m6!1s0x94deb029ac240001:0xaa9d04660905f825!8m2!3d-26.284753!4d-48.8565787!16s%2Fg%2F11hcy_3_74!19sChIJAQAkrCmw3pQRJfgFCWYEnao",
+      "phone": "(47) 99932-1517",
+      "address": "R. Orleans, 1009 - América, Joinville - SC, 89204-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personal Trainer Aline Marques",
+      "href": "https://www.google.com/maps/place/Personal+Trainer+Aline+Marques/data=!4m7!3m6!1s0x94dea54211b83b19:0x3bdc92c87b3383e!8m2!3d-26.2813955!4d-48.8536821!16s%2Fg%2F11fnjft0nf!19sChIJGTu4EUKl3pQRPjizhyzJvQM",
+      "phone": "(47) 98862-0115",
+      "address": "R. Fernando Machado, 314 - América, Joinville - SC, 89204-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Living Fitness Academia",
+      "href": "https://www.google.com/maps/place/Living+Fitness+Academia/data=!4m7!3m6!1s0x94deb028cde230c9:0x180d22b35b2c862!8m2!3d-26.2859805!4d-48.8473036!16s%2Fg%2F124ydvsc4!19sChIJyTDizSiw3pQRYsiyNSvSgAE",
+      "phone": "(47) 3028-8949",
+      "address": "R. Edgar Schneider, 130 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MR2 Studio",
+      "href": "https://www.google.com/maps/place/MR2+Studio/data=!4m7!3m6!1s0x94deb1ed50940103:0x7b413aaa1eecdf8b!8m2!3d-26.3045489!4d-48.8629994!16s%2Fg%2F11jskp3r45!19sChIJAwGUUO2x3pQRi9_sHqo6QXs",
+      "phone": "(47) 99644-7954",
+      "address": "R. Camboriú, 235 - sala 3 - América, Joinville - SC, 89216-222",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tavella Training",
+      "href": "https://www.google.com/maps/place/Tavella+Training/data=!4m7!3m6!1s0x94deb1eb05c84fc7:0x6d432a86ab802853!8m2!3d-26.3003373!4d-48.8532805!16s%2Fg%2F11p3hf40dk!19sChIJx0_IBeux3pQRUyiAq4YqQ20",
+      "phone": "(47) 99610-9192",
+      "address": "R. Expedicionário Holz, 550 - Sl 1013 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atitude Academia",
+      "href": "https://www.google.com/maps/place/Atitude+Academia/data=!4m7!3m6!1s0x94deb1a100c2074d:0xe2bd58ad11e7d105!8m2!3d-26.3094008!4d-48.8540261!16s%2Fg%2F11qbsbbgwm!19sChIJTQfCAKGx3pQRBdHnEa1YveI",
+      "phone": "(47) 98863-3387",
+      "address": "R. Pernambuco, 574 - Atiradores, Joinville - SC, 89203-025",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Sparta",
+      "href": "https://www.google.com/maps/place/Academia+Sparta/data=!4m7!3m6!1s0x94deb17e5caf7463:0x9150ced07ea6ce1c!8m2!3d-26.3135265!4d-48.8473862!16s%2Fg%2F11fn72d7rd!19sChIJY3SvXH6x3pQRHM6mftDOUJE",
+      "phone": "(47) 98843-4468",
+      "address": "R. Paraná, 175 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "W.Vip Studio Fitness - Estúdio Personal Trainer",
+      "href": "https://www.google.com/maps/place/W.Vip+Studio+Fitness+-+Est%C3%BAdio+Personal+Trainer/data=!4m7!3m6!1s0x94deb188fc2da13d:0x935ad553cd5ac779!8m2!3d-26.3181581!4d-48.8439455!16s%2Fg%2F11vqn35d2p!19sChIJPaEt_Iix3pQRecdazVPVWpM",
+      "phone": "(47) 98855-7600",
+      "address": "R. Cel. Francisco Gomes, 1000 - Bucarein, Joinville - SC, 89202-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atos Joinville",
+      "href": "https://www.google.com/maps/place/Atos+Joinville/data=!4m7!3m6!1s0x94deb1a68250f12f:0xadc3555d5e81604!8m2!3d-26.3240096!4d-48.857555!16s%2Fg%2F11wbhgzykm!19sChIJL_FQgqax3pQRBBbo1VU13Ao",
+      "phone": "(47) 99249-8642",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Michel Fernandes Personal Trainer",
+      "href": "https://www.google.com/maps/place/Michel+Fernandes+Personal+Trainer/data=!4m7!3m6!1s0x94deaf0e66b9fe63:0x6609937cc7a84122!8m2!3d-26.2725535!4d-48.837231!16s%2Fg%2F11rg8x07ps!19sChIJY_65Zg6v3pQRIkGox3yTCWY",
+      "phone": "(47) 98493-0750",
+      "address": "R. Brasil, 480 - Saguaçu, Joinville - SC, 89204-080",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Perso House",
+      "href": "https://www.google.com/maps/place/Studio+Perso+House/data=!4m7!3m6!1s0x94deaf9cd58103cb:0x9a4b9a1147ee3d6a!8m2!3d-26.2722777!4d-48.8549114!16s%2Fg%2F11m47_5b08!19sChIJywOB1Zyv3pQRaj3uRxGaS5o",
+      "phone": "(47) 99961-9152",
+      "address": "R. Guia Lopes, 272 - Santo Antônio, Joinville - SC, 89218-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Pilates Mais",
+      "href": "https://www.google.com/maps/place/Studio+Pilates+Mais/data=!4m7!3m6!1s0x94deb02afcf07b43:0x4eb409208c000947!8m2!3d-26.2819909!4d-48.8424079!16s%2Fg%2F11gfk122w_!19sChIJQ3vw_Cqw3pQRRwkAjCAJtE4",
+      "phone": "(47) 99914-2013",
+      "address": "R. Joaçaba, 54 - Saguaçu, Joinville - SC, 89221-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Artbol Quadra de Esportes",
+      "href": "https://www.google.com/maps/place/Artbol+Quadra+de+Esportes/data=!4m7!3m6!1s0x94deb3ff1fce51e9:0xf004b86a0c6533be!8m2!3d-26.3390154!4d-48.796144!16s%2Fg%2F11g6b32v1y!19sChIJ6VHOH_-z3pQRvjNlDGq4BPA",
+      "phone": "(47) 3463-6503",
+      "address": "R. Cidade de Otacílio Costa, 244 - Jarivatuba, Joinville - SC, 89230-433",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MovLife Academia - Costa e Silva",
+      "href": "https://www.google.com/maps/place/MovLife+Academia+-+Costa+e+Silva/data=!4m7!3m6!1s0x94deaf493882653d:0xbddc5d254c05f18d!8m2!3d-26.2692354!4d-48.874017!16s%2Fg%2F11v5y3y23x!19sChIJPWWCOEmv3pQRjfEFTCVd3L0",
+      "phone": "(47) 3023-9688",
+      "address": "R. das Andorinhas, 385 - Costa e Silva, Joinville - SC, 89220-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dal Farra Studio de Musculação",
+      "href": "https://www.google.com/maps/place/Dal+Farra+Studio+de+Muscula%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deaffc9be2363b:0x27ab1062ad55be42!8m2!3d-26.2845948!4d-48.8734588!16s%2Fg%2F11b8jd15gh!19sChIJOzbim_yv3pQRQr5VrWIQqyc",
+      "phone": "(47) 3028-6500",
+      "address": "R. Benjamin Constant, 2380 - Sala 2 - Costa e Silva, Joinville - SC, 89217-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ATP Joinville - Academia de Treinamento Personalizado",
+      "href": "https://www.google.com/maps/place/ATP+Joinville+-+Academia+de+Treinamento+Personalizado/data=!4m7!3m6!1s0x94deaf0033855f7d:0x818f279489dae320!8m2!3d-26.2700438!4d-48.8717895!16s%2Fg%2F11vs1m5ntl!19sChIJfV-FMwCv3pQRIOPaiZQnj4E",
+      "phone": "(47) 99132-6051",
+      "address": "R. Sen. Nilo Coelho, 38 - Costa e Silva, Joinville - SC, 89219-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Team Jeanis - Treinamento personalizado",
+      "href": "https://www.google.com/maps/place/Team+Jeanis+-+Treinamento+personalizado/data=!4m7!3m6!1s0x94deaf0cc37c589d:0x3c8e514823a2a886!8m2!3d-26.2708444!4d-48.8759269!16s%2Fg%2F11vsqxky5x!19sChIJnVh8wwyv3pQRhqiiI0hRjjw",
+      "phone": "(47) 99651-8001",
+      "address": "R. Codornas, 247 - Costa e Silva, Joinville - SC, 89220-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "WodStorm",
+      "href": "https://www.google.com/maps/place/WodStorm/data=!4m7!3m6!1s0x94deaf00039b5419:0xa1eb8c8b184b10d3!8m2!3d-26.267085!4d-48.8584192!16s%2Fg%2F11mzm5fggf!19sChIJGVSbAwCv3pQR0xBLGIuM66E",
+      "phone": "(47) 99647-3738",
+      "address": "R. Dona Francisca, 4860 - Santo Antônio, Joinville - SC, 89218-112",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia GRID",
+      "href": "https://www.google.com/maps/place/Academia+GRID/data=!4m7!3m6!1s0x94dea52dec64d797:0xa9afc0c71bc1ae90!8m2!3d-26.2870652!4d-48.9002293!16s%2Fg%2F11tg9dxcns!19sChIJl9dk7C2l3pQRkK7BG8fAr6k",
+      "phone": "(47) 99170-0039",
+      "address": "R. XV de Novembro, 5992 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia FitWay",
+      "href": "https://www.google.com/maps/place/Academia+FitWay/data=!4m7!3m6!1s0x94dea5001d3974f9:0xa32b3ab85ab3c9d2!8m2!3d-26.2924763!4d-48.9061382!16s%2Fg%2F11mf4fp5yz!19sChIJ-XQ5HQCl3pQR0smzWrg6K6M",
+      "phone": "(47) 3305-6540",
+      "address": "R. Dante Nazato, 533 - Vila Nova, Joinville - SC, 89237-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BLUE WAY Cross Training",
+      "href": "https://www.google.com/maps/place/BLUE+WAY+Cross+Training/data=!4m7!3m6!1s0x94dea57f1cc5264f:0xf56b3b115e444713!8m2!3d-26.2861062!4d-48.9068889!16s%2Fg%2F11fsv_yw5l!19sChIJTybFHH-l3pQRE0dEXhE7a_U",
+      "phone": "(47) 3043-0297",
+      "address": "R. XV de Novembro - Vila Nova, Joinville - SC, 89237-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CT Lion Black team",
+      "href": "https://www.google.com/maps/place/CT+Lion+Black+team/data=!4m7!3m6!1s0x94dea55c76d8d037:0x5b8226495e3cceb9!8m2!3d-26.2788145!4d-48.9079839!16s%2Fg%2F11y_l04p1f!19sChIJN9DYdlyl3pQRuc48Xkkmgls",
+      "phone": "(47) 99757-7657",
+      "address": "R. Paulo Schneider, 825 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personal Marcelo Silva",
+      "href": "https://www.google.com/maps/place/Personal+Marcelo+Silva/data=!4m7!3m6!1s0x94dea53f8f2988e9:0xbb8ac2c83dcbb61d!8m2!3d-26.2837259!4d-48.9056672!16s%2Fg%2F11vr265p13!19sChIJ6Ygpjz-l3pQRHbbLPcjCirs",
+      "phone": "(47) 99139-6132",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maia Personal",
+      "href": "https://www.google.com/maps/place/Maia+Personal/data=!4m7!3m6!1s0x94deb1d196847ec1:0x5d56598ec9493d87!8m2!3d-26.3420149!4d-48.8470476!16s%2Fg%2F11x0xqxvf4!19sChIJwX6EltGx3pQRhz1JyY5ZVl0",
+      "phone": "(47) 99626-3159",
+      "address": "Rua Santa Catarina, 2095, Rua Lages, 826 - Floresta, Joinville - SC, 89212-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corpo Mania Academia",
+      "href": "https://www.google.com/maps/place/Corpo+Mania+Academia/data=!4m7!3m6!1s0x94deb0ecf835bab3:0x7c4f961b9a16d307!8m2!3d-26.336523!4d-48.8574216!16s%2Fg%2F11b88mwl70!19sChIJs7o1-Oyw3pQRB9MWmhuWT3w",
+      "phone": "(47) 3432-4374",
+      "address": "R. Copacabana, 1435 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Ultimate Fight & Fitness Club",
+      "href": "https://www.google.com/maps/place/Academia+Ultimate+Fight+%26+Fitness+Club/data=!4m7!3m6!1s0x94deb0e4ccdfed33:0xd5ec9c7f8eed4847!8m2!3d-26.3300276!4d-48.8467703!16s%2Fg%2F12lk1rkk2!19sChIJM-3fzOSw3pQRR0jtjn-c7NU",
+      "phone": "(47) 99162-1288",
+      "address": "R. Santa Catarina, 836 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ACADEMIA TRIBUS GYM",
+      "href": "https://www.google.com/maps/place/ACADEMIA+TRIBUS+GYM/data=!4m7!3m6!1s0x94deb148593b75e3:0xd881d065171bfc6c!8m2!3d-26.3408635!4d-48.8172523!16s%2Fg%2F11c5rv3mx7!19sChIJ43U7WUix3pQRbPwbF2XQgdg",
+      "phone": "(47) 98826-6812",
+      "address": "R. Monsenhor Gercino, 3686 - João Costa, Joinville - SC, 89231-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ritmo da Forma",
+      "href": "https://www.google.com/maps/place/Ritmo+da+Forma/data=!4m7!3m6!1s0x94deb11e21432009:0x9426e27a353242e8!8m2!3d-26.3329582!4d-48.8393359!16s%2Fg%2F1v3_3vcy!19sChIJCSBDIR6x3pQR6EIyNXriJpQ",
+      "phone": "(47) 3426-6750",
+      "address": "R. Guarujá, 290 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FIT LIFE STUDIO",
+      "href": "https://www.google.com/maps/place/FIT+LIFE+STUDIO/data=!4m7!3m6!1s0x94deb119088a7bc5:0x1560993bd095e325!8m2!3d-26.3314276!4d-48.8323262!16s%2Fg%2F11gd1x3w5n!19sChIJxXuKCBmx3pQRJeOV0DuZYBU",
+      "phone": "(47) 99952-1282",
+      "address": "CSU- CENTRO SOCIAL URBANO - R. Arlindo Pereira de Macedo, 225 - Itaum, Joinville - SC, 89210-173",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Club Fitness Sul Academia",
+      "href": "https://www.google.com/maps/place/Club+Fitness+Sul+Academia/data=!4m7!3m6!1s0x94deb1516b759089:0x968537ae91fa9d9f!8m2!3d-26.3390147!4d-48.8060999!16s%2Fg%2F11gfd30svx!19sChIJiZB1a1Gx3pQRn536ka43hZY",
+      "phone": "(47) 3034-7738",
+      "address": "R. Monsenhor Gercino, 4990 - Itaum, Joinville - SC, 89230-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cirlei Santos",
+      "href": "https://www.google.com/maps/place/Cirlei+Santos/data=!4m7!3m6!1s0x94deb11e23055555:0x30697095bec7fcce!8m2!3d-26.3334575!4d-48.8392276!16s%2Fg%2F1yfjc94l_!19sChIJVVUFIx6x3pQRzvzHvpVwaTA",
+      "phone": "(47) 3034-2410",
+      "address": "R. Guarujá, 323 - Itaum, Joinville - SC, 89210-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Efeito Pilates e Consultoria Ltda",
+      "href": "https://www.google.com/maps/place/Efeito+Pilates+e+Consultoria+Ltda/data=!4m7!3m6!1s0x94deb1c25c1733dd:0x8a1bc2eb0f3d1797!8m2!3d-26.3402419!4d-48.8229076!16s%2Fg%2F11mbwpwxtb!19sChIJ3TMXXMKx3pQRlxc9D-vCG4o",
+      "phone": "(47) 99239-1617",
+      "address": "R. Monsenhor Gercino, 3215 - Itaum, Joinville - SC, 89208-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia GW Fitness",
+      "href": "https://www.google.com/maps/place/Academia+GW+Fitness/data=!4m7!3m6!1s0x94deb5bef45f23c9:0x245089c501eaedbf!8m2!3d-26.3470905!4d-48.7912175!16s%2Fg%2F11twr6tntr!19sChIJySNf9L613pQRv-3qAcWJUCQ",
+      "phone": "(47) 3305-4527",
+      "address": "R. Monsenhor Gercino, 6974 - Paranaguamirim, Joinville - SC, 89231-502",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Life Up treinamento funcional",
+      "href": "https://www.google.com/maps/place/Life+Up+treinamento+funcional/data=!4m7!3m6!1s0x94deb7b9b9eff861:0x28506714853e77d9!8m2!3d-26.3811406!4d-48.8227762!16s%2Fg%2F11zj9v62vr!19sChIJYfjvubm33pQR2Xc-hRRnUCg",
+      "phone": "(47) 98895-9314",
+      "address": "R. Adolfo da Veiga, 2570 - Itinga, Joinville - SC, 89235-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "GD Academia",
+      "href": "https://www.google.com/maps/place/GD+Academia/data=!4m7!3m6!1s0x94deb1488ce548f3:0x4aee26f9c248e17f!8m2!3d-26.3498224!4d-48.8184234!16s%2Fg%2F11f4_3v_s0!19sChIJ80jljEix3pQRf-FIwvkm7ko",
+      "phone": "(47) 98911-1463",
+      "address": "R. João da Costa Júnior, 1089 - João Costa, Joinville - SC, 89209-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Yellow Studio Personal",
+      "href": "https://www.google.com/maps/place/Yellow+Studio+Personal/data=!4m7!3m6!1s0x94deaf32d904e0d3:0xfff3df99ed427003!8m2!3d-26.2624089!4d-48.8187943!16s%2Fg%2F11j_tds8jl!19sChIJ0-AE2TKv3pQRA3BC7Znf8_8",
+      "phone": "(47) 99648-9419",
+      "address": "R. Tuiuti, 1010 - Aventureiro, Joinville - SC, 89227-473",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio MOVIMENT Treinamento funcional",
+      "href": "https://www.google.com/maps/place/Studio+MOVIMENT+Treinamento+funcional/data=!4m7!3m6!1s0x94deaf7841d73cb9:0xb3056e3002450acb!8m2!3d-26.26203!4d-48.8166587!16s%2Fg%2F11wj6tk0m7!19sChIJuTzXQXiv3pQRywpFAjBuBbM",
+      "phone": "(47) 99629-3238",
+      "address": "R. Martinho Van Biene, 297 - Jardim Iririú, Joinville - SC, 89224-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "2007 Academias",
+      "href": "https://www.google.com/maps/place/2007+Academias/data=!4m7!3m6!1s0x94deaff4a95bc43f:0xc3ccf8e70cc92494!8m2!3d-26.2454755!4d-48.8115825!16s%2Fg%2F11wy7h76sr!19sChIJP8RbqfSv3pQRlCTJDOf4zMM",
+      "phone": "(47) 99785-0068",
+      "address": "R. Prado, 1040 - Aventureiro, Joinville - SC, 89226-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Korporal",
+      "href": "https://www.google.com/maps/place/Academia+Korporal/data=!4m7!3m6!1s0x94deae19d966399b:0x64532bd2c788732d!8m2!3d-26.261042!4d-48.8163424!16s%2Fg%2F1tlbq97r!19sChIJmzlm2Rmu3pQRLXOIx9IrU2Q",
+      "phone": "(47) 99752-1225",
+      "address": "R. Áries, 96 - Jardim Iririú, Joinville - SC, 89224-017",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "🏋‍♀️Academia DanLucas",
+      "href": "https://www.google.com/maps/place/%F0%9F%8F%8B%E2%80%8D%E2%99%80%EF%B8%8FAcademia+DanLucas/data=!4m7!3m6!1s0x94deae0d6a93b9a9:0x27715bd578df89f6!8m2!3d-26.2494958!4d-48.8084798!16s%2Fg%2F11bw8m2682!19sChIJqbmTag2u3pQR9onfeNVbcSc",
+      "phone": "(47) 3307-4813",
+      "address": "R. Rogério Pereira, 888 - Aventureiro, Joinville - SC, 89225-530",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Personal Juliane Santos - Reabilitação e atividades físicas",
+      "href": "https://www.google.com/maps/place/Personal+Juliane+Santos+-+Reabilita%C3%A7%C3%A3o+e+atividades+f%C3%ADsicas/data=!4m7!3m6!1s0x94deb10bf35261b5:0xc90082622c552a00!8m2!3d-26.2717824!4d-48.8117765!16s%2Fg%2F11qgr0ddpx!19sChIJtWFS8wux3pQRACpVLGKCAMk",
+      "phone": "(47) 98912-0172",
+      "address": "Academia Universal Atendimento prioritário nesse endereço - R. Albano Schmidt, 5287 - Iririú, Joinville - SC, 89227-701",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Performance Fitness",
+      "href": "https://www.google.com/maps/place/Academia+Performance+Fitness/data=!4m7!3m6!1s0x94deb1ddc48de0e1:0x821452966f561def!8m2!3d-26.2780409!4d-48.8213316!16s%2Fg%2F11bv381drd!19sChIJ4eCNxN2x3pQR7x1Wb5ZSFII",
+      "phone": "(47) 3278-0506",
+      "address": "R. Papa João XXIII, 998 - Iririú, Joinville - SC, 89227-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Iron Black",
+      "href": "https://www.google.com/maps/place/Academia+Iron+Black/data=!4m7!3m6!1s0x94deaf006fc60887:0x68c8dd6099b8543a!8m2!3d-26.2687257!4d-48.8242397!16s%2Fg%2F11xnlcqyx3!19sChIJhwjGbwCv3pQROlS4mWDdyGg",
+      "phone": "(47) 99185-2048",
+      "address": "R. Guaíra, 365 - Iririú, Joinville - SC, 89227-447",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Yokohama Jardim Iririú",
+      "href": "https://www.google.com/maps/place/Academia+Yokohama+Jardim+Iriri%C3%BA/data=!4m7!3m6!1s0x94deae0428d98573:0x1c26126427abd796!8m2!3d-26.2615548!4d-48.8067611!16s%2Fg%2F11c5_94xjs!19sChIJc4XZKASu3pQRlterJ2QSJhw",
+      "phone": "(47) 3278-0328",
+      "address": "R. Frontin, 1780 - Jardim Iririú, Joinville - SC, 89227-575",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Mega Fit",
+      "href": "https://www.google.com/maps/place/Academia+Mega+Fit/data=!4m7!3m6!1s0x94deb1bb413cecdd:0xe7a4c9738245bd6a!8m2!3d-26.3021058!4d-48.8256889!16s%2Fg%2F11bv3y23ty!19sChIJ3ew8Qbux3pQRar1FgnPJpOc",
+      "phone": "(47) 99662-4186",
+      "address": "R. Pref. Helmuth Fallgatter, 1203 - Boa Vista, Joinville - SC, 89206-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Atitude Física Academia",
+      "href": "https://www.google.com/maps/place/Atitude+F%C3%ADsica+Academia/data=!4m7!3m6!1s0x94deb1a49d831eb3:0x3d250cd3b21e2fa6!8m2!3d-26.3043733!4d-48.8249682!16s%2Fg%2F1td39dbt!19sChIJsx6DnaSx3pQRpi8estMMJT0",
+      "phone": "(47) 3433-5368",
+      "address": "R. Albano Schmidt, 1125 - Boa Vista, Joinville - SC, 89205-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Mr. Fit",
+      "href": "https://www.google.com/maps/place/Academia+Mr.+Fit/data=!4m7!3m6!1s0x94deb1a1427f227f:0x3bc9f624538197d7!8m2!3d-26.2749358!4d-48.8054067!16s%2Fg%2F11h6v1623q!19sChIJfyJ_QqGx3pQR15eBUyT2yTs",
+      "phone": "(47) 99739-5864",
+      "address": "R. Pte. Serrada, 747 - Comasa, Joinville - SC, 89228-271",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Nuclear",
+      "href": "https://www.google.com/maps/place/Academia+Nuclear/data=!4m7!3m6!1s0x94deb1f5151e225d:0xb594e2d51064100a!8m2!3d-26.2835371!4d-48.801017!16s%2Fg%2F11c3sr4yv2!19sChIJXSIeFfWx3pQRChBkENXilLU",
+      "phone": "(47) 99931-8118",
+      "address": "R. Pref. Baltasar Buschle, 830 - Comasa, Joinville - SC, 89228-800",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nexus Performance Studio",
+      "href": "https://www.google.com/maps/place/Nexus+Performance+Studio/data=!4m7!3m6!1s0x94deafddaf3a758b:0x3d776594e1679763!8m2!3d-26.2665505!4d-48.8451373!16s%2Fg%2F11x8prz9zg!19sChIJi3U6r92v3pQRY5dn4ZRldz0",
+      "phone": "(47) 98827-9036",
+      "address": "com - R. Dom Bosco, R. Ten. Antônio João, 1069 - Sala 9-10, Joinville - SC, 89222-401",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Pilates + Saúde Comasa - Pilates, Fisioterapia e Pole Sport",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Pilates+%2B+Sa%C3%BAde+Comasa+-+Pilates,+Fisioterapia+e+Pole+Sport/data=!4m7!3m6!1s0x94deb12ac6b67521:0x246e78078546237e!8m2!3d-26.2835529!4d-48.8035037!16s%2Fg%2F11t4tcxxsm!19sChIJIXW2xiqx3pQRfiNGhQd4biQ",
+      "phone": "(47) 99663-2755",
+      "address": "Lateral da Farmácia Preço Popular - R. Pref. Baltasar Buschle, 675 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Big Gym Academia",
+      "href": "https://www.google.com/maps/place/Big+Gym+Academia/data=!4m7!3m6!1s0x94deb3aa09e65f73:0x83562e08f14cd142!8m2!3d-26.2886148!4d-48.7792784!16s%2Fg%2F11ghds1btr!19sChIJc1_mCaqz3pQRQtFM8QguVoM",
+      "phone": "(47) 99763-2226",
+      "address": "R. Pref. Baltasar Buschle, 3335 - Espinheiros, Joinville - SC",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estilo Fitness Joinville",
+      "href": "https://www.google.com/maps/place/Estilo+Fitness+Joinville/data=!4m7!3m6!1s0x94deb1e1fd16c907:0x107aeec6c9e9f822!8m2!3d-26.3198777!4d-48.8017189!16s%2Fg%2F11m7n_xwhb!19sChIJB8kW_eGx3pQRIvjpycbuehA",
+      "phone": "(47) 99273-5528",
+      "address": "R. Ayrton Senna, 746 - Adhemar Garcia, Joinville - SC, 89230-749",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Equilíbrio",
+      "href": "https://www.google.com/maps/place/Academia+Equil%C3%ADbrio/data=!4m7!3m6!1s0x94deb140d7ec9c4d:0xc3aa7ef3d7e4c2a4!8m2!3d-26.3334869!4d-48.8171125!16s%2Fg%2F11b88pbd2y!19sChIJTZzs10Cx3pQRpMLk1_N-qsM",
+      "phone": "(47) 3463-5312",
+      "address": "R. Fátima, 703 - Itaum, Joinville - SC, 89210-681",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Academia Aerobic Dancing",
+      "href": "https://www.google.com/maps/place/Academia+Aerobic+Dancing/data=!4m7!3m6!1s0x94deb16af424c7cd:0x43390bcc3ae5f2ea!8m2!3d-26.3276171!4d-48.8173704!16s%2Fg%2F11bv30h3np!19sChIJzcck9Gqx3pQR6vLlOswLOUM",
+      "phone": "(47) 3436-7343",
+      "address": "R. Fátima - Fátima, Joinville - SC, 89299-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

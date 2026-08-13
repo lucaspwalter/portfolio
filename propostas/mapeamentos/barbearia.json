@@ -1,0 +1,767 @@
+{
+  "id": "barbearia",
+  "nome": "Barbearia",
+  "terms": [
+    "barbearia",
+    "barbeiro"
+  ],
+  "profiles": 240,
+  "qualified": [
+    {
+      "name": "La Calle Barbearia.",
+      "href": "https://www.google.com/maps/place/La+Calle+Barbearia./data=!4m7!3m6!1s0x94deb75f9612d3eb:0xa04203820430370e!8m2!3d-26.361694!4d-48.8317439!16s%2Fg%2F11gjtyjks7!19sChIJ69MSll-33pQRDjcwBIIDQqA",
+      "phone": "(47) 99946-1545",
+      "address": "Av. Paulo Schroeder, 954 - Boehmerwald, Joinville - SC, 89235-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Griffe Barbearia",
+      "href": "https://www.google.com/maps/place/Griffe+Barbearia/data=!4m7!3m6!1s0x94deb18a762f4d25:0x95b1447abf254f86!8m2!3d-26.3636081!4d-48.8292269!16s%2Fg%2F11lh5kjnv6!19sChIJJU0vdoqx3pQRhk8lv3pEsZU",
+      "phone": "(47) 98824-5875",
+      "address": "R. Adolfo da Veiga, 329 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jakson Barbearia",
+      "href": "https://www.google.com/maps/place/Jakson+Barbearia/data=!4m7!3m6!1s0x94deb6db9fe5cdd5:0x5abf248a4d3dfebb!8m2!3d-26.3673439!4d-48.8322236!16s%2Fg%2F11bv6prwfg!19sChIJ1c3ln9u23pQRu_49TYokv1o",
+      "phone": "(47) 99903-4131",
+      "address": "R. Afonso Moreira, 275 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Tradicional 4 de Janeiro (Marcelo Costa)",
+      "href": "https://www.google.com/maps/place/Barbearia+Tradicional+4+de+Janeiro+%28Marcelo+Costa%29/data=!4m7!3m6!1s0x94deb6c7060d33cd:0x3fb5cb57ea34c7b6!8m2!3d-26.3626431!4d-48.821436!16s%2Fg%2F11g8w5zc_k!19sChIJzTMNBse23pQRtsc06lfLtT8",
+      "phone": "(47) 98896-2622",
+      "address": "R. Boehmerwald, 1310 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Edu Barbearia",
+      "href": "https://www.google.com/maps/place/Edu+Barbearia/data=!4m7!3m6!1s0x94deb6cfd81b0483:0xc6914a148921ddff!8m2!3d-26.3609462!4d-48.8296334!16s%2Fg%2F11bv6pmbks!19sChIJgwQb2M-23pQR_90hiRRKkcY",
+      "phone": "(47) 3465-6346",
+      "address": "R. Adolfo da Veiga, 42 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Wilson",
+      "href": "https://www.google.com/maps/place/Barbearia+Wilson/data=!4m7!3m6!1s0x94deb6d9b709eac1:0x3a2a8c4c80e993c7!8m2!3d-26.3666517!4d-48.83673!16s%2Fg%2F11c604wnsr!19sChIJweoJt9m23pQRx5PpgEyMKjo",
+      "phone": "(47) 3436-3540",
+      "address": "R. Waldemiro José Borges, 1506 - Profipo, Joinville - SC, 89233-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia do Ruivo",
+      "href": "https://www.google.com/maps/place/Barbearia+do+Ruivo/data=!4m7!3m6!1s0x94deb76683c304b9:0x866a5304d29e3e47!8m2!3d-26.3606273!4d-48.8326397!16s%2Fg%2F11qsd730n6!19sChIJuQTDg2a33pQRRz6e0gRTaoY",
+      "phone": "(47) 99976-6261",
+      "address": "Rua: Boehmerwald, 610 - Sala:02 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Paulo Rosa",
+      "href": "https://www.google.com/maps/place/Barbearia+Paulo+Rosa/data=!4m7!3m6!1s0x94deb7446b4a55e3:0xd1dbcbf74f1ff73b!8m2!3d-26.3626388!4d-48.8244884!16s%2Fg%2F11ydp2y9np!19sChIJ41VKa0S33pQRO_cfT_fL29E",
+      "phone": "(47) 99245-8607",
+      "address": "R. Boehmerwald, 1644 - Sl 4 - Boehmerwald, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Black Boy Power Barber Shop",
+      "href": "https://www.google.com/maps/place/Black+Boy+Power+Barber+Shop/data=!4m7!3m6!1s0x94deb13238396775:0xf7a45c03627d45ad!8m2!3d-26.3494483!4d-48.8295046!16s%2Fg%2F11gc153cq1!19sChIJdWc5ODKx3pQRrUV9YgNcpPc",
+      "phone": "(47) 98445-9075",
+      "address": "R. Manoel de Souza, 520 - Petrópolis, Joinville - SC, 89208-782",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Alves",
+      "href": "https://www.google.com/maps/place/Barbearia+Alves/data=!4m7!3m6!1s0x94deb4f4fc023a3d:0x213e29c85142e5ca!8m2!3d-26.3619632!4d-48.8293877!16s%2Fg%2F11gglqh29c!19sChIJPToC_PS03pQRyuVCUcgpPiE",
+      "phone": "(47) 3207-1426",
+      "address": "R. Adolfo da Veiga, 141 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia chefe Leonel",
+      "href": "https://www.google.com/maps/place/Barbearia+chefe+Leonel/data=!4m7!3m6!1s0x94deb7994ae7628f:0x7fb30122c7f80d8b!8m2!3d-26.3689538!4d-48.8278518!16s%2Fg%2F11t4w_3cjj!19sChIJj2LnSpm33pQRiw34xyIBs38",
+      "phone": "(47) 99155-7221",
+      "address": "R. Adolfo da Veiga, 972 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia",
+      "href": "https://www.google.com/maps/place/Barbearia/data=!4m7!3m6!1s0x94deb733418fee05:0xfb034abc63c3a21f!8m2!3d-26.3685379!4d-48.8230707!16s%2Fg%2F11nn484jf6!19sChIJBe6PQTO33pQRH6LDY7xKA_s",
+      "phone": "(47) 99621-7229",
+      "address": "R. Nova República, 500 - Boehmerwald, Joinville - SC, 89235-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Tradicional Oliveira",
+      "href": "https://www.google.com/maps/place/Barbearia+Tradicional+Oliveira/data=!4m7!3m6!1s0x94deb1929d46e159:0xcfdf95b3243de31f!8m2!3d-26.3037047!4d-48.8476282!16s%2Fg%2F11h70h6xrp!19sChIJWeFGnZKx3pQRH-M9JLOV388",
+      "phone": "(47) 98459-9809",
+      "address": "R. Jacob Richlin, 189 - Centro, Joinville - SC, 89201-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Príncipe",
+      "href": "https://www.google.com/maps/place/Barbearia+Pr%C3%ADncipe/data=!4m7!3m6!1s0x94deb04c2ad6a3e7:0x5e213bdf71235dba!8m2!3d-26.3071826!4d-48.8447555!16s%2Fg%2F11b81s87yy!19sChIJ56PWKkyw3pQRul0jcd87IV4",
+      "phone": "(47) 98911-8204",
+      "address": "R. do Príncipe, 897 - Centro, Joinville - SC, 89201-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Salão Verde",
+      "href": "https://www.google.com/maps/place/Barbearia+Sal%C3%A3o+Verde/data=!4m7!3m6!1s0x94deb04e9e7ce7eb:0x5230ed334375e6b5!8m2!3d-26.3063881!4d-48.8449262!16s%2Fg%2F11b81s0ssy!19sChIJ6-d8nk6w3pQRteZ1QzPtMFI",
+      "phone": "(47) 99681-9214",
+      "address": "R. do Príncipe, 807 - Centro, Joinville - SC, 89201-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Manchester",
+      "href": "https://www.google.com/maps/place/Barbearia+Manchester/data=!4m7!3m6!1s0x94deb166a0bfb1f3:0x4630b3806f668205!8m2!3d-26.3105716!4d-48.8453543!16s%2Fg%2F11vyxrnxz5!19sChIJ87G_oGax3pQRBYJmb4CzMEY",
+      "phone": "(47) 3439-3951",
+      "address": "Av. Getúlio Vargas, 341 - Bucarein, Joinville - SC, 89202-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Esmalteria Néia Belas Unhas",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Esmalteria+N%C3%A9ia+Belas+Unhas/data=!4m7!3m6!1s0x94deb6c5493efc25:0x3fea65c255d86c67!8m2!3d-26.3625302!4d-48.8297772!16s%2Fg%2F11bvcv202v!19sChIJJfw-ScW23pQRZ2zYVcJl6j8",
+      "phone": "(47) 99988-9837",
+      "address": "R. Adolfo da Veiga, 226 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Navajo",
+      "href": "https://www.google.com/maps/place/Barbearia+Navajo/data=!4m7!3m6!1s0x94deb0680d67331d:0x52107c733f4ca6f!8m2!3d-26.3150025!4d-48.8621466!16s%2Fg%2F11c0t96sbg!19sChIJHTNnDWiw3pQRb8r0M8cHIQU",
+      "phone": "(47) 99983-7128",
+      "address": "R. Ottokar Doerffel, 730 - Atiradores, Joinville - SC, 89203-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Don Distinto Barbeiro",
+      "href": "https://www.google.com/maps/place/Don+Distinto+Barbeiro/data=!4m7!3m6!1s0x94deb1763c1095c7:0x5cfabdcb374abd29!8m2!3d-26.3149906!4d-48.8513409!16s%2Fg%2F11yp7f23yl!19sChIJx5UQPHax3pQRKb1KN8u9-lw",
+      "phone": "(47) 98913-5298",
+      "address": "R. Cel. Santiago, 627 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AG Barbearia",
+      "href": "https://www.google.com/maps/place/AG+Barbearia/data=!4m7!3m6!1s0x94deb100458b957f:0x62b8743359fc1687!8m2!3d-26.3012022!4d-48.8520502!16s%2Fg%2F11lcl7r820!19sChIJf5WLRQCx3pQRhxb8WTN0uGI",
+      "phone": "(47) 99980-8118",
+      "address": "R. Otto Boehm, 122 - América, Joinville - SC, 89201-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Dias Barber",
+      "href": "https://www.google.com/maps/place/Studio+Dias+Barber/data=!4m7!3m6!1s0x94deb74d04bc5b59:0xd5d96e5235ed62d3!8m2!3d-26.3594073!4d-48.8334536!16s%2Fg%2F11m5j0w8w9!19sChIJWVu8BE233pQR02LtNVJu2dU",
+      "phone": "(47) 98471-3176",
+      "address": "R. Mathilde Timm, 119 - Boehmerwald, Joinville - SC, 89232-625",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Rota 47 Havan",
+      "href": "https://www.google.com/maps/place/Barbearia+Rota+47+Havan/data=!4m7!3m6!1s0x94deb1a9a4ab8e97:0x47060ec62e3baf6b!8m2!3d-26.3080978!4d-48.8405669!16s%2Fg%2F11wg8pvt4j!19sChIJl46rpKmx3pQRa687LsYOBkc",
+      "phone": "(47) 3509-0558",
+      "address": "Av. Cel. Procópio Gomes, 249 - Bucarein, Joinville - SC, 89202-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia do João",
+      "href": "https://www.google.com/maps/place/Barbearia+do+Jo%C3%A3o/data=!4m7!3m6!1s0x94deb1e81d3258eb:0xb0cdf22e489813e4!8m2!3d-26.3035894!4d-48.8595014!16s%2Fg%2F11hz8rrmsg!19sChIJ61gyHeix3pQR5BOYSC7yzbA",
+      "phone": "(47) 99927-0420",
+      "address": "R. Aquidaban, 383 - Glória, Joinville - SC, 89216-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BARBERHAUS - tradição no corte",
+      "href": "https://www.google.com/maps/place/BARBERHAUS+-+tradi%C3%A7%C3%A3o+no+corte/data=!4m7!3m6!1s0x94deb1b426b42cf5:0xa846264b85f33575!8m2!3d-26.324007!4d-48.858092!16s%2Fg%2F11smhd2pf4!19sChIJ9Sy0JrSx3pQRdTXzhUsmRqg",
+      "phone": "(47) 99674-9677",
+      "address": "R. Anita Garibaldi, 1656 - Anita Garibaldi, Joinville - SC, 89170-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Barba d'Urso",
+      "href": "https://www.google.com/maps/place/Barbearia+Barba+d%27Urso/data=!4m7!3m6!1s0x94deb100034e8b5f:0xc6d3d5cdeda6d006!8m2!3d-26.3158081!4d-48.8454311!16s%2Fg%2F11wftt0wnw!19sChIJX4tOAwCx3pQRBtCm7c3V08Y",
+      "phone": "(47) 99763-6432",
+      "address": "Av. Getúlio Vargas, 912 - Anita Garibaldi, Joinville - SC, 89202-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia American ATTIC!",
+      "href": "https://www.google.com/maps/place/Barbearia+American+ATTIC!/data=!4m7!3m6!1s0x94deb1e2afce0573:0x2deeb58007774711!8m2!3d-26.310289!4d-48.848523!16s%2Fg%2F11fzf7lf0c!19sChIJcwXOr-Kx3pQREUd3B4C17i0",
+      "phone": "(47) 99738-4897",
+      "address": "R. Dr. Plácido Gomes, 558 - Anita Garibaldi, Joinville - SC, 89202-165",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sotero Barber Barbershop",
+      "href": "https://www.google.com/maps/place/Sotero+Barber+Barbershop/data=!4m7!3m6!1s0x94deb1006739af6d:0x9b9f333843c88432!8m2!3d-26.2939558!4d-48.8399897!16s%2Fg%2F11wgmr4nly!19sChIJba85ZwCx3pQRMoTIQzgzn5s",
+      "phone": "(47) 99990-8283",
+      "address": "R. Chapecó, 101 - Saguaçu, Joinville - SC, 89221-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Beard House",
+      "href": "https://www.google.com/maps/place/Barbearia+Beard+House/data=!4m7!3m6!1s0x94deafd310471f3f:0xcf34b420f3e546e0!8m2!3d-26.2766028!4d-48.8348977!16s%2Fg%2F11txdnm2nk!19sChIJPx9HENOv3pQR4Ebl8yC0NM8",
+      "phone": "(47) 99667-3147",
+      "address": "R. Iririú, 997 - Saguaçu, Joinville - SC, 89221-515",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "O Barbeiro",
+      "href": "https://www.google.com/maps/place/O+Barbeiro/data=!4m7!3m6!1s0x94deafb4cd688631:0xf74578f2811eb288!8m2!3d-26.2747647!4d-48.8479505!16s%2Fg%2F11y13xxy0y!19sChIJMYZozbSv3pQRiLIegfJ4Rfc",
+      "phone": "(47) 99251-9073",
+      "address": "R. Dona Francisca, 3480 - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Murilo Fronza",
+      "href": "https://www.google.com/maps/place/Barbearia+Murilo+Fronza/data=!4m7!3m6!1s0x94dea5b7e396de25:0x5b0bf193859af781!8m2!3d-26.2741824!4d-48.8839112!16s%2Fg%2F11gl2snft7!19sChIJJd6W47el3pQRgfeahZPxC1s",
+      "phone": "(47) 99712-7310",
+      "address": "Av. Alm. Jaceguay, 3109 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Senem",
+      "href": "https://www.google.com/maps/place/Barbearia+Senem/data=!4m7!3m6!1s0x94deaf8c3925801f:0xa0ab0a233d58ef60!8m2!3d-26.2672167!4d-48.8733699!16s%2Fg%2F11bv6pjvbf!19sChIJH4AlOYyv3pQRYO9YPSMKq6A",
+      "phone": "(47) 99659-6612",
+      "address": "R. Antônio Geraldo Pereira, 92 - Costa e Silva, Joinville - SC, 89219-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Treffen",
+      "href": "https://www.google.com/maps/place/Barbearia+Treffen/data=!4m7!3m6!1s0x94deaffb014ee6fd:0x5d3cf0ae8eb21388!8m2!3d-26.2740559!4d-48.8702014!16s%2Fg%2F11fpk3dm1y!19sChIJ_eZOAfuv3pQRiBOyjq7wPF0",
+      "phone": "(47) 99928-4258",
+      "address": "R. Guilherme, 1555 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JD Barbearia",
+      "href": "https://www.google.com/maps/place/JD+Barbearia/data=!4m7!3m6!1s0x94deaff137862d8d:0x546e64d669ba495e!8m2!3d-26.2775013!4d-48.8743486!16s%2Fg%2F11c3mqfsmz!19sChIJjS2GN_Gv3pQRXkm6adZkblQ",
+      "phone": "(47) 99137-6408",
+      "address": "R. Dona Elza Meinert, 395 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Gadott Costa e Silva",
+      "href": "https://www.google.com/maps/place/Barbearia+Gadott+Costa+e+Silva/data=!4m7!3m6!1s0x94deaff53e21b2bf:0x6cc3f978d98e96dc!8m2!3d-26.2739414!4d-48.8747166!16s%2Fg%2F1tdcbz7s!19sChIJv7IhPvWv3pQR3JaO2Xj5w2w",
+      "phone": "(47) 99612-1369",
+      "address": "Av. Alm. Jaceguay, 2899 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Beto Barber Cut",
+      "href": "https://www.google.com/maps/place/Beto+Barber+Cut/data=!4m7!3m6!1s0x94deaf3542f6ed83:0xfe574651e9882867!8m2!3d-26.2859106!4d-48.8676039!16s%2Fg%2F11fjn37gxg!19sChIJg-32QjWv3pQRZyiI6VFGV_4",
+      "phone": "(47) 98474-7285",
+      "address": "R. Pres. Campos Salles, 1105 - Glória, Joinville - SC, 89217-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia império J.A",
+      "href": "https://www.google.com/maps/place/Barbearia+imp%C3%A9rio+J.A/data=!4m7!3m6!1s0x94deaf8b208a8a39:0xd1e63a8f5dfd9ddb!8m2!3d-26.2801606!4d-48.8744529!16s%2Fg%2F11x0zkb4fq!19sChIJOYqKIIuv3pQR2539XY865tE",
+      "phone": "(47) 98473-9048",
+      "address": "R. Dona Elza Meinert, 735 - Costa e Silva, Joinville - SC, 89217-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Studio Reis Barber Shop",
+      "href": "https://www.google.com/maps/place/Barbearia+Studio+Reis+Barber+Shop/data=!4m7!3m6!1s0x94deafde7c69bebb:0xa1cc6fe06a8e2cec!8m2!3d-26.2663139!4d-48.876864!16s%2Fg%2F11pckz2mj6!19sChIJu75pfN6v3pQR7CyOauBvzKE",
+      "phone": "(47) 99731-1239",
+      "address": "R. Rui Barbosa, 1659 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Cabelaço",
+      "href": "https://www.google.com/maps/place/Barbearia+Cabela%C3%A7o/data=!4m7!3m6!1s0x94dea57dceec5057:0xfe5ea16e47c663eb!8m2!3d-26.2643957!4d-48.8845061!16s%2Fg%2F11j03j17xv!19sChIJV1Dszn2l3pQR62PGR26hXv4",
+      "phone": "(47) 99159-0459",
+      "address": "R. Rui Barbosa, 2403 - Costa e Silva, Joinville - SC, 89219-522",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Edson Cabeleireiro barbearia",
+      "href": "https://www.google.com/maps/place/Edson+Cabeleireiro+barbearia/data=!4m7!3m6!1s0x94deaff4c2cba66b:0xd89072b8eade210a!8m2!3d-26.2733331!4d-48.8762555!16s%2Fg%2F1tmplnk7!19sChIJa6bLwvSv3pQRCiHe6rhykNg",
+      "phone": "(47) 99742-8284",
+      "address": "R. Inambu, 427 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alpha barbershop",
+      "href": "https://www.google.com/maps/place/Alpha+barbershop/data=!4m7!3m6!1s0x94dea550d22ae849:0x7f5be15f6b489b8d!8m2!3d-26.2923047!4d-48.8988185!16s%2Fg%2F11sqnc7b8q!19sChIJSegq0lCl3pQRjZtIa1_hW38",
+      "phone": "(47) 99732-7531",
+      "address": "R. Leopoldo Beninca, 247 - Vila Nova, Joinville - SC, 89237-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Barbosa",
+      "href": "https://www.google.com/maps/place/Barbearia+Barbosa/data=!4m7!3m6!1s0x94deaf0d31b3f4f5:0x29490292b369ce15!8m2!3d-26.2734796!4d-48.8702645!16s%2Fg%2F11sqftrzxl!19sChIJ9fSzMQ2v3pQRFc5ps5ICSSk",
+      "phone": "(47) 99116-5964",
+      "address": "Av. Alm. Jaceguay, 1992 - Costa e Silva, Joinville - SC, 89218-690",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "3E Espaço Homem - Barbearia 💈",
+      "href": "https://www.google.com/maps/place/3E+Espa%C3%A7o+Homem+-+Barbearia+%F0%9F%92%88/data=!4m7!3m6!1s0x94dea5aeb9044567:0xee6b5fd1100345ec!8m2!3d-26.2928369!4d-48.9092152!16s%2Fg%2F11y98z50c4!19sChIJZ0UEua6l3pQR7EUDENFfa-4",
+      "phone": "(47) 98872-7554",
+      "address": "R. João Carlos Gomes de Oliveira, 1317 - Vila Nova, Joinville - SC, 89237-375",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Central",
+      "href": "https://www.google.com/maps/place/Barbearia+Central/data=!4m7!3m6!1s0x94dea53952576369:0x2f2346555eecf551!8m2!3d-26.286952!4d-48.9046461!16s%2Fg%2F11c3n2qg4n!19sChIJaWNXUjml3pQRUfXsXlVGIy8",
+      "phone": "(47) 98419-1440",
+      "address": "R. XV de Novembro, 7158 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nova Vila BarBearia",
+      "href": "https://www.google.com/maps/place/Nova+Vila+BarBearia/data=!4m7!3m6!1s0x94dea590c13a44cb:0x95b5edf1167f234f!8m2!3d-26.2804767!4d-48.8989916!16s%2Fg%2F11q9170mvp!19sChIJy0Q6wZCl3pQRTyN_FvHttZU",
+      "phone": "(47) 99608-9342",
+      "address": "R. João Miers, 741 - Vila Nova, Joinville - SC, 89237-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Ramos",
+      "href": "https://www.google.com/maps/place/Barbearia+Ramos/data=!4m7!3m6!1s0x94deb0dc7d75f019:0x7ee2d9100fb89df2!8m2!3d-26.3450326!4d-48.8474172!16s%2Fg%2F1trsz4s6!19sChIJGfB1fdyw3pQR8p24DxDZ4n4",
+      "phone": "(47) 3426-4514",
+      "address": "Próximo ao Terminal Sul - R. Santa Catarina, 2396 - Floresta, Joinville - SC, 89211-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia King Fade",
+      "href": "https://www.google.com/maps/place/Barbearia+King+Fade/data=!4m7!3m6!1s0x94deb1626ba24377:0x9a49a5f7497aef6d!8m2!3d-26.3420149!4d-48.8470476!16s%2Fg%2F11fj192_ym!19sChIJd0Oia2Kx3pQRbe96SfelSZo",
+      "phone": "(47) 99677-3240",
+      "address": "R. Santa Catarina, 2095 - Sl 3 - Floresta, Joinville - SC, 89212-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Heliton BarberShop",
+      "href": "https://www.google.com/maps/place/Heliton+BarberShop/data=!4m7!3m6!1s0x94deb7189ea0286f:0x8e94b008bf25042c!8m2!3d-26.3293514!4d-48.8464962!16s%2Fg%2F11h3b5p618!19sChIJbyignhi33pQRLAQlvwiwlI4",
+      "phone": "(47) 99229-5649",
+      "address": "R. Santa Catarina, 768 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Gold",
+      "href": "https://www.google.com/maps/place/Barbearia+Gold/data=!4m7!3m6!1s0x94deb0dd9fdedd4b:0x97c041d93852ceb0!8m2!3d-26.3408541!4d-48.8472409!16s%2Fg%2F11f2wlzkd7!19sChIJS93en92w3pQRsM5SONlBwJc",
+      "phone": "(47) 99754-3069",
+      "address": "R. Santa Catarina, 1983 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Almeida Júnior Studio | Barbearia Premium somente com agendamento",
+      "href": "https://www.google.com/maps/place/Almeida+J%C3%BAnior+Studio+%7C+Barbearia+Premium+somente+com+agendamento/data=!4m7!3m6!1s0x94deb12611fe802d:0x44f6ca3c936fa43e!8m2!3d-26.3600914!4d-48.8449905!16s%2Fg%2F11fvg8kdfn!19sChIJLYD-ESax3pQRPqRvkzzK9kQ",
+      "phone": "(47) 98417-9734",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Canoinhas",
+      "href": "https://www.google.com/maps/place/Barbearia+Canoinhas/data=!4m7!3m6!1s0x94deb1dc5e60c01d:0xf03853a1ef0f33b3!8m2!3d-26.3367549!4d-48.8578004!16s%2Fg%2F11qpxsxmpx!19sChIJHcBgXtyx3pQRszMP76FTOPA",
+      "phone": "(47) 99969-8078",
+      "address": "R. Copacabana, 1520 - Sl 2 - Floresta, Joinville - SC, 89211-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbershop Davi",
+      "href": "https://www.google.com/maps/place/Barbershop+Davi/data=!4m7!3m6!1s0x94deb174e59046b3:0x22adb8a6eff18d42!8m2!3d-26.3286927!4d-48.8457473!16s%2Fg%2F11ntpwprwh!19sChIJs0aQ5XSx3pQRQo3x76a4rSI",
+      "phone": "(47) 99175-8710",
+      "address": "R. Santa Catarina, 677 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "The Mendes Barbershop",
+      "href": "https://www.google.com/maps/place/The+Mendes+Barbershop/data=!4m7!3m6!1s0x94deb175b993d2c7:0xa8d98df2bfb11306!8m2!3d-26.3233276!4d-48.8299601!16s%2Fg%2F11lsztqxv1!19sChIJx9KTuXWx3pQRBhOxv_KN2ag",
+      "phone": "(47) 99735-0854",
+      "address": "R. Vidal Ramos, 48 - Guanabara, Joinville - SC, 89207-670",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Tião 1º",
+      "href": "https://www.google.com/maps/place/Barbearia+Ti%C3%A3o+1%C2%BA/data=!4m7!3m6!1s0x94deb14ede9557d9:0xb726794cc8bb67d1!8m2!3d-26.3403209!4d-48.8136456!16s%2Fg%2F11bv6pycwj!19sChIJ2VeV3k6x3pQR0We7yEx5Jrc",
+      "phone": "(47) 99658-6902",
+      "address": "R. Monsenhor Gercino, 4068 - Itaum, Joinville - SC, 89230-214",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia do Billy",
+      "href": "https://www.google.com/maps/place/Barbearia+do+Billy/data=!4m7!3m6!1s0x94deb0e186366695:0xc5197dcbbbba832b!8m2!3d-26.3332188!4d-48.8416389!16s%2Fg%2F11c5zyzy2c!19sChIJlWY2huGw3pQRK4O6u8t9GcU",
+      "phone": "(47) 99684-0519",
+      "address": "R. São Paulo, 2745-2807 - Itaum, Joinville - SC, 89210-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bruttos barbearia",
+      "href": "https://www.google.com/maps/place/Bruttos+barbearia/data=!4m7!3m6!1s0x94deb3ca586f6ae1:0xa793ae16dda37c49!8m2!3d-26.3381716!4d-48.8234384!16s%2Fg%2F11mv4fsdx2!19sChIJ4WpvWMqz3pQRSXyj3Rauk6c",
+      "phone": "(47) 99661-5926",
+      "address": "R. Anitápolis, 179 - Itaum, Joinville - SC, 89210-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Bandeira",
+      "href": "https://www.google.com/maps/place/Barbearia+Bandeira/data=!4m7!3m6!1s0x94deb1002e17adfd:0x398d0155e3919408!8m2!3d-26.3404578!4d-48.8172469!16s%2Fg%2F11m5vfz7k9!19sChIJ_a0XLgCx3pQRCJSR41UBjTk",
+      "phone": "(47) 98804-3805",
+      "address": "R. Monsenhor Gercino, 3673 - Itaum, Joinville - SC, 89210-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Cabral",
+      "href": "https://www.google.com/maps/place/Studio+Cabral/data=!4m7!3m6!1s0x94deb1917ffb9c19:0x9d664ee1f93107b!8m2!3d-26.3410149!4d-48.820549!16s%2Fg%2F11z36k38ht!19sChIJGZz7f5Gx3pQRexCTH-5k1gk",
+      "phone": "(47) 99997-5082",
+      "address": "R. Monsenhor Gercino, 3450 - Itaum, Joinville - SC, 89209-403",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "R4 Barber Shop",
+      "href": "https://www.google.com/maps/place/R4+Barber+Shop/data=!4m7!3m6!1s0x94deb14887c97ea1:0x8856c30bdbb3dfd8!8m2!3d-26.339438!4d-48.8169719!16s%2Fg%2F11f3x6clw8!19sChIJoX7Jh0ix3pQR2N-z2wvDVog",
+      "phone": "(47) 99277-2112",
+      "address": "R. Fátima, 117 - Itaum, Joinville - SC, 89210-681",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Velho 70",
+      "href": "https://www.google.com/maps/place/Barbearia+Velho+70/data=!4m7!3m6!1s0x94deb125a2bbffff:0xd89e59bb17f9927b!8m2!3d-26.3431153!4d-48.832768!16s%2Fg%2F11ggqdq6mh!19sChIJ__-7oiWx3pQRe5L5F7tZntg",
+      "phone": "(47) 99709-8646",
+      "address": "R. Alfredo Wagner, 46 - Petrópolis, Joinville - SC, 89208-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Miron Barber Shop",
+      "href": "https://www.google.com/maps/place/Miron+Barber+Shop/data=!4m7!3m6!1s0x94deb1eef3ecf625:0x66e44da5b861b099!8m2!3d-26.3284229!4d-48.8338653!16s%2Fg%2F11shybqwht!19sChIJJfbs8-6x3pQRmbBhuKVN5GY",
+      "phone": "(47) 99247-0769",
+      "address": "R. Florianópolis, 1058 - Itaum, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Priory",
+      "href": "https://www.google.com/maps/place/Barbearia+Priory/data=!4m7!3m6!1s0x94deb17a111da411:0xd04af1cb67aa454!8m2!3d-26.3286977!4d-48.8334121!16s%2Fg%2F11kq1p816p!19sChIJEaQdEXqx3pQRVKR6thyvBA0",
+      "phone": "(47) 98818-1206",
+      "address": "R. Florianópolis, 1112 - Itaum, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SPARTAN BarberShop",
+      "href": "https://www.google.com/maps/place/SPARTAN+BarberShop/data=!4m7!3m6!1s0x94deb797726f531f:0x61aaf291b1507d14!8m2!3d-26.3618458!4d-48.8198583!16s%2Fg%2F11gmw8n8pk!19sChIJH1Nvcpe33pQRFH1QsZHyqmE",
+      "phone": "(47) 99615-0126",
+      "address": "R. Boehmerwald, 2155 - Boehmerwald, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Moreno",
+      "href": "https://www.google.com/maps/place/Barbearia+Moreno/data=!4m7!3m6!1s0x94deb7d979c7ffbd:0xd8eca8c93535607f!8m2!3d-26.3619474!4d-48.8102973!16s%2Fg%2F11w8y_59y2!19sChIJvf_Hedm33pQRf2A1Ncmo7Ng",
+      "phone": "(47) 99641-6076",
+      "address": "R. Boehmerwald, 2467 - Sl 4 - Parque Guarani, Joinville - SC, 89235-751",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SVF Barbers",
+      "href": "https://www.google.com/maps/place/SVF+Barbers/data=!4m7!3m6!1s0x94deb7ceea550f2d:0xd66400ad95849b85!8m2!3d-26.3713355!4d-48.8202635!16s%2Fg%2F11t8fxzhvs!19sChIJLQ9V6s633pQRhZuEla0AZNY",
+      "phone": "(47) 98472-3584",
+      "address": "R. Juliano Busarello, 631 - Boehmerwald, Joinville - SC, 89235-350",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Snor - Unidade Sul",
+      "href": "https://www.google.com/maps/place/Barbearia+Snor+-+Unidade+Sul/data=!4m7!3m6!1s0x94deb7452106299b:0xb375de6e164d4a29!8m2!3d-26.3613122!4d-48.8075155!16s%2Fg%2F11jy6plp8y!19sChIJmykGIUW33pQRKUpNFm7edbM",
+      "phone": "(47) 99602-6090",
+      "address": "Av. Firmino da Silva, 94 - Parque Guarani, Joinville - SC, 89209-225",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ted's barber shop",
+      "href": "https://www.google.com/maps/place/Ted%27s+barber+shop/data=!4m7!3m6!1s0x94deb6bcb9b2d0cb:0xeaca858ed522cf5b!8m2!3d-26.365328!4d-48.8094202!16s%2Fg%2F11fzv00wzq!19sChIJy9Cyuby23pQRW88i1Y6Fyuo",
+      "phone": "(47) 99992-5429",
+      "address": "R. Santo Amaro da Purificação, 366 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marinho Studio Barber",
+      "href": "https://www.google.com/maps/place/Marinho+Studio+Barber/data=!4m7!3m6!1s0x94deaf2f774b0699:0x5f85b57d21877994!8m2!3d-26.2511538!4d-48.8194581!16s%2Fg%2F11n44x4_47!19sChIJmQZLdy-v3pQRlHmHIX21hV8",
+      "phone": "(47) 98854-1218",
+      "address": "R. Tuiuti, 2350 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bumerang Barber Shop",
+      "href": "https://www.google.com/maps/place/Bumerang+Barber+Shop/data=!4m7!3m6!1s0x94deafa373dbd77f:0x19a52a306b70c185!8m2!3d-26.243225!4d-48.819959!16s%2Fg%2F11z21g32xz!19sChIJf9fbc6Ov3pQRhcFwazAqpRk",
+      "phone": "(47) 98481-7903",
+      "address": "R. Tuiuti, 3353 - Distrito Industrial, Joinville - SC, 89226-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia 047",
+      "href": "https://www.google.com/maps/place/Barbearia+047/data=!4m7!3m6!1s0x94deaf8cfcf39e2b:0x60b3966b84471070!8m2!3d-26.250154!4d-48.8209216!16s%2Fg%2F11sjr1_080!19sChIJK57z_Iyv3pQRcBBHhGuWs2A",
+      "phone": "(47) 3804-6669",
+      "address": "R. Tuiuti, 2731 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ZÉ HAIR CUT BARBEARIA",
+      "href": "https://www.google.com/maps/place/Z%C3%89+HAIR+CUT+BARBEARIA/data=!4m7!3m6!1s0x94deaf8a96359335:0x1f01d8d489c14536!8m2!3d-26.2526439!4d-48.8023193!16s%2Fg%2F11hsn870g6!19sChIJNZM1loqv3pQRNkXBidTYAR8",
+      "phone": "(47) 99987-2635",
+      "address": "R. Luísa Deranhóli Koschnik, 155 - Aventureiro, Joinville - SC, 89225-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "....",
+      "href": "https://www.google.com/maps/place/..../data=!4m7!3m6!1s0x94deaf6bae87be23:0xb9cc43c89b4feaab!8m2!3d-26.2343416!4d-48.8125851!16s%2Fg%2F11tbzc6w9s!19sChIJI76Hrmuv3pQRq-pPm8hDzLk",
+      "phone": "(47) 99237-9441",
+      "address": "R. Lauro Schroeder, 110 - Aventureiro, Joinville - SC, 89226-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BROOKLYN BARBER's17",
+      "href": "https://www.google.com/maps/place/BROOKLYN+BARBER%27s17/data=!4m7!3m6!1s0x94deaf191b4ded3d:0xbbf8bd46588e5b15!8m2!3d-26.2599363!4d-48.8160723!16s%2Fg%2F11fl4r_qcc!19sChIJPe1NGxmv3pQRFVuOWEa9-Ls",
+      "phone": "(47) 99672-4028",
+      "address": "R. Guaíra, 1600 - Iririú, Joinville - SC, 89224-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Agapito",
+      "href": "https://www.google.com/maps/place/Barbearia+Agapito/data=!4m7!3m6!1s0x94deb1e2eaab972d:0x93203b137ba64365!8m2!3d-26.2695197!4d-48.8104676!16s%2Fg%2F1v75t1jg!19sChIJLZer6uKx3pQRZUOmexM7IJM",
+      "phone": "(47) 3437-8308",
+      "address": "R. Dr. Júlio de Mesquita Filho, 176 - Jardim Iririú, Joinville - SC, 89227-633",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "BarbeariaGF9",
+      "href": "https://www.google.com/maps/place/BarbeariaGF9/data=!4m7!3m6!1s0x94deb1b63504621f:0xf55debd1cb8b7e28!8m2!3d-26.2772371!4d-48.8225692!16s%2Fg%2F11wfwl9s2x!19sChIJH2IENbax3pQRKH6Ly9HrXfU",
+      "phone": "(47) 99647-8350",
+      "address": "R. Arthur Zoefeld, 728 - Iririú, Joinville - SC, 89227-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Max",
+      "href": "https://www.google.com/maps/place/Barbearia+Max/data=!4m7!3m6!1s0x94deb1a34c66e5ef:0xf9f284ebdea6cfc6!8m2!3d-26.3030496!4d-48.8239617!16s%2Fg%2F11gfm29tkf!19sChIJ7-VmTKOx3pQRxs-m3uuE8vk",
+      "phone": "(47) 3029-4139",
+      "address": "R. Albano Schmidt, 1279 - Boa Vista, Joinville - SC, 89205-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Tertúlia",
+      "href": "https://www.google.com/maps/place/Barbearia+Tert%C3%BAlia/data=!4m7!3m6!1s0x94deb1cebdc16ca3:0xc9ed1105a659865f!8m2!3d-26.3060947!4d-48.8262057!16s%2Fg%2F11z2g_z04t!19sChIJo2zBvc6x3pQRX4ZZpgUR7ck",
+      "phone": "(47) 98424-9901",
+      "address": "R. Albano Schmidt, 889 - Boa Vista, Joinville - SC, 89205-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Boa Vista barbearia",
+      "href": "https://www.google.com/maps/place/Boa+Vista+barbearia/data=!4m7!3m6!1s0x94deb10013c76c21:0xff29daff92ff6a1c!8m2!3d-26.2964438!4d-48.8181057!16s%2Fg%2F11z5385sy9!19sChIJIWzHEwCx3pQRHGr_kv_aKf8",
+      "phone": "(47) 3278-7000",
+      "address": "R. Albano Schmidt, 2240 - Boa Vista, Joinville - SC, 89205-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "barbearia joinvillesc",
+      "href": "https://www.google.com/maps/place/barbearia+joinvillesc/data=!4m7!3m6!1s0x94deb165b3270305:0x3e7bd936b8fe95eb!8m2!3d-26.2977036!4d-48.820388!16s%2Fg%2F11yvb11fcy!19sChIJBQMns2Wx3pQR65X-uDbZez4",
+      "phone": "(47) 99271-7452",
+      "address": "R. Pref. Helmuth Fallgatter - Boa Vista, Joinville - SC, 89206-101",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LF Barbearia",
+      "href": "https://www.google.com/maps/place/LF+Barbearia/data=!4m7!3m6!1s0x94deb16db49169c1:0x7f258c8b79851f59!8m2!3d-26.3008464!4d-48.8160618!16s%2Fg%2F11zdj3lw9_!19sChIJwWmRtG2x3pQRWR-FeYuMJX8",
+      "phone": "(47) 99235-4330",
+      "address": "R. São Miguel - Boa Vista, Joinville - SC, 89206-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sílvio Barbearia",
+      "href": "https://www.google.com/maps/place/S%C3%ADlvio+Barbearia/data=!4m7!3m6!1s0x94deb1942ec0d885:0xd4153ea9fda429ee!8m2!3d-26.2946969!4d-48.8167059!16s%2Fg%2F11bv30gw5g!19sChIJhdjALpSx3pQR7imk_ak-FdQ",
+      "phone": "(47) 99964-8535",
+      "address": "R. Albano Schmidt, 2477 - Boa Vista, Joinville - SC, 89205-103",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia do Jacinto",
+      "href": "https://www.google.com/maps/place/Barbearia+do+Jacinto/data=!4m7!3m6!1s0x94deb1a157254d6f:0xf69b5ecef1e4343b!8m2!3d-26.3076986!4d-48.8240654!16s%2Fg%2F11bv30ggz8!19sChIJb00lV6Gx3pQROzTk8c5em_Y",
+      "phone": "(47) 3023-4225",
+      "address": "R. Jundiaí, 254 - Boa Vista, Joinville - SC, 89205-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "East Side Barbearia",
+      "href": "https://www.google.com/maps/place/East+Side+Barbearia/data=!4m7!3m6!1s0x94deb1969914d811:0x3de8de7a34c6be9f!8m2!3d-26.3002269!4d-48.8150473!16s%2Fg%2F11g8vmv_cm!19sChIJEdgUmZax3pQRn77GNHre6D0",
+      "phone": "(47) 99793-2836",
+      "address": "R. Alcântara, 538 - Boa Vista, Joinville - SC, 89206-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Barbearia Furquim",
+      "href": "https://www.google.com/maps/place/Barbearia+Furquim/data=!4m7!3m6!1s0x94deb1a4bc75aaa3:0xb1f5235a00dc15ea!8m2!3d-26.3060719!4d-48.8260449!16s%2Fg%2F11spnyp75j!19sChIJo6p1vKSx3pQR6hXcAFoj9bE",
+      "phone": "(47) 99646-5998",
+      "address": "R. Albano Schmidt, nº889 - Boa Vista, Joinville - SC, 89228-310",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "3ª Avenida - Custom House",
+      "href": "https://www.google.com/maps/place/3%C2%AA+Avenida+-+Custom+House/data=!4m7!3m6!1s0x94deb160bcb37019:0x18f771dff3a26e4!8m2!3d-26.2939711!4d-48.8184345!16s%2Fg%2F11qn981lvk!19sChIJGXCzvGCx3pQR5CY6_x13jwE",
+      "phone": "(47) 99756-8392",
+      "address": "R. Cardeal Câmara, 180 - Boa Vista, Joinville - SC, 89206-710",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

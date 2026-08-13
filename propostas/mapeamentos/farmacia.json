@@ -1,0 +1,524 @@
+{
+  "id": "farmacia",
+  "nome": "Farmácia",
+  "terms": [
+    "farmácia",
+    "drogaria"
+  ],
+  "profiles": 237,
+  "qualified": [
+    {
+      "name": "Farmácia Boehmerwald",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Boehmerwald/data=!4m7!3m6!1s0x94deb11f33acf501:0x20328a20816ad2a0!8m2!3d-26.3615044!4d-48.8363028!16s%2Fg%2F1tjhytbx!19sChIJAfWsMx-x3pQRoNJqgSCKMiA",
+      "phone": "(47) 3416-0235",
+      "address": "R. Boehmerwald, 190 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deb16fd2cdeb93:0x884fa73d43897c48!8m2!3d-26.3309308!4d-48.8463823!16s%2Fg%2F11ll9fy0zs!19sChIJk-vN0m-x3pQRSHyJQz2nT4g",
+      "phone": "(47) 99178-3261",
+      "address": "R. Santa Catarina, 925 - Floresta, Joinville - SC, 89211-307",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Confiança",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Confian%C3%A7a/data=!4m7!3m6!1s0x94deb6db328fd907:0x705bc2f4bb8e073b!8m2!3d-26.3657835!4d-48.8297002!16s%2Fg%2F11bvcvsz5b!19sChIJB9mPMtu23pQROweOu_TCW3A",
+      "phone": "(47) 3465-2279",
+      "address": "R. Adolfo da Veiga, 534 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Drogaville",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Drogaville/data=!4m7!3m6!1s0x94deb6bcbd9bf6b7:0xcc647ef12a225f6a!8m2!3d-26.36175!4d-48.8108038!16s%2Fg%2F11bv6pxhgg!19sChIJt_abvby23pQRal8iKvF-ZMw",
+      "phone": "(47) 3465-5566",
+      "address": "R. Boehmerwald, 2929 via whatsapp, 47, R. Boehmerwald, 2929 - 99911-5891 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia Latino Americana de Medicamentos",
+      "href": "https://www.google.com/maps/place/Cia+Latino+Americana+de+Medicamentos/data=!4m7!3m6!1s0x94deb6d10e630815:0x95ab72215da2b357!8m2!3d-26.3608127!4d-48.8289613!16s%2Fg%2F11b6hrz2cp!19sChIJFQhjDtG23pQRV7OiXSFyq5U",
+      "phone": "(47) 3426-3727",
+      "address": "R. Boehmerwald, 820, via whatsapp, 49 - 99178,6525 - Paranaguamirim, Joinville - SC, 65300-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Coradelli Matriz",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Coradelli+Matriz/data=!4m7!3m6!1s0x94deb197772111bd:0x307b88c00d32b981!8m2!3d-26.3339432!4d-48.8346324!16s%2Fg%2F11mv0ygmjg!19sChIJvREhd5ex3pQRgbkyDcCIezA",
+      "phone": "(47) 3436-0081",
+      "address": "R. Monsenhor Gercino, 1696 - Itaum, Joinville - SC, 89210-146",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deb0515761f90f:0x27937c2b0d29c71d!8m2!3d-26.3122739!4d-48.8451132!16s%2Fg%2F11b81tqpts!19sChIJD_lhV1Gw3pQRHccpDSt8kyc",
+      "phone": "(47) 99165-2420",
+      "address": "Av. Getúlio Vargas, 535 - Bucarein, Joinville - SC, 89202-205",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Bem Estar",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Bem+Estar/data=!4m7!3m6!1s0x94deb10003f08f8b:0x96429a23682d8abe!8m2!3d-26.3570605!4d-48.8467355!16s%2Fg%2F11wnzw834s!19sChIJi4_wAwCx3pQRvootaCOaQpY",
+      "phone": "(47) 3454-1077",
+      "address": "R. Santa Catarina, 4026 - Santa Catarina, Joinville - SC, 89233-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deb18ecaa5b0ed:0x2cafaed1e9821dfe!8m2!3d-26.3047875!4d-48.8248307!16s%2Fg%2F11sy31ws9w!19sChIJ7bClyo6x3pQR_h2C6dGuryw",
+      "phone": "(47) 99245-5878",
+      "address": "R. Albano Schmidt, 1078 - Boa Vista, Joinville - SC, 89205-098",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deb0386048d945:0x30ea77a4a25cb96b!8m2!3d-26.3015243!4d-48.8534382!16s%2Fg%2F1ptx9wg0m!19sChIJRdlIYDiw3pQRa7lcoqR36jA",
+      "phone": "(47) 99228-4525",
+      "address": "R. Otto Boehm, 260 - América, Joinville - SC, 89201-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deb14225f8b6b1:0x14dcb89a2682898d!8m2!3d-26.2947452!4d-48.8461179!16s%2Fg%2F1ptw3qrk4!19sChIJsbb4JUKx3pQRjYmCJpq43BQ",
+      "phone": "(47) 99225-6582",
+      "address": "R. Max Colin, 394 - América, Joinville - SC, 89204-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Coradelli Guanabara",
+      "href": "https://www.google.com/maps/place/Drogaria+Coradelli+Guanabara/data=!4m7!3m6!1s0x94deb175e3529b43:0x4500905350b22ca5!8m2!3d-26.3263287!4d-48.8355065!16s%2Fg%2F11m6mbrk64!19sChIJQ5tS43Wx3pQRpSyyUFOQAEU",
+      "phone": "(47) 99218-9703",
+      "address": "R. Florianópolis, 685 - Sl 05 - Guanabara, Joinville - SC, 89207-407",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deafc0393620f9:0x18ef44fceee4d11c!8m2!3d-26.2771847!4d-48.8499983!16s%2Fg%2F11f5nvbg65!19sChIJ-SA2OcCv3pQRHNHk7vxE7xg",
+      "phone": "(47) 99159-6680",
+      "address": "R. Dr. João Colin, 2641 - Santo Antônio, Joinville - SC, 89218-035",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Farmasul",
+      "href": "https://www.google.com/maps/place/Drogaria+Farmasul/data=!4m7!3m6!1s0x94deb7ed773ba6bd:0x2901da9dbf3354b!8m2!3d-26.366707!4d-48.8439549!16s%2Fg%2F11h3mwlkcv!19sChIJvaY7d-233pQRSzXz26kdkAI",
+      "phone": "(47) 99647-2120",
+      "address": "R. Cidade de Toledo, 716 - Profipo, Joinville - SC, 89233-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Raia",
+      "href": "https://www.google.com/maps/place/Raia/data=!4m7!3m6!1s0x94deb1c51808c023:0x3742dadbabbecf57!8m2!3d-26.2939275!4d-48.8642719!16s%2Fg%2F11v9gqth52!19sChIJI8AIGMWx3pQRV8--q9vaQjc",
+      "phone": "(47) 99113-3678",
+      "address": "R. Max Colin, 2209 - Glória, Joinville - SC, 89216-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Líder Popular Farmácia",
+      "href": "https://www.google.com/maps/place/L%C3%ADder+Popular+Farm%C3%A1cia/data=!4m7!3m6!1s0x94deb1485f21281f:0x70dd28161febd308!8m2!3d-26.3404658!4d-48.8178224!16s%2Fg%2F11pcl0qhlb!19sChIJHyghX0ix3pQRCNPrHxYo3XA",
+      "phone": "(47) 3202-8864",
+      "address": "R. Monsenhor Gercino, 3643 - Itaum, Joinville - SC, 89210-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia Latino Americana de Medicamentos",
+      "href": "https://www.google.com/maps/place/Cia+Latino+Americana+de+Medicamentos/data=!4m7!3m6!1s0x94deb0e7adcae007:0x1e88d17e4c5c64ce!8m2!3d-26.3376878!4d-48.847764!16s%2Fg%2F11b6hr1hr1!19sChIJB-DKreew3pQRzmRcTH7RiB4",
+      "phone": "(47) 3454-9263",
+      "address": "R. Santa Catarina, 1642 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Jheneka",
+      "href": "https://www.google.com/maps/place/Drogaria+Jheneka/data=!4m7!3m6!1s0x94deb4056c5e7983:0x83f39f06fd30a233!8m2!3d-26.3470423!4d-48.7910919!16s%2Fg%2F11b6hn9jsm!19sChIJg3lebAW03pQRM6Iw_Qaf84M",
+      "phone": "(47) 3463-5068",
+      "address": "R. Monsenhor Gercino, 6974 - Itaum, Joinville - SC, 89231-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deaf06d7aa7dff:0xd9fc022cfc53a1fd!8m2!3d-26.2733633!4d-48.8723259!16s%2Fg%2F11fj6jqr58!19sChIJ_32q1wav3pQR_aFT_CwC_Nk",
+      "phone": "(47) 99132-0020",
+      "address": "Av. Alm. Jaceguay, 2680 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia do Carlos",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+do+Carlos/data=!4m7!3m6!1s0x94deaff4d8540001:0xeccee2e380393bde!8m2!3d-26.2730829!4d-48.8773426!16s%2Fg%2F11dzw5g537!19sChIJAQBU2PSv3pQR3js5gOPizuw",
+      "phone": "(47) 3422-7580",
+      "address": "R. Inambu, 508 - Costa e Silva, Joinville - SC, 89220-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Coradelli Glória",
+      "href": "https://www.google.com/maps/place/Drogaria+Coradelli+Gl%C3%B3ria/data=!4m7!3m6!1s0x94deafb950447723:0x1824e0b639f02c44!8m2!3d-26.2851224!4d-48.8752092!16s%2Fg%2F11lgtq22vx!19sChIJI3dEULmv3pQRRCzwObbgJBg",
+      "phone": "(47) 3043-1555",
+      "address": "R. Benjamin Constant, 2985 - Glória, Joinville - SC, 89217-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94debb84cefe3413:0xb1b04d88af656d7e!8m2!3d-26.2872229!4d-48.9005701!16s%2Fg%2F11s78fd47c!19sChIJEzT-zoS73pQRfm1lr4hNsLE",
+      "phone": "(47) 99292-8270",
+      "address": "R. XV de Novembro, 6842 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Coradelli Jardim Edilene",
+      "href": "https://www.google.com/maps/place/Drogaria+Coradelli+Jardim+Edilene/data=!4m7!3m6!1s0x94deb586f2513b5b:0x8b66e617bc44fa7c!8m2!3d-26.3442618!4d-48.7764142!16s%2Fg%2F11h895pfk9!19sChIJWztR8oa13pQRfPpEvBfmZos",
+      "phone": "(47) 3307-2958",
+      "address": "Rua João Geraldo de Oliveira, 202 - Paranaguamirim, Joinville - SC, 89234-028",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia ForteFarma VILA NOVA",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+ForteFarma+VILA+NOVA/data=!4m7!3m6!1s0x94dea53cead88325:0xc2808de665d3b1a7!8m2!3d-26.2866641!4d-48.9091386!16s%2Fg%2F1td0zmjp!19sChIJJYPY6jyl3pQRp7HTZeaNgMI",
+      "phone": "(47) 3025-3993",
+      "address": "R. XV de Novembro, 7594 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farma Dez",
+      "href": "https://www.google.com/maps/place/Farma+Dez/data=!4m7!3m6!1s0x94deb0890e3718f1:0xb2ad8c2fc7226268!8m2!3d-26.3297426!4d-48.8665751!16s%2Fg%2F1tdl78lm!19sChIJ8Rg3Domw3pQRaGIixy-MrbI",
+      "phone": "(47) 3454-6115",
+      "address": "R. Fraternidade, 34 - Nova Brasília, Joinville - SC, 89213-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dimed S/A - Distribuidora de Medicamentos",
+      "href": "https://www.google.com/maps/place/Dimed+S%2FA+-+Distribuidora+de+Medicamentos/data=!4m7!3m6!1s0x94deb037d0c73a2d:0x1eaa046081b125a5!8m2!3d-26.3008007!4d-48.8475024!16s%2Fg%2F11b6hqs599!19sChIJLTrH0Dew3pQRpSWxgWAEqh4",
+      "phone": "(47) 3422-4590",
+      "address": "R. XV de Novembro, 515 - Vila Nova, Joinville - SC, 89201-601",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Furo de Orelha Humanizado Orelhinhas de Anjo",
+      "href": "https://www.google.com/maps/place/Furo+de+Orelha+Humanizado+Orelhinhas+de+Anjo/data=!4m7!3m6!1s0x94debbbbe2af4d8d:0x68b7f9f792175fb3!8m2!3d-26.292287!4d-48.909619!16s%2Fg%2F11nmpf00xp!19sChIJjU2v4ru73pQRs18Xkvf5t2g",
+      "phone": "(47) 99135-2783",
+      "address": "R. Márcio Luckow, 445 - Vila Nova, Joinville - SC, 89237-372",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Serviço Social da Indústria",
+      "href": "https://www.google.com/maps/place/Servi%C3%A7o+Social+da+Ind%C3%BAstria/data=!4m7!3m6!1s0x94dea539220a37ff:0xc251b2c91ee62b28!8m2!3d-26.2875224!4d-48.9011432!16s%2Fg%2F11b6hm62j5!19sChIJ_zcKIjml3pQRKCvmHsmyUcI",
+      "phone": "(47) 3439-1727",
+      "address": "R. XV de Novembro, 6901 - Glória, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Coradelli Paranaguamirim",
+      "href": "https://www.google.com/maps/place/Drogaria+Coradelli+Paranaguamirim/data=!4m7!3m6!1s0x94deb56f6e149493:0xe224e4d96dffe204!8m2!3d-26.3457129!4d-48.7869622!16s%2Fg%2F11hzwbyhct!19sChIJk5QUbm-13pQRBOL_bdnkJOI",
+      "phone": "(47) 99627-8590",
+      "address": "Av. Kurt Meinert, 400 - Paranaguamirim, Joinville - SC, 89231-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Medicar Coradelli",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Medicar+Coradelli/data=!4m7!3m6!1s0x94deb14e52a34def:0xffa192f0bc20ebfe!8m2!3d-26.3394449!4d-48.8115158!16s%2Fg%2F11bv5vgvvd!19sChIJ702jUk6x3pQR_usgvPCSof8",
+      "phone": "(47) 3434-6231",
+      "address": "R. Monsenhor Gercino, 4389 - Jarivatuba, Joinville - SC, 89230-199",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia Latino Americana de Medicamentos",
+      "href": "https://www.google.com/maps/place/Cia+Latino+Americana+de+Medicamentos/data=!4m7!3m6!1s0x94deb400bf4a770d:0xe3131e5e96ebe40d!8m2!3d-26.3422608!4d-48.7954407!16s%2Fg%2F11b6hsg63y!19sChIJDXdKvwC03pQRDeTrll4eE-M",
+      "phone": "(47) 3463-8450",
+      "address": "R. Monsenhor Gercino, 6927 - Itaum, Joinville - SC, 89231-594",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Eduarda",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Eduarda/data=!4m7!3m6!1s0x94deb16a8cbc174d:0xf4cdd99e3f6188a!8m2!3d-26.3333268!4d-48.8177098!16s%2Fg%2F1tksjyth!19sChIJTRe8jGqx3pQRihj245ndTA8",
+      "phone": "(47) 3466-1583",
+      "address": "R. Florianópolis, 2874 - Itaum, Joinville - SC, 89207-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Maicon Coradelli",
+      "href": "https://www.google.com/maps/place/Drogaria+Maicon+Coradelli/data=!4m7!3m6!1s0x94deb11f3302cdf9:0xbf7612a4856e2694!8m2!3d-26.3339166!4d-48.8346282!16s%2Fg%2F1ptxnv312!19sChIJ-c0CMx-x3pQRlCZuhaQSdr8",
+      "phone": "(47) 3043-1046",
+      "address": "R. Monsenhor Gercino, 1696 - Paranaguamirim, Joinville - SC, 89210-146",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Coradelli",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Coradelli/data=!4m7!3m6!1s0x94deae6f4961c811:0xdd2a780bd9905bd3!8m2!3d-26.2415812!4d-48.8142585!16s%2Fg%2F1tmgdl50!19sChIJEchhSW-u3pQR01uQ2Qt4Kt0",
+      "phone": "(47) 3278-6776",
+      "address": "R. Antônio Jorge Cecyn, 559 - Aventureiro, Joinville - SC, 89226-260",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Droga Raia",
+      "href": "https://www.google.com/maps/place/Droga+Raia/data=!4m7!3m6!1s0x94deaf905855206b:0x47bb6b457880951!8m2!3d-26.2643187!4d-48.8150101!16s%2Fg%2F11mr2b1fc9!19sChIJayBVWJCv3pQRUQmIV7S2ewQ",
+      "phone": "(47) 99101-7202",
+      "address": "R. das Cegonhas, 658 - Jardim Iririú, Joinville - SC, 89224-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Popular Itinga",
+      "href": "https://www.google.com/maps/place/Popular+Itinga/data=!4m7!3m6!1s0x94deb6f4c133d9d9:0x5f6dadd519f65414!8m2!3d-26.385358!4d-48.820701!16s%2Fg%2F11b6hpjzzm!19sChIJ2dkzwfS23pQRFFT2GdWtbV8",
+      "phone": "(47) 99966-0385",
+      "address": "R. Waldemiro José Borges, 4246 - Itinga, Joinville - SC, 89235-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Brasil Poupa Lar",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Brasil+Poupa+Lar/data=!4m7!3m6!1s0x94deb1003ab34087:0x4853884727497e77!8m2!3d-26.281403!4d-48.8128658!16s%2Fg%2F11m6m33yx9!19sChIJh0CzOgCx3pQRd35JJ0eIU0g",
+      "phone": "(47) 99162-8580",
+      "address": "R. Ten. Paulo Lopes, 309 - Iririú, Joinville - SC, 89227-690",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farma Jardim Ltda",
+      "href": "https://www.google.com/maps/place/Farma+Jardim+Ltda/data=!4m7!3m6!1s0x94deb1fc264a976b:0x135ea6d3029945ef!8m2!3d-26.2654416!4d-48.8014561!16s%2Fg%2F1txfq9f2!19sChIJa5dKJvyx3pQR70WZAtOmXhM",
+      "phone": "(47) 3435-0500",
+      "address": "R. Areia Branca, 681 - Jardim Iririú, Joinville - SC, 89224-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Gira Mais Popular",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Gira+Mais+Popular/data=!4m7!3m6!1s0x94deb167742a6227:0x4e0e19cd38192a4f!8m2!3d-26.2786495!4d-48.8102339!16s%2Fg%2F11yz7r6dbj!19sChIJJ2IqdGex3pQRTyoZOM0ZDk4",
+      "phone": "(47) 99705-1546",
+      "address": "R. Pte. Serrada, 92 - Comasa, Joinville - SC, 89228-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Drogaria Dom Gregório",
+      "href": "https://www.google.com/maps/place/Drogaria+Dom+Greg%C3%B3rio/data=!4m7!3m6!1s0x94deae045eabe70b:0x19c3f86c628e8a1d!8m2!3d-26.2609386!4d-48.8067536!16s%2Fg%2F11bvt33yf3!19sChIJC-erXgSu3pQRHYqOYmz4wxk",
+      "phone": "(47) 99243-2097",
+      "address": "R. Tabatinga, 1630 - Jardim Iririú, Joinville - SC, 89224-051",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia Latino Americana de Medicamentos",
+      "href": "https://www.google.com/maps/place/Cia+Latino+Americana+de+Medicamentos/data=!4m7!3m6!1s0x94deb1df918f8021:0xd0a9b3fe82bb4cd2!8m2!3d-26.2823721!4d-48.811334!16s%2Fg%2F11b6hrgsp6!19sChIJIYCPkd-x3pQR0ky7gv6zqdA",
+      "phone": "(47) 3433-2355",
+      "address": "WHATSAPP & CELL ‪- 47 99212 - 5619___R. Ten. Paulo Lopes, 148 - Iririú, Joinville - SC, 89227-690",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Super Popular - Bairro Comasa",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Super+Popular+-+Bairro+Comasa/data=!4m7!3m6!1s0x94deb221d4e4f7b9:0x16f86ec8f17f55b3!8m2!3d-26.2834914!4d-48.7968905!16s%2Fg%2F11bvcv92ww!19sChIJuffk1CGy3pQRs1V_8chu-BY",
+      "phone": "(47) 98801-0497",
+      "address": "R. Pref. Baltasar Buschle, 1285 - Comasa, Joinville - SC, 89228-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácias Preço Certo",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cias+Pre%C3%A7o+Certo/data=!4m7!3m6!1s0x94deb10d6cfc1af3:0xe8c9d43060715ed7!8m2!3d-26.3039307!4d-48.8238648!16s%2Fg%2F11z2fjy3_2!19sChIJ8xr8bA2x3pQR115xYDDUyeg",
+      "phone": "(47) 99930-5728",
+      "address": "R. Albano Schmidt, 1200 - Boa Vista, Joinville - SC, 89205-098",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Farmatrevo",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Farmatrevo/data=!4m7!3m6!1s0x94deb14601dd8ef3:0x4ac437632a860ee9!8m2!3d-26.3250692!4d-48.8086042!16s%2Fg%2F1thmgjyn!19sChIJ847dAUax3pQR6Q6GKmM3xEo",
+      "phone": "(47) 3436-0485",
+      "address": "WHATSAPP & CELL ‪- 27 99867 - 5981___R. Agulhas Negras, 1739 - Fátima, Joinville - SC, 89230-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia J Martins",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+J+Martins/data=!4m7!3m6!1s0x94deb1e2bb39fe25:0xb757054b9e4ecece!8m2!3d-26.2688028!4d-48.8103128!16s%2Fg%2F1pt_87543!19sChIJJf45u-Kx3pQRzs5OnksFV7c",
+      "phone": "(47) 3437-6652",
+      "address": "R. Dr. Júlio de Mesquita Filho, 241 - Jardim Iririú, Joinville - SC, 89218-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Bencke",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Bencke/data=!4m7!3m6!1s0x94deb404289e9657:0xee00e105ea78c941!8m2!3d-26.3461929!4d-48.7918636!16s%2Fg%2F11b6hmx6z4!19sChIJV5aeKAS03pQRQcl46gXhAO4",
+      "phone": "(47) 3436-7831",
+      "address": "R. Monsenhor Gercino, 6810 - Sl 01 - Paranaguamirim, Joinville - SC, 89231-595",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Bom Jesus",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Bom+Jesus/data=!4m7!3m6!1s0x94deb556157a5791:0x8b2160ec6d12b3bd!8m2!3d-26.3470482!4d-48.7736078!16s%2Fg%2F11q_0dtd2p!19sChIJkVd6FVa13pQRvbMSbexgIYs",
+      "phone": "(47) 3017-5344",
+      "address": "Rua Maria Marques Leandro, 529 - Paranaguamirim, Joinville - SC, 89234-028",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Joinvillense",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Joinvillense/data=!4m7!3m6!1s0x94deb60b1e91a599:0xa332c7745497760b!8m2!3d-26.4032499!4d-48.8023187!16s%2Fg%2F11c31xnq6y!19sChIJmaWRHgu23pQRC3aXVHTHMqM",
+      "phone": "(47) 99704-1282",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Romildo Letzner",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Romildo+Letzner/data=!4m7!3m6!1s0x94dea65c684140f1:0xf8c86b5c5d999a48!8m2!3d-26.203574!4d-48.9124418!16s%2Fg%2F1tmk9n5b!19sChIJ8UBBaFym3pQRSJqZXVxryPg",
+      "phone": "(47) 3435-6499",
+      "address": "WHATSAPP & CELL ‪- 27 99867 - 5981___R. Olavo Bilac, 1986 - Pirabeiraba, Joinville - SC, 89239-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Estrela",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Estrela/data=!4m7!3m6!1s0x94dea669cecc1403:0xc4fa2369e725bf6c!8m2!3d-26.2037626!4d-48.907238!16s%2Fg%2F11d_x3pzrp!19sChIJAxTMzmmm3pQRbL8l52kj-sQ",
+      "phone": "(47) 3424-0074",
+      "address": "R. Conselheiro Pedreira, 674 - Neighborhood: - Pirabeiraba, Joinville - SC, 89239-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Farmarocha",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Farmarocha/data=!4m7!3m6!1s0x94deb159324e0dd5:0x80bd404eda244e73!8m2!3d-26.3313419!4d-48.8003284!16s%2Fg%2F1ydkbdjh8!19sChIJ1Q1OMlmx3pQRc04k2k5AvYA",
+      "phone": "(47) 3436-8167",
+      "address": "R. Álvaro Maia, 718 - Adhemar Garcia, Joinville - SC, 89230-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Super Popular",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Super+Popular/data=!4m7!3m6!1s0x94debb43e5dc5fb5:0xa875be15c982c777!8m2!3d-26.3359355!4d-48.9044296!16s%2Fg%2F11n07wrdv6!19sChIJtV_c5UO73pQRd8eCyRW-dag",
+      "phone": "(47) 3429-2356",
+      "address": "R. do Campo, 315 - Morro do Meio, Joinville - SC, 89215-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Coradelli",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Coradelli/data=!4m7!3m6!1s0x94debb6bd5e01b81:0x155f17548a3af25f!8m2!3d-26.326455!4d-48.9081284!16s%2Fg%2F11t9cdr_wj!19sChIJgRvg1Wu73pQRX_I6ilQXXxU",
+      "phone": "(47) 3435-2525",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Super Popular (Farmacia Morais)",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Super+Popular+%28Farmacia+Morais%29/data=!4m7!3m6!1s0x94deaef8915bf6f1:0x1a52444742ff8867!8m2!3d-26.2371012!4d-48.8333664!16s%2Fg%2F1ts1tcrw!19sChIJ8fZbkfiu3pQRZ4j_QkdEUho",
+      "phone": "(47) 99945-4375",
+      "address": "R. Prof. Eunaldo Verdi, 419 - Jardim Sofia, Joinville - SC, 89223-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bio Farmácia",
+      "href": "https://www.google.com/maps/place/Bio+Farm%C3%A1cia/data=!4m7!3m6!1s0x94deafb0d6267d1d:0x6c1f3c30eae99579!8m2!3d-26.2575237!4d-48.8470294!16s%2Fg%2F1tflnl97!19sChIJHX0m1rCv3pQReZXp6jA8H2w",
+      "phone": "(47) 3467-7847",
+      "address": "R. Ten. Antônio João, 2176 - Bom Retiro, Joinville - SC, 89223-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Super Popular",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Super+Popular/data=!4m7!3m6!1s0x94deaf6c1d6f1d6b:0x2a2689a05f38cc2b!8m2!3d-26.2131218!4d-48.8229423!16s%2Fg%2F11krq2v8_k!19sChIJax1vHWyv3pQRK8w4X6CJJio",
+      "phone": "(47) 3121-9407",
+      "address": "Av. Júpiter, 698 - Jardim Paraíso, Joinville - SC, 89226-600",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Farmácia Antério",
+      "href": "https://www.google.com/maps/place/Farm%C3%A1cia+Ant%C3%A9rio/data=!4m7!3m6!1s0x94deae94a4e9b887:0x71481a1b4bc3be7f!8m2!3d-26.2174895!4d-48.818778!16s%2Fg%2F11b6hndj9x!19sChIJh7jppJSu3pQRf77DSxsaSHE",
+      "phone": "(47) 3467-0068",
+      "address": "Av. Júpiter, 80 - Jardim Paraíso, Joinville - SC, 89240-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

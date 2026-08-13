@@ -1,0 +1,696 @@
+{
+  "id": "roupas",
+  "nome": "Roupas",
+  "terms": [
+    "loja de roupas",
+    "moda feminina",
+    "moda masculina"
+  ],
+  "profiles": 245,
+  "qualified": [
+    {
+      "name": "Loja Roxa Boutique - Moda feminina",
+      "href": "https://www.google.com/maps/place/Loja+Roxa+Boutique+-+Moda+feminina/data=!4m7!3m6!1s0x94deb70037ca8711:0xab82a8a6371b2d67!8m2!3d-26.3609324!4d-48.8341895!16s%2Fg%2F11vz2_zzhs!19sChIJEYfKNwC33pQRZy0bN6aogqs",
+      "phone": "(47) 99672-1791",
+      "address": "R. Boehmerwald, 470 - Boehmerwald, Joinville - SC, 89232-486",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEAGAH STORE",
+      "href": "https://www.google.com/maps/place/CEAGAH+STORE/data=!4m7!3m6!1s0x94deb6d694d25f8b:0x2f3606762cd0a40f!8m2!3d-26.3609699!4d-48.8349754!16s%2Fg%2F1tlwb6zq!19sChIJi1_SlNa23pQRD6TQLHYGNi8",
+      "phone": "(47) 3465-2079",
+      "address": "R. Boehmerwald, 431 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saron Boehmerwald",
+      "href": "https://www.google.com/maps/place/Saron+Boehmerwald/data=!4m7!3m6!1s0x94deb6c2292fa515:0x937d8c417df60156!8m2!3d-26.3688277!4d-48.8249299!16s%2Fg%2F11bvt5j_f4!19sChIJFaUvKcK23pQRVgH2fUGMfZM",
+      "phone": "(47) 3465-0640",
+      "address": "R. Attílio Vinotti, 275 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Carmel modas",
+      "href": "https://www.google.com/maps/place/Carmel+modas/data=!4m7!3m6!1s0x94deb79960a0a445:0x9c6b1dd2d0832273!8m2!3d-26.3616359!4d-48.8293387!16s%2Fg%2F11jn0dcmkf!19sChIJRaSgYJm33pQRcyKD0NIda5w",
+      "phone": "(47) 98853-8915",
+      "address": "R. Adolfo da Veiga, 105 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sônia Modas",
+      "href": "https://www.google.com/maps/place/S%C3%B4nia+Modas/data=!4m7!3m6!1s0x94deb6d1cbb78767:0xd136b234db1cf1ac!8m2!3d-26.3603611!4d-48.830871!16s%2Fg%2F1ptxz86pv!19sChIJZ4e3y9G23pQRrPEc2zSyNtE",
+      "phone": "(47) 99964-0670",
+      "address": "R. Boehmerwald, 805 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia da Moda- Boehmerwald",
+      "href": "https://www.google.com/maps/place/Cia+da+Moda-+Boehmerwald/data=!4m7!3m6!1s0x94deb7e9b2ce7a6d:0x7543a970177fea7c!8m2!3d-26.3601058!4d-48.8272247!16s%2Fg%2F11jg0hyh5x!19sChIJbXrOsum33pQRfOp_F3CpQ3U",
+      "phone": "(47) 3426-5187",
+      "address": "R. Boehmerwald, 1139 - Boehmerwald, Joinville - SC, 89235-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Déborah Modas - Moda Feminina",
+      "href": "https://www.google.com/maps/place/D%C3%A9borah+Modas+-+Moda+Feminina/data=!4m7!3m6!1s0x94deb146d623127d:0xce2fc68b9d1a9d87!8m2!3d-26.3344517!4d-48.8171431!16s%2Fg%2F11c3l7z04k!19sChIJfRIj1kax3pQRh50anYvGL84",
+      "phone": "(47) 99679-2042",
+      "address": "R. Fátima, 589 - Loja 2 - Itaum, Joinville - SC, 89227-008",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Mírian Fê",
+      "href": "https://www.google.com/maps/place/Loja+M%C3%ADrian+F%C3%AA/data=!4m7!3m6!1s0x94de950d5cdf3ddb:0xf6d83fe8f53785c0!8m2!3d-26.3481681!4d-48.8501359!16s%2Fg%2F11rtmr6gc1!19sChIJ2z3fXA2V3pQRwIU39eg_2PY",
+      "phone": "(47) 98867-2774",
+      "address": "R. Porto Rico, 304 - Floresta, Joinville - SC, 89212-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ATRAENTE MODA FEMININA",
+      "href": "https://www.google.com/maps/place/ATRAENTE+MODA+FEMININA/data=!4m7!3m6!1s0x94deb049ea558a17:0xf43e068c836d31f6!8m2!3d-26.33221!4d-48.822509!16s%2Fg%2F11bv1mrjdn!19sChIJF4pV6kmw3pQR9jFtg4wGPvQ",
+      "phone": "(47) 3801-1213",
+      "address": "R. Florianópolis, 100 - Lj 20 - Bucarein, Joinville - SC, 89210-085",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nanda Modas",
+      "href": "https://www.google.com/maps/place/Nanda+Modas/data=!4m7!3m6!1s0x94deb14f0050dff7:0x8150e6279fe652d9!8m2!3d-26.3396194!4d-48.812644!16s%2Fg%2F11bv6l5xx6!19sChIJ999QAE-x3pQR2VLmnyfmUIE",
+      "phone": "(47) 3454-5533",
+      "address": "R. Monsenhor Gercino, 4183 - Jarivatuba, Joinville - SC, 89230-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ternos Lorena Gabrielly JH",
+      "href": "https://www.google.com/maps/place/Ternos+Lorena+Gabrielly+JH/data=!4m7!3m6!1s0x94deb7300e39bec5:0xa17ad352b9d12119!8m2!3d-26.3659559!4d-48.8276188!16s%2Fg%2F11fqcgyj0f!19sChIJxb45DjC33pQRGSHRuVLTeqE",
+      "phone": "(47) 98466-0740",
+      "address": "R. dos Professores, 182 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Boutique",
+      "href": "https://www.google.com/maps/place/Bella+Boutique/data=!4m7!3m6!1s0x94deb70752f310db:0xeafc1377274fd168!8m2!3d-26.3628179!4d-48.8291884!16s%2Fg%2F11k9bq1gvb!19sChIJ2xDzUge33pQRaNFPJ3cT_Oo",
+      "phone": "(47) 98912-7031",
+      "address": "R. Adolfo da Veiga, 253 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Robsur",
+      "href": "https://www.google.com/maps/place/Robsur/data=!4m7!3m6!1s0x94deb0379a75c543:0xf4138226530f7962!8m2!3d-26.2990304!4d-48.8487766!16s%2Fg%2F1th5dqlw!19sChIJQ8V1mjew3pQRYnkPUyaCE_Q",
+      "phone": "(47) 3423-3508",
+      "address": "R. Mário Lobo, 106 - Lj 108 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja 047 Moda Masculina",
+      "href": "https://www.google.com/maps/place/Loja+047+Moda+Masculina/data=!4m7!3m6!1s0x94deaf831a2a946f:0xba22785535b6af21!8m2!3d-26.250154!4d-48.8209217!16s%2Fg%2F11ftngbgw2!19sChIJb5QqGoOv3pQRIa-2NVV4Iro",
+      "phone": "(47) 3804-6669",
+      "address": "R. Tuiuti, 2731 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Robsur",
+      "href": "https://www.google.com/maps/place/Robsur/data=!4m7!3m6!1s0x94deb0f8b420b84d:0xe896236f391a07a9!8m2!3d-26.3207026!4d-48.8456692!16s%2Fg%2F1tffkyfr!19sChIJTbggtPiw3pQRqQcaOW8jlug",
+      "phone": "(47) 3455-0620",
+      "address": "Av. Getúlio Vargas, 1446 - Anita Garibaldi, Joinville - SC, 89202-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ravelli Brand Store",
+      "href": "https://www.google.com/maps/place/Ravelli+Brand+Store/data=!4m7!3m6!1s0x94deb19c333bf977:0x9d62e1da2d850e74!8m2!3d-26.2945258!4d-48.8498368!16s%2Fg%2F11h_wrqs1z!19sChIJd_k7M5yx3pQRdA6FLdrhYp0",
+      "phone": "(47) 3043-6647",
+      "address": "R. Max Colin, 764 - América, Joinville - SC, 89204-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Netty Modas",
+      "href": "https://www.google.com/maps/place/Netty+Modas/data=!4m7!3m6!1s0x94deb03799eea4b9:0xe0b917e9a115d79b!8m2!3d-26.2989235!4d-48.8483868!16s%2Fg%2F1ptzrln3_!19sChIJuaTumTew3pQRm9cVoekXueA",
+      "phone": "(47) 3025-4796",
+      "address": "R. Mário Lobo, 106 - Lj 97 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Griff Moda feminina",
+      "href": "https://www.google.com/maps/place/Griff+Moda+feminina/data=!4m7!3m6!1s0x94deb15198e2ee83:0x92da497bc3ff942d!8m2!3d-26.2995606!4d-48.8472879!16s%2Fg%2F11rxhw8s6v!19sChIJg-7imFGx3pQRLZT_w3tJ2pI",
+      "phone": "(47) 99191-0708",
+      "address": "R. Princesa Isabel, 508 - Centro, Joinville - SC, 89201-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Amaline Moda Feminina",
+      "href": "https://www.google.com/maps/place/Amaline+Moda+Feminina/data=!4m7!3m6!1s0x94deb102d0d32223:0xea72e60853a3b2d1!8m2!3d-26.3051859!4d-48.8495171!16s%2Fg%2F11r6zkbn72!19sChIJIyLT0AKx3pQR0bKjUwjmcuo",
+      "phone": "(47) 98815-9190",
+      "address": "R. Sen. Felipe Schmidt, 229 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cor Doce Moda Feminina",
+      "href": "https://www.google.com/maps/place/Cor+Doce+Moda+Feminina/data=!4m7!3m6!1s0x94deb036266980c9:0x9a43745f02b9b845!8m2!3d-26.3002571!4d-48.8465494!16s%2Fg%2F11gj4pztg2!19sChIJyYBpJjaw3pQRRbi5Al90Q5o",
+      "phone": "(47) 3433-6842",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Madame Ká Moda Feminina Joinville",
+      "href": "https://www.google.com/maps/place/Madame+K%C3%A1+Moda+Feminina+Joinville/data=!4m7!3m6!1s0x94deb19622f0787b:0x3b5e4c84df729d75!8m2!3d-26.3015489!4d-48.8490085!16s%2Fg%2F11h8fqmdxm!19sChIJe3jwIpax3pQRdZ1y34RMXjs",
+      "phone": "(47) 99621-4217",
+      "address": "R. 9 de Março, 749 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Song Homem e Mulher",
+      "href": "https://www.google.com/maps/place/Song+Homem+e+Mulher/data=!4m7!3m6!1s0x94deb04a7a73abff:0x73a69d221cd56976!8m2!3d-26.299673!4d-48.842856!16s%2Fg%2F11bv1mtxn3!19sChIJ_6tzekqw3pQRdmnVHCKdpnM",
+      "phone": "(47) 99626-4442",
+      "address": "R. Princesa Isabel, 74 - Centro, Joinville - SC, 89201-270",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Leg's",
+      "href": "https://www.google.com/maps/place/Leg%27s/data=!4m7!3m6!1s0x94deb03810dc27c7:0xc8a01d89e8cf69b6!8m2!3d-26.3012351!4d-48.8505724!16s%2Fg%2F11bv38mjf7!19sChIJxyfcEDiw3pQRtmnP6IkdoMg",
+      "phone": "(47) 3028-7707",
+      "address": "R. 9 de Março, 870 - Sl 01 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sedução Moda Homem",
+      "href": "https://www.google.com/maps/place/Sedu%C3%A7%C3%A3o+Moda+Homem/data=!4m7!3m6!1s0x94deb049edccb0e7:0x33c34ab6e708577d!8m2!3d-26.301119!4d-48.845473!16s%2Fg%2F11bv1n0p6k!19sChIJ57DM7Umw3pQRfVcI57ZKwzM",
+      "phone": "(47) 3433-2148",
+      "address": "R. do Príncipe, 226 - Centro, Joinville - SC, 89201-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moon Nine",
+      "href": "https://www.google.com/maps/place/Moon+Nine/data=!4m7!3m6!1s0x94deb1d04bb4ac97:0xf35a1f278520eea5!8m2!3d-26.293544!4d-48.8642488!16s%2Fg%2F11ycjbnw00!19sChIJl6y0S9Cx3pQRpe4ghScfWvM",
+      "phone": "(47) 99937-0123",
+      "address": "R. Max Colin, 2406 - Centro, Joinville - SC, 89204-635",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Coliseum Gestão de Marcas | Representante Comercial de Moda Masculina OGOCHI",
+      "href": "https://www.google.com/maps/place/Coliseum+Gest%C3%A3o+de+Marcas+%7C+Representante+Comercial+de+Moda+Masculina+OGOCHI/data=!4m7!3m6!1s0x94deb17f29deb96f:0xd8ef00f736697237!8m2!3d-26.3148272!4d-48.8477504!16s%2Fg%2F11npylgsj0!19sChIJb7neKX-x3pQRN3JpNvcA79g",
+      "phone": "(47) 99223-2339",
+      "address": "R. Eugênio Moreira, 424 - Sl 302 - Anita Garibaldi, Joinville - SC, 89202-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jeans Casual Moda Feminina, Masculina e Infantil",
+      "href": "https://www.google.com/maps/place/Jeans+Casual+Moda+Feminina,+Masculina+e+Infantil/data=!4m7!3m6!1s0x94deb049803c68a1:0xdea3fe12621caa16!8m2!3d-26.302229!4d-48.8447961!16s%2Fg%2F11bv1lzqpf!19sChIJoWg8gEmw3pQRFqocYhL-o94",
+      "phone": "(47) 3026-7740",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Villa Ganesha",
+      "href": "https://www.google.com/maps/place/Villa+Ganesha/data=!4m7!3m6!1s0x94deb037fcb5fe6d:0xbacc26b47909e239!8m2!3d-26.299071!4d-48.8535129!16s%2Fg%2F11b7y9c4s3!19sChIJbf61_Dew3pQROeIJebQmzLo",
+      "phone": "(47) 99948-8600",
+      "address": "R. XV de Novembro, 1165 - Sl 4 - América, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corpaço Moda Fitness",
+      "href": "https://www.google.com/maps/place/Corpa%C3%A7o+Moda+Fitness/data=!4m7!3m6!1s0x94deafd9545b237b:0x2f431dd45e5f6a6e!8m2!3d-26.2792673!4d-48.8545664!16s%2Fg%2F11f2q5v12m!19sChIJeyNbVNmv3pQRbmpfXtQdQy8",
+      "phone": "(47) 3025-7131",
+      "address": "R. Visc. de Mauá, 1464 - América, Joinville - SC, 89204-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marisandre Modas",
+      "href": "https://www.google.com/maps/place/Marisandre+Modas/data=!4m7!3m6!1s0x94deb1e7882118bb:0x135b8bbc57c999c5!8m2!3d-26.2797551!4d-48.8196114!16s%2Fg%2F11b88lxx09!19sChIJuxghiOex3pQRxZnJV7yLWxM",
+      "phone": "(47) 99793-6413",
+      "address": "R. Papa João XXIII, 1262 - Iririú, Joinville - SC, 89227-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corpaço Moda Fitness",
+      "href": "https://www.google.com/maps/place/Corpa%C3%A7o+Moda+Fitness/data=!4m7!3m6!1s0x94deb046fb510811:0x9343af08b2ad8655!8m2!3d-26.3054209!4d-48.8528571!16s%2Fg%2F1thd2y_x!19sChIJEQhR-0aw3pQRVYatsgivQ5M",
+      "phone": "(47) 99672-7131",
+      "address": "R. Expedicionário Holz, 20 - América, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moda Masculina",
+      "href": "https://www.google.com/maps/place/Moda+Masculina/data=!4m7!3m6!1s0x94deaf86ea08fe4d:0x49fa7abb14745dfb!8m2!3d-26.2769014!4d-48.8790914!16s%2Fg%2F11hdq9fyqv!19sChIJTf4I6oav3pQR-110FLt6-kk",
+      "phone": "(47) 99795-2989",
+      "address": "R. Jaó, 388 - Costa e Silva, Joinville - SC, 89220-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ponto a Ponto Artes",
+      "href": "https://www.google.com/maps/place/Ponto+a+Ponto+Artes/data=!4m7!3m6!1s0x94deb6b5641fbead:0xa2991941b034bd81!8m2!3d-26.3509051!4d-48.81922!16s%2Fg%2F11b8c43w9k!19sChIJrb4fZLW23pQRgb00sEEZmaI",
+      "phone": "(47) 3466-3804",
+      "address": "R. João da Costa Júnior, 1228 - João Costa, Joinville - SC, 89209-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Strutura Oficial",
+      "href": "https://www.google.com/maps/place/Strutura+Oficial/data=!4m7!3m6!1s0x94deb14f78698b93:0x60c3b6d0959b8c08!8m2!3d-26.3056557!4d-48.8527814!16s%2Fg%2F11zfywz0k8!19sChIJk4tpeE-x3pQRCIybldC2w2A",
+      "phone": "(47) 93380-6043",
+      "address": "R. Visc. de Taunay - Centro, Joinville - SC, 89201-420",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lore Store & Consultoria de Imagem",
+      "href": "https://www.google.com/maps/place/Lore+Store+%26+Consultoria+de+Imagem/data=!4m7!3m6!1s0x94deb11688143b07:0xa32ac32136db6c44!8m2!3d-26.3181577!4d-48.8427226!16s%2Fg%2F11yt7f6t7b!19sChIJBzsUiBax3pQRRGzbNiHDKqM",
+      "phone": "(47) 99686-6502",
+      "address": "R. São Paulo, 1182 - Bucarein, Joinville - SC, 89202-257",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Atrevida - Itinga",
+      "href": "https://www.google.com/maps/place/Loja+Atrevida+-+Itinga/data=!4m7!3m6!1s0x94deb6f3a33dfa99:0xbf28a31befaa2c73!8m2!3d-26.382961!4d-48.8228348!16s%2Fg%2F11bvt2jld9!19sChIJmfo9o_O23pQRcyyq7xujKL8",
+      "phone": "(47) 3465-4525",
+      "address": "R. Waldemiro José Borges, 3920 - Itinga, Joinville - SC, 89233-675",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marizel Comércio e Representações",
+      "href": "https://www.google.com/maps/place/Marizel+Com%C3%A9rcio+e+Representa%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb0439dfba27f:0x86e787bf516b46d9!8m2!3d-26.3087836!4d-48.8567619!16s%2Fg%2F1td0zmk5!19sChIJf6L7nUOw3pQR2UZrUb-H54Y",
+      "phone": "(47) 3422-6543",
+      "address": "R. Braço do Norte, 164 - Atiradores, Joinville - SC, 89203-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bella Sefhora",
+      "href": "https://www.google.com/maps/place/Bella+Sefhora/data=!4m7!3m6!1s0x94deb03798c2699f:0xff48865e16589522!8m2!3d-26.2992382!4d-48.8486487!16s%2Fg%2F11bv3mm5w8!19sChIJn2nCmDew3pQRIpVYFl6GSP8",
+      "phone": "(47) 3029-2321",
+      "address": "R. Mário Lobo, 106 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Boutique Mix",
+      "href": "https://www.google.com/maps/place/Boutique+Mix/data=!4m7!3m6!1s0x94deb1410122933b:0x4cf113282275a52d!8m2!3d-26.3181114!4d-48.8425941!16s%2Fg%2F11f3_w6km1!19sChIJO5MiAUGx3pQRLaV1IigT8Uw",
+      "phone": "(47) 3034-1090",
+      "address": "R. São Paulo, 1182 - Bucarein, Joinville - SC, 89211-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A+ Store",
+      "href": "https://www.google.com/maps/place/A%2B+Store/data=!4m7!3m6!1s0x94deb141d1ea24e9:0x43ac9d539f729b0b!8m2!3d-26.3277333!4d-48.8347352!16s%2Fg%2F11hzlzjk8x!19sChIJ6STq0UGx3pQRC5tyn1OdrEM",
+      "phone": "(47) 99646-1499",
+      "address": "R. Florianópolis, 940 - Guanabara, Joinville - SC, 89210-086",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tribal Point",
+      "href": "https://www.google.com/maps/place/Tribal+Point/data=!4m7!3m6!1s0x94deb05772b291bb:0xd5c4d26fb5af367e!8m2!3d-26.3174863!4d-48.8487663!16s%2Fg%2F11b86r1zvz!19sChIJu5Gyclew3pQRfjavtW_SxNU",
+      "phone": "(47) 3028-4111",
+      "address": "R. Anita Garibaldi, 393 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Coisas de Bazar",
+      "href": "https://www.google.com/maps/place/Coisas+de+Bazar/data=!4m7!3m6!1s0x94deb0467141e6b5:0x4e656278dd0d5f56!8m2!3d-26.3136443!4d-48.8519254!16s%2Fg%2F1wc32d6v!19sChIJteZBcUaw3pQRVl8N3XhiZU4",
+      "phone": "(47) 3025-7606",
+      "address": "R. Rio Grande do Sul, 398 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Anonimato",
+      "href": "https://www.google.com/maps/place/Anonimato/data=!4m7!3m6!1s0x94deb0f8b96493ad:0x7138d79de6efe501!8m2!3d-26.320618!4d-48.8456029!16s%2Fg%2F11bv2gz8gc!19sChIJrZNkufiw3pQRAeXv5p3XOHE",
+      "phone": "(47) 3227-3173",
+      "address": "Av. Getúlio Vargas, 1446 - Lj 113 - Anita Garibaldi, Joinville - SC, 89202-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Culture Urban Store",
+      "href": "https://www.google.com/maps/place/Culture+Urban+Store/data=!4m7!3m6!1s0x94deb05db70003fb:0x974c214b44662530!8m2!3d-26.3187189!4d-48.8505263!16s%2Fg%2F1pp2tvh84!19sChIJ-wMAt12w3pQRMCVmREshTJc",
+      "phone": "(47) 3027-1341",
+      "address": "Rua Anita Garibaldi, 830 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Camila Milchert Atelier",
+      "href": "https://www.google.com/maps/place/Camila+Milchert+Atelier/data=!4m7!3m6!1s0x94dea56640aacd01:0x8ae0af68a28a9446!8m2!3d-26.3133488!4d-48.8516721!16s%2Fg%2F11s56rctss!19sChIJAc2qQGal3pQRRpSKomiv4Io",
+      "phone": "(47) 3439-5995",
+      "address": "R. Rio Grande do Sul, 415 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Deluxe premium",
+      "href": "https://www.google.com/maps/place/Deluxe+premium/data=!4m7!3m6!1s0x94deb1551c75229b:0x7e1760f55b979cb2!8m2!3d-26.3165313!4d-48.8484558!16s%2Fg%2F11mw7mlgph!19sChIJmyJ1HFWx3pQRspyXW_VgF34",
+      "phone": "(47) 99695-8236",
+      "address": "R. Rio Grande do Sul - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aline Sapatilhas Artigos de Dança e Fitness",
+      "href": "https://www.google.com/maps/place/Aline+Sapatilhas+Artigos+de+Dan%C3%A7a+e+Fitness/data=!4m7!3m6!1s0x94deb034928622f9:0x77415a720542d1a7!8m2!3d-26.295104!4d-48.8416575!16s%2Fg%2F11f102v4tp!19sChIJ-SKGkjSw3pQRp9FCBXJaQXc",
+      "phone": "(47) 3278-9986",
+      "address": "R. Dona Francisca, 801 - Lj 5 - Saguaçu, Joinville - SC, 89221-006",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lari Store - Moda feminina e plus Size",
+      "href": "https://www.google.com/maps/place/Lari+Store+-+Moda+feminina+e+plus+Size/data=!4m7!3m6!1s0x94deafa35f101dbb:0x4f6d91f32992b517!8m2!3d-26.2721414!4d-48.8268698!16s%2Fg%2F11zjx0r49q!19sChIJux0QX6Ov3pQRF7WSKfORbU8",
+      "phone": "(47) 99700-7058",
+      "address": "Galeria da papa - R. Papa João XXIII, 70 - Sl 03 - Iririú, Joinville - SC, 89227-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tricotando a Arte em Tricot",
+      "href": "https://www.google.com/maps/place/Tricotando+a+Arte+em+Tricot/data=!4m7!3m6!1s0x94deaf14a8e19049:0xbc22159dd0a1fe0b!8m2!3d-26.2767817!4d-48.8469931!16s%2Fg%2F11ntnmjnvb!19sChIJSZDhqBSv3pQRC_6h0J0VIrw",
+      "phone": "(47) 99662-7002",
+      "address": "R. Dona Francisca - Saguaçu, Joinville - SC, 89221-009",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Boeno Store",
+      "href": "https://www.google.com/maps/place/Boeno+Store/data=!4m7!3m6!1s0x94deb1950f321383:0x7126ee211b92806e!8m2!3d-26.2794905!4d-48.8368545!16s%2Fg%2F11nnth9n1l!19sChIJgxMyD5Wx3pQRboCSGyHuJnE",
+      "phone": "(47) 95284-2548",
+      "address": "R. Iririú, 595 - Saguaçu, Joinville - SC, 89227-211",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Paris Store Moda feminina e masculina",
+      "href": "https://www.google.com/maps/place/Paris+Store+Moda+feminina+e+masculina/data=!4m7!3m6!1s0x94deb11a84de7ceb:0x786710ab9b66c1ae!8m2!3d-26.2552426!4d-48.8199791!16s%2Fg%2F11k595w0dc!19sChIJ63zehBqx3pQRrsFmm6sQZ3g",
+      "phone": "(47) 99129-5170",
+      "address": "R. Tuiuti, 2050 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Saron Costa e Silva",
+      "href": "https://www.google.com/maps/place/Saron+Costa+e+Silva/data=!4m7!3m6!1s0x94deafe9bc90f663:0x485c2d20b56d0506!8m2!3d-26.2661169!4d-48.8722383!16s%2Fg%2F11lfh1x341!19sChIJY_aQvOmv3pQRBgVttSAtXEg",
+      "phone": "(47) 3804-0640",
+      "address": "Rua Otto Pfuetzenreuter, 912 - Costa e Silva, Joinville - SC, 89219-202",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eromar",
+      "href": "https://www.google.com/maps/place/Eromar/data=!4m7!3m6!1s0x94deaff3836c3a83:0x81c255465e57c5f3!8m2!3d-26.273977!4d-48.8744756!16s%2Fg%2F1tfkb4zr!19sChIJgzpsg_Ov3pQR88VXXkZVwoE",
+      "phone": "(47) 3435-1292",
+      "address": "Av. Alm. Jaceguay, 2887 - Costa e Silva, Joinville - SC, 89218-691",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Sintesis",
+      "href": "https://www.google.com/maps/place/Loja+Sintesis/data=!4m7!3m6!1s0x94deaf8d117a4dbf:0x456caa215f5034fe!8m2!3d-26.2687771!4d-48.8715964!16s%2Fg%2F1tfsv0m1!19sChIJv016EY2v3pQR_jRQXyGqbEU",
+      "phone": "(47) 3227-3925",
+      "address": "R. Vice-Prefeito Luiz Carlos Garcia, 1175 - Costa e Silva, Joinville - SC, 89219-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Palácio Store",
+      "href": "https://www.google.com/maps/place/Pal%C3%A1cio+Store/data=!4m7!3m6!1s0x94deafcb1aa4dd57:0xc80e1cadcabf6c33!8m2!3d-26.2708387!4d-48.872109!16s%2Fg%2F11fm37jmv1!19sChIJV92kGsuv3pQRM2y_yq0cDsg",
+      "phone": "(47) 3804-5287",
+      "address": "Rua Otto Pfuetzenreuter, 396 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Emy boutique",
+      "href": "https://www.google.com/maps/place/Emy+boutique/data=!4m7!3m6!1s0x94deafc07d16dea1:0x9d46bd2c6232812f!8m2!3d-26.2687475!4d-48.8731238!16s%2Fg%2F11sg38gs6f!19sChIJod4WfcCv3pQRL4EyYiy9Rp0",
+      "phone": "(47) 98910-5048",
+      "address": "R. Bem-Te-Vi, 70 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lazuri",
+      "href": "https://www.google.com/maps/place/Lazuri/data=!4m7!3m6!1s0x94deaf8d277c5bd9:0xc8d9631b88c74a27!8m2!3d-26.2698578!4d-48.8724322!16s%2Fg%2F11bvt43rmd!19sChIJ2Vt8J42v3pQRJ0rHiBtj2cg",
+      "phone": "(47) 3023-0457",
+      "address": "Rua Otto Pfuetzenreuter, 443 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Full Chique",
+      "href": "https://www.google.com/maps/place/Full+Chique/data=!4m7!3m6!1s0x94deaff2ef23f5ef:0x151ecb9685f942d4!8m2!3d-26.2725056!4d-48.872429!16s%2Fg%2F11c3n0_9w1!19sChIJ7_Uj7_Kv3pQR1EL5hZbLHhU",
+      "phone": "(47) 99999-7833",
+      "address": "Rua Otto Pfuetzenreuter, 141 - Costa e Silva, Joinville - SC, 89219-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donna G Moda Feminina",
+      "href": "https://www.google.com/maps/place/Donna+G+Moda+Feminina/data=!4m7!3m6!1s0x94deaf2ee1687107:0xb4c1c2135f825663!8m2!3d-26.2663855!4d-48.8649059!16s%2Fg%2F11z6ncyv5c!19sChIJB3Fo4S6v3pQRY1aCXxPCwbQ",
+      "phone": "(47) 99667-8613",
+      "address": "R. João Dietrich, 266 - Costa e Silva, Joinville - SC, 89219-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "MÁRCIA MODAS",
+      "href": "https://www.google.com/maps/place/M%C3%81RCIA+MODAS/data=!4m7!3m6!1s0x94deafadbb29fda3:0x2a0ab398c4812af3!8m2!3d-26.2686824!4d-48.8729043!16s%2Fg%2F11vkppzp38!19sChIJo_0pu62v3pQR8yqBxJizCio",
+      "phone": "(47) 99995-0285",
+      "address": "R. Bem-Te-Vi, 70 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Venaro Trajes Masculinos",
+      "href": "https://www.google.com/maps/place/Venaro+Trajes+Masculinos/data=!4m7!3m6!1s0x94deaff0aee0aa6d:0xcd35affe4e6527bd!8m2!3d-26.2807076!4d-48.8745104!16s%2Fg%2F1tm89lf5!19sChIJbargrvCv3pQRvSdlTv6vNc0",
+      "phone": "(47) 3473-5525",
+      "address": "R. Dona Elza Meinert, 785 - Costa e Silva, Joinville - SC, 89218-650",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Deluff Store",
+      "href": "https://www.google.com/maps/place/Deluff+Store/data=!4m7!3m6!1s0x94dea58c3e652069:0xe8667567b946202f!8m2!3d-26.2864843!4d-48.9072045!16s%2Fg%2F11f5tc4gns!19sChIJaSBlPoyl3pQRLyBGuWd1Zug",
+      "phone": "(47) 3801-4636",
+      "address": "R. XV de Novembro, 7426 - Vila Nova, Joinville - SC, 89237-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jeovana Boutique Store",
+      "href": "https://www.google.com/maps/place/Jeovana+Boutique+Store/data=!4m7!3m6!1s0x94dea5ddde028801:0x255a98bf43252356!8m2!3d-26.2932524!4d-48.9139708!16s%2Fg%2F11nxcfvrxd!19sChIJAYgC3t2l3pQRViMlQ7-YWiU",
+      "phone": "(47) 99177-0238",
+      "address": "R. Ângela Beninca, 653 - Vila Nova, Joinville - SC, 89237-383",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Adriana Modas",
+      "href": "https://www.google.com/maps/place/Adriana+Modas/data=!4m7!3m6!1s0x94dea5362888a071:0xe7bde94ef7de9732!8m2!3d-26.2930643!4d-48.9003528!16s%2Fg%2F11bzwnkbr1!19sChIJcaCIKDal3pQRMpfe907pvec",
+      "phone": "(47) 3423-0994",
+      "address": "R. Bento Torquato da Rocha, 622 - Vila Nova, Joinville - SC, 89237-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vitrine Mix",
+      "href": "https://www.google.com/maps/place/Vitrine+Mix/data=!4m7!3m6!1s0x94dea51eff83d2c5:0xce9c57ce11c9d316!8m2!3d-26.2877437!4d-48.8969707!16s%2Fg%2F11rwlvqbyd!19sChIJxdKD_x6l3pQRFtPJEc5XnM4",
+      "phone": "(47) 99762-9263",
+      "address": "R. XV de Novembro, 5264 - Vila Nova, Joinville - SC, 89201-602",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bela Mulher",
+      "href": "https://www.google.com/maps/place/Bela+Mulher/data=!4m7!3m6!1s0x94dea5f75e566c59:0xb24e6acec9504e34!8m2!3d-26.2882349!4d-48.916626!16s%2Fg%2F11tcwlm_48!19sChIJWWxWXvel3pQRNE5Qyc5qTrI",
+      "phone": "(47) 99974-1400",
+      "address": "R. XV de Novembro, 8507 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Loja Efare",
+      "href": "https://www.google.com/maps/place/Loja+Efare/data=!4m7!3m6!1s0x94dea5253036fdfd:0x6b22bcad05b571f9!8m2!3d-26.2915995!4d-48.909477!16s%2Fg%2F11b5pjt_sk!19sChIJ_f02MCWl3pQR-XG1Ba28Ims",
+      "phone": "(47) 3422-2555",
+      "address": "R. São Firmino, 916 - Vila Nova, Joinville - SC, 89237-355",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Upper Modas",
+      "href": "https://www.google.com/maps/place/Upper+Modas/data=!4m7!3m6!1s0x94dea53cec20e09d:0x34dbfb5b342ea874!8m2!3d-26.286622!4d-48.9083738!16s%2Fg%2F11b8jd2t2r!19sChIJneAg7Dyl3pQRdKguNFv72zQ",
+      "phone": "(47) 3439-0074",
+      "address": "R. XV de Novembro, 7546 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Perla Confecções",
+      "href": "https://www.google.com/maps/place/Perla+Confec%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94dea5392297da5b:0x117ad3050c0d00af!8m2!3d-26.2874965!4d-48.9012636!16s%2Fg%2F1tfcjxrq!19sChIJW9qXIjml3pQRrwANDAXTehE",
+      "phone": "(47) 3439-1128",
+      "address": "R. XV de Novembro, 6901 - Sl 04 - Vila Nova, Joinville - SC, 89237-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bela Moda Feminina",
+      "href": "https://www.google.com/maps/place/Bela+Moda+Feminina/data=!4m7!3m6!1s0x94dea535f2bcf1a1:0x4f4fe2729e7d1335!8m2!3d-26.2871544!4d-48.905455!16s%2Fg%2F11xzh5wqmv!19sChIJofG88jWl3pQRNRN9nnLiT08",
+      "phone": "(47) 99119-5736",
+      "address": "R. XV de Novembro, 7351 - Vila Nova, Joinville - SC, 89337-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Melody's Modas e Acessórios",
+      "href": "https://www.google.com/maps/place/Melody%27s+Modas+e+Acess%C3%B3rios/data=!4m7!3m6!1s0x94deb0fa12814d17:0x18db1e8f83dab704!8m2!3d-26.2784802!4d-48.899223!16s%2Fg%2F11gg6d63d3!19sChIJF02BEvqw3pQRBLfag48e2xg",
+      "phone": "(47) 3433-0270",
+      "address": "R. Sebastião Jonck, 431 - Vila Nova, Joinville - SC, 89237-290",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fina Flor Joinville",
+      "href": "https://www.google.com/maps/place/Fina+Flor+Joinville/data=!4m7!3m6!1s0x94deb1b169e2db47:0xa44e47c5765e9ad!8m2!3d-26.2885959!4d-48.9131974!16s%2Fg%2F11ftyfx3ck!19sChIJR9viabGx3pQRrellV3zkRAo",
+      "phone": "(47) 99703-5159",
+      "address": "R. Valdemar Linhares, 161 - Vila Nova, Joinville - SC, 89237-392",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "OhLinda Moda Íntima e Fitness",
+      "href": "https://www.google.com/maps/place/OhLinda+Moda+%C3%8Dntima+e+Fitness/data=!4m7!3m6!1s0x94dea521b85b255f:0xf9f02e2a39d51bf1!8m2!3d-26.2882679!4d-48.9163078!16s%2Fg%2F11dxk_55wq!19sChIJXyVbuCGl3pQR8RvVOSou8Pk",
+      "phone": "(47) 3202-9500",
+      "address": "Anexo ao Atacado Hipermais - R. XV de Novembro, 8507 - sala 06 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alfaiataria D'michels",
+      "href": "https://www.google.com/maps/place/Alfaiataria+D%27michels/data=!4m7!3m6!1s0x94deb128b78ecefb:0xac0bb5ed5641ec18!8m2!3d-26.2930867!4d-48.899168!16s%2Fg%2F11f5lxk1s4!19sChIJ-86Otyix3pQRGOxBVu21C6w",
+      "phone": "(47) 99160-1515",
+      "address": "Rua Augusto Eccel, 120 - Vila Nova, Joinville - SC, 89237-153",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "A+ Store Vila",
+      "href": "https://www.google.com/maps/place/A%2B+Store+Vila/data=!4m7!3m6!1s0x94dea50805c63c27:0x2bd243189ad628a!8m2!3d-26.2870499!4d-48.9057953!16s%2Fg%2F11yh2kwtgm!19sChIJJzzGBQil3pQRimKtiTEkvQI",
+      "phone": "(47) 99665-0890",
+      "address": "R. XV de Novembro, 7333 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Alfaiate",
+      "href": "https://www.google.com/maps/place/Alfaiate/data=!4m7!3m6!1s0x94dea5d6fc4e9d67:0x7121817571830b78!8m2!3d-26.2870863!4d-48.9101055!16s%2Fg%2F11fk137dl_!19sChIJZ51O_Nal3pQReAuDcXWBIXE",
+      "phone": "(47) 4101-3848",
+      "address": "R. XV de Novembro, 7743 - Vila Nova, Joinville - SC, 89237-448",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

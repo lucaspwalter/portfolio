@@ -1,0 +1,606 @@
+{
+  "id": "escola",
+  "nome": "Escola",
+  "terms": [
+    "escola",
+    "colégio",
+    "educação infantil"
+  ],
+  "profiles": 242,
+  "qualified": [
+    {
+      "name": "Escola Municipal Professor Orestes Guimarães",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Professor+Orestes+Guimar%C3%A3es/data=!4m7!3m6!1s0x94deb72b2e1ebb9d:0x429d0df5087c6bcc!8m2!3d-26.3631566!4d-48.8226017!16s%2Fg%2F1tq4s6vt!19sChIJnbseLiu33pQRzGt8CPUNnUI",
+      "phone": "(47) 3465-0027",
+      "address": "R. Boehmerwald, 1830 - Boehmerwald, Joinville - SC, 89235-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Doutor Abdon Baptista",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Doutor+Abdon+Baptista/data=!4m7!3m6!1s0x94deb129289fbbd1:0xa6c7104931fde548!8m2!3d-26.3476307!4d-48.8353963!16s%2Fg%2F1tgs225j!19sChIJ0bufKCmx3pQRSOX9MUkQx6Y",
+      "phone": "(47) 3436-0351",
+      "address": "R. Petrópolis, 1618 - Petrópolis, Joinville - SC, 89208-301",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EEB Dom Pio de Freitas",
+      "href": "https://www.google.com/maps/place/EEB+Dom+Pio+de+Freitas/data=!4m7!3m6!1s0x94deb0e0cf06338d:0x8275276902812112!8m2!3d-26.337006!4d-48.8444897!16s%2Fg%2F1tgl_426!19sChIJjTMGz-Cw3pQREiGBAmkndYI",
+      "phone": "(47) 3461-1259",
+      "address": "R. Elly Soares, 358 - Floresta, Joinville - SC, 89211-715",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Plácido Xavier Vieira",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Pl%C3%A1cido+Xavier+Vieira/data=!4m7!3m6!1s0x94deb0d10b172767:0x946392765bdc4332!8m2!3d-26.352744!4d-48.844509!16s%2Fg%2F1tkb67vb!19sChIJZycXC9Gw3pQRMkPcW3aSY5Q",
+      "phone": "(47) 3463-2517",
+      "address": "R. Roberto Lehn, S/N - KM 4 - Santa Catarina, Joinville - SC, 89233-035",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Professora Virgínia Soares",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Professora+Virg%C3%ADnia+Soares/data=!4m7!3m6!1s0x94deb0c27d36095d:0x347159a852bce7e5!8m2!3d-26.3426862!4d-48.8526044!16s%2Fg%2F1tfxz5gy!19sChIJXQk2fcKw3pQR5ee8UqhZcTQ",
+      "phone": "(47) 3436-0170",
+      "address": "R. Princesa Mafalda, 468 - Floresta, Joinville - SC, 89212-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEJA de Joinville",
+      "href": "https://www.google.com/maps/place/CEJA+de+Joinville/data=!4m7!3m6!1s0x94deb0530c94db87:0xcf9d8d8dca9927bc!8m2!3d-26.3122157!4d-48.8418845!16s%2Fg%2F11c58nb0rf!19sChIJh9uUDFOw3pQRvCeZyo2Nnc8",
+      "phone": "(47) 3431-1493",
+      "address": "R. Alexandre Schlemm, 110 - Bucarein, Joinville - SC, 89202-417",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Autoescola Canaã",
+      "href": "https://www.google.com/maps/place/Autoescola+Cana%C3%A3/data=!4m7!3m6!1s0x94deb7fba0997b3b:0x114408f7e6ba8b94!8m2!3d-26.3600637!4d-48.8294494!16s%2Fg%2F11rxpdjgh5!19sChIJO3uZoPu33pQRlIu65vcIRBE",
+      "phone": "(47) 99268-6464",
+      "address": "R. Ida Ana Eccel, 64 - Boehmerwald, Joinville - SC, 89208-824",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EEB Prof Gertrudes Benta Costa",
+      "href": "https://www.google.com/maps/place/EEB+Prof+Gertrudes+Benta+Costa/data=!4m7!3m6!1s0x94deb6d1a20a65d7:0x12415a7d422310ef!8m2!3d-26.3483875!4d-48.8317486!16s%2Fg%2F1tdb9_6q!19sChIJ12UKotG23pQR7xAjQn1aQRI",
+      "phone": "(47) 3461-1282",
+      "address": "Av. Paulo Schroeder, 50 - Petrópolis, Joinville - SC, 89235-060",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Vida Nova",
+      "href": "https://www.google.com/maps/place/Escola+Vida+Nova/data=!4m7!3m6!1s0x94deb0c1f2ce8729:0x16c34a13fca520ea!8m2!3d-26.3439082!4d-48.8550445!16s%2Fg%2F1tm2bv22!19sChIJKYfO8sGw3pQR6iCl_BNKwxY",
+      "phone": "(47) 3436-9714",
+      "address": "R. Francisco Alves, 174 - Floresta, Joinville - SC, 89212-220",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cei Amiguinhos Unidos",
+      "href": "https://www.google.com/maps/place/Cei+Amiguinhos+Unidos/data=!4m7!3m6!1s0x94deb731d14310fb:0xff46bdb8abfbb343!8m2!3d-26.3624393!4d-48.8288217!16s%2Fg%2F11h37pzz52!19sChIJ-xBD0TG33pQRQ7P7q7i9Rv8",
+      "phone": "(47) 99976-4414",
+      "address": "R. Vigílio Cristofolini, 192 - Boehmerwald, Joinville - SC, 89235-562",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Beija-Flor",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Beija-Flor/data=!4m7!3m6!1s0x94deb12c281739b5:0xe0d6ae196b1ee295!8m2!3d-26.3488568!4d-48.8326796!16s%2Fg%2F1tcx_z__!19sChIJtTkXKCyx3pQRleIeaxmu1uA",
+      "phone": "(47) 3426-1504",
+      "address": "R. dos Bancários, 305 - Petrópolis, Joinville - SC, 89208-730",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Novos Sonhos",
+      "href": "https://www.google.com/maps/place/CEI+Novos+Sonhos/data=!4m7!3m6!1s0x94deb7f75f9caedd:0x98776254debc81a7!8m2!3d-26.3575639!4d-48.8148104!16s%2Fg%2F11fk3xlpkc!19sChIJ3a6cX_e33pQRp4G83lRid5g",
+      "phone": "(47) 3307-7621",
+      "address": "R. Laranjal, nº 100 - Parque Guarani, Joinville - SC, 89209-655",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Parque Guarani",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Parque+Guarani/data=!4m7!3m6!1s0x94deb7527dfb47f1:0xc8c37c2262ea70ac!8m2!3d-26.3615903!4d-48.8127838!16s%2Fg%2F11gl0_5sy7!19sChIJ8Uf7fVK33pQRrHDqYiJ8w8g",
+      "phone": "(47) 3466-7199",
+      "address": "Av. Evangelista Justino Espíndula, 25 - Parque Guarani, Joinville - SC, 89209-405",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Profipo",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Profipo/data=!4m7!3m6!1s0x94deb6dc89074243:0x2f7712ce580bb5d0!8m2!3d-26.36904!4d-48.8319541!16s%2Fg%2F1v2y_018!19sChIJQ0IHidy23pQR0LULWM4Sdy8",
+      "phone": "(47) 3463-0300",
+      "address": "R. José Sátiro de Oliveira, 655 - Itinga, Joinville - SC, 89235-130",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Zilda Arns Neumann",
+      "href": "https://www.google.com/maps/place/CEI+Zilda+Arns+Neumann/data=!4m7!3m6!1s0x94deb6b9fd53c955:0xf38958c1f298a791!8m2!3d-26.3580821!4d-48.8168118!16s%2Fg%2F11df7xv7dx!19sChIJVclT_bm23pQRkaeY8sFYifM",
+      "phone": "(47) 3463-2257",
+      "address": "R. Laranjal, 171 - Parque Guarani, Joinville - SC, 89209-655",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Sílvia Regina Cavalheiro",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+S%C3%ADlvia+Regina+Cavalheiro/data=!4m7!3m6!1s0x94deb6bb55f97087:0xa829d9c325772dbc!8m2!3d-26.3602306!4d-48.8079247!16s%2Fg%2F11b76bmyfl!19sChIJh3D5Vbu23pQRvC13JcPZKag",
+      "phone": "(47) 3463-0606",
+      "address": "Rua Lorival Leite Palhares, S/N - Parque Guarani, Joinville - SC, 89209-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Semear e Colher Centro de Educação Infantil",
+      "href": "https://www.google.com/maps/place/Semear+e+Colher+Centro+de+Educa%C3%A7%C3%A3o+Infantil/data=!4m7!3m6!1s0x94deb1197e9c6e91:0xfa576ca55a2d3a7f!8m2!3d-26.3295747!4d-48.8328633!16s%2Fg%2F11bv30jpjt!19sChIJkW6cfhmx3pQRfzotWqVsV_o",
+      "phone": "(47) 3426-0504",
+      "address": "R. Francisco dos Santos Faraco, 71 - Itaum, Joinville - SC, 89210-035",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Anjinho Sapeca",
+      "href": "https://www.google.com/maps/place/CEI+Anjinho+Sapeca/data=!4m7!3m6!1s0x94deb6c236974def:0xfc4feee6c56d7931!8m2!3d-26.3690495!4d-48.8255478!16s%2Fg%2F1tfs26p9!19sChIJ702XNsK23pQRMXltxebuT_w",
+      "phone": "(47) 99937-9083",
+      "address": "R. Attílio Vinotti, 218 - Boehmerwald, Joinville - SC, 89235-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Jorge Luiz Vanderwegen",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Jorge+Luiz+Vanderwegen/data=!4m7!3m6!1s0x94deb0df8c8c9489:0xbea52202f5b4dab1!8m2!3d-26.3386558!4d-48.8401779!16s%2Fg%2F11c1nz51mw!19sChIJiZSMjN-w3pQRsdq09QIipb4",
+      "phone": "(47) 3426-5774",
+      "address": "R. Abelino Abdon Ferreira, 136 - Itaum, Joinville - SC, 89210-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Itaum",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Itaum/data=!4m7!3m6!1s0x94deb0fd5430dae7:0xfab59337e506b6fe!8m2!3d-26.3276969!4d-48.8440511!16s%2Fg%2F1tjmftc6!19sChIJ59owVP2w3pQR_rYG5TeTtfo",
+      "phone": "(47) 3465-0823",
+      "address": "R. Botafogo, 148 - Floresta, Joinville - SC, 89211-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Antônio Brühmüller",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Ant%C3%B4nio+Br%C3%BChm%C3%BCller/data=!4m7!3m6!1s0x94deb6aae22a75c5:0x950565ac56d1a56f!8m2!3d-26.3444273!4d-48.8021056!16s%2Fg%2F11c58q_b6v!19sChIJxXUq4qq23pQRb6XRVqxlBZU",
+      "phone": "(47) 3436-9019",
+      "address": "R. Treviso, 497 - João Costa, Joinville - SC, 89230-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Pedro Paulo Hings Colin",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Pedro+Paulo+Hings+Colin/data=!4m7!3m6!1s0x94deb6f36d669d47:0xca6ac9ff7b6d376!8m2!3d-26.3830838!4d-48.8204512!16s%2Fg%2F11ckqs70bp!19sChIJR51mbfO23pQRdtO295-spgw",
+      "phone": "(47) 3466-4312",
+      "address": "R. São Clemente, 154 - Itinga, Joinville - SC, 89235-398",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Estrelinha Brilhante",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Estrelinha+Brilhante/data=!4m7!3m6!1s0x94deb14eb85c86a5:0x1910002b280b5283!8m2!3d-26.3416864!4d-48.8141523!16s%2Fg%2F1tgnn6yq!19sChIJpYZcuE6x3pQRg1ILKCsAEBk",
+      "phone": "(47) 3466-0778",
+      "address": "R. Santa Izabel, 152 - João Costa, Joinville - SC, 89209-015",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Pequeno Príncipe",
+      "href": "https://www.google.com/maps/place/CEI+Pequeno+Pr%C3%ADncipe/data=!4m7!3m6!1s0x94deb6df6e2a6419:0x90fb46dbf674c423!8m2!3d-26.3719576!4d-48.8407151!16s%2Fg%2F11clwlpf83!19sChIJGWQqbt-23pQRI8R09ttG-5A",
+      "phone": "(47) 99684-6775",
+      "address": "Rua Cidade de Moçoró, 105 - Profipo, Joinville - SC, 89233-395",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Zé Carioca",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Z%C3%A9+Carioca/data=!4m7!3m6!1s0x94deb11c2e5afc69:0xe5408db74ddca34b!8m2!3d-26.3304507!4d-48.836415!16s%2Fg%2F1tzl_39l!19sChIJafxaLhyx3pQRS6PcTbeNQOU",
+      "phone": "(47) 3436-0128",
+      "address": "R. Voluntários da Pátria, 110 - Itaum, Joinville - SC, 89210-095",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Iraci Schmidlin",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Iraci+Schmidlin/data=!4m7!3m6!1s0x94deb145731acc83:0x4cfcdfaf64b272c2!8m2!3d-26.3360439!4d-48.8120018!16s%2Fg%2F11clyd4w_f!19sChIJg8wac0Wx3pQRwnKyZK_f_Ew",
+      "phone": "(47) 3463-1253",
+      "address": "R. São Francisco do Sul, 235 - Jarivatuba, Joinville - SC, 89230-068",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI PEQUENO CÉU",
+      "href": "https://www.google.com/maps/place/CEI+PEQUENO+C%C3%89U/data=!4m7!3m6!1s0x94deb0e73e38ff07:0x73527b99b59b69f8!8m2!3d-26.3377443!4d-48.8454249!16s%2Fg%2F1tff8rwx!19sChIJB_84Puew3pQR-GmbtZl7UnM",
+      "phone": "(47) 3426-0479",
+      "address": "R. Barra Velha, 207 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Infantil Sensory Park",
+      "href": "https://www.google.com/maps/place/Escola+Infantil+Sensory+Park/data=!4m7!3m6!1s0x94deb15b4ede504f:0x4580921c579c0d2!8m2!3d-26.3342768!4d-48.8529891!16s%2Fg%2F11fm9nfylm!19sChIJT1DeTlux3pQR0sB5xSEJWAQ",
+      "phone": "(47) 99211-7382",
+      "address": "Av. Antônio Ramos Alvim, 628 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Espaço do Parque",
+      "href": "https://www.google.com/maps/place/CEI+Espa%C3%A7o+do+Parque/data=!4m7!3m6!1s0x94deb6bd2bccce93:0x803936b414849742!8m2!3d-26.3635513!4d-48.8097161!16s%2Fg%2F1tgljgjc!19sChIJk87MK7223pQRQpeEFLQ2OYA",
+      "phone": "(47) 3031-0828",
+      "address": "R. São Francisco de Assis, 133 - Parque Guarani, Joinville - SC, 89235-621",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aquarela Kids Centro de Educação Infantil Ltda",
+      "href": "https://www.google.com/maps/place/Aquarela+Kids+Centro+de+Educa%C3%A7%C3%A3o+Infantil+Ltda/data=!4m7!3m6!1s0x94deb0ffebda84e7:0x10d3d7a8d03e8c28!8m2!3d-26.3190067!4d-48.840732!16s%2Fg%2F11b867x5nk!19sChIJ54Ta6_-w3pQRKIw-0KjX0xA",
+      "phone": "(47) 3455-0887",
+      "address": "R. Cel. Francisco Gomes, 685 - Bucarein, Joinville - SC, 89202-250",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "C.E.I Três Rosas",
+      "href": "https://www.google.com/maps/place/C.E.I+Tr%C3%AAs+Rosas/data=!4m7!3m6!1s0x94deb16cec4a0a1d:0xec4659210edfe88e!8m2!3d-26.3230894!4d-48.8178732!16s%2Fg%2F11b8c2gty1!19sChIJHQpK7Gyx3pQRjujfDiFZRuw",
+      "phone": "(47) 3438-2507",
+      "address": "R. Begônias, 37 - Fátima, Joinville - SC, 89229-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Luíza Maria da Veiga (Ex-Guanabara)",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Lu%C3%ADza+Maria+da+Veiga+%28Ex-Guanabara%29/data=!4m7!3m6!1s0x94deb1055adae8ad:0xab75c839ee17f801!8m2!3d-26.3232042!4d-48.8303782!16s%2Fg%2F1tklrq72!19sChIJrejaWgWx3pQRAfgX7jnIdas",
+      "phone": "(47) 3426-6139",
+      "address": "R. Vidal Ramos, 41 - Guanabara, Joinville - SC, 89207-670",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CENTRO INFANTIL DOCE CASTELO",
+      "href": "https://www.google.com/maps/place/CENTRO+INFANTIL+DOCE+CASTELO/data=!4m7!3m6!1s0x94deb19c5c7a9ff1:0xf739c8b7bfbb4dac!8m2!3d-26.30766!4d-48.859024!16s%2Fg%2F11nmn27f5m!19sChIJ8Z96XJyx3pQRrE27v7fIOfc",
+      "phone": "(47) 99938-5824",
+      "address": "R. Ricardo Klaas, 35 - Atiradores, Joinville - SC, 89203-054",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Continuada dos Profissionais da Educação de Joinville",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Continuada+dos+Profissionais+da+Educa%C3%A7%C3%A3o+de+Joinville/data=!4m7!3m6!1s0x94deb003c5739ceb:0xb441c53a3ffeb0cd!8m2!3d-26.2944889!4d-48.8741264!16s%2Fg%2F1jgm5gjhs!19sChIJ65xzxQOw3pQRzbD-PzrFQbQ",
+      "phone": "(47) 3453-2555",
+      "address": "R. Brigada Lopes, 153 - Glória, Joinville - SC, 89216-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Autoescola Água Viva Centro",
+      "href": "https://www.google.com/maps/place/Autoescola+%C3%81gua+Viva+Centro/data=!4m7!3m6!1s0x94deb04bc757b795:0x21107f88e3c9c614!8m2!3d-26.3028235!4d-48.8435189!16s%2Fg%2F11bv1r6yz1!19sChIJlbdXx0uw3pQRFMbJ44h_ECE",
+      "phone": "(47) 99901-1266",
+      "address": "R. Jerônimo Coelho, 188 - Centro, Joinville - SC, 89201-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Espaço Encantado (Ex-Bucarein II)",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Espa%C3%A7o+Encantado+%28Ex-Bucarein+II%29/data=!4m7!3m6!1s0x94deb0535ba36d2b:0x200dd52c1bbb60f1!8m2!3d-26.312511!4d-48.8405324!16s%2Fg%2F1tjtkf6t!19sChIJK22jW1Ow3pQR8WC7GyzVDSA",
+      "phone": "(47) 3423-1678",
+      "address": "Av. Cel. Procópio Gomes, 749 - Bucarein, Joinville - SC, 89202-423",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Sonho Colorido",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Sonho+Colorido/data=!4m7!3m6!1s0x94deb1a37eda774d:0x8de67b479b7c84fb!8m2!3d-26.3048519!4d-48.8245955!16s%2Fg%2F1tdbxxst!19sChIJTXfafqOx3pQR-4R8m0d75o0",
+      "phone": "(47) 99705-9889",
+      "address": "R. Ponta Grossa, 48 - Boa Vista, Joinville - SC, 89205-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Kindergarten",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Kindergarten/data=!4m7!3m6!1s0x94deafdf844c428d:0xb6edbedede554af3!8m2!3d-26.284836!4d-48.8582558!16s%2Fg%2F1tf5fxj_!19sChIJjUJMhN-v3pQR80pV3t6-7bY",
+      "phone": "(47) 3026-6918",
+      "address": "R. Benjamin Constant, 905 - América, Joinville - SC, 89204-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ABC da Criança",
+      "href": "https://www.google.com/maps/place/ABC+da+Crian%C3%A7a/data=!4m7!3m6!1s0x94deafdb23635b9d:0x52a4d61d0f0869a1!8m2!3d-26.2745431!4d-48.8527367!16s%2Fg%2F11bv2ltt77!19sChIJnVtjI9uv3pQRoWkIDx3WpFI",
+      "phone": "(47) 3425-9999",
+      "address": "R. Pres. Prudente de Moraes, 266 - Santo Antônio, Joinville - SC, 89218-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NADOVILLE",
+      "href": "https://www.google.com/maps/place/NADOVILLE/data=!4m7!3m6!1s0x94deb0377399939b:0x94ca03c44fee1f4d!8m2!3d-26.2857365!4d-48.8473318!16s%2Fg%2F11byyj8pv_!19sChIJm5OZczew3pQRTR_uT8QDypQ",
+      "phone": "(47) 3027-1095",
+      "address": "R. Edgar Schneider, 130 - América, Joinville - SC, 89204-345",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Pequena Sereia",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Pequena+Sereia/data=!4m7!3m6!1s0x94dea55833ec62f1:0xcecc6732f39f7c54!8m2!3d-26.2827383!4d-48.8821465!16s%2Fg%2F11bzywm8_y!19sChIJ8WLsM1il3pQRVHyf8zJnzM4",
+      "phone": "(47) 3473-7754",
+      "address": "R. Roberto Hermann, 37 - Costa e Silva, Joinville - SC, 89217-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Sementinha",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Sementinha/data=!4m7!3m6!1s0x94deb1b621eaff93:0x93e8ff4335f8e3ee!8m2!3d-26.2728896!4d-48.8133732!16s%2Fg%2F11g2wp7k4z!19sChIJk__qIbax3pQR7uP4NUP_6JM",
+      "phone": "(47) 3427-1617",
+      "address": "R. Ricardo Karmann, 175 - Iririú, Joinville - SC, 89227-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EM Avelino Marcante Extensão (Léa Lepper)",
+      "href": "https://www.google.com/maps/place/EM+Avelino+Marcante+Extens%C3%A3o+%28L%C3%A9a+Lepper%29/data=!4m7!3m6!1s0x94deaf657a7219cd:0x536059721bff377f!8m2!3d-26.2718333!4d-48.8390745!16s%2Fg%2F1tggc3gm!19sChIJzRlyemWv3pQRfzf_G3JZYFM",
+      "phone": "(47) 3424-6055",
+      "address": "R. Brasil, 609 - Saguaçu, Joinville - SC, 89221-561",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Tia Sula - Unidade Piratuba",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Tia+Sula+-+Unidade+Piratuba/data=!4m7!3m6!1s0x94deafdd9855cbfd:0x5e608bd054edff5b!8m2!3d-26.2691536!4d-48.8345126!16s%2Fg%2F11f77v699p!19sChIJ_ctVmN2v3pQRW__tVNCLYF4",
+      "phone": "(47) 3227-2430",
+      "address": "R. Piratuba, 590 - Iririú, Joinville - SC, 89227-075",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil Fazendinha",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Fazendinha/data=!4m7!3m6!1s0x94deae274e1becbf:0x156e35c588cecd75!8m2!3d-26.2730203!4d-48.8250102!16s%2Fg%2F11gdjpssc3!19sChIJv-wbTieu3pQRdc3OiMU1bhU",
+      "phone": "(47) 3472-2149",
+      "address": "R. Papa João XXIII, 275 - Iririú, Joinville - SC, 89227-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola de Educação Básica Arnaldo Moreira Douat",
+      "href": "https://www.google.com/maps/place/Escola+de+Educa%C3%A7%C3%A3o+B%C3%A1sica+Arnaldo+Moreira+Douat/data=!4m7!3m6!1s0x94deaff168935c85:0xe1e71c3d60a1db09!8m2!3d-26.276644!4d-48.872212!16s%2Fg%2F1th6f_bc!19sChIJhVyTaPGv3pQRCduhYD0c5-E",
+      "phone": "(47) 3481-2428",
+      "address": "R. Geny Peixer, 153 - Costa e Silva, Joinville - SC, 89218-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Professora Particular Reforço Joinville Santa Catarina",
+      "href": "https://www.google.com/maps/place/Professora+Particular+Refor%C3%A7o+Joinville+Santa+Catarina/data=!4m7!3m6!1s0x94dea5f3ebc3d977:0x7919c3c13bf29fb4!8m2!3d-26.273394!4d-48.8833971!16s%2Fg%2F11yz21gbty!19sChIJd9nD6_Ol3pQRtJ_yO8HDGXk",
+      "phone": "(47) 99789-4614",
+      "address": "R. Inambu, 3065 - Costa e Silva, Joinville - SC, 89220-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Felícia Cardoso Vieira",
+      "href": "https://www.google.com/maps/place/CEI+Fel%C3%ADcia+Cardoso+Vieira/data=!4m7!3m6!1s0x94dea565c2b0b72d:0x7a89ac993fd2baeb!8m2!3d-26.2707246!4d-48.8893915!16s%2Fg%2F11f3zvrycb!19sChIJLbewwmWl3pQR67rSP5msiXo",
+      "phone": "(47) 3437-3804",
+      "address": "R. Expedicionário Alfredo Bartz, s/n - Costa e Silva, Joinville - SC, 89220-878",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI PEQUENOS BAMBINOS",
+      "href": "https://www.google.com/maps/place/CEI+PEQUENOS+BAMBINOS/data=!4m7!3m6!1s0x94deaff020f140ed:0xa39aab3f7ae7f2!8m2!3d-26.2727226!4d-48.8711842!16s%2Fg%2F11bv6l5n53!19sChIJ7UDxIPCv3pQR8ud6P6uaowA",
+      "phone": "(47) 3435-1805",
+      "address": "R. Paulo Ewald Júnior, 125 - Costa e Silva, Joinville - SC, 89218-580",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro Educação Infantil Costa e Silva",
+      "href": "https://www.google.com/maps/place/Centro+Educa%C3%A7%C3%A3o+Infantil+Costa+e+Silva/data=!4m7!3m6!1s0x94dea56073aa2ebb:0x415a1b6a599534db!8m2!3d-26.2733169!4d-48.8814214!16s%2Fg%2F11b6ht_9j4!19sChIJuy6qc2Cl3pQR2zSVWWobWkE",
+      "phone": "(47) 3473-6753",
+      "address": "R. Inambu - Costa e Silva, Joinville - SC, 89220-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cria e Recria Centro Recreativo",
+      "href": "https://www.google.com/maps/place/Cria+e+Recria+Centro+Recreativo/data=!4m7!3m6!1s0x94dea547e78d2ec7:0xaba10badbad9a63a!8m2!3d-26.277638!4d-48.8851181!16s%2Fg%2F11vdncgl8c!19sChIJxy6N50el3pQROqbZuq0Loas",
+      "phone": "(47) 99122-5083",
+      "address": "R. Maria Rosalina Speck, 391 - Costa e Silva, Joinville - SC, 89220-730",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Pintando o 7 no Florescer",
+      "href": "https://www.google.com/maps/place/CEI+Pintando+o+7+no+Florescer/data=!4m7!3m6!1s0x94dea50067e191d1:0x929f6741bc2d549c!8m2!3d-26.2653383!4d-48.8870176!16s%2Fg%2F11vqry48bp!19sChIJ0ZHhZwCl3pQRnFQtvEFnn5I",
+      "phone": "(47) 98815-0663",
+      "address": "R. Valter Peters, 105 - Costa e Silva, Joinville - SC, 89220-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Valentim João da Rocha",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Valentim+Jo%C3%A3o+da+Rocha/data=!4m7!3m6!1s0x94dea5391f6a7df1:0xe854caa6d092b9c6!8m2!3d-26.2871286!4d-48.9030534!16s%2Fg%2F1tdgldpx!19sChIJ8X1qHzml3pQRxrmS0KbKVOg",
+      "phone": "(47) 3437-8700",
+      "address": "R. XV de Novembro, 7030 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil (CEI) Sigelfrid Poffo",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+%28CEI%29+Sigelfrid+Poffo/data=!4m7!3m6!1s0x94dea53ed15d3617:0x8b3dadefbfea7987!8m2!3d-26.2856566!4d-48.9031321!16s%2Fg%2F11c1p4lcsy!19sChIJFzZd0T6l3pQRh3nqv--tPYs",
+      "phone": "(47) 3439-0489",
+      "address": "R. Alwin Pasold, 7 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Vereador Arinor Vogelsanger",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Vereador+Arinor+Vogelsanger/data=!4m7!3m6!1s0x94dea53955555555:0xaf881e2c749f9d7b!8m2!3d-26.2772091!4d-48.9068337!16s%2Fg%2F1vn19p34!19sChIJVVVVVTml3pQRe52fdCweiK8",
+      "phone": "(47) 3453-0160",
+      "address": "R. Rolando Gurske, S/N - Vila Nova, Joinville - SC, 89237-505",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Professor Bernardo Tank",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Professor+Bernardo+Tank/data=!4m7!3m6!1s0x94dea5201837e509:0x3628c59da472255d!8m2!3d-26.2872924!4d-48.9224144!16s%2Fg%2F1whdkhx4!19sChIJCeU3GCCl3pQRXSVypJ3FKDY",
+      "phone": "(47) 3439-5159",
+      "address": "R. XV de Novembro, 8574 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Fazendo Eu Aprendo",
+      "href": "https://www.google.com/maps/place/CEI+Fazendo+Eu+Aprendo/data=!4m7!3m6!1s0x94dea5475a933e79:0xf80ce118e682f391!8m2!3d-26.2853925!4d-48.8995445!16s%2Fg%2F1tfg8t_c!19sChIJeT6TWkel3pQRkfOC5hjhDPg",
+      "phone": "(47) 99757-3396",
+      "address": "R. Alfredo Bachtold, 228 - Vila Nova, Joinville - SC, 89237-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Paschoa Poffo",
+      "href": "https://www.google.com/maps/place/CEI+Paschoa+Poffo/data=!4m7!3m6!1s0x94dea5005a4d1667:0xfc6b804e9b742082!8m2!3d-26.287089!4d-48.9176858!16s%2Fg%2F11w84m5srm!19sChIJZxZNWgCl3pQRgiB0m06Aa_w",
+      "phone": "(47) 3509-1447",
+      "address": "R. XV de Novembro, 8550 - Vila Nova, Joinville - SC, 89237-448",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Professora Karin Barkemeyer - Extensão",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Professora+Karin+Barkemeyer+-+Extens%C3%A3o/data=!4m7!3m6!1s0x94dea546ce6be6c1:0xec129ca4b599c90b!8m2!3d-26.286997!4d-48.917102!16s%2Fg%2F11tfkgj6m9!19sChIJweZrzkal3pQRC8mZtaScEuw",
+      "phone": "(47) 3437-3827",
+      "address": "R. XV de Novembro, 8508 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Escola Municipal Anaburgo",
+      "href": "https://www.google.com/maps/place/Escola+Municipal+Anaburgo/data=!4m7!3m6!1s0x94dea4ff5d357c3b:0xea474aa291e43a4d!8m2!3d-26.2681154!4d-48.9243866!16s%2Fg%2F1tdzs8v8!19sChIJO3w1Xf-k3pQRTTrkkaJKR-o",
+      "phone": "(47) 3439-5947",
+      "address": "R. Anaburgo, 1747 - Vila Nova, Joinville - SC, 89237-700",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Turminha Legal",
+      "href": "https://www.google.com/maps/place/CEI+Turminha+Legal/data=!4m7!3m6!1s0x94dea53887e7d3e9:0xa5498bc6725f14fc!8m2!3d-26.2876346!4d-48.9006176!16s%2Fg%2F11bv6phqz9!19sChIJ6dPnhzil3pQR_BRfcsaLSaU",
+      "phone": "(47) 99705-2958",
+      "address": "R. XV de Novembro, 6867 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Educação Infantil João e Maria",
+      "href": "https://www.google.com/maps/place/Centro+de+Educa%C3%A7%C3%A3o+Infantil+Jo%C3%A3o+e+Maria/data=!4m7!3m6!1s0x94dea51b64e8dcb3:0x553fcf209616abb9!8m2!3d-26.2925128!4d-48.9109356!16s%2Fg%2F11lt3n3r77!19sChIJs9zoZBul3pQRuasWliDPP1U",
+      "phone": "(47) 99611-5660",
+      "address": "R. João Carlos Gomes de Oliveira, 404 - Vila Nova, Joinville - SC, 89237-375",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lolo Kids",
+      "href": "https://www.google.com/maps/place/Lolo+Kids/data=!4m7!3m6!1s0x94dea529e0c7b6e5:0x3abcd378b7cd3745!8m2!3d-26.2864921!4d-48.9122443!16s%2Fg%2F11gyxjc6h7!19sChIJ5bbH4Cml3pQRRTfNt3jTvDo",
+      "phone": "(47) 99112-6872",
+      "address": "R. Otto Albano Ganzenmüller, 53 - Vila Nova, Joinville - SC, 89237-630",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "VIP- CENTRO DE EDUCAÇÃO INFANTIL",
+      "href": "https://www.google.com/maps/place/VIP-+CENTRO+DE+EDUCA%C3%87%C3%83O+INFANTIL/data=!4m7!3m6!1s0x94dea5e44f8fda8f:0x91a19fa5a7128860!8m2!3d-26.2852699!4d-48.9197949!16s%2Fg%2F11ympgq8vm!19sChIJj9qPT-Sl3pQRYIgSp6WfoZE",
+      "phone": "(47) 99106-0955",
+      "address": "R. Jacob Germano Baumer - Vila Nova, Joinville - SC, 89237-660",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Treinamento Futvila",
+      "href": "https://www.google.com/maps/place/Centro+de+Treinamento+Futvila/data=!4m7!3m6!1s0x94dea59dd966b8cf:0xd1553e2189068352!8m2!3d-26.2848069!4d-48.9138886!16s%2Fg%2F11l66tpz1v!19sChIJz7hm2Z2l3pQRUoMGiSE-VdE",
+      "phone": "(47) 99977-5081",
+      "address": "R. Gerhard Barkemeyer, 260 - Vila Nova, Joinville - SC, 89237-638",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CEI Cantinho dos Sonhos",
+      "href": "https://www.google.com/maps/place/CEI+Cantinho+dos+Sonhos/data=!4m7!3m6!1s0x94dea5bcf2a01579:0xd3bf893f6990f7e1!8m2!3d-26.2863302!4d-48.9107818!16s%2Fg%2F11j970wlz7!19sChIJeRWg8ryl3pQR4feQaT-Jv9M",
+      "phone": "(47) 99749-6537",
+      "address": "R. Rudolf Schmidlin, 53 - Vila Nova, Joinville - SC, 89237-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

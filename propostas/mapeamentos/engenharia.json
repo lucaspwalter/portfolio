@@ -1,0 +1,606 @@
+{
+  "id": "engenharia",
+  "nome": "Engenharia",
+  "terms": [
+    "engenharia civil",
+    "empresa de engenharia",
+    "engenheiro civil"
+  ],
+  "profiles": 245,
+  "qualified": [
+    {
+      "name": "Santa Catarina Engenharia e Impermeabilização",
+      "href": "https://www.google.com/maps/place/Santa+Catarina+Engenharia+e+Impermeabiliza%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb73e19b84a31:0x2466a7ec547d07fd!8m2!3d-26.3685989!4d-48.8241415!16s%2Fg%2F11kpy6j2k1!19sChIJMUq4GT633pQR_Qd9VOynZiQ",
+      "phone": "(47) 99648-9518",
+      "address": "R. dos Agrônomos, 375 - Guanabara, Joinville - SC, 89235-410",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EME Engenharia Cívil",
+      "href": "https://www.google.com/maps/place/EME+Engenharia+C%C3%ADvil/data=!4m7!3m6!1s0x94deb6c2711f4737:0x2b304662d1663de4!8m2!3d-26.3650859!4d-48.8293667!16s%2Fg%2F1tgcbnv5!19sChIJN0cfccK23pQR5D1m0WJGMCs",
+      "phone": "(47) 3429-7010",
+      "address": "R. Adolfo da Veiga, 443 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro Civil Rafael Chaves Amorim - Joinville SC",
+      "href": "https://www.google.com/maps/place/Engenheiro+Civil+Rafael+Chaves+Amorim+-+Joinville+SC/data=!4m7!3m6!1s0x288c44b71c4dc615:0xeaa98f718db3ebb3!8m2!3d-26.2843139!4d-48.8484353!16s%2Fg%2F11tffcj8td!19sChIJFcZNHLdEjCgRs-uzjXGPqeo",
+      "phone": "(47) 98815-0983",
+      "address": "R. Pref. Aristides Largura, 68 - Sl 08 - América, Joinville - SC, 89204-145",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "vw.engenharia e construção",
+      "href": "https://www.google.com/maps/place/vw.engenharia+e+constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb116a7bd8155:0x64e24366f1dafae6!8m2!3d-26.3346599!4d-48.8038825!16s%2Fg%2F11fl46z698!19sChIJVYG9pxax3pQR5vra8WZD4mQ",
+      "phone": "(47) 99127-4812",
+      "address": "R. São Domingos Sávio, 205 - Jarivatuba, Joinville - SC, 89230-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jr Brasil Construção",
+      "href": "https://www.google.com/maps/place/Jr+Brasil+Constru%C3%A7%C3%A3o/data=!4m7!3m6!1s0x812aa0bab4f1e549:0x868ec74da8da18c5!8m2!3d-26.3621688!4d-48.8196145!16s%2Fg%2F11t9h6rksv!19sChIJSeXxtLqgKoERxRjaqE3HjoY",
+      "phone": "(47) 99179-0528",
+      "address": "R. Boehmerwald, 1769 - Boehmerwald, Joinville - SC, 89232-485",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AMS Engenharia Civil. Averbação e Projetos em Joinville",
+      "href": "https://www.google.com/maps/place/AMS+Engenharia+Civil.+Averba%C3%A7%C3%A3o+e+Projetos+em+Joinville/data=!4m7!3m6!1s0x94deb10c90f5eec9:0xbb708af15300c31e!8m2!3d-27.476103!4d-51.0826116!16s%2Fg%2F11g4jyg3_q!19sChIJye71kAyx3pQRHsMAU_GKcLs",
+      "phone": "(47) 99168-2296",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ENGECON ENGENHARIA",
+      "href": "https://www.google.com/maps/place/ENGECON+ENGENHARIA/data=!4m7!3m6!1s0x94deb13d626c71f9:0xdec36b6fecb95576!8m2!3d-26.3444271!4d-48.8474042!16s%2Fg%2F11gm7z4msm!19sChIJ-XFsYj2x3pQRdlW57G9rw94",
+      "phone": "(47) 3034-0218",
+      "address": "R. Santa Catarina, 2348 - Sl 34, Andar 2 - Floresta, Joinville - SC, 89212-212",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AGNG Engenharia",
+      "href": "https://www.google.com/maps/place/AGNG+Engenharia/data=!4m7!3m6!1s0x94deb03e3327616b:0xf287cf602279c1e5!8m2!3d-26.3025191!4d-48.8590423!16s%2Fg%2F11fy_2l6q3!19sChIJa2EnMz6w3pQR5cF5ImDPh_I",
+      "phone": "(47) 99912-1490",
+      "address": "R. Carlos Miers, 44 - América, Joinville - SC, 89201-654",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Haas Engenharia",
+      "href": "https://www.google.com/maps/place/Haas+Engenharia/data=!4m7!3m6!1s0x94deb10f1cc063bf:0x97ccc970150f9498!8m2!3d-26.3170595!4d-48.850372!16s%2Fg%2F11gm6ty02r!19sChIJv2PAHA-x3pQRmJQPFXDJzJc",
+      "phone": "(47) 99791-4352",
+      "address": "R. Diringshoffen, 129 - Anita Garibaldi, Joinville - SC, 89203-550",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DRYVILLE construções inteligentes",
+      "href": "https://www.google.com/maps/place/DRYVILLE+constru%C3%A7%C3%B5es+inteligentes/data=!4m7!3m6!1s0x94deb78e2a2cd51b:0x282d25c0e4782948!8m2!3d-26.3596269!4d-48.8249112!16s%2Fg%2F11jq1kjsqv!19sChIJG9UsKo633pQRSCl45MAlLSg",
+      "phone": "(47) 99917-3627",
+      "address": "R. Charlote Luíze Ernestine Schoene, 222 - Boehmerwald, Joinville - SC, 89232-475",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dunzer Construção e Engenharia",
+      "href": "https://www.google.com/maps/place/Dunzer+Constru%C3%A7%C3%A3o+e+Engenharia/data=!4m7!3m6!1s0x94deb7b438fb9a43:0x4fdd790e54f48467!8m2!3d-26.362424!4d-48.8169233!16s%2Fg%2F11ntp1jk8q!19sChIJQ5r7OLS33pQRZ4T0VA553U8",
+      "phone": "(47) 99686-9130",
+      "address": "R. Boehmerwald, 1890 - Parque Guarani, Joinville - SC, 89209-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "WITT Engenharia",
+      "href": "https://www.google.com/maps/place/WITT+Engenharia/data=!4m7!3m6!1s0x94deb036a1e08c3f:0xef79cefad790199e!8m2!3d-26.2964608!4d-48.8450529!16s%2Fg%2F11dxq81y3n!19sChIJP4zgoTaw3pQRnhmQ1_rOee8",
+      "phone": "(47) 3423-3699",
+      "address": "R. Tijucas, 270 - Centro, Joinville - SC, 89204-020",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ambienge Engenharia e Meio Ambiente",
+      "href": "https://www.google.com/maps/place/Ambienge+Engenharia+e+Meio+Ambiente/data=!4m7!3m6!1s0x94deb04a31ceed77:0x7430ecd4ed708919!8m2!3d-26.301905!4d-48.8443794!16s%2Fg%2F1q2vys10c!19sChIJd-3OMUqw3pQRGYlw7dTsMHQ",
+      "phone": "(47) 3433-7058",
+      "address": "R. 9 de Março, 337 - Centro, Joinville - SC, 89201-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Strattos Engenharia",
+      "href": "https://www.google.com/maps/place/Strattos+Engenharia/data=!4m7!3m6!1s0x94deb1b641c0cb67:0x206eac559b8444d3!8m2!3d-26.3044027!4d-48.8487378!16s%2Fg%2F11nb3c08g4!19sChIJZ8vAQbax3pQR00SEm1WsbiA",
+      "phone": "(47) 99136-2500",
+      "address": "R. Sen. Felipe Schmidt, 105 - Apto 113 - Centro, Joinville - SC, 89201-440",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Galileu Engenharia",
+      "href": "https://www.google.com/maps/place/Galileu+Engenharia/data=!4m7!3m6!1s0x94deb04d1794be77:0x8720ec4245efbf28!8m2!3d-26.3066466!4d-48.841137!16s%2Fg%2F11cmhh954j!19sChIJd76UF02w3pQRKL_vRULsIIc",
+      "phone": "(47) 3433-5294",
+      "address": "Av. Cel. Procópio Gomes, 100 - Sl 02 - Bucarein, Joinville - SC, 89202-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Blatt Engenharia",
+      "href": "https://www.google.com/maps/place/Blatt+Engenharia/data=!4m7!3m6!1s0x94dea5214b233037:0xbfe92d28221b1a54!8m2!3d-26.283482!4d-48.8494809!16s%2Fg%2F11cs3qn1_6!19sChIJNzAjSyGl3pQRVBobIigt6b8",
+      "phone": "(47) 99983-3077",
+      "address": "R. Dr. João Colin, 1911 - Sl 2 - América, Joinville - SC, 89204-002",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jbia Engenharia",
+      "href": "https://www.google.com/maps/place/Jbia+Engenharia/data=!4m7!3m6!1s0x94deafe2af7f1c7b:0x40affc49c28a0f66!8m2!3d-26.2774687!4d-48.853185!16s%2Fg%2F11zb2hdmll!19sChIJexx_r-Kv3pQRZg-Kwkn8r0A",
+      "phone": "(47) 99183-9175",
+      "address": "R. João Pessoa, 656 - América, Joinville - SC, 89218-280",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ACA Engenharia",
+      "href": "https://www.google.com/maps/place/ACA+Engenharia/data=!4m7!3m6!1s0x94deafdca2affac5:0x7413ed59b57361fb!8m2!3d-26.2749164!4d-48.8611687!16s%2Fg%2F11fply2bpz!19sChIJxfqvotyv3pQR-2FztVntE3Q",
+      "phone": "(47) 3085-2229",
+      "address": "R. Pres. Prudente de Moraes, 1090 - sala 1 - Santo Antônio, Joinville - SC, 89218-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Moura construções e reformas",
+      "href": "https://www.google.com/maps/place/Moura+constru%C3%A7%C3%B5es+e+reformas/data=!4m7!3m6!1s0x94deb7c871b5c18f:0x1d3b18969b8a7b6f!8m2!3d-26.3739489!4d-48.8273056!16s%2Fg%2F11rnc6y6fq!19sChIJj8G1cci33pQRb3uKm5YYOx0",
+      "phone": "(47) 99975-2801",
+      "address": "R. Emílio Endres, 178 - Itinga, Joinville - SC, 89235-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Momento Engenharia Projetos e Execuções",
+      "href": "https://www.google.com/maps/place/Momento+Engenharia+Projetos+e+Execu%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb047a7d5798b:0x4ab8f60a4d9ada8a!8m2!3d-26.3063971!4d-48.8557982!16s%2Fg%2F1ptyyzmql!19sChIJi3nVp0ew3pQRitqaTQr2uEo",
+      "phone": "(47) 3028-2908",
+      "address": "R. Jacob Eisenhuth, 503 - Atiradores, Joinville - SC, 89203-070",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Giz Construções e Reformas",
+      "href": "https://www.google.com/maps/place/Giz+Constru%C3%A7%C3%B5es+e+Reformas/data=!4m7!3m6!1s0x94deb1e117aadee9:0x9c30feec3e7cc51c!8m2!3d-26.3002967!4d-48.8533009!16s%2Fg%2F11f771vtk5!19sChIJ6d6qF-Gx3pQRHMV8Puz-MJw",
+      "phone": "(47) 99199-4640",
+      "address": "R. Expedicionário Holz, 550 - Sl 503 - Atiradores, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Corlet Engenharia e Construções",
+      "href": "https://www.google.com/maps/place/Corlet+Engenharia+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb1ecdbb839bb:0x2c663203d116550!8m2!3d-26.3044739!4d-48.8594896!16s%2Fg%2F11qwr898kt!19sChIJuzm42-yx3pQRUGURPSBjxgI",
+      "phone": "(47) 99613-2895",
+      "address": "R. Aquidaban, 263 - Glória, Joinville - SC, 89216-295",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "EFR Engenharia",
+      "href": "https://www.google.com/maps/place/EFR+Engenharia/data=!4m7!3m6!1s0x94deb1b4ad480357:0xbfabb32176dacb93!8m2!3d-26.3025767!4d-48.8395691!16s%2Fg%2F11bwn52ptx!19sChIJVwNIrbSx3pQRk8vadiGzq78",
+      "phone": "(47) 99600-8189",
+      "address": "R. Triângulo Mineiro, 66 - Saguaçu, Joinville - SC, 89221-017",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SANDRI Engenharia",
+      "href": "https://www.google.com/maps/place/SANDRI+Engenharia/data=!4m7!3m6!1s0x94deb05c15e3302b:0x5d9d4e838aedc1c3!8m2!3d-26.3176383!4d-48.8558506!16s%2Fg%2F1tp0ftqb!19sChIJKzDjFVyw3pQRw8HtioNOnV0",
+      "phone": "(47) 3434-0334",
+      "address": "R. Heinz Schultz, 70 - A Garibaldi, Joinville - SC, 89203-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SDO Engenharia",
+      "href": "https://www.google.com/maps/place/SDO+Engenharia/data=!4m7!3m6!1s0x94deb1006cf8c83b:0x324467f9a78fd42a!8m2!3d-26.3183155!4d-48.8565195!16s%2Fg%2F11vwpr2wgm!19sChIJO8j4bACx3pQRKtSPp_lnRDI",
+      "phone": "(47) 99187-5315",
+      "address": "R. Gothard Kaesemodel, 641 - Anita Garibaldi, Joinville - SC, 89203-522",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engepasa Engenharia do Pavimento",
+      "href": "https://www.google.com/maps/place/Engepasa+Engenharia+do+Pavimento/data=!4m7!3m6!1s0x94deb05b1804f043:0x801acc3a8c02452d!8m2!3d-26.3136744!4d-48.8530594!16s%2Fg%2F1w666knw!19sChIJQ_AEGFuw3pQRLUUCjDrMGoA",
+      "phone": "(47) 3433-2962",
+      "address": "R. Cel. Santiago, 400 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Via 11-Engenharia de Segurança Viária Ltda",
+      "href": "https://www.google.com/maps/place/Via+11-Engenharia+de+Seguran%C3%A7a+Vi%C3%A1ria+Ltda/data=!4m7!3m6!1s0x94deb05b1804f043:0xdf6b3f9bdeb148c1!8m2!3d-26.3135864!4d-48.8531959!16s%2Fg%2F1tkvbxj_!19sChIJQ_AEGFuw3pQRwUix3ps_a98",
+      "phone": "(47) 3433-6007",
+      "address": "R. Cel. Santiago, 400 - Anita Garibaldi, Joinville - SC, 89203-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ratier Engenharia",
+      "href": "https://www.google.com/maps/place/Ratier+Engenharia/data=!4m7!3m6!1s0x94deb181f545748f:0x736ad361f47fc0d2!8m2!3d-26.3121802!4d-48.8512461!16s%2Fg%2F11h04b9gxs!19sChIJj3RF9YGx3pQR0sB_9GHTanM",
+      "phone": "(47) 99991-9174",
+      "address": "R. Pernambuco - Anita Garibaldi, Joinville - SC, 89202-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "AllPlace Engenharia - Projetos de Engenharia",
+      "href": "https://www.google.com/maps/place/AllPlace+Engenharia+-+Projetos+de+Engenharia/data=!4m7!3m6!1s0x94deb1d25e11a82d:0xbcfd1ee17994ddc0!8m2!3d-26.2946592!4d-48.8405014!16s%2Fg%2F11rq14r649!19sChIJLagRXtKx3pQRwN2UeeEe_bw",
+      "phone": "(47) 99764-9269",
+      "address": "R. Saguaçu, 75 - Saguaçu, Joinville - SC, 89221-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luana Braga Engenheira Civil",
+      "href": "https://www.google.com/maps/place/Luana+Braga+Engenheira+Civil/data=!4m7!3m6!1s0x94deb1d9595d2c75:0x3cc9038d7144d646!8m2!3d-26.2835929!4d-48.8357908!16s%2Fg%2F11h0n7yjl3!19sChIJdSxdWdmx3pQRRtZEcY0DyTw",
+      "phone": "(47) 99205-1476",
+      "address": "R. Guaramirim, 408 - Saguaçu, Joinville - SC, 89221-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheira Silvânia Miranda do Amaral | Perita em Engenharia Civil",
+      "href": "https://www.google.com/maps/place/Engenheira+Silv%C3%A2nia+Miranda+do+Amaral+%7C+Perita+em+Engenharia+Civil/data=!4m7!3m6!1s0x94deb1d88bf65253:0xd2b90abe9829c711!8m2!3d-26.2857677!4d-48.8373273!16s%2Fg%2F1tfpqvdw!19sChIJU1L2i9ix3pQREccpmL4KudI",
+      "phone": "(47) 99984-8081",
+      "address": "R. Trombudo Central, 264 - Saguaçu, Joinville - SC, 89221-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Godoy Projetos",
+      "href": "https://www.google.com/maps/place/Godoy+Projetos/data=!4m7!3m6!1s0x94deb6d24e5214f1:0x717531abf8caa3c!8m2!3d-26.3280998!4d-48.8455969!16s%2Fg%2F11bv3xwl1v!19sChIJ8RRSTtK23pQRPKqMvxpTFwc",
+      "phone": "(47) 99998-4469",
+      "address": "R. Santa Catarina, 635 - Floresta, Joinville - SC, 89211-305",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RFG Engenharia",
+      "href": "https://www.google.com/maps/place/RFG+Engenharia/data=!4m7!3m6!1s0x861c7ff4c0218315:0x14680a79060e109e!8m2!3d-26.2654506!4d-48.8512931!16s%2Fg%2F11zkv28ptn!19sChIJFYMhwPR_HIYRnhAOBnkKaBQ",
+      "phone": "(47) 99956-5571",
+      "address": "Av. Santos Dumont, 799 - Santo Antônio, Joinville - SC, 89218-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Solis Arquitetura, Engenharia e Empreiteira",
+      "href": "https://www.google.com/maps/place/Studio+Solis+Arquitetura,+Engenharia+e+Empreiteira/data=!4m7!3m6!1s0x94deb53e2063a963:0x5d01542ce5e19755!8m2!3d-26.3445158!4d-48.7900569!16s%2Fg%2F11qh65t0lt!19sChIJY6ljID613pQRVZfh5SxUAV0",
+      "phone": "(47) 99135-8292",
+      "address": "R. Calixto Manoel Monteiro, 25 - Paranaguamirim, Joinville - SC, 89231-552",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro Civil Izaias Lincoln",
+      "href": "https://www.google.com/maps/place/Engenheiro+Civil+Izaias+Lincoln/data=!4m7!3m6!1s0x94deb1621c9c79e7:0x46ff3b538c5f82c3!8m2!3d-26.3182046!4d-48.8001767!16s%2Fg%2F11rwxhzrd7!19sChIJ53mcHGKx3pQRw4JfjFM7_0Y",
+      "phone": "(47) 99916-9088",
+      "address": "R. Antônio José da Costa, 374 - Adhemar Garcia, Joinville - SC, 89230-743",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Geociência Engenharia",
+      "href": "https://www.google.com/maps/place/Geoci%C3%AAncia+Engenharia/data=!4m7!3m6!1s0x94dea5d750ee8de3:0x47ff9188994c9154!8m2!3d-26.2897807!4d-48.9130124!16s%2Fg%2F11zcggzzvd!19sChIJ443uUNel3pQRVJFMmYiR_0c",
+      "phone": "(47) 99162-5259",
+      "address": "R. Arlindo Corrêa, 174 - Vila Nova, Joinville - SC, 89237-387",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro Civil Amauri Gomes",
+      "href": "https://www.google.com/maps/place/Engenheiro+Civil+Amauri+Gomes/data=!4m7!3m6!1s0x94deafa73261c033:0xf9b62da2f4d02e1!8m2!3d-26.2658564!4d-48.8388728!16s%2Fg%2F11jft3vhf_!19sChIJM8BhMqev3pQR4QJNL9pimw8",
+      "phone": "(47) 3435-1324",
+      "address": "R. Inconfidentes, 519 - Bom Retiro, Joinville - SC, 89222-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Engenheiro Civil Jelson Cassio da Silva",
+      "href": "https://www.google.com/maps/place/Engenheiro+Civil+Jelson+Cassio+da+Silva/data=!4m7!3m6!1s0x94deaf21dbb897d5:0xa800176dec28c8c7!8m2!3d-26.2659838!4d-48.8763192!16s%2Fg%2F11yzl0w2wf!19sChIJ1Ze42yGv3pQRx8go7G0XAKg",
+      "phone": "(47) 99964-0625",
+      "address": "R. Rui Barbosa, 1547 - Sl 02 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jonas De Oliveira Araújo I JOA Engenharia",
+      "href": "https://www.google.com/maps/place/Jonas+De+Oliveira+Ara%C3%BAjo+I+JOA+Engenharia/data=!4m7!3m6!1s0x445e0c05f84a830d:0x6d9c6c9d7cbe1375!8m2!3d-26.2763038!4d-48.8728493!16s%2Fg%2F11npcs_z9p!19sChIJDYNK-AUMXkQRdRO-fJ1snG0",
+      "phone": "(47) 99976-0865",
+      "address": "R. Geny Peixer, 237 - Costa e Silva, Joinville - SC, 89218-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Asso Engenharia",
+      "href": "https://www.google.com/maps/place/Asso+Engenharia/data=!4m7!3m6!1s0x94deafea5285696d:0x4e1d5b446ce57026!8m2!3d-26.2708394!4d-48.8865106!16s%2Fg%2F119whhq9t!19sChIJbWmFUuqv3pQRJnDlbERbHU4",
+      "phone": "(47) 3027-7804",
+      "address": "R. Alberto Wiest, 127 - Costa e Silva, Joinville - SC, 89220-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "408 Engenharia e Arquitetura",
+      "href": "https://www.google.com/maps/place/408+Engenharia+e+Arquitetura/data=!4m7!3m6!1s0x94deaf7144e78e73:0x850d2ca06bbf3c2!8m2!3d-26.2686546!4d-48.87508!16s%2Fg%2F11mw7lxplh!19sChIJc47nRHGv3pQRwvO7BsrSUAg",
+      "phone": "(47) 99700-5636",
+      "address": "R. Bem-Te-Vi, 408 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Metrios Engenharia",
+      "href": "https://www.google.com/maps/place/Metrios+Engenharia/data=!4m7!3m6!1s0x94deafdb7bda13d1:0xe7de18bd75a9c334!8m2!3d-26.2669972!4d-48.8685145!16s%2Fg%2F11bw4s0yr_!19sChIJ0RPae9uv3pQRNMOpdb0Y3uc",
+      "phone": "(47) 99188-3077",
+      "address": "R. Francisco Salfer, 34 - Costa e Silva, Joinville - SC, 89219-166",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Schneider Engenheiros",
+      "href": "https://www.google.com/maps/place/Schneider+Engenheiros/data=!4m7!3m6!1s0x94deafed6b365ccf:0x7c0b17759f6627f7!8m2!3d-26.2706175!4d-48.8687441!16s%2Fg%2F1tjbt9tx!19sChIJz1w2a-2v3pQR9ydmn3UXC3w",
+      "phone": "(47) 3207-3698",
+      "address": "R. Edgar Klein, 37 - Costa e Silva, Joinville - SC, 89218-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PREVEST Engenharia",
+      "href": "https://www.google.com/maps/place/PREVEST+Engenharia/data=!4m7!3m6!1s0x94deaf8cf5540001:0xb659bd2e3b116f17!8m2!3d-26.2686617!4d-48.8736855!16s%2Fg%2F11h1ltjb5y!19sChIJAQBU9Yyv3pQRF28ROy69WbY",
+      "phone": "(47) 3030-2370",
+      "address": "R. Bem-Te-Vi, 142 - Costa e Silva, Joinville - SC, 89220-090",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Marques Engenharia e Consultoria",
+      "href": "https://www.google.com/maps/place/Marques+Engenharia+e+Consultoria/data=!4m7!3m6!1s0x94df23fae5960a25:0xb76fec119f748449!8m2!3d-26.2679096!4d-48.8598614!16s%2Fg%2F11xy_sh028!19sChIJJQqW5foj35QRSYR0nxHsb7c",
+      "phone": "(47) 99674-2803",
+      "address": "R. Félix Heinzelmann, 139 - Sl 01 - Santo Antônio, Joinville - SC, 89218-315",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FOCCUS ARQUITETURA E ENGENHARIA LTDA",
+      "href": "https://www.google.com/maps/place/FOCCUS+ARQUITETURA+E+ENGENHARIA+LTDA/data=!4m7!3m6!1s0x94deaf5ebeb61433:0x353fdefe89ef0ab6!8m2!3d-26.2749443!4d-48.8668876!16s%2Fg%2F11ghfbskl1!19sChIJMxS2vl6v3pQRtgrvif7ePzU",
+      "phone": "(47) 99763-6138",
+      "address": "R. Guilherme, 1191 - Sl 04 - Costa e Silva, Joinville - SC, 89218-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FS Engenharia",
+      "href": "https://www.google.com/maps/place/FS+Engenharia/data=!4m7!3m6!1s0x94deaf36ea1f4c47:0x4e72c3916da376cf!8m2!3d-26.266924!4d-48.8769668!16s%2Fg%2F11g0_lw75r!19sChIJR0wf6jav3pQRz3ajbZHDck4",
+      "phone": "(47) 99648-2443",
+      "address": "R. Alícia Bittencourt Ferreira, 672 - Costa e Silva, Joinville - SC, 89220-185",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nível 10",
+      "href": "https://www.google.com/maps/place/N%C3%ADvel+10/data=!4m7!3m6!1s0x94deaff381770643:0x5497a7b5911f1080!8m2!3d-26.274019!4d-48.874696!16s%2Fg%2F11dxkc2mr7!19sChIJQwZ3gfOv3pQRgBAfkbWnl1Q",
+      "phone": "(47) 99270-4604",
+      "address": "Av. Alm. Jaceguay, 2899 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NOVITÀ Engenharia",
+      "href": "https://www.google.com/maps/place/NOVIT%C3%80+Engenharia/data=!4m7!3m6!1s0x94dea563b26df0a3:0xf23547421d4330a7!8m2!3d-26.267573!4d-48.8825534!16s%2Fg%2F11fj1zpzk8!19sChIJo_BtsmOl3pQRpzBDHUJHNfI",
+      "phone": "(47) 3207-0656",
+      "address": "R. Oscar Rosas, 349 - Costa e Silva, Joinville - SC, 89220-320",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "JSZ ENGENHARIA & CONSULTORIA",
+      "href": "https://www.google.com/maps/place/JSZ+ENGENHARIA+%26+CONSULTORIA/data=!4m7!3m6!1s0x94dea5808bf816f1:0xd89c2ca2d9764f6b!8m2!3d-26.28143!4d-48.9072286!16s%2Fg%2F11mz5z7m0d!19sChIJ8Rb4i4Cl3pQRa0922aIsnNg",
+      "phone": "(47) 99605-3168",
+      "address": "R. Paulo Schneider, 467 - Vila Nova, Joinville - SC, 89237-450",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "\"S.O.S Chawischi\" Engenharia Civil",
+      "href": "https://www.google.com/maps/place/%22S.O.S+Chawischi%22+Engenharia+Civil/data=!4m7!3m6!1s0x94dea521d50b1bfd:0x323736fb5b569976!8m2!3d-26.2963692!4d-48.9023978!16s%2Fg%2F11fktq776r!19sChIJ_RsL1SGl3pQRdplWW_s2NzI",
+      "phone": "(47) 98803-5734",
+      "address": "R. Rodrigo Baumer - Vila Nova, Joinville - SC, 89237-125",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ROCHA ENGENHARIA E CONSULTORIA",
+      "href": "https://www.google.com/maps/place/ROCHA+ENGENHARIA+E+CONSULTORIA/data=!4m7!3m6!1s0x94dea537b7615f29:0x3d3258f43f980c78!8m2!3d-26.292445!4d-48.9016613!16s%2Fg%2F11cnd5tp_j!19sChIJKV9htzel3pQReAyYP_RYMj0",
+      "phone": "(47) 99936-2193",
+      "address": "R. Leopoldo Beninca, 455 - Vila Nova, Joinville - SC, 89237-150",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Propeller Engenharia | Movimentação Armazenagem e serviços",
+      "href": "https://www.google.com/maps/place/Propeller+Engenharia+%7C+Movimenta%C3%A7%C3%A3o+Armazenagem+e+servi%C3%A7os/data=!4m7!3m6!1s0x94dea521e1872279:0xc8b0f58e32271d9e!8m2!3d-26.2842027!4d-48.9186964!16s%2Fg%2F11vcbm45yn!19sChIJeSKH4SGl3pQRnh0nMo71sMg",
+      "phone": "(47) 98810-1822",
+      "address": "R. Paulo Penski, 346 - Vila Nova, Joinville - SC, 89237-655",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SCHMIDT ENGENHARIA",
+      "href": "https://www.google.com/maps/place/SCHMIDT+ENGENHARIA/data=!4m7!3m6!1s0x94deb12733d3079f:0x8310679e80230319!8m2!3d-26.3316435!4d-48.8465741!16s%2Fg%2F11ty74649n!19sChIJnwfTMyex3pQRGQMjgJ5nEIM",
+      "phone": "(47) 99912-8493",
+      "address": "R. Pres. Wenceslau Braz, 39 - Floresta, Joinville - SC, 89211-640",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "INFRAVILLE INFRAESTRUTURA E ENGENHARIA LTDA - PÁTIO",
+      "href": "https://www.google.com/maps/place/INFRAVILLE+INFRAESTRUTURA+E+ENGENHARIA+LTDA+-+P%C3%81TIO/data=!4m7!3m6!1s0x94deb1a5eef2b62b:0x50938c029b0d6bd9!8m2!3d-26.3337225!4d-48.8542582!16s%2Fg%2F11kk8h29c0!19sChIJK7by7qWx3pQR2WsNmwKMk1A",
+      "phone": "(47) 99764-1080",
+      "address": "Av. Antônio Ramos Alvim, 374 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "PROJ",
+      "href": "https://www.google.com/maps/place/PROJ/data=!4m7!3m6!1s0x94deb129efb61f31:0xfdadc2c7e5ede75a!8m2!3d-26.3342851!4d-48.8459245!16s%2Fg%2F11jlz9xqwl!19sChIJMR-27ymx3pQRWuft5cfCrf0",
+      "phone": "(47) 99618-4337",
+      "address": "Av. Antônio Ramos Alvim, 1350 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "B2B ENGENHARIA E MANUFATURA LTDA.",
+      "href": "https://www.google.com/maps/place/B2B+ENGENHARIA+E+MANUFATURA+LTDA./data=!4m7!3m6!1s0x94deb14abbe06dd5:0x1c4ae3383be72d71!8m2!3d-26.3411306!4d-48.8460007!16s%2Fg%2F11xyd7_gff!19sChIJ1W3gu0qx3pQRcS3nOzjjShw",
+      "phone": "(47) 99989-7444",
+      "address": "R. Guarapuava - Floresta, Joinville - SC, 89212-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ritrack Engenharia e Terraplenagem",
+      "href": "https://www.google.com/maps/place/Ritrack+Engenharia+e+Terraplenagem/data=!4m7!3m6!1s0x94deb0e7ba890985:0xb07379c2953a4d4d!8m2!3d-26.3382095!4d-48.8480582!16s%2Fg%2F11b88p97yj!19sChIJhQmJuuew3pQRTU06lcJ5c7A",
+      "phone": "(47) 99687-4768",
+      "address": "R. Guararapes, 46 - Floresta, Joinville - SC, 89212-010",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Biofractal Engenharia e Biotecnologia Ambiental",
+      "href": "https://www.google.com/maps/place/Biofractal+Engenharia+e+Biotecnologia+Ambiental/data=!4m7!3m6!1s0x94deafa34877a259:0x9383e4b72f03c568!8m2!3d-26.3336333!4d-48.8576385!16s%2Fg%2F11c5_56n73!19sChIJWaJ3SKOv3pQRaMUDL7fkg5M",
+      "phone": "(47) 99972-0922",
+      "address": "R. Copacabana, 1127 - Floresta, Joinville - SC, 89211-388",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "NEXO ISEM ENGENHARIA",
+      "href": "https://www.google.com/maps/place/NEXO+ISEM+ENGENHARIA/data=!4m7!3m6!1s0x94deb1897ffd2bfd:0xdefaae22f4e6df84!8m2!3d-26.3371702!4d-48.8515914!16s%2Fg%2F11zct3x60m!19sChIJ_Sv9f4mx3pQRhN_m9CKu-t4",
+      "phone": "(47) 98488-3707",
+      "address": "R. Irani, 431 - Floresta, Joinville - SC, 89211-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ENGE W Projetos e Construções",
+      "href": "https://www.google.com/maps/place/ENGE+W+Projetos+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deb15b5ecb0849:0x652ef74e8a2f589c!8m2!3d-26.323159!4d-48.8384434!16s%2Fg%2F11fm_3_zzh!19sChIJSQjLXlux3pQRnFgvik73LmU",
+      "phone": "(47) 99126-8755",
+      "address": "R. Florianópolis, 316 - Guanabara, Joinville - SC, 89207-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Israel Silva Engenheiro Civil",
+      "href": "https://www.google.com/maps/place/Israel+Silva+Engenheiro+Civil/data=!4m7!3m6!1s0x27def3eb6ada4d8f:0x9bd0238b13a2190c!8m2!3d-26.3463482!4d-48.7782566!16s%2Fg%2F11s0rmq369!19sChIJj03aauvz3icRDBmiE4sj0Js",
+      "phone": "(47) 99664-7528",
+      "address": "R. Pastor Rogério Vieira, 346 - Paranaguamirim, Joinville - SC, 89234-008",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sl serralheria e automação",
+      "href": "https://www.google.com/maps/place/Sl+serralheria+e+automa%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94deb1f11f782b2d:0xa6bb122a3ffd4aa2!8m2!3d-26.3678749!4d-48.8193794!16s%2Fg%2F11vb7lnldy!19sChIJLSt4H_Gx3pQRokr9PyoSu6Y",
+      "phone": "(47) 99769-1425",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Damer Engenharia Civil",
+      "href": "https://www.google.com/maps/place/Damer+Engenharia+Civil/data=!4m7!3m6!1s0x94deadbb5b12717d:0x33451fe61623f323!8m2!3d-26.2476277!4d-48.7977895!16s%2Fg%2F11h4g6yfs7!19sChIJfXESW7ut3pQRI_MjFuYfRTM",
+      "phone": "(47) 98497-7178",
+      "address": "R. Ernesto Bachtold, 3123 - Aventureiro, Joinville - SC, 89225-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "FCA Construtora e Engenharia",
+      "href": "https://www.google.com/maps/place/FCA+Construtora+e+Engenharia/data=!4m7!3m6!1s0x94dead688c6b43cd:0xc4ae7a9d8e644e2c!8m2!3d-26.2476328!4d-48.7977924!16s%2Fg%2F11y712h50y!19sChIJzUNrjGit3pQRLE5kjp16rsQ",
+      "phone": "(47) 99713-4159",
+      "address": "R. Ernesto Bachtold, 3123 - Aventureiro, Joinville - SC, 89225-560",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "RM Construções",
+      "href": "https://www.google.com/maps/place/RM+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x94deaffc807a492b:0xbaec5084815057c8!8m2!3d-26.2458119!4d-48.8042079!16s%2Fg%2F11jtb163_4!19sChIJK0l6gPyv3pQRyFdQgYRQ7Lo",
+      "phone": "(47) 99611-0192",
+      "address": "R. Alois Finder, 1821 - Aventureiro, Joinville - SC, 89225-621",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}

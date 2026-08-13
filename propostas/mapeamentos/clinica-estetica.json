@@ -1,0 +1,732 @@
+{
+  "id": "clinica-estetica",
+  "nome": "Clínica Estética",
+  "terms": [
+    "clínica estética",
+    "estética facial",
+    "estética corporal"
+  ],
+  "profiles": 241,
+  "qualified": [
+    {
+      "name": "Deolinda Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Deolinda+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deb6c484c4e2c5:0x510e3770f3ec2347!8m2!3d-26.3665407!4d-48.8277252!16s%2Fg%2F11bvcv5xbx!19sChIJxeLEhMS23pQRRyPs83A3DlE",
+      "phone": "(47) 3454-5593",
+      "address": "R. dos Professores, 158 - Boehmerwald, Joinville - SC, 89235-030",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Luar Clínica de Estética",
+      "href": "https://www.google.com/maps/place/Luar+Cl%C3%ADnica+de+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb390e2a9e773:0x9f41c0abc9cb968c!8m2!3d-26.3302414!4d-48.8026766!16s%2Fg%2F11lgltzq1m!19sChIJc-ep4pCz3pQRjJbLyavAQZ8",
+      "phone": "(47) 99699-1829",
+      "address": "R. Max Pruner, 335 - Ulysses Guimarães, Joinville - SC, 89213-230",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Virtuosa - Glória",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Virtuosa+-+Gl%C3%B3ria/data=!4m7!3m6!1s0x94deb05cc9952c7b:0x5d10e545033e31ea!8m2!3d-26.2956872!4d-48.8648833!16s%2Fg%2F11cly9gxls!19sChIJeyyVyVyw3pQR6jE-A0XlEF0",
+      "phone": "(47) 99716-1180",
+      "address": "R. Evaristo da Veiga, 348 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica AuraFiore - Biomedicina, estética e saúde",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+AuraFiore+-+Biomedicina,+est%C3%A9tica+e+sa%C3%BAde/data=!4m7!3m6!1s0x94deb14a749881cd:0x3aa2d280fdd9f86c!8m2!3d-26.3158143!4d-48.8427853!16s%2Fg%2F11ryljbs05!19sChIJzYGYdEqx3pQRbPjZ_YDSojo",
+      "phone": "(47) 99740-7003",
+      "address": "R. São Paulo, 910 - Sl 528 - Itaum, Joinville - SC, 89202-257",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Débora Padilha Estética Avançada",
+      "href": "https://www.google.com/maps/place/D%C3%A9bora+Padilha+Est%C3%A9tica+Avan%C3%A7ada/data=!4m7!3m6!1s0x94deb7b23909b78f:0xca1367d84c804e42!8m2!3d-26.3631297!4d-48.8296162!16s%2Fg%2F11vk8pbsmc!19sChIJj7cJObK33pQRQk6ATNhnE8o",
+      "phone": "(47) 99612-7103",
+      "address": "R. Adolfo da Veiga, 270 - Boehmerwald, Joinville - SC, 89235-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Esteticista Vânia Grave | Anita Garibaldi - Joinville",
+      "href": "https://www.google.com/maps/place/Esteticista+V%C3%A2nia+Grave+%7C+Anita+Garibaldi+-+Joinville/data=!4m7!3m6!1s0x94deb15e7a63215b:0xc949187edc1cbfa3!8m2!3d-26.3248253!4d-48.8639988!16s%2Fg%2F11vxjmv1lk!19sChIJWyFjel6x3pQRo78c3H4YSck",
+      "phone": "(47) 98891-8465",
+      "address": "R. Anita Garibaldi, 2259 - Anita Garibaldi, Joinville - SC, 89203-332",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Suellen Oliveira",
+      "href": "https://www.google.com/maps/place/Dra.+Suellen+Oliveira/data=!4m7!3m6!1s0x94deb1ed3040ba01:0x4ee3e606c325124e!8m2!3d-26.2998716!4d-48.8485351!16s%2Fg%2F11vlbrsw_2!19sChIJAbpAMO2x3pQRThIlwwbm404",
+      "phone": "(47) 99693-8691",
+      "address": "R. Mário Lobo, 61 - Sl 903 - Centro, Joinville - SC, 89201-330",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "CLÍNICA PEELING",
+      "href": "https://www.google.com/maps/place/CL%C3%8DNICA+PEELING/data=!4m7!3m6!1s0x94deb1cf9a5aef9f:0x5202747b636ec853!8m2!3d-26.300881!4d-48.8458062!16s%2Fg%2F11v0c3wl99!19sChIJn-9ams-x3pQRU8huY3t0AlI",
+      "phone": "(47) 99765-4131",
+      "address": "R. XV de Novembro, 357 - 1º andar, sala J 1 - Centro, Joinville - SC, 89201-601",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Beleza Real - Centro de Estética",
+      "href": "https://www.google.com/maps/place/Beleza+Real+-+Centro+de+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb10a6ea67bf1:0x65581df1ad35adc5!8m2!3d-26.3134432!4d-48.8522978!16s%2Fg%2F11pq5qmy4n!19sChIJ8Xumbgqx3pQRxa01rfEdWGU",
+      "phone": "(47) 98424-7256",
+      "address": "R. Rio Grande do Sul, 390 - sala: 02 - Anita Garibaldi, Joinville - SC, 89203-570",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Equilibra Estética Facial e Corporal",
+      "href": "https://www.google.com/maps/place/Equilibra+Est%C3%A9tica+Facial+e+Corporal/data=!4m7!3m6!1s0x94deb13fd3f91989:0xd6b72e4be44e9248!8m2!3d-26.3136168!4d-48.8466167!16s%2Fg%2F11rc2n8g21!19sChIJiRn50z-x3pQRSJJO5Esut9Y",
+      "phone": "(47) 99917-2099",
+      "address": "R. Paraná, 105 - Anita Garibaldi, Joinville - SC, 89202-160",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Maria Eugênia Podologia Clínica",
+      "href": "https://www.google.com/maps/place/Maria+Eug%C3%AAnia+Podologia+Cl%C3%ADnica/data=!4m7!3m6!1s0x94deb7f64320427f:0x5b5e569e7d9bc09f!8m2!3d-26.3667846!4d-48.8271568!16s%2Fg%2F11ypd84x84!19sChIJf0IgQ_a33pQRn8CbfZ5WXls",
+      "phone": "(47) 98823-7136",
+      "address": "Rua:Dos Médicos, n° 209 - R. dos Médicos, 209 - Boehmerwald, Joinville - SC, 89235-050",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Incantare Estética",
+      "href": "https://www.google.com/maps/place/Incantare+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1ce5d5fe103:0x7635e3839c6595c!8m2!3d-26.2871559!4d-48.8465331!16s%2Fg%2F11wfgxk28z!19sChIJA-FfXc6x3pQRXFnGOTheYwc",
+      "phone": "(47) 99732-9648",
+      "address": "R. Itaiópolis, 223 - América, Joinville - SC, 89204-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Janice Borchhardt Estética facial e corporal",
+      "href": "https://www.google.com/maps/place/Janice+Borchhardt+Est%C3%A9tica+facial+e+corporal/data=!4m7!3m6!1s0x94deaffd09fbe705:0x8fdb3ba99fe26140!8m2!3d-26.2846256!4d-48.8452228!16s%2Fg%2F11k9p3hlw6!19sChIJBef7Cf2v3pQRQGHin6k7248",
+      "phone": "(47) 99727-1429",
+      "address": "R. Orestes Guimarães, 1367 - América, Joinville - SC, 89204-061",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra. Sara Rafe - Especialista em Botox - Harmonização Facial e Corporal em Joinville",
+      "href": "https://www.google.com/maps/place/Dra.+Sara+Rafe+-+Especialista+em+Botox+-+Harmoniza%C3%A7%C3%A3o+Facial+e+Corporal+em+Joinville/data=!4m7!3m6!1s0x94deafb9272e6baf:0x75e27d1ccc11a010!8m2!3d-26.3003373!4d-48.8532805!16s%2Fg%2F11jd6fl6v_!19sChIJr2suJ7mv3pQREKARzBx94nU",
+      "phone": "(47) 99704-6122",
+      "address": "R. Expedicionário Holz, 550 - Sl 1412 - América, Joinville - SC, 89201-740",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SB ESTÉTICA",
+      "href": "https://www.google.com/maps/place/SB+EST%C3%89TICA/data=!4m7!3m6!1s0x94deb1ee8034212f:0x72cf359d2dc18a8d!8m2!3d-26.3098788!4d-48.8520423!16s%2Fg%2F11ykq1rnp8!19sChIJLyE0gO6x3pQRjYrBLZ01z3I",
+      "phone": "(47) 98842-7309",
+      "address": "R. Gen. Valgas Neves, 301 - Atiradores, Joinville - SC, 89202-138",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Elittá Estetica e Saúde LTDA",
+      "href": "https://www.google.com/maps/place/Elitt%C3%A1+Estetica+e+Sa%C3%BAde+LTDA/data=!4m7!3m6!1s0x94deb1deaa672133:0xa54348d72c5496ce!8m2!3d-26.292783!4d-48.8495491!16s%2Fg%2F11rcln27f1!19sChIJMyFnqt6x3pQRzpZULNdIQ6U",
+      "phone": "(47) 99689-4745",
+      "address": "R. Emílio Artmann, 130 - América, Joinville - SC, 89204-042",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Jéssica Muraro Estética",
+      "href": "https://www.google.com/maps/place/J%C3%A9ssica+Muraro+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb124a3e24081:0xd928c0ebaf89804c!8m2!3d-26.3092137!4d-48.8547679!16s%2Fg%2F11yvvkvwjy!19sChIJgUDioySx3pQRTICJr-vAKNk",
+      "phone": "(47) 99968-0593",
+      "address": "R. Visc. de Taunay, 1174 - Atiradores, Joinville - SC, 89203-062",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Eduardo Grubba Estética e Acupuntura",
+      "href": "https://www.google.com/maps/place/Eduardo+Grubba+Est%C3%A9tica+e+Acupuntura/data=!4m7!3m6!1s0x94deb1ba824ff787:0x7dbac78468b2c9de!8m2!3d-26.298021!4d-48.864706!16s%2Fg%2F11kbkvs8dw!19sChIJh_dPgrqx3pQR3smyaITHun0",
+      "phone": "(47) 99119-2301",
+      "address": "R. Evaristo da Veiga, 156 - 6°andar - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Nova Laser & Estética Avançada",
+      "href": "https://www.google.com/maps/place/Nova+Laser+%26+Est%C3%A9tica+Avan%C3%A7ada/data=!4m7!3m6!1s0x94deb10068d618d5:0xabce08e377c00508!8m2!3d-26.31985!4d-48.8516294!16s%2Fg%2F11mm6fhfzm!19sChIJ1RjWaACx3pQRCAXAd-MIzqs",
+      "phone": "(47) 98850-1719",
+      "address": "R. Anita Garibaldi, 788 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Vasti",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Vasti/data=!4m7!3m6!1s0x94deb0573d8040e7:0x12793e72262f14cd!8m2!3d-26.3168812!4d-48.8480885!16s%2Fg%2F11bv2bj31g!19sChIJ50CAPVew3pQRzRQvJnI-eRI",
+      "phone": "(47) 3454-1006",
+      "address": "R. Anita Garibaldi, 293 - Anita Garibaldi, Joinville - SC, 89203-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de emagrecimento e estética!",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+emagrecimento+e+est%C3%A9tica!/data=!4m7!3m6!1s0x94deb06170e1d0e5:0xb549358745e22ae4!8m2!3d-26.322934!4d-48.8570147!16s%2Fg%2F11g6q2c54f!19sChIJ5dDhcGGw3pQR5CriRYc1SbU",
+      "phone": "(47) 98421-1284",
+      "address": "R. Max Heiden - Anita Garibaldi, Joinville - SC, 89203-380",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "LD Harmony",
+      "href": "https://www.google.com/maps/place/LD+Harmony/data=!4m7!3m6!1s0x94deb1c57f027993:0x924e2e0bd4914fda!8m2!3d-26.3179062!4d-48.8497823!16s%2Fg%2F11vlc52843!19sChIJk3kCf8Wx3pQR2k-R1AsuTpI",
+      "phone": "(47) 99989-8845",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Sollares",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Sollares/data=!4m7!3m6!1s0x94deaf2e93bda13b:0xedd1ab4e3bd2d2ff!8m2!3d-26.273841!4d-48.8450276!16s%2Fg%2F11np3jttz2!19sChIJO6G9ky6v3pQR_9LSO06r0e0",
+      "phone": "(47) 99616-2648",
+      "address": "R. Assis Brasil, 47 - Saguaçu, Joinville - SC, 89221-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Gih Bittencourte Clínica Estética",
+      "href": "https://www.google.com/maps/place/Gih+Bittencourte+Cl%C3%ADnica+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaf003bfe27d7:0xe4dee59f0264339f!8m2!3d-26.2771468!4d-48.8470999!16s%2Fg%2F11wp4gw16r!19sChIJ1yf-OwCv3pQRnzNkAp_l3uQ",
+      "phone": "(47) 99900-0298",
+      "address": "R. João Pessoa, 58 - Sl 01 - Saguaçu, Joinville - SC, 89221-605",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Panato Saúde e Estética",
+      "href": "https://www.google.com/maps/place/Panato+Sa%C3%BAde+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deafbb773bf72f:0x86e1ec8583f31bc5!8m2!3d-26.2777636!4d-48.8468756!16s%2Fg%2F11qmr_yzrt!19sChIJL_c7d7uv3pQRxRvzg4Xs4YY",
+      "phone": "(47) 99619-6646",
+      "address": "R. Natal, 60 - Saguaçu, Joinville - SC, 89221-640",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Chrislaine Schurhaus Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Chrislaine+Schurhaus+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deaff15cf3e151:0x5574dd67ab41bc48!8m2!3d-26.269058!4d-48.8725297!16s%2Fg%2F11ykxk8tmn!19sChIJUeHzXPGv3pQRSLxBq2fddFU",
+      "phone": "(47) 99717-1773",
+      "address": "Rua Otto Pfuetzenreuter, 535 - Costa e Silva, Joinville - SC, 89219-200",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Ana Carolina Estética",
+      "href": "https://www.google.com/maps/place/Ana+Carolina+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb10c67903a85:0xa319c3b040d60630!8m2!3d-26.2636592!4d-48.8672733!16s%2Fg%2F11rd98yc9g!19sChIJhTqQZwyx3pQRMAbWQLDDGaM",
+      "phone": "(47) 99781-3715",
+      "address": "R. Rui Barbosa, 565 - Costa e Silva, Joinville - SC, 89220-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cia da Estética",
+      "href": "https://www.google.com/maps/place/Cia+da+Est%C3%A9tica/data=!4m7!3m6!1s0x94dea5428d800ddf:0xa3e4cf74888e6f8!8m2!3d-26.2702165!4d-48.8808037!16s%2Fg%2F11h39928gx!19sChIJ3w2AjUKl3pQR-OaISPdMPgo",
+      "phone": "(47) 99684-6263",
+      "address": "R. Pavão, 498 - Costa e Silva, Joinville - SC, 89220-400",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clinica Ethos",
+      "href": "https://www.google.com/maps/place/Clinica+Ethos/data=!4m7!3m6!1s0x94dea56750083d27:0x44f24ba5a81b75a5!8m2!3d-26.2741108!4d-48.8840155!16s%2Fg%2F11z8st1wtl!19sChIJJz0IUGel3pQRpXUbqKVL8kQ",
+      "phone": "(47) 99159-9309",
+      "address": "Av. Alm. Jaceguay, 3119 - Sala 01 - Costa e Silva, Joinville - SC, 89220-055",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Carol Diniz",
+      "href": "https://www.google.com/maps/place/Studio+Carol+Diniz/data=!4m7!3m6!1s0x94deaf8faafdb785:0x19093552693b9eb1!8m2!3d-26.2817172!4d-48.8756463!16s%2Fg%2F11y9q74krb!19sChIJhbf9qo-v3pQRsZ47aVI1CRk",
+      "phone": "(47) 99207-2417",
+      "address": "R. Adriano Schondermank - Costa e Silva, Joinville - SC, 89218-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Patrícia Fagundes - Massagem e Limpeza de Pele",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Patr%C3%ADcia+Fagundes+-+Massagem+e+Limpeza+de+Pele/data=!4m7!3m6!1s0x94deaf232f15dc99:0x5687f1776fa15d5b!8m2!3d-26.2649711!4d-48.8631467!16s%2Fg%2F11yyxy9qyc!19sChIJmdwVLyOv3pQRW12hb3fxh1Y",
+      "phone": "(47) 99912-4910",
+      "address": "R. Fritz Koelling, 135 - Costa e Silva, Joinville - SC, 89219-130",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Suprema Estética Avançada",
+      "href": "https://www.google.com/maps/place/Suprema+Est%C3%A9tica+Avan%C3%A7ada/data=!4m7!3m6!1s0x94deb13b88ab74a3:0x8942f4ca95567a9c!8m2!3d-26.2636486!4d-48.8672497!16s%2Fg%2F11l5fhy2tw!19sChIJo3SriDux3pQRnHpWlcr0Qok",
+      "phone": "(47) 99974-6300",
+      "address": "R. Rui Barbosa, 565 - Costa e Silva, Joinville - SC, 89219-158",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Bello Corpo Beleza e Bem-Estar",
+      "href": "https://www.google.com/maps/place/Bello+Corpo+Beleza+e+Bem-Estar/data=!4m7!3m6!1s0x94deaf8d35e3308f:0x629a0696a7336a7c!8m2!3d-26.2700373!4d-48.8711833!16s%2Fg%2F11dxqm_txy!19sChIJjzDjNY2v3pQRfGozp5YGmmI",
+      "phone": "(47) 99270-5416",
+      "address": "R. Sen. Nilo Coelho, 102 - Costa e Silva, Joinville - SC, 89219-340",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sperfeld rocha massoterapia é estética",
+      "href": "https://www.google.com/maps/place/Sperfeld+rocha+massoterapia+%C3%A9+est%C3%A9tica/data=!4m7!3m6!1s0x94deaf422d7c6171:0x7e2441b9e6dbef7a!8m2!3d-26.2678496!4d-48.874108!16s%2Fg%2F11zgr148df!19sChIJcWF8LUKv3pQReu_b5rlBJH4",
+      "phone": "(47) 99743-5916",
+      "address": "R. das Andorinhas, 549 - sala 04 - Costa e Silva, Joinville - SC, 89220-021",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Essência Clínica de Estética Avançada",
+      "href": "https://www.google.com/maps/place/Ess%C3%AAncia+Cl%C3%ADnica+de+Est%C3%A9tica+Avan%C3%A7ada/data=!4m7!3m6!1s0x94dea55a3f7508ef:0xfc1e0050b0f372f!8m2!3d-26.2917726!4d-48.9139084!16s%2Fg%2F11jsmnmt5x!19sChIJ7wh1P1ql3pQRLzcPCwXgwQ8",
+      "phone": "(47) 99707-4369",
+      "address": "R. Ângela Beninca, 495 - Vila Nova, Joinville - SC, 89237-383",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Lenise Rosa- Estética vila nova/depilação cera/cone hindu/drenagem/massagens/Reiki",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Lenise+Rosa-+Est%C3%A9tica+vila+nova%2Fdepila%C3%A7%C3%A3o+cera%2Fcone+hindu%2Fdrenagem%2Fmassagens%2FReiki/data=!4m7!3m6!1s0x94dea5c23927a2fb:0x764ad8e0db22ac7d!8m2!3d-26.2868815!4d-48.9046434!16s%2Fg%2F11qs9yb1m3!19sChIJ-6InOcKl3pQRfawi2-DYSnY",
+      "phone": "(47) 99733-1766",
+      "address": "R. XV de Novembro, 7158 - Vila Nova, Joinville - SC, 89237-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Glória Estética",
+      "href": "https://www.google.com/maps/place/Gl%C3%B3ria+Est%C3%A9tica/data=!4m7!3m6!1s0x94dea5df2f2b0065:0x2cba37bc934d57f5!8m2!3d-26.2933019!4d-48.911091!16s%2Fg%2F11zg91m9v_!19sChIJZQArL9-l3pQR9VdNk7w3uiw",
+      "phone": "(47) 98834-2118",
+      "address": "R. Cilézio Roberto Silveira, 31 - Vila Nova, Joinville - SC, 89239-341",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Donna Bella Estética e Micropigmentação",
+      "href": "https://www.google.com/maps/place/Donna+Bella+Est%C3%A9tica+e+Micropigmenta%C3%A7%C3%A3o/data=!4m7!3m6!1s0x94dea5b18c72b141:0x93620a5e1db6d199!8m2!3d-26.2897365!4d-48.9024116!16s%2Fg%2F11j7ymwdcg!19sChIJQbFyjLGl3pQRmdG2HV4KYpM",
+      "phone": "(47) 98867-2371",
+      "address": "R. Rudolf Baumer, 264 - Vila Nova, Joinville - SC, 89237-120",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estética e Bem-Estar",
+      "href": "https://www.google.com/maps/place/Est%C3%A9tica+e+Bem-Estar/data=!4m7!3m6!1s0x936f33ed262cb98d:0xbcb5b508a64319a4!8m2!3d-26.2876655!4d-48.903774!16s%2Fg%2F11g6ww6hld!19sChIJjbksJu0zb5MRpBlDpgi1tbw",
+      "phone": "(47) 99215-2277",
+      "address": "R. Marcos João Serafim, 48 - Vila Nova, Joinville - SC, 89237-140",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Tatiana Massoterapeuta Integrativa - Vila Nova - Joinville-SC",
+      "href": "https://www.google.com/maps/place/Tatiana+Massoterapeuta+Integrativa+-+Vila+Nova+-+Joinville-SC/data=!4m7!3m6!1s0x94dea5b3852e3dcf:0x4802f987803e71de!8m2!3d-26.2864688!4d-48.907203!16s%2Fg%2F11h6db6hny!19sChIJzz0uhbOl3pQR3nE-gIf5Akg",
+      "phone": "(47) 99942-4431",
+      "address": "Anexo aí Estúdio da Bruna Fisioterapeuta - R. XV de Novembro, 7426 - sala 05 - Vila Nova, Joinville - SC, 89237-510",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "La Piu Bella Tecnologia Estetica",
+      "href": "https://www.google.com/maps/place/La+Piu+Bella+Tecnologia+Estetica/data=!4m7!3m6!1s0x94dea57b1058490f:0x6b8bd69d1091326a!8m2!3d-26.3131479!4d-48.9248976!16s%2Fg%2F11nqbf1s_3!19sChIJD0lYEHul3pQRajKREJ3Wi2s",
+      "phone": "(47) 99663-9945",
+      "address": "SC 108 - Rod. do Arroz, 1052 - Vila Nova, Joinville - SC, 89237-680",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Dra Catharina Wolkoff",
+      "href": "https://www.google.com/maps/place/Dra+Catharina+Wolkoff/data=!4m7!3m6!1s0x94deb100493b191f:0x4bf4ca71919780fd!8m2!3d-26.2979628!4d-48.8647206!16s%2Fg%2F11w42s8bfs!19sChIJHxk7SQCx3pQR_YCXkXHK9Es",
+      "phone": "(47) 98894-8702",
+      "address": "R. Evaristo da Veiga, 156 - Glória, Joinville - SC, 89215-216",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Lene Rank Espaço da Beleza",
+      "href": "https://www.google.com/maps/place/Lene+Rank+Espa%C3%A7o+da+Beleza/data=!4m7!3m6!1s0x94dea5388c2f570d:0x71189cf88c194c86!8m2!3d-26.2892744!4d-48.9015621!16s%2Fg%2F11bv6pj282!19sChIJDVcvjDil3pQRhkwZjPicGHE",
+      "phone": "(47) 3455-3867",
+      "address": "R. Joaquim Girardi, 196 - Vila Nova, Joinville - SC, 89237-110",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Giullia Franzoloso Estética Facial",
+      "href": "https://www.google.com/maps/place/Giullia+Franzoloso+Est%C3%A9tica+Facial/data=!4m7!3m6!1s0x94deb10c67379c4b:0xd28befdad9a2169c!8m2!3d-26.2979688!4d-48.8647277!16s%2Fg%2F11zh37gys_!19sChIJS5w3Zwyx3pQRnBai2drvi9I",
+      "phone": "(47) 99674-2680",
+      "address": "R. Evaristo da Veiga, 156 - Glória, Joinville - SC, 89216-215",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Olga e Cia cabeleireiros",
+      "href": "https://www.google.com/maps/place/Olga+e+Cia+cabeleireiros/data=!4m7!3m6!1s0x94dea52033f631d3:0xe18a762769f8ce64!8m2!3d-26.2873966!4d-48.9171415!16s%2Fg%2F11h0kxj_g!19sChIJ0zH2MyCl3pQRZM74aSd2iuE",
+      "phone": "(47) 3439-6388",
+      "address": "R. XV de Novembro, 8525 - Vila Nova, Joinville - SC, 89237-001",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Divine Estética",
+      "href": "https://www.google.com/maps/place/Divine+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaffc9098b2d9:0x8a4cd7e0ea45a8b0!8m2!3d-26.3023819!4d-48.8685093!16s%2Fg%2F11h0dltkc!19sChIJ2bKYkPyv3pQRsKhF6uDXTIo",
+      "phone": "(47) 99274-7709",
+      "address": "R. João Krisch, 15 - Glória, Joinville - SC, 89216-360",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Depilação Fernanda Nonato",
+      "href": "https://www.google.com/maps/place/Depila%C3%A7%C3%A3o+Fernanda+Nonato/data=!4m7!3m6!1s0x94dea54cd08398b1:0x9c22f185d4c38a10!8m2!3d-26.2871868!4d-48.9053393!16s%2Fg%2F11h0_b3_40!19sChIJsZiD0Eyl3pQREIrD1IXxIpw",
+      "phone": "(47) 99698-3069",
+      "address": "R. XV de Novembro, 7273 - Vila Nova, Joinville - SC, 89237-003",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Preciosa Beleza - Estética",
+      "href": "https://www.google.com/maps/place/Preciosa+Beleza+-+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1075eb94425:0xe9a8615169efba9c!8m2!3d-26.3233386!4d-48.8470359!16s%2Fg%2F11l2_kql6g!19sChIJJUS5Xgex3pQRnLrvaVFhqOk",
+      "phone": "(47) 3030-3905",
+      "address": "R. Arnaldo Moreira Douat, 197 - Floresta, Joinville - SC, 89211-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Singulari",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Singulari/data=!4m7!3m6!1s0x94deb19a4a2f75b3:0x4bd7dbfd03d050b6!8m2!3d-26.3342732!4d-48.8540565!16s%2Fg%2F11s3x7x6wg!19sChIJs3UvSpqx3pQRtlDQA_3b10s",
+      "phone": "(47) 3278-6306",
+      "address": "Av. Antônio Ramos Alvim, 480 - Floresta, Joinville - SC, 89211-460",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Body Center Massoterapia e Estética",
+      "href": "https://www.google.com/maps/place/Body+Center+Massoterapia+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1b1f1d52fb1:0x6fc2668183ada6e!8m2!3d-26.340373!4d-48.8478339!16s%2Fg%2F11mkcmxb1n!19sChIJsS_V8bGx3pQRbto6GGgm_AY",
+      "phone": "(47) 99690-7933",
+      "address": "R. Santa Catarina, 1930 - aos fundos - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Aline Silveira estética",
+      "href": "https://www.google.com/maps/place/Aline+Silveira+est%C3%A9tica/data=!4m7!3m6!1s0x94deb1ca83302eb9:0x4cc20a82731faf03!8m2!3d-26.3377099!4d-48.8477712!16s%2Fg%2F11pvh6z3fq!19sChIJuS4wg8qx3pQRA68fc4IKwkw",
+      "phone": "(47) 99696-5423",
+      "address": "R. Santa Catarina, 1642 - Floresta, Joinville - SC, 89212-170",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Afrodite Beauty Studio",
+      "href": "https://www.google.com/maps/place/Afrodite+Beauty+Studio/data=!4m7!3m6!1s0x94deb16d0a267de5:0x5a740c891680580d!8m2!3d-26.3366729!4d-48.8481781!16s%2Fg%2F11k09_90sv!19sChIJ5X0mCm2x3pQRDViAFokMdFo",
+      "phone": "(47) 99610-2449",
+      "address": "R. Irani, 40 - Floresta, Joinville - SC, 89211-610",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro de Estética Júlia Bernardes",
+      "href": "https://www.google.com/maps/place/Centro+de+Est%C3%A9tica+J%C3%BAlia+Bernardes/data=!4m7!3m6!1s0x94deb0da637de44d:0x6d5b138e8b62d9de!8m2!3d-26.3352873!4d-48.8459401!16s%2Fg%2F1ptwk1_gm!19sChIJTeR9Y9qw3pQR3tlii44TW20",
+      "phone": "(47) 99636-3675",
+      "address": "R. Marabá, 170 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Brilho Cor de Rosa Beleza feminina",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+Brilho+Cor+de+Rosa+Beleza+feminina/data=!4m7!3m6!1s0x94deb1e7d48d057d:0x56ad84e259e34f4f!8m2!3d-26.3428806!4d-48.8477283!16s%2Fg%2F11vrlyb8cd!19sChIJfQWN1Oex3pQRT0_jWeKErVY",
+      "phone": "(47) 99223-9558",
+      "address": "R. Santa Catarina, 2204 - Floresta, Joinville - SC, 89212-210",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "SAMY | STUDIO DE BELEZA | JOINVILLE",
+      "href": "https://www.google.com/maps/place/SAMY+%7C+STUDIO+DE+BELEZA+%7C+JOINVILLE/data=!4m7!3m6!1s0x94deb1877f86cbaf:0x78be0bfe9b93ef05!8m2!3d-26.3282129!4d-48.8437401!16s%2Fg%2F11svcr_g93!19sChIJr8uGf4ex3pQRBe-Tm_4Lvng",
+      "phone": "(47) 99285-5570",
+      "address": "R. Uberaba, 193 - Floresta, Joinville - SC, 89211-585",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "DF Beleza e Estética",
+      "href": "https://www.google.com/maps/place/DF+Beleza+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1b2eb2aeb8d:0xe5094b5edeac123d!8m2!3d-26.3486349!4d-48.8544484!16s%2Fg%2F11xl68lw1x!19sChIJjesq67Kx3pQRPRKs3l5LCeU",
+      "phone": "(47) 98830-1672",
+      "address": "R. Porto Rico, 707 - Floresta, Joinville - SC, 89212-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Physio Massoterapia Desportiva e Estética Corporal",
+      "href": "https://www.google.com/maps/place/Physio+Massoterapia+Desportiva+e+Est%C3%A9tica+Corporal/data=!4m7!3m6!1s0x94deb188b644d311:0xf3a6f55b51f23a89!8m2!3d-26.3444271!4d-48.8474042!16s%2Fg%2F11fmt2z3lb!19sChIJEdNEtoix3pQRiTryUVv1pvM",
+      "phone": "(47) 99975-0657",
+      "address": "R. Santa Catarina, 2348 - Sl 16 - Floresta, Joinville - SC, 89212-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Espaço Léli Amaral - Estética e Massoterapia",
+      "href": "https://www.google.com/maps/place/Espa%C3%A7o+L%C3%A9li+Amaral+-+Est%C3%A9tica+e+Massoterapia/data=!4m7!3m6!1s0x94deb12f0fa1115b:0x65e9f9e21f294da8!8m2!3d-26.3444271!4d-48.8474042!16s%2Fg%2F11ry5g5vdw!19sChIJWxGhDy-x3pQRqE0pH-L56WU",
+      "phone": "(47) 97400-8598",
+      "address": "R. Santa Catarina, 2348 - Sl 35 - Floresta, Joinville - SC, 89211-300",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Helena's Clínica de Estética",
+      "href": "https://www.google.com/maps/place/Helena%27s+Cl%C3%ADnica+de+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb1a1cc24a61b:0x3f7049e058110cba!8m2!3d-26.3261214!4d-48.8420139!16s%2Fg%2F11v0rz5bf9!19sChIJG6YkzKGx3pQRugwRWOBJcD8",
+      "phone": "(47) 99277-0405",
+      "address": "R. São Paulo, 2045 - Itaum, Joinville - SC, 89210-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Camile Estética feminina",
+      "href": "https://www.google.com/maps/place/Camile+Est%C3%A9tica+feminina/data=!4m7!3m6!1s0x94deb1f8d53acd1f:0x5a9dcd9ea26b8099!8m2!3d-26.3386227!4d-48.817237!16s%2Fg%2F11ry8m502b!19sChIJH8061fix3pQRmYBrop7NnVo",
+      "phone": "(47) 99665-6019",
+      "address": "R. Fátima, 207 - Sl 1 - Itaum, Joinville - SC, 89210-681",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Sétima Bela - Cabelos e Estética",
+      "href": "https://www.google.com/maps/place/S%C3%A9tima+Bela+-+Cabelos+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb134aa882af3:0x65b91a8ae69a571!8m2!3d-26.335665!4d-48.835174!16s%2Fg%2F11vzf3yst8!19sChIJ8yqIqjSx3pQRcaVprqiRWwY",
+      "phone": "(47) 99217-1539",
+      "address": "R. Benedito Novo, 249 - Itaum, Joinville - SC, 89210-430",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Vita Capelli",
+      "href": "https://www.google.com/maps/place/Vita+Capelli/data=!4m7!3m6!1s0x94deb125a2a4e165:0xb6fe1e0aed5b36a3!8m2!3d-26.3431153!4d-48.832768!16s%2Fg%2F11bv3mmvdl!19sChIJZeGkoiWx3pQRozZb7Qoe_rY",
+      "phone": "(47) 3429-4230",
+      "address": "R. Alfredo Wagner, 46 - Itaum, Joinville - SC, 89208-500",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Cláudia Gomes Micropigmentação e Estética",
+      "href": "https://www.google.com/maps/place/Cl%C3%A1udia+Gomes+Micropigmenta%C3%A7%C3%A3o+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb12a823c7e55:0x45c6e98836719517!8m2!3d-26.3363094!4d-48.8213175!16s%2Fg%2F11g1gs5wlr!19sChIJVX48giqx3pQRF5VxNojpxkU",
+      "phone": "(47) 99652-3726",
+      "address": "R. João Afonso Moreira - Itaum, Joinville - SC, 89210-155",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica de Estética Firenza",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Est%C3%A9tica+Firenza/data=!4m7!3m6!1s0x94deb7a915047fb5:0x3f679a54de7b34fa!8m2!3d-26.3661447!4d-48.8256191!16s%2Fg%2F11yxzm8qww!19sChIJtX8EFam33pQR-jR73lSaZz8",
+      "phone": "(47) 99916-0703",
+      "address": "R. dos Bioquímicos, 459 - Boehmerwald, Joinville - SC, 89235-040",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Priscila Cristina Estética",
+      "href": "https://www.google.com/maps/place/Priscila+Cristina+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaf7f62abfc19:0x3e39eda88bc91dcf!8m2!3d-26.3642878!4d-48.8268895!16s%2Fg%2F11fphbpwnk!19sChIJGfyrYn-v3pQRzx3Ji6jtOT4",
+      "phone": "(47) 98858-9208",
+      "address": "R. Marta Júlia da Conceição - Boehmerwald, Joinville - SC, 89235-508",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Janaína Estética e Beleza",
+      "href": "https://www.google.com/maps/place/Jana%C3%ADna+Est%C3%A9tica+e+Beleza/data=!4m7!3m6!1s0x94deb70271c8d751:0x78a1f409e64aad0!8m2!3d-26.3575824!4d-48.8288017!16s%2Fg%2F11lf5sbf5r!19sChIJUdfIcQK33pQR0KpknkAfigc",
+      "phone": "(47) 99135-8749",
+      "address": "R. Baturité, 91 - fundos - Boehmerwald, Joinville - SC, 89232-358",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Studio Cílios de Boneca - Jlle",
+      "href": "https://www.google.com/maps/place/Studio+C%C3%ADlios+de+Boneca+-+Jlle/data=!4m7!3m6!1s0x94deb7ac2fc4d8db:0xfc5fcdc9febc7bf5!8m2!3d-26.3678319!4d-48.8293306!16s%2Fg%2F11y4l7gj7y!19sChIJ29jEL6y33pQR9Xu8_snNX_w",
+      "phone": "(47) 99619-9417",
+      "address": "R. Afonso Moreira, 498 - Boehmerwald, Joinville - SC, 89235-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Kaiane Silva beleza e estética",
+      "href": "https://www.google.com/maps/place/Kaiane+Silva+beleza+e+est%C3%A9tica/data=!4m7!3m6!1s0x94deb707b1e0e9d9:0xed196d5c42e82441!8m2!3d-26.3593901!4d-48.8285619!16s%2Fg%2F11kcff9lxz!19sChIJ2engsQe33pQRQSToQlxtGe0",
+      "phone": "(47) 99764-9603",
+      "address": "R. João Ramalho, 139 - Boehmerwald, Joinville - SC, 89232-370",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Bianca Siementkowski",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Bianca+Siementkowski/data=!4m7!3m6!1s0x94deb79b4562b54f:0xbbafcbc9f26a41eb!8m2!3d-26.3591063!4d-48.8353985!16s%2Fg%2F11twv0mxsv!19sChIJT7ViRZu33pQR60Fq8snLr7s",
+      "phone": "(47) 99938-0488",
+      "address": "R. Cidade de Arco Verde, 252 - Boehmerwald, Joinville - SC, 89232-750",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "ESTETICLIN",
+      "href": "https://www.google.com/maps/place/ESTETICLIN/data=!4m7!3m6!1s0x94deb7edd8633a3d:0xe7d5645713563a6b!8m2!3d-26.3644609!4d-48.827148!16s%2Fg%2F11fmzz26m_!19sChIJPTpj2O233pQRazpWE1dk1ec",
+      "phone": "(47) 98827-6937",
+      "address": "R. Marta Júlia da Conceição, 138 - Boehmerwald, Joinville - SC, 89235-508",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Mais que Rubis Studio - Estética e Micropigmentação by Girlane Ferreira",
+      "href": "https://www.google.com/maps/place/Mais+que+Rubis+Studio+-+Est%C3%A9tica+e+Micropigmenta%C3%A7%C3%A3o+by+Girlane+Ferreira/data=!4m7!3m6!1s0x94deafed6802f801:0xb15dc1c82143089b!8m2!3d-26.2461199!4d-48.8041576!16s%2Fg%2F11j36dcwnn!19sChIJAfgCaO2v3pQRmwhDIcjBXbE",
+      "phone": "(47) 98465-0951",
+      "address": "R. Alois Finder, 1568 - Aventureiro, Joinville - SC, 89225-621",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Clínica Estética Vittorie",
+      "href": "https://www.google.com/maps/place/Cl%C3%ADnica+Est%C3%A9tica+Vittorie/data=!4m7!3m6!1s0x94deafdd04ee718f:0x8d5c380a69d9a4dd!8m2!3d-26.2384042!4d-48.8029364!16s%2Fg%2F11trl5b5pp!19sChIJj3HuBN2v3pQR3aTZaQo4XI0",
+      "phone": "(47) 99642-3758",
+      "address": "R. Maria Regina Klock Russi, 608 - Aventureiro, Joinville - SC, 89225-861",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Simoni Bett Estética Avançada Aventureiro",
+      "href": "https://www.google.com/maps/place/Simoni+Bett+Est%C3%A9tica+Avan%C3%A7ada+Aventureiro/data=!4m7!3m6!1s0x94deaf8782124b9b:0x4530e350cccf460c!8m2!3d-26.2470176!4d-48.8235515!16s%2Fg%2F11j281wf48!19sChIJm0sSgoev3pQRDEbPzFDjMEU",
+      "phone": "(47) 99113-6375",
+      "address": "",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Raquel Ferrari Estética",
+      "href": "https://www.google.com/maps/place/Raquel+Ferrari+Est%C3%A9tica/data=!4m7!3m6!1s0x94deb18713ba8063:0x44d046ac3ab68f3a!8m2!3d-26.2516813!4d-48.8199376!16s%2Fg%2F11r11gtb2r!19sChIJY4C6E4ex3pQROo-2OqxG0EQ",
+      "phone": "(47) 98402-0611",
+      "address": "R. Tuiuti, 2295 - Aventureiro, Joinville - SC, 89226-000",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Claudia Smith Estética facial",
+      "href": "https://www.google.com/maps/place/Claudia+Smith+Est%C3%A9tica+facial/data=!4m7!3m6!1s0x94deaf2ce8d1e421:0xb3423f63d3a1bf57!8m2!3d-26.2521278!4d-48.805111!16s%2Fg%2F11yx6qr7nx!19sChIJIeTR6Cyv3pQRV7-h02M_QrM",
+      "phone": "(47) 99644-5577",
+      "address": "Rua Willy Schossland, 1392 - Aventureiro, Joinville - SC, 89224-061",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "D.R Dayane Rossi Estética",
+      "href": "https://www.google.com/maps/place/D.R+Dayane+Rossi+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaf9960750cc9:0xdb9881f0e27e8d0d!8m2!3d-26.249188!4d-48.807764!16s%2Fg%2F11sdf1dkw1!19sChIJyQx1YJmv3pQRDY1-4vCBmNs",
+      "phone": "(47) 99773-5036",
+      "address": "R. Alois Finder, 967 - Aventureiro, Joinville - SC, 89225-620",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Fernanda Rackow Estética",
+      "href": "https://www.google.com/maps/place/Fernanda+Rackow+Est%C3%A9tica/data=!4m7!3m6!1s0x94deaf1f012f972f:0x6bdf3dbe81049ba!8m2!3d-26.2536127!4d-48.8073373!16s%2Fg%2F11zd6_btn6!19sChIJL5cvAR-v3pQRukkQ6NvzvQY",
+      "phone": "(47) 99700-8485",
+      "address": "Rua Willy Schossland, 1123 - Aventureiro, Joinville - SC, 89225-501",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Centro humanizado de estética e nutrição Realize",
+      "href": "https://www.google.com/maps/place/Centro+humanizado+de+est%C3%A9tica+e+nutri%C3%A7%C3%A3o+Realize/data=!4m7!3m6!1s0x94deafa797d96ba1:0x7721f9be6afd0624!8m2!3d-26.2578058!4d-48.8185248!16s%2Fg%2F11zkvf7nbf!19sChIJoWvZl6ev3pQRJAb9ar75IXc",
+      "phone": "(47) 99927-9483",
+      "address": "R. Rouxinol, 160 - Aventureiro, Joinville - SC, 89225-100",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Estética Gabrielly Cristine",
+      "href": "https://www.google.com/maps/place/Est%C3%A9tica+Gabrielly+Cristine/data=!4m7!3m6!1s0x94deaf3e568a9ee5:0xc90b83114c0e37b1!8m2!3d-26.2625719!4d-48.8093847!16s%2Fg%2F11l2690jpk!19sChIJ5Z6KVj6v3pQRsTcOTBGDC8k",
+      "phone": "(47) 99947-4915",
+      "address": "R. Tabatinga, 1337 - Jardim Iririú, Joinville - SC, 89224-071",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    },
+    {
+      "name": "Zenite Balsanello - Massoterapia e Estética",
+      "href": "https://www.google.com/maps/place/Zenite+Balsanello+-+Massoterapia+e+Est%C3%A9tica/data=!4m7!3m6!1s0x94deae77117ca4a1:0x8b12114e0741b5d!8m2!3d-26.2382306!4d-48.8029104!16s%2Fg%2F11c3n1tg3z!19sChIJoaR8EXeu3pQRXRt04BQhsQg",
+      "phone": "(47) 99914-2863",
+      "address": "R. Maria Regina Klock Russi, 504 - Aventureiro, Joinville - SC, 89225-861",
+      "joinville": true,
+      "closed": false,
+      "addWebsite": true
+    }
+  ]
+}
