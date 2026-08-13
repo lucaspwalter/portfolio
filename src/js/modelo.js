@@ -1,22 +1,18 @@
 const id = new URLSearchParams(location.search).get('tipo');
 const modelo = MODELOS.find(item => item.id === id) || MODELOS[0];
 const categoria = CATEGORIAS[modelo.categoria];
-const total = MODELOS.filter(item => item.categoria === modelo.categoria).length;
 
 document.title = `${modelo.nome} XXX — Demonstração`;
 document.body.className = `tema-${modelo.estilo} familia-${modelo.posicao % 6}`;
 document.documentElement.style.setProperty('--cor', modelo.cor);
 document.documentElement.style.setProperty('--fundo', modelo.fundo);
-document.documentElement.style.setProperty('--colunas', total);
-document.documentElement.style.setProperty('--indice', modelo.posicao);
-document.documentElement.style.setProperty('--posicao', `${modelo.posicao / (total - 1) * 100}%`);
 document.querySelector('.sobretitulo').textContent = `${categoria.nome} • ${modelo.nome}`;
 document.querySelector('h1').textContent = modelo.titulo;
 document.querySelector('.hero-descricao').textContent = modelo.descricao;
 document.querySelectorAll('.marca-simbolo').forEach(el => el.textContent = modelo.simbolo);
 document.querySelectorAll('.marca-texto').forEach(el => el.textContent = `${modelo.nome} XXX`);
 const imagem = document.querySelector('.hero-imagem img');
-imagem.src = `../public/assets/images/samples/categories/${categoria.imagem}`;
+imagem.src = `../public/assets/images/samples/models/${modelo.id}.webp`;
 imagem.alt = `${modelo.nome} em ambiente demonstrativo`;
 document.querySelector('.numero').textContent = String(modelo.posicao + 1).padStart(2, '0');
 document.querySelector('.sobre-marca').textContent = modelo.simbolo;

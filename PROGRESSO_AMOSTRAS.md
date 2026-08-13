@@ -1,6 +1,6 @@
 # Progresso — catálogo completo de amostras
 
-Atualizado em: 2026-08-13 — implementação publicada
+Atualizado em: 2026-08-13 — imagens individuais concluídas
 
 ## Objetivo autorizado
 
@@ -50,10 +50,10 @@ Veterinária apareceu também em Saúde na lista original; será mantida somente
 - Catálogo atual contém 7 amostras: advocacia, pet shop, mercado, clínica genérica, restaurante, academia e imobiliária.
 - Catálogo filtrável implementado com busca, 10 categorias e 47 modelos.
 - Demonstração dinâmica implementada em `demos/modelo.html?tipo=<id>`.
-- Cada modelo possui conteúdo, marca fictícia, símbolo, cor, imagem/corte e estilo próprios; seis famílias estruturais alternam navbar, hero, tipografia, cards e composição.
-- Dez imagens originais por categoria geradas e otimizadas para WebP (aprox. 1,7 MB no total).
+- Cada modelo possui conteúdo, marca fictícia, símbolo, cor, imagem e estilo próprios; seis famílias estruturais alternam navbar, hero, tipografia, cards e composição.
+- As colagens por categoria foram substituídas por 47 fotografias individuais, exclusivas e em WebP 1536 × 1024; a mesma imagem nítida aparece no catálogo e na demonstração correspondente.
 - Formulário demonstrativo, menus hambúrguer, tecla Escape e estados móveis implementados.
-- Teste Playwright concluído: 47 modelos em 10 viewports, 470 verificações; zero overflow, erro JS, falha de conteúdo ou menu.
+- Teste Playwright repetido após a troca: 47 modelos em 10 viewports, 470 verificações; zero overflow, erro JS, falha de conteúdo ou menu.
 - Viewports validados: 320, 360, 375, 390, 414, 430, 768, 1024, 1366 e 1920 px.
 - Catálogo validado em 320 px: 47 cartões, 11 filtros, zero overflow.
 - Inspeção visual feita em odontologia, oficina, pizzaria, arquitetura, manicure e hotel.

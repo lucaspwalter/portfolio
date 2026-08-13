@@ -1,8 +1,10 @@
 .hero-imagem img,
 .familia-3 .hero-imagem img {
-  width: calc(var(--colunas) * 100%);
-  max-width: none;
-  margin-left: calc(var(--indice) * -100%);
+  width: 100%;
+  max-width: 100%;
+  margin-left: 0;
+  object-fit: cover;
+  object-position: center;
 }
 
 .cartao__visual img {

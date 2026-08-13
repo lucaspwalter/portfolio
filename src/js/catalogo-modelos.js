@@ -15,11 +15,10 @@ function criarFiltros() {
 function renderizar() {
   const termo = normalizar(busca.value.trim());
   const itens = MODELOS.filter(modelo => (filtroAtivo === 'todos' || modelo.categoria === filtroAtivo) && normalizar(`${modelo.nome} ${CATEGORIAS[modelo.categoria].nome}`).includes(termo));
-  grade.innerHTML = itens.map(modelo => {
+  grade.innerHTML = itens.map((modelo, indice) => {
     const cat = CATEGORIAS[modelo.categoria];
-    const total = MODELOS.filter(item => item.categoria === modelo.categoria).length;
     return `<article class="cartao" style="--card-cor:${modelo.cor};--card-fundo:${modelo.fundo}">
-      <a class="cartao__visual" href="demos/modelo.html?tipo=${modelo.id}" aria-label="Abrir modelo ${modelo.nome}"><img src="public/assets/images/samples/catalog/${cat.imagem}" alt="Prévia de ${modelo.nome}" loading="lazy" width="1280" height="720"></a>
+      <a class="cartao__visual" href="demos/modelo.html?tipo=${modelo.id}" aria-label="Abrir modelo ${modelo.nome}"><img src="public/assets/images/samples/models/${modelo.id}.webp" alt="Prévia de ${modelo.nome}" loading="${indice < 3 ? 'eager' : 'lazy'}" width="1536" height="1024"></a>
       <div class="cartao__conteudo"><span class="cartao__tipo">${cat.nome}</span><h3>${modelo.nome} XXX</h3><p>${modelo.descricao}</p><a href="demos/modelo.html?tipo=${modelo.id}">Explorar modelo <span>↗</span></a></div>
     </article>`;
   }).join('');

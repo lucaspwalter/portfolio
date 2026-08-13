@@ -1,14 +1,14 @@
 const CATEGORIAS = {
-  saude: { nome: 'Saúde', imagem: 'saude.webp' },
-  comercio: { nome: 'Comércio', imagem: 'comercio.webp' },
-  servicos: { nome: 'Serviços', imagem: 'servicos.webp' },
-  alimentacao: { nome: 'Alimentação', imagem: 'alimentacao.webp' },
-  beleza: { nome: 'Beleza', imagem: 'beleza.webp' },
-  educacao: { nome: 'Educação', imagem: 'educacao.webp' },
-  animais: { nome: 'Animais', imagem: 'animais.webp' },
-  construcao: { nome: 'Construção', imagem: 'construcao.webp' },
-  hospedagem: { nome: 'Hospedagem e eventos', imagem: 'hospedagem-eventos.webp' },
-  fitness: { nome: 'Fitness', imagem: 'fitness.webp' }
+  saude: { nome: 'Saúde' },
+  comercio: { nome: 'Comércio' },
+  servicos: { nome: 'Serviços' },
+  alimentacao: { nome: 'Alimentação' },
+  beleza: { nome: 'Beleza' },
+  educacao: { nome: 'Educação' },
+  animais: { nome: 'Animais' },
+  construcao: { nome: 'Construção' },
+  hospedagem: { nome: 'Hospedagem e eventos' },
+  fitness: { nome: 'Fitness' }
 };
 
 const MODELOS = [
