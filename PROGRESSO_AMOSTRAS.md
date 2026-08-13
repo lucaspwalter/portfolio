@@ -1,6 +1,6 @@
 # Progresso — catálogo completo de amostras
 
-Atualizado em: 2026-08-13 — implementação concluída localmente
+Atualizado em: 2026-08-13 — implementação publicada
 
 ## Objetivo autorizado
 
@@ -57,12 +57,13 @@ Veterinária apareceu também em Saúde na lista original; será mantida somente
 - Viewports validados: 320, 360, 375, 390, 414, 430, 768, 1024, 1366 e 1920 px.
 - Catálogo validado em 320 px: 47 cartões, 11 filtros, zero overflow.
 - Inspeção visual feita em odontologia, oficina, pizzaria, arquitetura, manicure e hotel.
+- Publicação principal: commit `2ea3caf`, workflow GitHub Pages `31729761366` concluído com sucesso.
+- Produção validada em `https://lucaspwalter.github.io/portfolio/amostras.html`; catálogo, dados e imagem WebP responderam corretamente.
 
 ## Próximo passo exato
 
-1. Commit e push das mudanças.
-2. Aguardar workflow `pages-build-deployment`.
-3. Validar catálogo e modelos na URL publicada.
+1. Revisar visualmente modelos publicados quando houver novo feedback.
+2. Manter matriz Playwright após qualquer mudança estrutural ou responsiva.
 
 ## Plano de trabalho
 
@@ -71,7 +72,7 @@ Veterinária apareceu também em Saúde na lista original; será mantida somente
 - [x] Criar catálogo filtrável e arquitetura dos 47 modelos.
 - [x] Implementar todos os modelos.
 - [x] Testar todos em celulares, tablet e desktop; corrigir falhas.
-- [ ] Commit, push, GitHub Pages e validação publicada.
+- [x] Commit, push, GitHub Pages e validação publicada.
 
 ## Regra de retomada
 
