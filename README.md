@@ -1,4 +1,4 @@
-#Lucas Pereira Walter - Portfólio
+# Lucas Pereira Walter - Portfólio
 
 Um portfólio responsivo apresentando meus projetos de desenvolvimento de software e habilidades técnicas.
 
@@ -8,7 +8,7 @@ Este projeto centraliza, apresenta e organiza meus principais projetos de desenv
 
 O sistema é um portfólio pessoal estático com uma introdução profissional, seção de habilidades, lista de projetos, filtros de tecnologia, repositórios GitHub, exemplos de sites de negócios e páginas de suporte com instruções para executar cada projeto localmente.
 
-##Características
+## Características
 
 - Vitrina de projeto responsivo
 - Filtros de projetos baseados em tecnologia
@@ -28,7 +28,7 @@ O sistema é um portfólio pessoal estático com uma introdução profissional, 
 -CSS3
 - Javascript banido
 
-##Começando
+## Começando
 
 Nenhuma etapa de construção ou instalação de dependência é necessária. Clone o repositório e abra `index.html` em um navegador:
 
@@ -37,7 +37,7 @@ git clone https://github.com/lucaspwalter/portfolio.git
 portfólio de CDs
 ```
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 .
