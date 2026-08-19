@@ -1396,6 +1396,31 @@ a {
   --cor-foto-vazia: #e5e9f5;
 }
 
+:root.tema-claro .navegacao.rolada {
+  background: rgba(245, 247, 251, .92);
+}
+
+:root.tema-claro .topo__foto-area {
+  background: linear-gradient(135deg, #eef1ff 0%, #dfe5fb 45%, #f8f9ff 100%);
+}
+
+:root.tema-claro .modal-projeto__fechar {
+  background: rgba(255, 255, 255, .8);
+  color: var(--cor-texto);
+}
+
+:root.tema-claro .navegacao__links {
+  background: #f5f7fb;
+}
+
+:root.tema-claro .sobre__decoracao {
+  background: linear-gradient(145deg, rgba(124, 106, 247, .1), rgba(255, 255, 255, .92));
+}
+
+:root.tema-claro .habilidades-outras__lista span {
+  background: rgba(32, 38, 58, .05);
+}
+
 .navegacao__acoes {
   display: flex;
   align-items: center;
