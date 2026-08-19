@@ -8,8 +8,8 @@ import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 const holder = document.getElementById('railScene');
 const canvas = document.getElementById('trainCanvas');
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x7896a1);
-scene.fog = new THREE.FogExp2(0x7896a1, 0.018);
+scene.background = new THREE.Color(0x020711);
+scene.fog = new THREE.FogExp2(0x06111b, 0.017);
 
 const camera = new THREE.PerspectiveCamera(43, 1, 0.1, 180);
 camera.position.set(8.2, 3.8, 12.5);
@@ -21,13 +21,14 @@ renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 1.08;
+renderer.toneMappingExposure = 0.92;
 const environmentGenerator = new THREE.PMREMGenerator(renderer);
 scene.environment = environmentGenerator.fromScene(new RoomEnvironment(), 0.04).texture;
+scene.environmentIntensity = 0.38;
 
 const composer = new EffectComposer(renderer);
 composer.addPass(new RenderPass(scene, camera));
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(1, 1), 0.2, 0.4, 0.88));
+composer.addPass(new UnrealBloomPass(new THREE.Vector2(1, 1), 0.48, 0.55, 0.72));
 
 const mat = (color, metalness = 0.2, roughness = 0.65) => new THREE.MeshStandardMaterial({ color, metalness, roughness });
 const yellow = mat(0xd99a18, 0.72, 0.3);
@@ -67,6 +68,32 @@ ballastTexture.repeat.set(4, 60);
 const woodTexture = noiseTexture([0x2a2019, 0x453126, 0x604130, 0x1f1814]);
 woodTexture.repeat.set(6, 1);
 
+function leafTexture() {
+  const surface = document.createElement('canvas');
+  surface.width = surface.height = 192;
+  const context = surface.getContext('2d');
+  for (let leaf = 0; leaf < 95; leaf += 1) {
+    const x = 18 + Math.random() * 156;
+    const y = 18 + Math.random() * 156;
+    const width = 5 + Math.random() * 11;
+    const height = 10 + Math.random() * 19;
+    context.save();
+    context.translate(x, y);
+    context.rotate(Math.random() * Math.PI);
+    context.fillStyle = ['#214d2d', '#2d6838', '#397946', '#173a24'][leaf % 4];
+    context.beginPath();
+    context.ellipse(0, 0, width, height, 0, 0, Math.PI * 2);
+    context.fill();
+    context.restore();
+  }
+  const texture = new THREE.CanvasTexture(surface);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.anisotropy = renderer.capabilities.getMaxAnisotropy();
+  return texture;
+}
+
+const foliageCards = new THREE.MeshStandardMaterial({ map: leafTexture(), transparent: true, alphaTest: 0.18, side: THREE.DoubleSide, roughness: 1 });
+
 function mesh(geometry, material, parent, position, rotation = [0, 0, 0]) {
   const item = new THREE.Mesh(geometry, material);
   item.position.set(...position);
@@ -75,6 +102,34 @@ function mesh(geometry, material, parent, position, rotation = [0, 0, 0]) {
   item.receiveShadow = true;
   parent.add(item);
   return item;
+}
+
+function blueTrainTexture(sourceTexture) {
+  const image = sourceTexture.image;
+  if (!image?.width || !image?.height) return sourceTexture;
+  const surface = document.createElement('canvas');
+  surface.width = image.width;
+  surface.height = image.height;
+  const context = surface.getContext('2d', { willReadFrequently: true });
+  context.drawImage(image, 0, 0);
+  const pixels = context.getImageData(0, 0, surface.width, surface.height);
+  for (let offset = 0; offset < pixels.data.length; offset += 4) {
+    const red = pixels.data[offset];
+    const green = pixels.data[offset + 1];
+    const blue = pixels.data[offset + 2];
+    if (green > red * 1.12 && green > blue * 1.08 && green > 45) {
+      const light = Math.max(red, green, blue);
+      pixels.data[offset] = light * 0.1;
+      pixels.data[offset + 1] = light * 0.42;
+      pixels.data[offset + 2] = Math.min(255, light * 1.18);
+    }
+  }
+  context.putImageData(pixels, 0, 0);
+  const texture = new THREE.CanvasTexture(surface);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.flipY = false;
+  texture.anisotropy = renderer.capabilities.getMaxAnisotropy();
+  return texture;
 }
 
 const train = new THREE.Group();
@@ -150,11 +205,20 @@ carriage(-18.4, yellowDark);
 let displayedTrain = train;
 // Modelo CC0: https://opengameart.org/content/locomotive-1
 new GLTFLoader().load('public/assets/models/locomotive-cc0.glb', ({ scene: model }) => {
+  const recoloredMaps = new Map();
   model.traverse((item) => {
     if (!item.isMesh) return;
     item.castShadow = true;
     item.receiveShadow = true;
-    if (item.material) item.material.envMapIntensity = 1.35;
+    if (item.material) {
+      item.material = item.material.clone();
+      item.material.envMapIntensity = 0.9;
+      if (item.material.map) {
+        if (!recoloredMaps.has(item.material.map)) recoloredMaps.set(item.material.map, blueTrainTexture(item.material.map));
+        item.material.map = recoloredMaps.get(item.material.map);
+        item.material.needsUpdate = true;
+      }
+    }
   });
   let box = new THREE.Box3().setFromObject(model);
   const size = box.getSize(new THREE.Vector3());
@@ -180,7 +244,7 @@ new GLTFLoader().load('public/assets/models/locomotive-cc0.glb', ({ scene: model
 
 // Via e paisagem deslizam em direção à câmera: avanço fica inequívoco.
 const moving = [];
-const grassMaterial = new THREE.MeshStandardMaterial({ map: grassTexture, color: 0x8cad85, roughness: 1 });
+const grassMaterial = new THREE.MeshStandardMaterial({ map: grassTexture, color: 0x4f7849, roughness: 1 });
 const ballastMaterial = new THREE.MeshStandardMaterial({ map: ballastTexture, color: 0xb0aaa0, roughness: 0.98 });
 const sleeperMaterial = new THREE.MeshStandardMaterial({ map: woodTexture, color: 0x8b6b53, roughness: 0.9 });
 const ground = mesh(new THREE.PlaneGeometry(110, 220, 1, 1), grassMaterial, scene, [0, -0.08, -38], [-Math.PI / 2, 0, 0]);
@@ -213,30 +277,39 @@ for (let z = -95; z < 40; z += 10) {
   moving.push(rock);
 }
 
-const treeColors = [mat(0x173a29, 0, 0.96), mat(0x214b30, 0, 0.94), mat(0x2c5b38, 0, 0.92)];
-for (let z = -105; z < 42; z += 6.5) {
+const treeColors = [mat(0x153c25, 0, 1), mat(0x20532f, 0, 0.98), mat(0x2b6638, 0, 0.96), mat(0x12321f, 0, 1)];
+for (let z = -108; z < 44; z += 4.6) {
   for (const side of [-1, 1]) {
     const tree = new THREE.Group();
-    const distance = 7.5 + Math.random() * 18;
-    const height = 0.72 + Math.random() * 0.75;
+    const distance = 6.8 + Math.random() * 22;
+    const height = 0.68 + Math.random() * 0.72;
     tree.position.set(side * distance, 0, z + Math.random() * 3);
     scene.add(tree);
-    mesh(new THREE.CylinderGeometry(0.16 * height, 0.28 * height, 3.4 * height, 8), rust, tree, [0, 1.7 * height, 0]);
-    mesh(new THREE.ConeGeometry(2.15 * height, 5.4 * height, 9), treeColors[Math.floor(Math.random() * treeColors.length)], tree, [0, 5 * height, 0]);
-    mesh(new THREE.ConeGeometry(1.7 * height, 4.2 * height, 9), treeColors[Math.floor(Math.random() * treeColors.length)], tree, [0, 7.1 * height, 0]);
+    mesh(new THREE.CylinderGeometry(0.14 * height, 0.32 * height, 4.5 * height, 10), rust, tree, [0, 2.25 * height, 0]);
+    for (const branch of [-1, 1]) {
+      mesh(new THREE.CylinderGeometry(0.06 * height, 0.11 * height, 2.5 * height, 7), rust, tree, [branch * 0.72 * height, 4.1 * height, 0], [0, 0, branch * 0.72]);
+    }
+    const crown = [[0, 5.8, 0, 2.35], [-1.25, 5.2, 0.25, 1.65], [1.2, 5.35, -0.25, 1.75], [-0.55, 7.05, -0.35, 1.75], [0.85, 6.8, 0.5, 1.55], [0, 8.1, 0, 1.25]];
+    crown.forEach(([x, y, crownZ, radius], index) => {
+      const leaves = mesh(new THREE.IcosahedronGeometry(radius * height, 2), treeColors[(index + Math.floor(Math.random() * treeColors.length)) % treeColors.length], tree, [x * height, y * height, crownZ * height]);
+      leaves.scale.set(1 + Math.random() * 0.2, 0.82 + Math.random() * 0.28, 0.9 + Math.random() * 0.18);
+    });
+    for (const rotation of [0, Math.PI / 3, -Math.PI / 3]) {
+      mesh(new THREE.PlaneGeometry(5.6 * height, 5.2 * height), foliageCards, tree, [0, 6.25 * height, 0], [0, rotation, 0]);
+    }
     tree.rotation.y = Math.random() * Math.PI;
     tree.userData.loop = 153;
     moving.push(tree);
   }
 }
 
-const bladeMaterial = new THREE.MeshStandardMaterial({ color: 0x507945, side: THREE.DoubleSide, roughness: 1 });
-for (let z = -102; z < 44; z += 4.5) {
+const bladeMaterial = new THREE.MeshStandardMaterial({ color: 0x5f8d4b, side: THREE.DoubleSide, roughness: 1 });
+for (let z = -105; z < 46; z += 2.8) {
   for (const side of [-1, 1]) {
     const patch = new THREE.Group();
-    patch.position.set(side * (3.6 + Math.random() * 4.8), 0, z);
+    patch.position.set(side * (3.35 + Math.random() * 11), 0, z);
     scene.add(patch);
-    for (let blade = 0; blade < 14; blade += 1) {
+    for (let blade = 0; blade < 20; blade += 1) {
       const height = 0.22 + Math.random() * 0.52;
       mesh(new THREE.PlaneGeometry(0.07, height), bladeMaterial, patch, [(Math.random() - 0.5) * 2.8, height / 2, (Math.random() - 0.5) * 2.5], [0, Math.random() * Math.PI, (Math.random() - 0.5) * 0.22]);
     }
@@ -248,9 +321,32 @@ for (let z = -102; z < 44; z += 4.5) {
   }
 }
 
-scene.add(new THREE.HemisphereLight(0xd8f2ff, 0x263a28, 2.2));
-scene.add(new THREE.AmbientLight(0xffffff, 0.3));
-const moon = new THREE.DirectionalLight(0xc4deea, 2.5);
+for (let z = -92; z < 42; z += 19) {
+  const lampPost = new THREE.Group();
+  lampPost.position.set(z % 38 ? 5.3 : -5.3, 0, z);
+  scene.add(lampPost);
+  mesh(new THREE.CylinderGeometry(0.07, 0.12, 5.8, 10), black, lampPost, [0, 2.9, 0]);
+  mesh(new THREE.BoxGeometry(1.25, 0.08, 0.08), black, lampPost, [lampPost.position.x > 0 ? -0.55 : 0.55, 5.65, 0]);
+  const bulb = new THREE.Mesh(new THREE.SphereGeometry(0.13, 14, 10), new THREE.MeshStandardMaterial({ color: 0xffdf8a, emissive: 0xffa928, emissiveIntensity: 9 }));
+  bulb.position.set(lampPost.position.x > 0 ? -1.12 : 1.12, 5.54, 0);
+  lampPost.add(bulb);
+  const light = new THREE.PointLight(0xffb52f, 34, 19, 1.7);
+  light.position.copy(bulb.position);
+  light.castShadow = true;
+  lampPost.add(light);
+  lampPost.userData.loop = 153;
+  moving.push(lampPost);
+}
+
+const starsGeometry = new THREE.BufferGeometry();
+const stars = [];
+for (let index = 0; index < 700; index += 1) stars.push((Math.random() - 0.5) * 160, 18 + Math.random() * 55, -110 + Math.random() * 170);
+starsGeometry.setAttribute('position', new THREE.Float32BufferAttribute(stars, 3));
+scene.add(new THREE.Points(starsGeometry, new THREE.PointsMaterial({ color: 0xaccde8, size: 0.08, transparent: true, opacity: 0.75 })));
+
+scene.add(new THREE.HemisphereLight(0x264b78, 0x07110b, 0.72));
+scene.add(new THREE.AmbientLight(0x18304b, 0.24));
+const moon = new THREE.DirectionalLight(0x7ba7da, 1.45);
 moon.position.set(-8, 15, 8);
 moon.castShadow = true;
 moon.shadow.mapSize.set(2048, 2048);
@@ -260,7 +356,7 @@ moon.shadow.camera.top = 24;
 moon.shadow.camera.bottom = -24;
 moon.shadow.bias = -0.00035;
 scene.add(moon);
-const warm = new THREE.DirectionalLight(0xffc45f, 1.9);
+const warm = new THREE.DirectionalLight(0xffb534, 1.35);
 warm.position.set(10, 7, -7);
 scene.add(warm);
 
