@@ -13,7 +13,7 @@ const slug = new URLSearchParams(location.search).get('projeto') || 'jarvis';
 const projeto = projetos[slug] || projetos.jarvis;
 const setText = (id, value) => { document.getElementById(id).textContent = value; };
 const visuais = {
-  jarvis: '<div class="hud-core"><i></i><i></i><i></i><b>JARVIS<br><small>LISTENING</small></b></div><div class="hud-readout">VOICE CHANNEL / LOCAL<br>WAKE WORD DETECTED<br><em>●●●●●●●●</em></div>',
+  jarvis: '<canvas class="jarvis-canvas" aria-label="Núcleo tridimensional interativo do JARVIS"></canvas><div class="jarvis-interface" aria-hidden="true"><div class="jarvis-reticle"><i></i><i></i><i></i><span>CORE<br><b>ONLINE</b></span></div><div class="jarvis-scan"></div><div class="jarvis-telemetry jarvis-telemetry--left"><span>VOICE MATRIX</span><b id="jarvisVoice">STANDBY</b><small>LOCAL CHANNEL 07</small></div><div class="jarvis-telemetry jarvis-telemetry--right"><span>NEURAL LOAD</span><b id="jarvisLoad">42.8%</b><small>OLLAMA / WHISPER</small></div><div class="jarvis-command">DRAG TO ROTATE <i>/</i> SCROLL TO CHARGE <i>/</i> CLICK CORE</div></div>',
   rail: '<div class="rail-map"><i class="train">▰</i><i class="station s1">01</i><i class="station s2">02</i><i class="station s3">03</i><span class="rail-line r1"></span><span class="rail-line r2"></span></div><div class="rail-label">LINE 01 / SERVICE ACTIVE</div>',
   turnover: '<div class="bars"><i style="--h:82%"></i><i style="--h:54%"></i><i style="--h:68%"></i><i style="--h:38%"></i><i style="--h:25%"></i><i style="--h:47%"></i></div><div class="chart-axis">RISK SCORE <b>LOW</b><b>HIGH</b></div>',
   pricewatch: '<div class="ticker"><span>RTX / TARGET R$ 2.499</span><b>-12.8%</b></div><div class="ticker-line"><i></i></div><div class="price-alert">ALERT TRIGGERED <strong>WHATSAPP READY</strong></div>',
@@ -61,6 +61,7 @@ const atualizarNarrativa = () => {
 window.addEventListener('scroll', atualizarNarrativa, { passive: true });
 atualizarNarrativa();
 if (projeto.visual === 'jarvis') {
+  import('./jarvis-3d.js?v=20260819a').then(({ iniciarJarvis3D }) => iniciarJarvis3D(visual));
   visual.addEventListener('click', () => {
     const status = document.getElementById('consoleStatus');
     status.textContent = status.textContent === 'PROCESSING' ? projeto.status : 'PROCESSING';
