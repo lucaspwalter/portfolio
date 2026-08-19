@@ -3,6 +3,7 @@ import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
 import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 
 const holder = document.getElementById('railScene');
 const canvas = document.getElementById('trainCanvas');
@@ -20,11 +21,13 @@ renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 1.35;
+renderer.toneMappingExposure = 1.08;
+const environmentGenerator = new THREE.PMREMGenerator(renderer);
+scene.environment = environmentGenerator.fromScene(new RoomEnvironment(), 0.04).texture;
 
 const composer = new EffectComposer(renderer);
 composer.addPass(new RenderPass(scene, camera));
-composer.addPass(new UnrealBloomPass(new THREE.Vector2(1, 1), 0.28, 0.45, 0.82));
+composer.addPass(new UnrealBloomPass(new THREE.Vector2(1, 1), 0.2, 0.4, 0.88));
 
 const mat = (color, metalness = 0.2, roughness = 0.65) => new THREE.MeshStandardMaterial({ color, metalness, roughness });
 const yellow = mat(0xd99a18, 0.72, 0.3);
@@ -126,7 +129,7 @@ new GLTFLoader().load('public/assets/models/locomotive-cc0.glb', ({ scene: model
   });
   let box = new THREE.Box3().setFromObject(model);
   const size = box.getSize(new THREE.Vector3());
-  const scale = 13 / Math.max(size.x, size.z);
+  const scale = 16 / Math.max(size.x, size.z);
   model.scale.setScalar(scale);
   if (size.x > size.z) model.rotation.y = Math.PI / 2;
   model.updateMatrixWorld(true);
@@ -139,6 +142,9 @@ new GLTFLoader().load('public/assets/models/locomotive-cc0.glb', ({ scene: model
   wrapper.position.set(0, 0, 0.5);
   wrapper.add(model);
   scene.add(wrapper);
+  const rim = new THREE.PointLight(0xffc15a, 28, 18, 1.7);
+  rim.position.set(-2.7, 3.6, -1.5);
+  wrapper.add(rim);
   train.visible = false;
   displayedTrain = wrapper;
 });
@@ -182,19 +188,27 @@ for (let z = -100; z < 35; z += 14) {
   moving.push(tree);
 }
 
-scene.add(new THREE.HemisphereLight(0xd8f2ff, 0x263a28, 3.4));
-scene.add(new THREE.AmbientLight(0xffffff, 0.65));
-const moon = new THREE.DirectionalLight(0xc4deea, 3.2);
+scene.add(new THREE.HemisphereLight(0xd8f2ff, 0x263a28, 2.2));
+scene.add(new THREE.AmbientLight(0xffffff, 0.3));
+const moon = new THREE.DirectionalLight(0xc4deea, 2.5);
 moon.position.set(-8, 15, 8);
 moon.castShadow = true;
 moon.shadow.mapSize.set(2048, 2048);
+moon.shadow.camera.left = -24;
+moon.shadow.camera.right = 24;
+moon.shadow.camera.top = 24;
+moon.shadow.camera.bottom = -24;
+moon.shadow.bias = -0.00035;
 scene.add(moon);
-const warm = new THREE.DirectionalLight(0xffc45f, 3.1);
+const warm = new THREE.DirectionalLight(0xffc45f, 1.9);
 warm.position.set(10, 7, -7);
 scene.add(warm);
 
 let level = 1;
 let dragging = false;
+let orbitYaw = 0.58;
+let orbitPitch = 0.17;
+let orbitRadius = 15.5;
 const speeds = [42, 86, 132];
 const labels = ['MANOBRA', 'CRUZEIRO', 'EXPRESSO'];
 document.getElementById('throttle').addEventListener('click', () => {
@@ -213,9 +227,12 @@ holder.addEventListener('pointerdown', (event) => {
 holder.addEventListener('pointerup', () => { dragging = false; });
 holder.addEventListener('pointermove', (event) => {
   if (!dragging) return;
-  camera.position.x = THREE.MathUtils.clamp(camera.position.x + event.movementX * 0.03, -12, 12);
-  camera.position.y = THREE.MathUtils.clamp(camera.position.y - event.movementY * 0.022, 2.7, 10);
+  orbitYaw -= event.movementX * 0.009;
+  orbitPitch = THREE.MathUtils.clamp(orbitPitch - event.movementY * 0.006, -0.08, 0.62);
 });
+holder.addEventListener('wheel', (event) => {
+  orbitRadius = THREE.MathUtils.clamp(orbitRadius + event.deltaY * 0.008, 10.5, 23);
+}, { passive: true });
 
 document.querySelectorAll('.station').forEach((station, index) => station.addEventListener('click', () => {
   document.querySelectorAll('.station').forEach((item) => item.classList.remove('is-active'));
@@ -248,6 +265,12 @@ renderer.setAnimationLoop(() => {
     if (item.userData.wheel) item.rotation.x -= travel * 1.9;
   });
   displayedTrain.position.y = Math.sin(performance.now() * 0.009 * velocity) * 0.018;
-  camera.lookAt(0, 1.45, -3.5);
+  const focusZ = displayedTrain.position.z - 1.4;
+  camera.position.set(
+    Math.sin(orbitYaw) * orbitRadius,
+    2.15 + Math.sin(orbitPitch) * orbitRadius,
+    focusZ + Math.cos(orbitYaw) * orbitRadius,
+  );
+  camera.lookAt(0, 1.55, focusZ);
   composer.render();
 });
