@@ -17,8 +17,15 @@ document.addEventListener('click', event => {
     return;
   }
 
+  const transicao = document.createElement('div');
+  transicao.className = 'transicao-tech';
+  transicao.setAttribute('aria-hidden', 'true');
+  document.body.appendChild(transicao);
   document.body.classList.add('pagina-saindo');
-  window.setTimeout(() => { window.location.href = destino.href; }, 380);
+  window.setTimeout(() => { window.location.href = destino.href; }, 620);
 });
 
-window.addEventListener('pageshow', () => document.body.classList.remove('pagina-saindo'));
+window.addEventListener('pageshow', () => {
+  document.body.classList.remove('pagina-saindo');
+  document.querySelector('.transicao-tech')?.remove();
+});

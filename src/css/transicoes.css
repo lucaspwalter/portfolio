@@ -24,11 +24,49 @@ body::after {
 }
 
 body.pagina-saindo::after {
-  animation: paginaCobrir 0.42s cubic-bezier(.65, 0, .35, 1) forwards;
+  animation: paginaCobrir 0.62s cubic-bezier(.65, 0, .35, 1) forwards;
 }
 
-body.pagina-saindo > *:not(script) {
+body.pagina-saindo > *:not(script):not(.transicao-tech) {
   animation: paginaConteudoSair 0.3s ease forwards;
+}
+
+.transicao-tech {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  overflow: hidden;
+  pointer-events: none;
+  background:
+    linear-gradient(rgba(167,139,250,.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(167,139,250,.12) 1px, transparent 1px),
+    radial-gradient(circle at 50% 50%, rgba(124,106,247,.32), #07080d 62%);
+  background-size: 34px 34px, 34px 34px, 100% 100%;
+  clip-path: inset(0 0 100% 0);
+  animation: portalTech .62s cubic-bezier(.76,0,.24,1) forwards;
+}
+
+.transicao-tech::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, transparent 0 5px, rgba(255,255,255,.08) 6px 7px);
+  opacity: .45;
+  animation: scanTech .18s linear infinite;
+}
+
+.transicao-tech::after {
+  content: 'CARREGANDO INTERFACE  //  100%';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: #d8d5ff;
+  font: 500 .7rem 'Orbitron', 'DM Mono', monospace;
+  letter-spacing: .18em;
+  white-space: nowrap;
+  transform: translate(-50%, -50%);
+  text-shadow: 0 0 18px rgba(167,139,250,.9);
+  animation: textoPortal .62s ease both;
 }
 
 @keyframes paginaEntrar {
@@ -93,6 +131,15 @@ body.pagina-saindo > *:not(script) {
   from { transform: translateX(-102%); }
   to { transform: translateX(0); }
 }
+
+@keyframes portalTech {
+  0% { clip-path: inset(0 0 100% 0); }
+  45% { clip-path: inset(0 0 0 0); }
+  100% { clip-path: inset(0 0 0 0); }
+}
+
+@keyframes scanTech { to { transform: translateY(7px); } }
+@keyframes textoPortal { from { opacity: 0; letter-spacing: .5em; } 35% { opacity: 1; } to { opacity: 1; letter-spacing: .18em; } }
 
 @keyframes paginaConteudoSair {
   to { opacity: .5; transform: translateY(-8px); }
@@ -205,5 +252,8 @@ body.pagina-saindo > *:not(script) {
   .secao__rotulo,
   .projeto-card.visivel .projeto-card__imagem::before { animation: none; }
   body.pagina-saindo::after,
-  body.pagina-saindo > *:not(script) { animation-duration: .01ms; }
+  body.pagina-saindo > *:not(script):not(.transicao-tech),
+  .transicao-tech,
+  .transicao-tech::before,
+  .transicao-tech::after { animation-duration: .01ms; }
 }
