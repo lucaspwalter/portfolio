@@ -20,7 +20,7 @@ const visuais = {
   barbershop: '<div class="agenda"><span>09:00 <b>Lucas / corte</b></span><span>10:30 <b>Marcos / barba</b></span><span>11:00 <b>Fila de espera</b></span><span>13:30 <b>João / combo</b></span></div><div class="scissors">✂</div>',
   scraper: '<div class="terminal-lines"><span>&gt; searching joinville</span><span>&gt; technology / administrative</span><span class="ok">&gt; 42 matches classified</span><span>&gt; ranking opportunities_</span></div><div class="terminal-pulse"></div>',
   support: '<div class="chat"><span class="chat-in">Olá, preciso de ajuda.</span><span class="chat-out">Estou verificando seu atendimento.</span><span class="chat-in">Obrigado!</span></div><div class="live-dot">● LIVE / WEBSOCKET</div>',
-  brasilium: '<div class="browser-window"><header><i></i><i></i><i></i><span>brasilium://personal</span></header><div class="browser-body"><strong>LESS NOISE.<br>MORE CONTROL.</strong><small>memory guard / active</small><em></em></div></div>'
+  brasilium: '<canvas class="brasilium-canvas" aria-label="Navegador tridimensional interativo Brasilium"></canvas><div class="brasilium-overlay" aria-hidden="true"><header><span class="brasilium-brand"><i></i> BRASILIUM</span><span id="brasiliumMode">FOCUS MODE</span></header><div class="brasilium-address"><span>◇</span><b id="brasiliumUrl">brasilium://new-world</b><i>SECURE</i></div><div class="brasilium-copy"><small>PERSONAL BROWSER / 008</small><strong>EXPLORE<br>WITHOUT<br>THE NOISE.</strong></div><div class="brasilium-tabs"><span class="is-selected">01 / FOCUS</span><span>02 / MEMORY</span><span>03 / SPEED</span></div><div class="brasilium-hint">MOVE TO STEER · CLICK TO SWITCH SPACE</div></div>'
 };
 document.title = `${projeto.nome} — Projeto`;
 document.body.dataset.tema = projeto.tema;
@@ -66,4 +66,7 @@ if (projeto.visual === 'jarvis') {
     const status = document.getElementById('consoleStatus');
     status.textContent = status.textContent === 'PROCESSING' ? projeto.status : 'PROCESSING';
   });
+}
+if (projeto.visual === 'brasilium') {
+  import('./brasilium-3d.js?v=20260819a').then(({ iniciarBrasilium3D }) => iniciarBrasilium3D(visual));
 }
