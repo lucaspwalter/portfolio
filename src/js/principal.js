@@ -300,6 +300,7 @@ if (ponteiroPreciso && podeAnimar) {
   cursor.className = 'cursor-orbe';
   document.body.append(cursor);
   document.body.classList.add('cursor-imersivo');
+  document.documentElement.classList.add('cursor-imersivo');
   let cursorX = -100;
   let cursorY = -100;
   let alvoCursorX = -100;
@@ -341,3 +342,58 @@ document.querySelectorAll('.projeto-card').forEach(card => {
   });
   card.addEventListener('pointerleave', () => { card.style.removeProperty('transform'); });
 });
+
+const bootScreen = document.getElementById('bootScreen');
+const bootBarra = document.getElementById('bootBarra');
+const bootStatus = document.getElementById('bootStatus');
+const bootTerminal = document.getElementById('bootTerminal');
+const bootUnlock = document.getElementById('bootUnlock');
+const bootSkip = document.getElementById('bootSkip');
+
+const sairDoBoot = () => {
+  sessionStorage.setItem('portfolio-booted', '1');
+  document.body.classList.remove('bootando');
+  bootScreen.classList.add('sair');
+  window.setTimeout(() => bootScreen.remove(), 800);
+};
+
+if (sessionStorage.getItem('portfolio-booted') === '1') {
+  bootScreen.remove();
+} else {
+  document.body.classList.add('bootando');
+  let carregamento = 0;
+  const mensagens = ['carregando interface...', 'sincronizando projetos...', 'preparando experiências...', 'sistema pronto. aguardando acesso.'];
+  const progressoBoot = window.setInterval(() => {
+    carregamento = Math.min(100, carregamento + 2);
+    bootBarra.style.width = `${carregamento}%`;
+    const indice = Math.min(mensagens.length - 1, Math.floor(carregamento / 26));
+    bootStatus.textContent = carregamento < 100 ? mensagens[indice] : 'sistema pronto.';
+    bootTerminal.textContent = carregamento < 100 ? `módulo ${String(indice + 1).padStart(2, '0')} / 04 · online` : 'acesso manual necessário · arraste o controle';
+    if (carregamento === 100) {
+      window.clearInterval(progressoBoot);
+      bootUnlock.disabled = false;
+    }
+  }, 28);
+
+  let arrastando = false;
+  const moverDesbloqueio = evento => {
+    if (!arrastando || bootUnlock.disabled) return;
+    const caixa = bootUnlock.getBoundingClientRect();
+    const limite = caixa.width - 70;
+    const deslocamento = Math.max(0, Math.min(limite, evento.clientX - caixa.left - 34));
+    bootUnlock.querySelector('.boot-unlock__controle').style.transform = `translateX(${deslocamento}px)`;
+    bootUnlock.querySelector('span:last-child').style.opacity = String(Math.max(.15, 1 - deslocamento / limite * 1.4));
+    if (deslocamento >= limite * .9) sairDoBoot();
+  };
+  bootUnlock.addEventListener('pointerdown', evento => {
+    if (bootUnlock.disabled) return;
+    arrastando = true;
+    bootUnlock.setPointerCapture(evento.pointerId);
+  });
+  bootUnlock.addEventListener('pointermove', moverDesbloqueio);
+  bootUnlock.addEventListener('pointerup', () => { arrastando = false; });
+  bootUnlock.addEventListener('keydown', evento => {
+    if (!bootUnlock.disabled && (evento.key === 'Enter' || evento.key === ' ')) sairDoBoot();
+  });
+  bootSkip.addEventListener('click', sairDoBoot);
+}

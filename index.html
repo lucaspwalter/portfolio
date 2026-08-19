@@ -21,6 +21,21 @@
 </head>
 <body>
 <!-- body -->
+  <div class="boot-screen" id="bootScreen">
+    <div class="boot-screen__grade" aria-hidden="true"></div>
+    <div class="boot-screen__conteudo">
+      <span class="boot-screen__marca">LPW / PORTFOLIO OS</span>
+      <div class="boot-screen__orbito" aria-hidden="true"><span></span></div>
+      <p class="boot-screen__status" id="bootStatus">Carregando interface...</p>
+      <div class="boot-screen__barra"><span id="bootBarra"></span></div>
+      <div class="boot-screen__terminal" id="bootTerminal" aria-live="polite">conectando módulos visuais...</div>
+      <button class="boot-unlock" id="bootUnlock" type="button" disabled>
+        <span class="boot-unlock__controle">↔</span>
+        <span>Arraste para desbloquear</span>
+      </button>
+      <button class="boot-skip" id="bootSkip" type="button">Entrar direto</button>
+    </div>
+  </div>
   <nav class="navegacao" id="navegacao">
     <div class="navegacao__logo">lucas<span class="destaque">.</span>dev</div>
     <div class="navegacao__acoes" aria-label="Controles do site">
