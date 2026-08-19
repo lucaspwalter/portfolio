@@ -11,7 +11,7 @@ document.querySelectorAll('[data-command]').forEach(button=>button.addEventListe
 
 const holder=document.getElementById('reactor'),canvas=document.getElementById('jarvisScene'),trigger=document.getElementById('ativarJarvis');
 const scene=new THREE.Scene();scene.fog=new THREE.FogExp2(0x050506,.06);const camera=new THREE.PerspectiveCamera(46,1,.1,60);camera.position.z=8.2;
-const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:true,powerPreference:'high-performance'});renderer.setPixelRatio(Math.min(devicePixelRatio,innerWidth<800?1.3:2));renderer.outputColorSpace=THREE.SRGBColorSpace;
+const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:true,premultipliedAlpha:false,powerPreference:'high-performance'});renderer.setClearColor(0x050506,0);renderer.setPixelRatio(Math.min(devicePixelRatio,innerWidth<800?1.3:2));renderer.outputColorSpace=THREE.SRGBColorSpace;
 const composer=new EffectComposer(renderer);composer.addPass(new RenderPass(scene,camera));const bloom=new UnrealBloomPass(new THREE.Vector2(1,1),1.8,.55,.08);composer.addPass(bloom);
 const red=new THREE.MeshStandardMaterial({color:0xff3027,emissive:0xa40803,emissiveIntensity:3,metalness:.8,roughness:.16});const gold=new THREE.MeshStandardMaterial({color:0xffc857,emissive:0x7a3c00,emissiveIntensity:2.2,metalness:.75,roughness:.2});
 const assembly=new THREE.Group();scene.add(assembly);const core=new THREE.Mesh(new THREE.IcosahedronGeometry(1.12,5),red);assembly.add(core);const cage=new THREE.Mesh(new THREE.DodecahedronGeometry(1.72,1),new THREE.MeshBasicMaterial({color:0xff5b52,wireframe:true,transparent:true,opacity:.35}));assembly.add(cage);
