@@ -373,6 +373,7 @@ a {
 }
 
 .topo__indicador-scroll {
+  display: none;
   position: absolute;
   bottom: 2.5rem;
   left: 50%;
