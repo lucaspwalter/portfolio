@@ -352,9 +352,10 @@ const bootSkip = document.getElementById('bootSkip');
 
 const sairDoBoot = () => {
   sessionStorage.setItem('portfolio-booted', '1');
+  document.body.classList.add('site-desbloqueado');
   document.body.classList.remove('bootando');
   bootScreen.classList.add('sair');
-  window.setTimeout(() => bootScreen.remove(), 800);
+  window.setTimeout(() => bootScreen.remove(), 1100);
 };
 
 const repetirBoot = new URLSearchParams(window.location.search).get('boot') === 'show';

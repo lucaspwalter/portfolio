@@ -1786,7 +1786,29 @@ body.cursor-imersivo button { cursor: none; }
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+  transform: scale(1.06);
+  clip-path: circle(0% at 50% 50%);
+  filter: blur(8px);
+  transition: opacity .95s ease, visibility .95s ease, transform .95s cubic-bezier(.2,.8,.2,1), clip-path .95s cubic-bezier(.76,0,.24,1), filter .95s ease;
 }
+
+.boot-screen.sair::after {
+  opacity: .9;
+  background: repeating-linear-gradient(0deg, transparent 0 7px, rgba(167,139,250,.5) 8px 9px);
+  animation: bootScanSaida .75s linear infinite;
+}
+
+body.site-desbloqueado > nav,
+body.site-desbloqueado > main,
+body.site-desbloqueado > .progresso-pagina {
+  animation: siteDesbloquear .95s cubic-bezier(.2,.8,.2,1) both;
+}
+
+@keyframes siteDesbloquear {
+  from { opacity: 0; transform: translateY(18px); filter: blur(5px); }
+  to { opacity: 1; transform: none; filter: none; }
+}
+@keyframes bootScanSaida { to { background-position: 0 16px; } }
 
 body.bootando { overflow: hidden; }
 
