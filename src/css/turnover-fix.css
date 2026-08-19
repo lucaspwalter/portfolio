@@ -3,3 +3,4 @@
 .chart>div{display:flex;align-items:flex-end;justify-content:space-between;gap:6px;width:14%;height:100%}.chart i,.chart i:nth-child(1),.chart i:nth-child(2),.chart i:nth-child(3){position:static;flex:1 1 0;width:auto;margin:0;height:var(--high)}.chart i:nth-child(2){height:var(--medium)}.chart i:nth-child(3){height:var(--low)}
 .chart>div{min-width:78px;max-width:120px}.chart-card footer{flex-wrap:wrap;align-items:center;gap:1rem 1.4rem}.chart-card footer span{display:inline-flex;align-items:center;white-space:nowrap}
 @media(max-width:800px){.chart>div{min-width:0;max-width:none}}
+.chart>div{flex-direction:row!important}.chart i,.chart i:nth-child(1),.chart i:nth-child(2),.chart i:nth-child(3){flex:0 0 30%!important;width:30%!important}.chart-card footer span{gap:.35rem}
