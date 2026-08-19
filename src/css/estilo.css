@@ -1922,7 +1922,7 @@ html.cursor-imersivo button { cursor: none !important; }
 .boot-screen__status { margin-top: 8rem; color: #d4d7eb; font: .85rem var(--fonte-tecnica); }
 .boot-screen__barra { margin: .7rem 0 .65rem; background: #171a28; }
 .boot-screen__terminal { margin-bottom: 1rem; color: #69718e; font-family: var(--fonte-tecnica); }
-.boot-unlock { max-width: 390px; height: 3.2rem; padding-right: 1rem; background: linear-gradient(90deg, rgba(124,106,247,.2) var(--progresso, 0%), rgba(255,255,255,.04) var(--progresso, 0%)); font-family: var(--fonte-tecnica); touch-action: none; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease; }
+.boot-unlock { position: relative; overflow: hidden; max-width: 390px; height: 3.2rem; padding-right: 1rem; background: linear-gradient(90deg, rgba(124,106,247,.2) var(--progresso, 0%), rgba(255,255,255,.04) var(--progresso, 0%)); font-family: var(--fonte-tecnica); touch-action: none; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease; }
 .boot-unlock:not(:disabled):hover { border-color: rgba(167,139,250,.7); box-shadow: 0 0 28px rgba(124,106,247,.2); }
 .boot-unlock.arrastando { border-color: #a78bfa; box-shadow: 0 0 34px rgba(124,106,247,.35); }
 .boot-unlock__controle { width: 2.45rem; height: 2.45rem; transition: transform .12s cubic-bezier(.2,.8,.2,1), box-shadow .2s ease; }
