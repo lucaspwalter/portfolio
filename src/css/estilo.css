@@ -1326,3 +1326,44 @@ a {
     font-size: 0.8rem;
   }
 }
+
+@media (max-width: 760px) {
+  .topo {
+    padding: 5rem 1rem 0;
+  }
+
+  .topo__conteudo {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .topo__titulo {
+    max-width: 100%;
+    font-size: clamp(2rem, 9vw, 3rem);
+    letter-spacing: -1px;
+    overflow-wrap: anywhere;
+  }
+
+  .topo__subtitulo {
+    max-width: 100%;
+    font-size: 0.95rem;
+  }
+
+  .topo__acoes {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .topo__acoes .botao {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .topo__indicador-scroll {
+    display: none;
+  }
+
+  .botao--primario::after {
+    display: none;
+  }
+}
