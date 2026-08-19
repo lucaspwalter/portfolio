@@ -362,7 +362,7 @@ const sairDoBoot = () => {
   window.setTimeout(() => {
     bootScreen.remove();
     transicaoDesbloqueio.remove();
-  }, 1100);
+  }, 1900);
 };
 
 const repetirBoot = (new URLSearchParams(window.location.search).get('boot') || '').startsWith('show');

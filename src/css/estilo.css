@@ -1789,7 +1789,7 @@ body.cursor-imersivo button { cursor: none; }
   transform: translateY(-2%);
   clip-path: inset(0 0 100% 0);
   filter: blur(5px);
-  transition: opacity .95s ease, visibility .95s ease, transform .95s cubic-bezier(.2,.8,.2,1), clip-path .95s cubic-bezier(.76,0,.24,1), filter .95s ease;
+  transition: opacity 1.7s ease, visibility 1.7s ease, transform 1.7s cubic-bezier(.2,.8,.2,1), clip-path 1.7s cubic-bezier(.76,0,.24,1), filter 1.7s ease;
 }
 
 .boot-screen.sair::after {
@@ -1801,7 +1801,7 @@ body.cursor-imersivo button { cursor: none; }
 body.site-desbloqueado > nav,
 body.site-desbloqueado > main,
 body.site-desbloqueado > .progresso-pagina {
-  animation: siteDesbloquear .95s cubic-bezier(.2,.8,.2,1) both;
+  animation: siteDesbloquear 1.7s cubic-bezier(.2,.8,.2,1) both;
 }
 
 @keyframes siteDesbloquear {
@@ -1815,9 +1815,9 @@ body.site-desbloqueado > .progresso-pagina {
   inset: 0;
   z-index: 2001;
   pointer-events: none;
-  background: linear-gradient(rgba(0,255,156,.07) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,156,.07) 1px, transparent 1px), #030806;
+  background: linear-gradient(rgba(124,106,247,.08) 1px, transparent 1px), linear-gradient(90deg, rgba(124,106,247,.08) 1px, transparent 1px), #07080d;
   background-size: 32px 32px;
-  animation: portalDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
+  animation: portalDesbloqueio 1.8s cubic-bezier(.2,.8,.2,1) both;
 }
 .desbloqueio-transicao::before {
   content: '';
@@ -1826,21 +1826,21 @@ body.site-desbloqueado > .progresso-pagina {
   top: 18%;
   width: 100%;
   height: 1px;
-  background: #00ff9c;
-  box-shadow: 0 0 14px rgba(0,255,156,.8);
-  animation: linhaDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
+  background: #a78bfa;
+  box-shadow: 0 0 14px rgba(167,139,250,.8);
+  animation: linhaDesbloqueio 1.8s cubic-bezier(.2,.8,.2,1) both;
 }
 .desbloqueio-transicao::after {
   content: '> ACCESS GRANTED  //  SESSION INITIALIZED';
   position: absolute;
   left: 50%;
   top: 50%;
-  color: #00ff9c;
+  color: #d8d5ff;
   font: 500 .64rem 'JetBrains Mono', var(--fonte-mono);
   letter-spacing: .12em;
   white-space: nowrap;
   transform: translateX(-50%);
-  animation: textoDesbloqueio 1.05s ease both;
+  animation: textoDesbloqueio 1.8s ease both;
 }
 @keyframes portalDesbloqueio { 0% { opacity: 1; } 72% { opacity: 1; } 100% { opacity: 0; } }
 @keyframes linhaDesbloqueio { 0% { top: 18%; opacity: 0; } 18% { opacity: 1; } 82% { opacity: 1; } 100% { top: 82%; opacity: 0; } }
