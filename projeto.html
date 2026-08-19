@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Página interativa de projeto do portfólio de Lucas Pereira Walter." />
+  <title>Projeto — Lucas Pereira Walter</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/css/transicoes.css?v=20260819" />
+  <link rel="stylesheet" href="src/css/projeto.css?v=20260819" />
+</head>
+<body>
+  <div class="ruido" aria-hidden="true"></div>
+  <header class="projeto-nav">
+    <a class="marca" href="index.html">LPW<span>/</span>WORKS</a>
+    <a class="voltar" href="index.html#projetos">← Voltar aos projetos</a>
+  </header>
+
+  <main id="projetoApp" class="projeto-app" data-limite="">
+    <section class="projeto-hero">
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="hero-copy">
+        <p class="eyebrow" id="projetoCodigo">PROJECT / 001</p>
+        <h1 id="projetoNome">Carregando projeto...</h1>
+        <p class="hero-lede" id="projetoResumo"></p>
+        <div class="hero-actions">
+          <a id="projetoGithub" class="btn btn-primary" href="#" target="_blank" rel="noreferrer">Ver código <span>↗</span></a>
+          <a id="projetoRun" class="btn btn-ghost" href="#execucao">Como executar <span>↓</span></a>
+        </div>
+      </div>
+      <div class="hero-console" aria-label="Status do projeto">
+        <div class="console-top"><span id="projetoTipo">SYSTEM</span><span class="led"></span><span>ONLINE</span></div>
+        <div class="console-screen"><span id="consolePrompt">&gt; boot --project</span><strong id="consoleStatus">INITIALIZING</strong><span class="cursor">▮</span></div>
+        <div class="console-metrics"><span><b id="metricStack">STACK</b><small>architecture</small></span><span><b id="metricStatus">READY</b><small>state</small></span></div>
+      </div>
+    </section>
+
+    <section class="projeto-section projeto-overview">
+      <div class="section-label">01 / SYSTEM OVERVIEW</div>
+      <div><h2 id="projetoTituloSecao">Construído para resolver.</h2><p id="projetoDescricao"></p></div>
+    </section>
+
+    <section class="projeto-section projeto-details">
+      <div class="detail-card"><span>STACK</span><div id="projetoStack"></div></div>
+      <div class="detail-card"><span>CAPABILITIES</span><ul id="projetoCapacidades"></ul></div>
+      <div class="detail-card detail-card--wide"><span>DESIGN DIRECTION</span><p id="projetoDirecao"></p></div>
+    </section>
+
+    <section id="execucao" class="projeto-section execucao">
+      <div class="section-label">02 / RUNBOOK</div>
+      <div class="runbook"><h2>Leve para sua máquina.</h2><p id="projetoExecucao"></p><pre><code id="projetoComando"></code></pre><a id="projetoGuia" class="text-link" href="#" target="_blank" rel="noreferrer">Abrir guia completo ↗</a></div>
+    </section>
+  </main>
+
+  <footer class="projeto-footer"><span>LPW / PROJECT ARCHIVE</span><span id="projetoRodape">© 2026</span></footer>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+  <script src="src/js/projeto.js?v=20260819"></script>
+  <script src="src/js/transicoes.js?v=20260819"></script>
+</body>
+</html>
