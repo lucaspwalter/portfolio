@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="src/css/jarvis-site.css?v=20260819d" />
+  <link rel="stylesheet" href="src/css/jarvis-site.css?v=20260819e" />
   <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
 </head>
 <body>
@@ -44,8 +44,17 @@
       <a class="core__code" href="https://github.com/lucaspwalter/jarvis" target="_blank" rel="noreferrer">EXAMINAR CÓDIGO <span>↗</span></a>
     </section>
 
+    <section class="armor" id="armadura">
+      <header><p>01 / ARMOR INTERFACE</p><h2>Presença física.<br />Controle digital.</h2><span>Arraste para girar<br />Role para aproximar</span></header>
+      <div class="armor__viewer">
+        <iframe title="Modelo 3D interativo do Iron Man" loading="lazy" allow="autoplay; fullscreen; xr-spatial-tracking" allowfullscreen src="https://sketchfab.com/models/629bc9d0e1d94e589cb222aaaa665813/embed?autostart=1&amp;ui_theme=dark&amp;ui_infos=0&amp;ui_help=0&amp;ui_settings=0&amp;ui_inspector=0&amp;ui_watermark=1&amp;ui_watermark_link=1"></iframe>
+        <div class="armor__corners" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      </div>
+      <p class="armor__credit">Modelo <a href="https://sketchfab.com/3d-models/ironman-629bc9d0e1d94e589cb222aaaa665813" target="_blank" rel="noreferrer">Ironman</a>, por djsbaba — <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a>.</p>
+    </section>
+
     <section class="pipeline" id="pipeline">
-      <header><span>01</span><p>FLUXO OPERACIONAL</p><h2>Da sua voz<br />até a ação.</h2></header>
+      <header><span>02</span><p>FLUXO OPERACIONAL</p><h2>Da sua voz<br />até a ação.</h2></header>
       <div class="pipeline__steps">
         <article data-step="01"><span>01 / DETECT</span><h3>“Jarvis”</h3><p>OpenWakeWord detecta ativação localmente.</p></article>
         <article data-step="02"><span>02 / LISTEN</span><h3>Comando</h3><p>PipeWire captura somente a fala seguinte.</p></article>
@@ -55,7 +64,7 @@
     </section>
 
     <section class="security" id="seguranca">
-      <div class="security__label"><span>02 / SECURITY PROTOCOL</span><b>LOCAL<br />BY<br />DESIGN</b></div>
+      <div class="security__label"><span>03 / SECURITY PROTOCOL</span><b>LOCAL<br />BY<br />DESIGN</b></div>
       <div class="security__content">
         <h2>IA interpreta.<br /><em>Não controla.</em></h2>
         <p>Ollama ajuda somente quando o reconhecimento determinístico falha. Ele escolhe entre intenções conhecidas e nunca recebe acesso direto ao shell.</p>
@@ -64,7 +73,7 @@
     </section>
 
     <section class="commands" id="comandos">
-      <header><p>03 / COMMAND DECK</p><h2>Experimente<br />uma intenção.</h2></header>
+      <header><p>04 / COMMAND DECK</p><h2>Experimente<br />uma intenção.</h2></header>
       <div class="commands__deck">
         <button type="button" data-command="ABRINDO FIREFOX">Abrir Firefox <span>01</span></button>
         <button type="button" data-command="MOSTRANDO DISPOSITIVOS DE ÁUDIO">Mostrar áudio <span>02</span></button>
@@ -75,7 +84,7 @@
     </section>
 
     <section class="launch" id="executar">
-      <p>04 / RUN LOCAL</p>
+      <p>05 / RUN LOCAL</p>
       <h2>Leve a inteligência<br />para sua máquina.</h2>
       <pre><code><span>$</span> git clone https://github.com/lucaspwalter/jarvis.git
 <span>$</span> cd jarvis
@@ -87,6 +96,6 @@
   </main>
 
   <footer><span>JARVIS / LOCAL INTELLIGENCE</span><span>PYTHON · WHISPER · OLLAMA · PIPER</span><span>© 2026</span></footer>
-  <script type="module" src="src/js/jarvis-site.js?v=20260819d"></script>
+  <script type="module" src="src/js/jarvis-site.js?v=20260819e"></script>
 </body>
 </html>
