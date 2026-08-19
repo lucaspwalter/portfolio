@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Turnover Dashboard — risco de rotatividade com pontuação explicável por departamento." />
+  <title>Turnover Dashboard — People signals</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/css/turnover-site.css?v=20260819a" />
+  <link rel="stylesheet" href="src/css/turnover-fix.css?v=20260819a" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top"><span class="brand__mark">T</span><span>TURNOVER<br /><small>PEOPLE SIGNALS</small></span></a>
+    <div class="topbar__pulse"><i></i> LIVE MODEL <b>06:42:18</b></div>
+    <nav aria-label="Ações do projeto"><a href="index.html?skipboot=1#projetos">Portfólio</a><a href="https://github.com/lucaspwalter/turnover-dashboard" target="_blank" rel="noreferrer">GitHub ↗</a><a href="setup-turnover.html">Como rodar ↓</a></nav>
+  </header>
+
+  <main id="top">
+    <section class="intro">
+      <div class="intro__copy"><p class="eyebrow">PROJECT 002 / PEOPLE ANALYTICS</p><h1>Risco<br /><em>legível.</em></h1><p class="intro__text">Seis fatores transformam sinais de pessoas em uma próxima decisão clara.</p><div class="intro__meta"><span>50 funcionários analisados</span><span>Modelo atualizado há 8 min</span></div></div>
+      <div class="risk-orbit" aria-label="Score geral de risco de turnover"><div class="orbit orbit--one"></div><div class="orbit orbit--two"></div><div class="orbit__core"><small>SCORE GERAL</small><strong id="overallScore">68</strong><span>/ 100</span></div><div class="orbit__tag orbit__tag--a">ALTO<br /><b>12</b></div><div class="orbit__tag orbit__tag--b">MÉDIO<br /><b>21</b></div><div class="orbit__tag orbit__tag--c">BAIXO<br /><b>17</b></div></div>
+    </section>
+
+    <section class="dashboard" id="dashboard">
+      <header class="section-head"><div><p class="eyebrow">01 / LEITURA DO MODELO</p><h2>Onde atenção<br /><em>faz diferença.</em></h2></div><div class="range-switch" role="group" aria-label="Período"><button class="is-active" data-range="30">30 dias</button><button data-range="90">90 dias</button><button data-range="365">1 ano</button></div></header>
+      <div class="dashboard__grid"><article class="chart-card"><header><span>RISCO POR DEPARTAMENTO</span><b id="chartTotal">12 ALTO RISCO</b></header><div class="chart" id="riskChart"><div style="--high:78%;--medium:48%;--low:25%"><i></i><i></i><i></div><div style="--high:52%;--medium:68%;--low:31%"><i></i><i></i><i></div><div style="--high:66%;--medium:42%;--low:54%"><i></i><i></i><i></div><div style="--high:34%;--medium:60%;--low:72%"><i></i><i></i><i></div><div style="--high:23%;--medium:35%;--low:84%"><i></i><i></i><i></div></div><footer><span><i class="legend legend--high"></i>Alto</span><span><i class="legend legend--medium"></i>Médio</span><span><i class="legend legend--low"></i>Baixo</span></footer></article><article class="factor-card"><header><span>FATORES DO SCORE</span><b>EXPLICÁVEL</b></header><ul><li><span>Tempo sem promoção</span><b style="--value:82%">82</b></li><li><span>Distância salarial</span><b style="--value:67%">67</b></li><li><span>Horas extras</span><b style="--value:54%">54</b></li><li><span>Performance recente</span><b style="--value:39%">39</b></li><li><span>Distância do gestor</span><b style="--value:28%">28</b></li><li><span>Tempo no cargo</span><b style="--value:19%">19</b></li></ul></article></div>
+    </section>
+
+    <section class="people" id="people"><header class="section-head"><div><p class="eyebrow">02 / PESSOAS EM FOCO</p><h2>Do número<br /><em>à conversa.</em></h2></div><div class="dept-tabs"><button class="is-active" data-dept="todos">Todos</button><button data-dept="tecnologia">Tecnologia</button><button data-dept="operacoes">Operações</button></div></header><div class="people__table" id="peopleTable"><button class="person person--high" data-dept="tecnologia"><span class="person__initial">MC</span><strong>Marina Costa<small>Engenharia · há 3 anos</small></strong><i>82</i><em>ALTO</em><b>Ver sinais +</b></button><button class="person person--high" data-dept="operacoes"><span class="person__initial">RA</span><strong>Rafael Alves<small>Operações · há 2 anos</small></strong><i>76</i><em>ALTO</em><b>Ver sinais +</b></button><button class="person person--medium" data-dept="tecnologia"><span class="person__initial">JS</span><strong>Joana Silva<small>Produto · há 1 ano</small></strong><i>61</i><em>MÉDIO</em><b>Ver sinais +</b></button><button class="person person--medium" data-dept="operacoes"><span class="person__initial">CF</span><strong>Caio Freitas<small>Logística · há 8 meses</small></strong><i>55</i><em>MÉDIO</em><b>Ver sinais +</b></button></div><div class="person-detail" id="personDetail">Selecione uma pessoa para abrir seus seis sinais.</div></section>
+
+    <section class="method"><div><p class="eyebrow">03 / MÉTODO</p><h2>Não é uma<br /><em>sentença.</em></h2></div><p>O score organiza evidências, não define pessoas. Cada risco mostra os fatores que o compõem para que a equipe de pessoas escolha uma conversa, uma ação ou nenhum movimento.</p><div class="method__stack"><span>PYTHON</span><span>FASTAPI</span><span>REACT</span><span>POSTGRESQL</span></div></section>
+  </main>
+  <footer class="footer"><span>TURNOVER DASHBOARD</span><span>EXPLAINABLE PEOPLE ANALYTICS</span><span>2026 / LLGR</span></footer>
+  <script src="src/js/turnover-site.js?v=20260819a"></script>
+</body>
+</html>

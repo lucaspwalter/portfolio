@@ -13,6 +13,7 @@ const slug = new URLSearchParams(location.search).get('projeto') || 'jarvis';
 if (slug === 'brasilium') location.replace('projeto-brasilium.html');
 if (slug === 'jarvis') location.replace('projeto-jarvis.html');
 if (slug === 'ferroviaria') location.replace('projeto-ferroviaria.html');
+if (slug === 'turnover') location.replace('projeto-turnover.html');
 const projeto = projetos[slug] || projetos.jarvis;
 const setText = (id, value) => { document.getElementById(id).textContent = value; };
 const visuais = {
