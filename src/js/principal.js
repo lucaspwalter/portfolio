@@ -358,7 +358,7 @@ const sairDoBoot = () => {
   window.setTimeout(() => bootScreen.remove(), 1100);
 };
 
-const repetirBoot = new URLSearchParams(window.location.search).get('boot') === 'show';
+const repetirBoot = (new URLSearchParams(window.location.search).get('boot') || '').startsWith('show');
 if (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1') {
   bootScreen.remove();
 } else {
