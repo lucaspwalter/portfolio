@@ -8,14 +8,21 @@ const rangeBars = {
   '90': [[64,56,34],[61,74,42],[58,48,62],[43,66,58],[31,44,78]],
   '365': [[48,39,31],[44,55,38],[51,36,47],[29,49,61],[20,31,70]]
 };
-const barGroups = [...chart.querySelectorAll(':scope > div')];
-const paintBars = (range) => barGroups.forEach((group, groupIndex) => group.querySelectorAll(':scope > i').forEach((bar, barIndex) => {
-  bar.style.setProperty('--bar', `${rangeBars[range][groupIndex][barIndex]}%`);
-  bar.style.setProperty('width', '30px', 'important');
-  bar.style.setProperty('min-width', '30px', 'important');
-  bar.style.setProperty('max-width', '30px', 'important');
-  bar.style.setProperty('flex', '0 0 30px', 'important');
-}));
+const paintBars = (range) => {
+  chart.replaceChildren();
+  rangeBars[range].flatMap((group) => group).forEach((value, index) => {
+    const bar = document.createElement('i');
+    bar.className = ['bar-high', 'bar-medium', 'bar-low'][index % 3];
+    bar.style.setProperty('--bar', `${value}%`);
+    chart.append(bar);
+  });
+  ['Engenharia', 'Produto', 'Operações', 'Logística', 'Comercial'].forEach((name) => {
+    const label = document.createElement('span');
+    label.className = 'dept-label';
+    label.textContent = name;
+    chart.append(label);
+  });
+};
 paintBars('30');
 
 document.querySelectorAll('[data-range]').forEach((button) => button.addEventListener('click', () => {
