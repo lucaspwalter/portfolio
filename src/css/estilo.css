@@ -373,7 +373,6 @@ a {
 }
 
 .topo__indicador-scroll {
-  display: none;
   position: absolute;
   bottom: 2.5rem;
   left: 50%;
@@ -1365,6 +1364,12 @@ a {
   }
 
   .botao--primario::after {
+    display: none;
+  }
+}
+
+@media (max-height: 600px) {
+  .topo__indicador-scroll {
     display: none;
   }
 }
