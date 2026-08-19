@@ -9,7 +9,13 @@ const rangeBars = {
   '365': [[48,39,31],[44,55,38],[51,36,47],[29,49,61],[20,31,70]]
 };
 const barGroups = [...chart.querySelectorAll(':scope > div')];
-const paintBars = (range) => barGroups.forEach((group, groupIndex) => group.querySelectorAll(':scope > i').forEach((bar, barIndex) => bar.style.setProperty('--bar', `${rangeBars[range][groupIndex][barIndex]}%`)));
+const paintBars = (range) => barGroups.forEach((group, groupIndex) => group.querySelectorAll(':scope > i').forEach((bar, barIndex) => {
+  bar.style.setProperty('--bar', `${rangeBars[range][groupIndex][barIndex]}%`);
+  bar.style.setProperty('width', '30px', 'important');
+  bar.style.setProperty('min-width', '30px', 'important');
+  bar.style.setProperty('max-width', '30px', 'important');
+  bar.style.setProperty('flex', '0 0 30px', 'important');
+}));
 paintBars('30');
 
 document.querySelectorAll('[data-range]').forEach((button) => button.addEventListener('click', () => {
