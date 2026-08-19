@@ -121,3 +121,159 @@ filtroBotoes.forEach(botao => {
     });
   });
 });
+
+// Interações globais: tema, navegação rápida, progresso e detalhes de projetos.
+const temaBotao = document.getElementById('temaBotao');
+const atalhoBotao = document.getElementById('atalhoBotao');
+const paletaAtalhos = document.getElementById('paletaAtalhos');
+const paletaBusca = document.getElementById('paletaBusca');
+const paletaLista = document.getElementById('paletaLista');
+const modalProjeto = document.getElementById('modalProjeto');
+const avisoCopiado = document.getElementById('avisoCopiado');
+const progressoPagina = document.getElementById('progressoPagina');
+const voltarTopo = document.getElementById('voltarTopo');
+
+const mostrarAviso = mensagem => {
+  avisoCopiado.textContent = mensagem;
+  avisoCopiado.classList.add('visivel');
+  window.clearTimeout(mostrarAviso.timer);
+  mostrarAviso.timer = window.setTimeout(() => avisoCopiado.classList.remove('visivel'), 2200);
+};
+
+const aplicarTema = tema => {
+  const claro = tema === 'claro';
+  document.documentElement.classList.toggle('tema-claro', claro);
+  temaBotao.textContent = claro ? '☾' : '☼';
+  temaBotao.setAttribute('aria-label', claro ? 'Ativar tema escuro' : 'Ativar tema claro');
+  temaBotao.setAttribute('aria-pressed', String(claro));
+  localStorage.setItem('portfolio-tema', tema);
+};
+
+aplicarTema(localStorage.getItem('portfolio-tema') || 'escuro');
+temaBotao.addEventListener('click', () => {
+  aplicarTema(document.documentElement.classList.contains('tema-claro') ? 'escuro' : 'claro');
+  mostrarAviso('Tema atualizado');
+});
+
+const acoesPaleta = [
+  { texto: 'Ir para Sobre', detalhe: 'Seção', acao: () => document.getElementById('sobre').scrollIntoView({ behavior: 'smooth' }) },
+  { texto: 'Ver projetos', detalhe: 'Seção', acao: () => document.getElementById('projetos').scrollIntoView({ behavior: 'smooth' }) },
+  { texto: 'Ver habilidades', detalhe: 'Seção', acao: () => document.getElementById('habilidades').scrollIntoView({ behavior: 'smooth' }) },
+  { texto: 'Entrar em contato', detalhe: 'Seção', acao: () => document.getElementById('contato').scrollIntoView({ behavior: 'smooth' }) },
+  { texto: 'Explorar amostras', detalhe: 'Página', acao: () => { window.location.href = 'amostras.html'; } },
+  { texto: 'Alternar tema', detalhe: 'Visual', acao: () => temaBotao.click() }
+];
+
+const renderizarPaleta = termo => {
+  const busca = termo.trim().toLocaleLowerCase('pt-BR');
+  paletaLista.replaceChildren(...acoesPaleta
+    .filter(item => !busca || item.texto.toLocaleLowerCase('pt-BR').includes(busca))
+    .map((item, indice) => {
+      const botao = document.createElement('button');
+      botao.className = 'paleta-item';
+      botao.type = 'button';
+      botao.innerHTML = `<span>${item.texto}</span><small>${item.detalhe}${indice < 4 ? ' · Enter' : ''}</small>`;
+      botao.addEventListener('click', () => { fecharPaleta(); item.acao(); });
+      return botao;
+    }));
+};
+
+const abrirPaleta = () => {
+  paletaAtalhos.hidden = false;
+  document.body.classList.add('paleta-aberta');
+  paletaBusca.value = '';
+  renderizarPaleta('');
+  window.setTimeout(() => paletaBusca.focus(), 30);
+};
+
+const fecharPaleta = () => {
+  paletaAtalhos.hidden = true;
+  document.body.classList.remove('paleta-aberta');
+};
+
+atalhoBotao.addEventListener('click', abrirPaleta);
+paletaBusca.addEventListener('input', () => renderizarPaleta(paletaBusca.value));
+paletaBusca.addEventListener('keydown', evento => {
+  if (evento.key === 'Enter') paletaLista.querySelector('.paleta-item')?.click();
+});
+paletaAtalhos.querySelectorAll('[data-fechar-paleta]').forEach(item => item.addEventListener('click', fecharPaleta));
+
+const fecharModal = () => {
+  modalProjeto.hidden = true;
+  document.body.classList.remove('modal-aberto');
+};
+
+const abrirModal = card => {
+  const imagem = card.querySelector('.projeto-card__imagem img');
+  const titulo = card.querySelector('.projeto-card__titulo');
+  const descricao = card.querySelector('.projeto-card__descricao');
+  const tecnologias = card.querySelectorAll('.projeto-card__tecnologias span');
+  const acoes = card.querySelector('.projeto-card__links');
+  document.getElementById('modalProjetoImagem').src = imagem?.src || '';
+  document.getElementById('modalProjetoImagem').alt = imagem?.alt || '';
+  document.getElementById('modalProjetoTitulo').textContent = titulo?.textContent || 'Projeto';
+  document.getElementById('modalProjetoDescricao').textContent = descricao?.textContent.trim() || '';
+  const listaTecnologias = document.getElementById('modalProjetoTecnologias');
+  listaTecnologias.replaceChildren(...[...tecnologias].map(item => {
+    const tag = document.createElement('span');
+    tag.textContent = item.textContent;
+    return tag;
+  }));
+  const listaAcoes = document.getElementById('modalProjetoAcoes');
+  listaAcoes.replaceChildren(...(acoes ? [...acoes.querySelectorAll('a')].map(link => link.cloneNode(true)) : []));
+  modalProjeto.hidden = false;
+  document.body.classList.add('modal-aberto');
+  document.querySelector('.modal-projeto__fechar').focus();
+};
+
+projetoCards.forEach(card => {
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('role', 'button');
+  card.addEventListener('click', evento => {
+    if (evento.target.closest('a, button')) return;
+    abrirModal(card);
+  });
+  card.addEventListener('keydown', evento => {
+    if (evento.key === 'Enter' || evento.key === ' ') {
+      evento.preventDefault();
+      abrirModal(card);
+    }
+  });
+});
+
+modalProjeto.querySelectorAll('[data-fechar-modal]').forEach(item => item.addEventListener('click', fecharModal));
+
+const atualizarScroll = () => {
+  const limite = document.documentElement.scrollHeight - window.innerHeight;
+  const progresso = limite > 0 ? (window.scrollY / limite) * 100 : 0;
+  progressoPagina.style.width = `${progresso}%`;
+  voltarTopo.classList.toggle('visivel', window.scrollY > window.innerHeight * .65);
+};
+
+window.addEventListener('scroll', atualizarScroll, { passive: true });
+atualizarScroll();
+voltarTopo.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+document.addEventListener('keydown', evento => {
+  if ((evento.ctrlKey || evento.metaKey) && evento.key.toLowerCase() === 'k') {
+    evento.preventDefault();
+    paletaAtalhos.hidden ? abrirPaleta() : fecharPaleta();
+  } else if (evento.key === '/' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
+    evento.preventDefault();
+    abrirPaleta();
+  } else if (evento.key === 'Escape') {
+    fecharPaleta();
+    fecharModal();
+  }
+});
+
+const secoes = [...document.querySelectorAll('main section[id], section[id]')];
+const linksNavegacao = [...document.querySelectorAll('.navegacao__links a[href^="#"]')];
+const marcarSecaoAtiva = entrada => {
+  if (!entrada.isIntersecting) return;
+  linksNavegacao.forEach(link => link.classList.toggle('navegacao__link--ativo', link.getAttribute('href') === `#${entrada.target.id}`));
+};
+if ('IntersectionObserver' in window) {
+  const observadorSecoes = new IntersectionObserver(entradas => entradas.forEach(marcarSecaoAtiva), { rootMargin: '-35% 0px -55% 0px' });
+  secoes.forEach(secao => observadorSecoes.observe(secao));
+}

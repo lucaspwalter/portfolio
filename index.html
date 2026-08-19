@@ -23,6 +23,10 @@
 <!-- body -->
   <nav class="navegacao" id="navegacao">
     <div class="navegacao__logo">lucas<span class="destaque">.</span>dev</div>
+    <div class="navegacao__acoes" aria-label="Controles do site">
+      <button class="controle-btn" id="temaBotao" type="button" aria-label="Alternar tema" title="Alternar tema">☼</button>
+      <button class="controle-btn controle-btn--atalho" id="atalhoBotao" type="button" aria-label="Abrir atalhos" title="Abrir atalhos">⌘ K</button>
+    </div>
     <button class="navegacao__menu-botao" id="menuBotao" aria-label="Abrir menu">
       <span></span><span></span><span></span>
     </button>
@@ -34,6 +38,7 @@
       <li><a href="#contato">Contato</a></li>
     </ul>
   </nav>
+  <div class="progresso-pagina" id="progressoPagina" aria-hidden="true"></div>
 
   <section class="topo" id="topo">
     <div class="topo__grade-fundo"></div>
@@ -503,6 +508,36 @@
   <footer class="rodape">
     <p>Lucas Pereira Walter — lucas<span class="destaque">.</span>dev</p>
   </footer>
+
+  <button class="voltar-topo" id="voltarTopo" type="button" aria-label="Voltar ao topo">↑</button>
+
+  <div class="modal-projeto" id="modalProjeto" hidden>
+    <div class="modal-projeto__fundo" data-fechar-modal></div>
+    <article class="modal-projeto__caixa" role="dialog" aria-modal="true" aria-labelledby="modalProjetoTitulo">
+      <button class="modal-projeto__fechar" type="button" data-fechar-modal aria-label="Fechar detalhes">×</button>
+      <img class="modal-projeto__imagem" id="modalProjetoImagem" alt="" />
+      <div class="modal-projeto__conteudo">
+        <span class="secao__rotulo">Projeto em destaque</span>
+        <h2 id="modalProjetoTitulo"></h2>
+        <p id="modalProjetoDescricao"></p>
+        <div class="modal-projeto__tecnologias" id="modalProjetoTecnologias"></div>
+        <div class="modal-projeto__acoes" id="modalProjetoAcoes"></div>
+      </div>
+    </article>
+  </div>
+
+  <div class="paleta-atalhos" id="paletaAtalhos" hidden>
+    <div class="paleta-atalhos__fundo" data-fechar-paleta></div>
+    <section class="paleta-atalhos__caixa" role="dialog" aria-modal="true" aria-label="Atalhos do portfólio">
+      <div class="paleta-atalhos__cabecalho">
+        <span>Explorar portfólio</span>
+        <kbd>Esc</kbd>
+      </div>
+      <input id="paletaBusca" type="search" placeholder="Buscar seção ou ação..." autocomplete="off" />
+      <div class="paleta-atalhos__lista" id="paletaLista"></div>
+    </section>
+  </div>
+  <div class="aviso-copiado" id="avisoCopiado" role="status" aria-live="polite"></div>
 
   <script src="src/js/principal.js"></script>
   <script src="src/js/transicoes.js"></script>
