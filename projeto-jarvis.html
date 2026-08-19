@@ -8,13 +8,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="src/css/jarvis-site.css?v=20260819f" />
+  <link rel="stylesheet" href="src/css/jarvis-site.css?v=20260819g" />
   <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
 </head>
 <body>
   <div class="scanlines" aria-hidden="true"></div>
   <header class="topbar">
-    <a class="topbar__back" href="index.html?skipboot=1#projetos"><span>←</span> Voltar ao portfólio</a>
+    <nav class="topbar__actions" aria-label="Ações do projeto"><a href="index.html?skipboot=1#projetos"><span>←</span> Portfólio</a><a href="https://github.com/lucaspwalter/jarvis" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><a href="setup-jarvis.html">Como rodar <span>↓</span></a></nav>
     <div class="topbar__identity"><i></i><b>JARVIS</b><span>LOCAL INTELLIGENCE</span></div>
     <div class="topbar__clock"><span id="relogio">00:00:00</span><b>BRASIL / LOCAL</b></div>
   </header>
@@ -41,7 +41,6 @@
       </div>
 
       <div class="wave" aria-hidden="true" id="wave"></div>
-      <a class="core__code" href="https://github.com/lucaspwalter/jarvis" target="_blank" rel="noreferrer">EXAMINAR CÓDIGO <span>↗</span></a>
     </section>
 
     <section class="pipeline" id="pipeline">
@@ -82,7 +81,6 @@
 <span>$</span> python -m venv .venv
 <span>$</span> .venv/bin/pip install -r requirements.txt
 <span>$</span> .venv/bin/python jarvis.py</code></pre>
-      <div class="launch__actions"><a href="setup-jarvis.html">Abrir guia completo <span>↗</span></a><a href="index.html?skipboot=1#projetos">Voltar ao portfólio <span>←</span></a></div>
     </section>
   </main>
 

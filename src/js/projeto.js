@@ -33,8 +33,8 @@ setText('projetoCodigo', projeto.codigo); setText('projetoNome', projeto.nome); 
 setText('projetoResumo', projeto.resumo); setText('projetoDescricao', projeto.descricao); setText('projetoDirecao', projeto.direcao);
 setText('projetoExecucao', projeto.execucao); setText('projetoComando', projeto.comando); setText('consoleStatus', projeto.status);
 setText('metricStack', projeto.stack[0]); setText('metricStatus', projeto.status); setText('consolePrompt', `> boot --${slug}`);
-document.getElementById('projetoGithub').href = projeto.github;
-document.getElementById('projetoGuia').href = projeto.guia;
+document.getElementById('navGithub').href = projeto.github;
+document.getElementById('navGuia').href = projeto.guia;
 document.getElementById('projetoStack').replaceChildren(...projeto.stack.map(item => Object.assign(document.createElement('span'), { textContent: item })));
 document.getElementById('projetoCapacidades').replaceChildren(...projeto.capacidades.map(item => Object.assign(document.createElement('li'), { textContent: item })));
 
