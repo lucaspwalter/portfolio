@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Ferroviária LLGR, sistema web para gestão de trens, rotas, estações, sensores e manutenções." />
+  <title>Ferroviária LLGR — Central de operações</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/css/ferroviaria-site.css?v=20260819a" />
+  <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+</head>
+<body>
+  <header class="dispatch-bar">
+    <a class="dispatch-bar__brand" href="#inicio"><i>LL</i><span>FERROVIÁRIA<br /><b>CENTRAL OPERACIONAL</b></span></a>
+    <div class="dispatch-bar__line"><span>LINHA 01</span><i></i><b>EM SERVIÇO</b></div>
+    <nav aria-label="Ações do projeto"><a href="index.html?skipboot=1#projetos">← Portfólio</a><a href="https://github.com/lucaspwalter/ferroviaria-llgr" target="_blank" rel="noreferrer">GitHub ↗</a><a href="setup-ferroviaria.html">Como rodar ↓</a></nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero__copy">
+        <p>CONTROLE FERROVIÁRIO / PROJECT 001</p>
+        <h1>Operação<br /><em>em movimento.</em></h1>
+        <div class="hero__intro"><span>01</span><p>Rotas, trens, estações, sensores e manutenções reunidos em uma central operacional.</p></div>
+      </div>
+
+      <div class="rail-scene" id="railScene">
+        <canvas id="trainCanvas" aria-label="Trem tridimensional interativo em movimento"></canvas>
+        <div class="rail-scene__hud">
+          <span>TRAIN / LLGR-01</span><b id="speedReadout">086 KM/H</b><small>ARRASTE PARA MUDAR A CÂMERA</small>
+        </div>
+        <button class="rail-scene__throttle" id="throttle" type="button"><span>VELOCIDADE</span><b id="throttleLabel">CRUZEIRO</b><i></i></button>
+      </div>
+
+      <div class="hero__ticker" aria-hidden="true"><span>ESTAÇÃO NORTE</span><i></i><span>SETOR INDUSTRIAL</span><i></i><span>TERMINAL CENTRAL</span><i></i><span>PÁTIO SUL</span></div>
+    </section>
+
+    <section class="network" id="rede">
+      <header><p>01 / REDE OPERACIONAL</p><h2>Cada trecho.<br />Um sinal claro.</h2><span>Clique nas estações para alterar o fluxo.</span></header>
+      <div class="network__map">
+        <svg viewBox="0 0 1200 440" role="img" aria-label="Mapa interativo da linha ferroviária">
+          <path class="track track--shadow" d="M70 300 C220 300 230 110 410 110 S610 330 790 270 S990 80 1130 145" />
+          <path class="track" d="M70 300 C220 300 230 110 410 110 S610 330 790 270 S990 80 1130 145" />
+        </svg>
+        <button class="station is-active" style="--x:6%;--y:68%" data-station="PÁTIO SUL"><i></i><span>01</span></button>
+        <button class="station" style="--x:34%;--y:23%" data-station="TERMINAL CENTRAL"><i></i><span>02</span></button>
+        <button class="station" style="--x:66%;--y:61%" data-station="SETOR INDUSTRIAL"><i></i><span>03</span></button>
+        <button class="station" style="--x:94%;--y:31%" data-station="ESTAÇÃO NORTE"><i></i><span>04</span></button>
+        <div class="network__status"><small>DESTINO SELECIONADO</small><b id="stationName">PÁTIO SUL</b><span id="stationEta">ETA 04:32</span></div>
+      </div>
+    </section>
+
+    <section class="operations" id="operacao">
+      <div class="operations__title"><p>02 / SISTEMA</p><h2>Da via ao<br />painel.</h2></div>
+      <div class="operations__grid">
+        <article><span>A</span><h3>Trens e rotas</h3><p>Posição, itinerário e disponibilidade no mesmo fluxo.</p><b>TRACKING / ACTIVE</b></article>
+        <article><span>B</span><h3>Sensores</h3><p>Leitura dos pontos críticos da operação ferroviária.</p><b>TELEMETRY / ONLINE</b></article>
+        <article><span>C</span><h3>Manutenções</h3><p>Histórico e planejamento para reduzir parada inesperada.</p><b>SCHEDULE / READY</b></article>
+        <article><span>D</span><h3>Estações</h3><p>Controle dos terminais e conexões de cada linha.</p><b>NETWORK / STABLE</b></article>
+      </div>
+    </section>
+
+    <section class="run" id="executar">
+      <div><p>03 / PARTIDA LOCAL</p><h2>Central pronta<br />para partir.</h2></div>
+      <div class="run__terminal"><header><span>LLGR / DOCKER CONTROL</span><b>READY</b></header><code><i>$</i> git clone https://github.com/lucaspwalter/ferroviaria-llgr.git<br /><i>$</i> cd ferroviaria-llgr<br /><i>$</i> docker compose up<span>_</span></code><footer>Consulte instruções completas em “Como rodar” na barra superior.</footer></div>
+    </section>
+  </main>
+
+  <footer><span>FERROVIÁRIA LLGR</span><span>PHP / MYSQL / DOCKER</span><span>SESI SENAI · 2026</span></footer>
+  <script type="module" src="src/js/ferroviaria-site.js?v=20260819a"></script>
+</body>
+</html>
