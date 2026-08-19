@@ -124,10 +124,6 @@ filtroBotoes.forEach(botao => {
 
 // Interações globais: tema, navegação rápida, progresso e detalhes de projetos.
 const temaBotao = document.getElementById('temaBotao');
-const atalhoBotao = document.getElementById('atalhoBotao');
-const paletaAtalhos = document.getElementById('paletaAtalhos');
-const paletaBusca = document.getElementById('paletaBusca');
-const paletaLista = document.getElementById('paletaLista');
 const modalProjeto = document.getElementById('modalProjeto');
 const avisoCopiado = document.getElementById('avisoCopiado');
 const progressoPagina = document.getElementById('progressoPagina');
@@ -154,49 +150,6 @@ temaBotao.addEventListener('click', () => {
   aplicarTema(document.documentElement.classList.contains('tema-claro') ? 'escuro' : 'claro');
   mostrarAviso('Tema atualizado');
 });
-
-const acoesPaleta = [
-  { texto: 'Ir para Sobre', detalhe: 'Seção', acao: () => document.getElementById('sobre').scrollIntoView({ behavior: 'smooth' }) },
-  { texto: 'Ver projetos', detalhe: 'Seção', acao: () => document.getElementById('projetos').scrollIntoView({ behavior: 'smooth' }) },
-  { texto: 'Ver habilidades', detalhe: 'Seção', acao: () => document.getElementById('habilidades').scrollIntoView({ behavior: 'smooth' }) },
-  { texto: 'Entrar em contato', detalhe: 'Seção', acao: () => document.getElementById('contato').scrollIntoView({ behavior: 'smooth' }) },
-  { texto: 'Explorar amostras', detalhe: 'Página', acao: () => { window.location.href = 'amostras.html'; } },
-  { texto: 'Alternar tema', detalhe: 'Visual', acao: () => temaBotao.click() }
-];
-
-const renderizarPaleta = termo => {
-  const busca = termo.trim().toLocaleLowerCase('pt-BR');
-  paletaLista.replaceChildren(...acoesPaleta
-    .filter(item => !busca || item.texto.toLocaleLowerCase('pt-BR').includes(busca))
-    .map((item, indice) => {
-      const botao = document.createElement('button');
-      botao.className = 'paleta-item';
-      botao.type = 'button';
-      botao.innerHTML = `<span>${item.texto}</span><small>${item.detalhe}${indice < 4 ? ' · Enter' : ''}</small>`;
-      botao.addEventListener('click', () => { fecharPaleta(); item.acao(); });
-      return botao;
-    }));
-};
-
-const abrirPaleta = () => {
-  paletaAtalhos.hidden = false;
-  document.body.classList.add('paleta-aberta');
-  paletaBusca.value = '';
-  renderizarPaleta('');
-  window.setTimeout(() => paletaBusca.focus(), 30);
-};
-
-const fecharPaleta = () => {
-  paletaAtalhos.hidden = true;
-  document.body.classList.remove('paleta-aberta');
-};
-
-atalhoBotao.addEventListener('click', abrirPaleta);
-paletaBusca.addEventListener('input', () => renderizarPaleta(paletaBusca.value));
-paletaBusca.addEventListener('keydown', evento => {
-  if (evento.key === 'Enter') paletaLista.querySelector('.paleta-item')?.click();
-});
-paletaAtalhos.querySelectorAll('[data-fechar-paleta]').forEach(item => item.addEventListener('click', fecharPaleta));
 
 const fecharModal = () => {
   modalProjeto.hidden = true;
@@ -255,16 +208,7 @@ atualizarScroll();
 voltarTopo.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
 document.addEventListener('keydown', evento => {
-  if ((evento.ctrlKey || evento.metaKey) && evento.key.toLowerCase() === 'k') {
-    evento.preventDefault();
-    paletaAtalhos.hidden ? abrirPaleta() : fecharPaleta();
-  } else if (evento.key === '/' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
-    evento.preventDefault();
-    abrirPaleta();
-  } else if (evento.key === 'Escape') {
-    fecharPaleta();
-    fecharModal();
-  }
+  if (evento.key === 'Escape') fecharModal();
 });
 
 const secoes = [...document.querySelectorAll('main section[id], section[id]')];

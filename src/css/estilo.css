@@ -1573,8 +1573,7 @@ a {
 
 .voltar-topo:hover { border-color: var(--cor-destaque); }
 
-.modal-projeto,
-.paleta-atalhos {
+.modal-projeto {
   position: fixed;
   inset: 0;
   z-index: 300;
@@ -1583,16 +1582,14 @@ a {
   padding: 1.25rem;
 }
 
-.modal-projeto__fundo,
-.paleta-atalhos__fundo {
+.modal-projeto__fundo {
   position: absolute;
   inset: 0;
   background: rgba(3, 5, 12, .78);
   backdrop-filter: blur(10px);
 }
 
-.modal-projeto__caixa,
-.paleta-atalhos__caixa {
+.modal-projeto__caixa {
   position: relative;
   z-index: 1;
   width: min(920px, 100%);
@@ -1641,16 +1638,6 @@ a {
 .modal-projeto__tecnologias span { padding: .3rem .65rem; border: 1px solid var(--cor-borda); border-radius: 999px; color: var(--cor-destaque-clara); font: .72rem var(--fonte-mono); }
 .modal-projeto__acoes { display: flex; flex-wrap: wrap; gap: .7rem; }
 
-.paleta-atalhos__caixa { width: min(620px, 100%); padding: 1rem; }
-.paleta-atalhos__cabecalho { display: flex; justify-content: space-between; align-items: center; padding: .4rem .4rem .8rem; color: var(--cor-texto); font-weight: 600; }
-.paleta-atalhos kbd { padding: .2rem .45rem; border: 1px solid var(--cor-borda); border-radius: 6px; color: var(--cor-texto-fraco); font: .7rem var(--fonte-mono); }
-#paletaBusca { width: 100%; padding: .85rem 1rem; border: 1px solid var(--cor-borda); border-radius: 12px; outline: none; background: var(--cor-fundo-secundario); color: var(--cor-texto); font: .95rem var(--fonte-principal); }
-#paletaBusca:focus { border-color: var(--cor-destaque); box-shadow: 0 0 0 3px rgba(124,106,247,.15); }
-.paleta-atalhos__lista { display: grid; gap: .35rem; margin-top: .75rem; }
-.paleta-item { display: flex; justify-content: space-between; align-items: center; width: 100%; padding: .75rem .8rem; border: 1px solid transparent; border-radius: 10px; background: transparent; color: var(--cor-texto-suave); text-align: left; cursor: pointer; }
-.paleta-item:hover, .paleta-item:focus-visible { border-color: var(--cor-borda); background: var(--cor-fundo-secundario); color: var(--cor-texto); outline: none; }
-.paleta-item small { color: var(--cor-texto-fraco); font: .68rem var(--fonte-mono); }
-
 .aviso-copiado {
   position: fixed;
   left: 50%;
@@ -1670,12 +1657,10 @@ a {
 
 .aviso-copiado.visivel { opacity: 1; transform: translate(-50%, 0); }
 
-body.modal-aberto,
-body.paleta-aberta { overflow: hidden; }
+body.modal-aberto { overflow: hidden; }
 
 @media (max-width: 900px) {
   .navegacao__acoes { margin-right: .75rem; }
-  .controle-btn--atalho { display: none; }
 }
 
 @media (max-width: 600px) {
