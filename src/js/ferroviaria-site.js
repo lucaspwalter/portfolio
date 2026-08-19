@@ -38,6 +38,35 @@ const steel = mat(0x68757a, 0.9, 0.2);
 const rust = mat(0x35261d, 0.55, 0.62);
 const glass = new THREE.MeshPhysicalMaterial({ color: 0x91c6d5, roughness: 0.08, metalness: 0.1, transmission: 0.22, transparent: true, opacity: 0.78 });
 
+function noiseTexture(colors, size = 128) {
+  const source = document.createElement('canvas');
+  source.width = size;
+  source.height = size;
+  const context = source.getContext('2d');
+  const image = context.createImageData(size, size);
+  for (let pixel = 0; pixel < size * size; pixel += 1) {
+    const color = new THREE.Color(colors[Math.floor(Math.random() * colors.length)]);
+    const shade = 0.82 + Math.random() * 0.28;
+    image.data[pixel * 4] = color.r * 255 * shade;
+    image.data[pixel * 4 + 1] = color.g * 255 * shade;
+    image.data[pixel * 4 + 2] = color.b * 255 * shade;
+    image.data[pixel * 4 + 3] = 255;
+  }
+  context.putImageData(image, 0, 0);
+  const texture = new THREE.CanvasTexture(source);
+  texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.anisotropy = renderer.capabilities.getMaxAnisotropy();
+  return texture;
+}
+
+const grassTexture = noiseTexture([0x1c3828, 0x294b31, 0x35583a, 0x172d22]);
+grassTexture.repeat.set(18, 34);
+const ballastTexture = noiseTexture([0x5c5a53, 0x77736a, 0x464843, 0x918b7e]);
+ballastTexture.repeat.set(4, 60);
+const woodTexture = noiseTexture([0x2a2019, 0x453126, 0x604130, 0x1f1814]);
+woodTexture.repeat.set(6, 1);
+
 function mesh(geometry, material, parent, position, rotation = [0, 0, 0]) {
   const item = new THREE.Mesh(geometry, material);
   item.position.set(...position);
@@ -151,13 +180,19 @@ new GLTFLoader().load('public/assets/models/locomotive-cc0.glb', ({ scene: model
 
 // Via e paisagem deslizam em direção à câmera: avanço fica inequívoco.
 const moving = [];
-const ground = mesh(new THREE.PlaneGeometry(110, 220), mat(0x263b32, 0, 1), scene, [0, -0.03, -38], [-Math.PI / 2, 0, 0]);
+const grassMaterial = new THREE.MeshStandardMaterial({ map: grassTexture, color: 0x8cad85, roughness: 1 });
+const ballastMaterial = new THREE.MeshStandardMaterial({ map: ballastTexture, color: 0xb0aaa0, roughness: 0.98 });
+const sleeperMaterial = new THREE.MeshStandardMaterial({ map: woodTexture, color: 0x8b6b53, roughness: 0.9 });
+const ground = mesh(new THREE.PlaneGeometry(110, 220, 1, 1), grassMaterial, scene, [0, -0.08, -38], [-Math.PI / 2, 0, 0]);
 ground.receiveShadow = true;
-mesh(new THREE.PlaneGeometry(5.8, 180), mat(0x5a5b50, 0, 0.96), scene, [0, 0.015, -38], [-Math.PI / 2, 0, 0]);
+mesh(new THREE.BoxGeometry(5.9, 0.34, 180), ballastMaterial, scene, [0, -0.02, -38]);
 for (const x of [-1.08, 1.08]) mesh(new THREE.BoxGeometry(0.13, 0.14, 180), steel, scene, [x, 0.12, -38]);
 
 for (let z = -105; z < 48; z += 1.35) {
-  const sleeper = mesh(new THREE.BoxGeometry(4.15, 0.12, 0.3), rust, scene, [0, 0.04, z]);
+  const sleeper = mesh(new THREE.BoxGeometry(4.15, 0.14, 0.32), sleeperMaterial, scene, [0, 0.045, z]);
+  for (const x of [-1.28, -0.88, 0.88, 1.28]) {
+    mesh(new THREE.BoxGeometry(0.16, 0.09, 0.18), steel, sleeper, [x, 0.11, 0]);
+  }
   sleeper.userData.loop = 153;
   moving.push(sleeper);
 }
@@ -178,14 +213,39 @@ for (let z = -95; z < 40; z += 10) {
   moving.push(rock);
 }
 
-for (let z = -100; z < 35; z += 14) {
-  const tree = new THREE.Group();
-  tree.position.set((Math.random() > 0.5 ? 1 : -1) * (12 + Math.random() * 15), 0, z);
-  scene.add(tree);
-  mesh(new THREE.CylinderGeometry(0.18, 0.25, 3.2, 7), rust, tree, [0, 1.6, 0]);
-  mesh(new THREE.ConeGeometry(2.1, 5.2, 8), mat(0x16382d, 0, 0.9), tree, [0, 5, 0]);
-  tree.userData.loop = 145;
-  moving.push(tree);
+const treeColors = [mat(0x173a29, 0, 0.96), mat(0x214b30, 0, 0.94), mat(0x2c5b38, 0, 0.92)];
+for (let z = -105; z < 42; z += 6.5) {
+  for (const side of [-1, 1]) {
+    const tree = new THREE.Group();
+    const distance = 7.5 + Math.random() * 18;
+    const height = 0.72 + Math.random() * 0.75;
+    tree.position.set(side * distance, 0, z + Math.random() * 3);
+    scene.add(tree);
+    mesh(new THREE.CylinderGeometry(0.16 * height, 0.28 * height, 3.4 * height, 8), rust, tree, [0, 1.7 * height, 0]);
+    mesh(new THREE.ConeGeometry(2.15 * height, 5.4 * height, 9), treeColors[Math.floor(Math.random() * treeColors.length)], tree, [0, 5 * height, 0]);
+    mesh(new THREE.ConeGeometry(1.7 * height, 4.2 * height, 9), treeColors[Math.floor(Math.random() * treeColors.length)], tree, [0, 7.1 * height, 0]);
+    tree.rotation.y = Math.random() * Math.PI;
+    tree.userData.loop = 153;
+    moving.push(tree);
+  }
+}
+
+const bladeMaterial = new THREE.MeshStandardMaterial({ color: 0x507945, side: THREE.DoubleSide, roughness: 1 });
+for (let z = -102; z < 44; z += 4.5) {
+  for (const side of [-1, 1]) {
+    const patch = new THREE.Group();
+    patch.position.set(side * (3.6 + Math.random() * 4.8), 0, z);
+    scene.add(patch);
+    for (let blade = 0; blade < 14; blade += 1) {
+      const height = 0.22 + Math.random() * 0.52;
+      mesh(new THREE.PlaneGeometry(0.07, height), bladeMaterial, patch, [(Math.random() - 0.5) * 2.8, height / 2, (Math.random() - 0.5) * 2.5], [0, Math.random() * Math.PI, (Math.random() - 0.5) * 0.22]);
+    }
+    if (Math.random() > 0.35) {
+      mesh(new THREE.DodecahedronGeometry(0.5 + Math.random() * 0.7, 1), treeColors[Math.floor(Math.random() * treeColors.length)], patch, [(Math.random() - 0.5) * 2.4, 0.35, 0]);
+    }
+    patch.userData.loop = 153;
+    moving.push(patch);
+  }
 }
 
 scene.add(new THREE.HemisphereLight(0xd8f2ff, 0x263a28, 2.2));
