@@ -22,7 +22,7 @@ document.addEventListener('click', event => {
   transicao.setAttribute('aria-hidden', 'true');
   document.body.appendChild(transicao);
   document.body.classList.add('pagina-saindo');
-  window.setTimeout(() => { window.location.href = destino.href; }, 620);
+  window.setTimeout(() => { window.location.href = destino.href; }, 900);
 });
 
 window.addEventListener('pageshow', () => {

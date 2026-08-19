@@ -43,7 +43,7 @@ body.pagina-saindo > *:not(script):not(.transicao-tech) {
     radial-gradient(circle at 50% 50%, rgba(124,106,247,.32), #07080d 62%);
   background-size: 34px 34px, 34px 34px, 100% 100%;
   clip-path: inset(0 0 100% 0);
-  animation: portalTech .62s cubic-bezier(.76,0,.24,1) forwards;
+  animation: portalTech .9s cubic-bezier(.76,0,.24,1) forwards;
 }
 
 .transicao-tech::before {
@@ -66,7 +66,7 @@ body.pagina-saindo > *:not(script):not(.transicao-tech) {
   white-space: nowrap;
   transform: translate(-50%, -50%);
   text-shadow: 0 0 18px rgba(167,139,250,.9);
-  animation: textoPortal .62s ease both;
+  animation: textoPortal .9s ease both;
 }
 
 @keyframes paginaEntrar {
