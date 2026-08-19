@@ -1810,6 +1810,43 @@ body.site-desbloqueado > .progresso-pagina {
 }
 @keyframes bootScanSaida { to { background-position: 0 16px; } }
 
+.desbloqueio-transicao {
+  position: fixed;
+  inset: 0;
+  z-index: 2001;
+  pointer-events: none;
+  background: radial-gradient(circle at 50% 50%, transparent 0 5%, rgba(124,106,247,.18) 22%, rgba(7,8,13,.94) 72%);
+  animation: portalDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
+}
+.desbloqueio-transicao::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 12rem;
+  aspect-ratio: 1;
+  border: 1px solid rgba(198,185,255,.9);
+  border-radius: 50%;
+  box-shadow: 0 0 35px #7c6af7, inset 0 0 35px rgba(167,139,250,.8);
+  transform: translate(-50%, -50%) scale(.1);
+  animation: anelDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
+}
+.desbloqueio-transicao::after {
+  content: 'ACCESS GRANTED  //  PORTFOLIO ONLINE';
+  position: absolute;
+  left: 50%;
+  top: calc(50% + 8rem);
+  color: #d8d5ff;
+  font: 500 .66rem 'Orbitron', var(--fonte-mono);
+  letter-spacing: .18em;
+  white-space: nowrap;
+  transform: translateX(-50%);
+  animation: textoDesbloqueio 1.05s ease both;
+}
+@keyframes portalDesbloqueio { 0% { opacity: 1; } 72% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes anelDesbloqueio { to { transform: translate(-50%, -50%) scale(12); opacity: 0; } }
+@keyframes textoDesbloqueio { 0%, 30% { opacity: 0; transform: translateX(-50%) translateY(8px); } 55%, 80% { opacity: 1; } 100% { opacity: 0; transform: translateX(-50%) translateY(-8px); } }
+
 body.bootando { overflow: hidden; }
 
 .boot-screen__grade {
@@ -1899,6 +1936,7 @@ html.cursor-imersivo button { cursor: none !important; }
 
 @media (prefers-reduced-motion: reduce) {
   .boot-screen__grade, .boot-screen__orbito { animation: none; }
+  .desbloqueio-transicao { display: none; }
 }
 
 /* Direção visual da tela de entrada */

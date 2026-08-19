@@ -352,10 +352,17 @@ const bootSkip = document.getElementById('bootSkip');
 
 const sairDoBoot = () => {
   sessionStorage.setItem('portfolio-booted', '1');
+  const transicaoDesbloqueio = document.createElement('div');
+  transicaoDesbloqueio.className = 'desbloqueio-transicao';
+  transicaoDesbloqueio.setAttribute('aria-hidden', 'true');
+  document.body.appendChild(transicaoDesbloqueio);
   document.body.classList.add('site-desbloqueado');
   document.body.classList.remove('bootando');
   bootScreen.classList.add('sair');
-  window.setTimeout(() => bootScreen.remove(), 1100);
+  window.setTimeout(() => {
+    bootScreen.remove();
+    transicaoDesbloqueio.remove();
+  }, 1100);
 };
 
 const repetirBoot = (new URLSearchParams(window.location.search).get('boot') || '').startsWith('show');
