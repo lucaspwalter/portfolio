@@ -143,7 +143,7 @@ const mostrarAviso = mensagem => {
 const aplicarTema = tema => {
   const claro = tema === 'claro';
   document.documentElement.classList.toggle('tema-claro', claro);
-  temaBotao.textContent = claro ? '☾' : '☼';
+  temaBotao.textContent = claro ? '☾ Tema' : '☼ Tema';
   temaBotao.setAttribute('aria-label', claro ? 'Ativar tema escuro' : 'Ativar tema claro');
   temaBotao.setAttribute('aria-pressed', String(claro));
   localStorage.setItem('portfolio-tema', tema);
