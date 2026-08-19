@@ -52,6 +52,14 @@ visual.addEventListener('pointermove', evento => {
   visual.style.transform = `perspective(1100px) rotateX(${y * -2}deg) rotateY(${x * 2}deg)`;
 });
 visual.addEventListener('pointerleave', () => { visual.style.removeProperty('transform'); });
+visual.addEventListener('click', () => visual.classList.toggle('is-active'));
+const atualizarNarrativa = () => {
+  const area = visual.getBoundingClientRect();
+  const progresso = Math.max(0, Math.min(1, (window.innerHeight - area.top) / (window.innerHeight + area.height)));
+  visual.style.setProperty('--scroll-progress', progresso.toFixed(3));
+};
+window.addEventListener('scroll', atualizarNarrativa, { passive: true });
+atualizarNarrativa();
 if (projeto.visual === 'jarvis') {
   visual.addEventListener('click', () => {
     const status = document.getElementById('consoleStatus');
