@@ -365,8 +365,10 @@ const sairDoBoot = () => {
   }, 1900);
 };
 
-const repetirBoot = (new URLSearchParams(window.location.search).get('boot') || '').startsWith('show');
-if (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1') {
+const parametrosBoot = new URLSearchParams(window.location.search);
+const repetirBoot = (parametrosBoot.get('boot') || '').startsWith('show');
+const pularBoot = parametrosBoot.get('skipboot') === '1';
+if (pularBoot || (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1')) {
   bootScreen.remove();
 } else {
   document.body.classList.add('bootando');

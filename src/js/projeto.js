@@ -44,3 +44,17 @@ if (window.gsap) {
   if (projeto.visual === 'rail') gsap.to('.train', { x: 420, duration: 5, repeat: -1, ease: 'none' });
   if (projeto.visual === 'scraper') gsap.to('.terminal-pulse', { opacity: .25, duration: .8, repeat: -1, yoyo: true });
 }
+
+visual.addEventListener('pointermove', evento => {
+  const caixa = visual.getBoundingClientRect();
+  const x = (evento.clientX - caixa.left) / caixa.width - .5;
+  const y = (evento.clientY - caixa.top) / caixa.height - .5;
+  visual.style.transform = `perspective(1100px) rotateX(${y * -2}deg) rotateY(${x * 2}deg)`;
+});
+visual.addEventListener('pointerleave', () => { visual.style.removeProperty('transform'); });
+if (projeto.visual === 'jarvis') {
+  visual.addEventListener('click', () => {
+    const status = document.getElementById('consoleStatus');
+    status.textContent = status.textContent === 'PROCESSING' ? projeto.status : 'PROCESSING';
+  });
+}
