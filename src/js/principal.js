@@ -383,16 +383,20 @@ if (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1') {
     const limite = caixa.width - 70;
     const deslocamento = Math.max(0, Math.min(limite, evento.clientX - caixa.left - 34));
     bootUnlock.querySelector('.boot-unlock__controle').style.transform = `translateX(${deslocamento}px)`;
+    bootUnlock.style.setProperty('--progresso', `${(deslocamento / limite) * 100}%`);
     bootUnlock.querySelector('span:last-child').style.opacity = String(Math.max(.15, 1 - deslocamento / limite * 1.4));
     if (deslocamento >= limite * .9) sairDoBoot();
   };
   bootUnlock.addEventListener('pointerdown', evento => {
     if (bootUnlock.disabled) return;
     arrastando = true;
+    bootUnlock.classList.add('arrastando');
     bootUnlock.setPointerCapture(evento.pointerId);
   });
   bootUnlock.addEventListener('pointermove', moverDesbloqueio);
-  bootUnlock.addEventListener('pointerup', () => { arrastando = false; });
+  const terminarArraste = () => { arrastando = false; bootUnlock.classList.remove('arrastando'); };
+  bootUnlock.addEventListener('pointerup', terminarArraste);
+  bootUnlock.addEventListener('pointercancel', terminarArraste);
   bootUnlock.addEventListener('keydown', evento => {
     if (!bootUnlock.disabled && (evento.key === 'Enter' || evento.key === ' ')) sairDoBoot();
   });
