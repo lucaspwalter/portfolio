@@ -1815,7 +1815,7 @@ body.site-desbloqueado > .progresso-pagina {
   inset: 0;
   z-index: 2001;
   pointer-events: none;
-  background: linear-gradient(rgba(124,106,247,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(124,106,247,.06) 1px, transparent 1px), #07080d;
+  background: linear-gradient(rgba(0,255,156,.07) 1px, transparent 1px), linear-gradient(90deg, rgba(0,255,156,.07) 1px, transparent 1px), #030806;
   background-size: 32px 32px;
   animation: portalDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
 }
@@ -1826,17 +1826,17 @@ body.site-desbloqueado > .progresso-pagina {
   top: 18%;
   width: 100%;
   height: 1px;
-  background: #a78bfa;
-  box-shadow: 0 0 14px rgba(167,139,250,.8);
+  background: #00ff9c;
+  box-shadow: 0 0 14px rgba(0,255,156,.8);
   animation: linhaDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
 }
 .desbloqueio-transicao::after {
-  content: '[ OK ]  LINK ESTABLISHED  //  PORTFOLIO READY';
+  content: '> ACCESS GRANTED  //  SESSION INITIALIZED';
   position: absolute;
   left: 50%;
   top: 50%;
-  color: #d8d5ff;
-  font: 500 .64rem 'DM Mono', var(--fonte-mono);
+  color: #00ff9c;
+  font: 500 .64rem 'JetBrains Mono', var(--fonte-mono);
   letter-spacing: .12em;
   white-space: nowrap;
   transform: translateX(-50%);
