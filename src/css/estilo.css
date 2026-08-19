@@ -1368,8 +1368,8 @@ a {
   }
 }
 
-@media (max-height: 600px) {
+@media (max-height: 900px) {
   .topo__indicador-scroll {
-    display: none;
+    display: none !important;
   }
 }
