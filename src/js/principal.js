@@ -221,3 +221,123 @@ if ('IntersectionObserver' in window) {
   const observadorSecoes = new IntersectionObserver(entradas => entradas.forEach(marcarSecaoAtiva), { rootMargin: '-35% 0px -55% 0px' });
   secoes.forEach(secao => observadorSecoes.observe(secao));
 }
+
+// Camada de movimento: partículas, cursor e elementos magnéticos.
+const universo = document.getElementById('universo');
+const orbe = document.querySelector('.topo__orbe');
+const podeAnimar = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const ponteiroPreciso = window.matchMedia('(pointer: fine)').matches;
+
+if (universo && podeAnimar) {
+  const contexto = universo.getContext('2d');
+  let pontos = [];
+  let largura = 0;
+  let altura = 0;
+  let alvoX = 0;
+  let alvoY = 0;
+
+  const ajustarUniverso = () => {
+    const escala = Math.min(window.devicePixelRatio || 1, 2);
+    largura = universo.clientWidth;
+    altura = universo.clientHeight;
+    universo.width = largura * escala;
+    universo.height = altura * escala;
+    contexto.setTransform(escala, 0, 0, escala, 0, 0);
+    const quantidade = Math.min(96, Math.max(28, Math.floor(largura / 17)));
+    pontos = Array.from({ length: quantidade }, () => ({
+      x: Math.random() * largura,
+      y: Math.random() * altura,
+      vx: (Math.random() - .5) * .18,
+      vy: (Math.random() - .5) * .18,
+      r: Math.random() * 1.7 + .4
+    }));
+  };
+
+  const desenharUniverso = () => {
+    contexto.clearRect(0, 0, largura, altura);
+    pontos.forEach(ponto => {
+      ponto.x += ponto.vx;
+      ponto.y += ponto.vy;
+      if (ponto.x < -10 || ponto.x > largura + 10) ponto.vx *= -1;
+      if (ponto.y < -10 || ponto.y > altura + 10) ponto.vy *= -1;
+      const distancia = Math.hypot(ponto.x - alvoX, ponto.y - alvoY);
+      const brilho = distancia < 180 ? .8 : .3;
+      contexto.beginPath();
+      contexto.arc(ponto.x, ponto.y, ponto.r, 0, Math.PI * 2);
+      contexto.fillStyle = `rgba(167, 139, 250, ${brilho})`;
+      contexto.fill();
+    });
+    for (let i = 0; i < pontos.length; i += 1) {
+      for (let j = i + 1; j < pontos.length; j += 1) {
+        const distancia = Math.hypot(pontos[i].x - pontos[j].x, pontos[i].y - pontos[j].y);
+        if (distancia > 105) continue;
+        contexto.beginPath();
+        contexto.moveTo(pontos[i].x, pontos[i].y);
+        contexto.lineTo(pontos[j].x, pontos[j].y);
+        contexto.strokeStyle = `rgba(124, 106, 247, ${.13 * (1 - distancia / 105)})`;
+        contexto.stroke();
+      }
+    }
+    requestAnimationFrame(desenharUniverso);
+  };
+
+  ajustarUniverso();
+  window.addEventListener('resize', ajustarUniverso);
+  desenharUniverso();
+
+  document.querySelector('.topo').addEventListener('pointermove', evento => {
+    const caixa = evento.currentTarget.getBoundingClientRect();
+    alvoX = evento.clientX - caixa.left;
+    alvoY = evento.clientY - caixa.top;
+    orbe?.style.setProperty('--orbe-x', `${(alvoX - caixa.width / 2) * .08}px`);
+    orbe?.style.setProperty('--orbe-y', `${(alvoY - caixa.height / 2) * .08}px`);
+    document.documentElement.style.setProperty('--hero-y', `${(alvoY - caixa.height / 2) * -.012}px`);
+  });
+}
+
+if (ponteiroPreciso && podeAnimar) {
+  const cursor = document.createElement('div');
+  cursor.className = 'cursor-orbe';
+  document.body.append(cursor);
+  document.body.classList.add('cursor-imersivo');
+  let cursorX = -100;
+  let cursorY = -100;
+  let alvoCursorX = -100;
+  let alvoCursorY = -100;
+  const moverCursor = () => {
+    cursorX += (alvoCursorX - cursorX) * .22;
+    cursorY += (alvoCursorY - cursorY) * .22;
+    cursor.style.transform = `translate3d(${cursorX - 11}px, ${cursorY - 11}px, 0)`;
+    requestAnimationFrame(moverCursor);
+  };
+  document.addEventListener('pointermove', evento => {
+    alvoCursorX = evento.clientX;
+    alvoCursorY = evento.clientY;
+    cursor.classList.add('visivel');
+  }, { passive: true });
+  document.addEventListener('pointerdown', () => cursor.classList.add('clique'));
+  document.addEventListener('pointerup', () => cursor.classList.remove('clique'));
+  document.addEventListener('pointerover', evento => cursor.classList.toggle('grande', Boolean(evento.target.closest('a, button, .projeto-card'))));
+  moverCursor();
+}
+
+document.querySelectorAll('[data-magnet]').forEach(elemento => {
+  elemento.addEventListener('pointermove', evento => {
+    const caixa = elemento.getBoundingClientRect();
+    const forca = Number(elemento.dataset.magnet || .2);
+    elemento.style.transform = `translate(${(evento.clientX - (caixa.left + caixa.width / 2)) * forca}px, ${(evento.clientY - (caixa.top + caixa.height / 2)) * forca}px)`;
+  });
+  elemento.addEventListener('pointerleave', () => { elemento.style.removeProperty('transform'); });
+});
+
+document.querySelectorAll('.projeto-card').forEach(card => {
+  card.addEventListener('pointermove', evento => {
+    const caixa = card.getBoundingClientRect();
+    const x = (evento.clientX - caixa.left) / caixa.width;
+    const y = (evento.clientY - caixa.top) / caixa.height;
+    card.style.setProperty('--spot-x', `${x * 100}%`);
+    card.style.setProperty('--spot-y', `${y * 100}%`);
+    if (ponteiroPreciso && podeAnimar) card.style.transform = `perspective(1100px) rotateX(${(0.5 - y) * 2.2}deg) rotateY(${(x - 0.5) * 2.2}deg) translateY(-5px)`;
+  });
+  card.addEventListener('pointerleave', () => { card.style.removeProperty('transform'); });
+});
