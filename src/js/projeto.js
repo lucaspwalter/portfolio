@@ -10,6 +10,7 @@ const projetos = {
 };
 
 const slug = new URLSearchParams(location.search).get('projeto') || 'jarvis';
+if (slug === 'brasilium') location.replace('projeto-brasilium.html');
 const projeto = projetos[slug] || projetos.jarvis;
 const setText = (id, value) => { document.getElementById(id).textContent = value; };
 const visuais = {
@@ -66,7 +67,4 @@ if (projeto.visual === 'jarvis') {
     const status = document.getElementById('consoleStatus');
     status.textContent = status.textContent === 'PROCESSING' ? projeto.status : 'PROCESSING';
   });
-}
-if (projeto.visual === 'brasilium') {
-  import('./brasilium-3d.js?v=20260819a').then(({ iniciarBrasilium3D }) => iniciarBrasilium3D(visual));
 }

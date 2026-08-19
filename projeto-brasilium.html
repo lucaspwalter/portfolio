@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Brasilium Browser, navegador pessoal baseado em Chromium para Linux." />
+  <title>Brasilium Browser</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/css/brasilium-site.css?v=20260819a" />
+  <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+</head>
+<body>
+  <div class="ponteiro" aria-hidden="true"><i></i></div>
+
+  <header class="barra">
+    <a class="barra__marca" href="#inicio" aria-label="Brasilium, início"><span>B</span><b>BRASILIUM</b></a>
+    <div class="barra__estado"><i></i><span>CHROMIUM CORE</span><b>ACTIVE</b></div>
+    <button class="barra__menu" type="button" aria-expanded="false" aria-controls="menu"><span>Menu</span><i></i></button>
+  </header>
+
+  <nav class="menu" id="menu" aria-hidden="true">
+    <a href="#manifesto"><small>01</small> Manifesto</a>
+    <a href="#sistema"><small>02</small> Sistema</a>
+    <a href="#executar"><small>03</small> Executar</a>
+    <a href="index.html?skipboot=1#projetos"><small>04</small> Portfólio</a>
+  </nav>
+
+  <main>
+    <section class="abertura" id="inicio">
+      <div class="abertura__texto">
+        <p class="micro">PERSONAL BROWSER / LINUX / 2026</p>
+        <h1><span>Browse</span><span>your own</span><em>way.</em></h1>
+        <p class="abertura__resumo">Chromium reconstruído como espaço pessoal: identidade própria, perfil persistente e execução ajustada para consumir menos.</p>
+        <div class="abertura__acoes">
+          <a href="https://github.com/lucaspwalter/helium-performance" target="_blank" rel="noreferrer">Abrir código <span>↗</span></a>
+          <button type="button" id="entrarEspaco">Entrar no espaço <span>↓</span></button>
+        </div>
+      </div>
+
+      <div class="orbita" id="orbita">
+        <canvas id="brasiliumScene" aria-label="Espaço tridimensional interativo do Brasilium"></canvas>
+        <div class="orbita__mira" aria-hidden="true"><span></span><span></span></div>
+        <div class="orbita__legenda"><b id="modoAtual">PRIVATE SPACE</b><span>MOVE / DRAG / CLICK</span></div>
+      </div>
+
+      <div class="rolagem"><span>SCROLL TO NAVIGATE</span><i></i></div>
+    </section>
+
+    <section class="manifesto" id="manifesto">
+      <p class="capitulo">01 — MANIFESTO</p>
+      <div class="manifesto__frase">
+        <span>Internet aberta.</span>
+        <span>Interface silenciosa.</span>
+        <span>Controle <em>seu.</em></span>
+      </div>
+      <aside><b>MENOS RUÍDO</b><p>Um navegador moldado para uso diário, sem remover recursos essenciais.</p></aside>
+    </section>
+
+    <section class="sistema" id="sistema">
+      <header><p class="capitulo">02 — SYSTEM MAP</p><h2>Três camadas.<br />Uma experiência.</h2></header>
+      <div class="trilhas" role="list">
+        <button class="trilha is-open" type="button" role="listitem" data-camada="identity">
+          <span>01</span><h3>Identidade</h3><p>Branding Brasilium aplicado sobre base Chromium.</p><i>+</i>
+        </button>
+        <button class="trilha" type="button" role="listitem" data-camada="memory">
+          <span>02</span><h3>Memória</h3><p>Perfil pessoal persistente entre execuções.</p><i>+</i>
+        </button>
+        <button class="trilha" type="button" role="listitem" data-camada="runtime">
+          <span>03</span><h3>Execução</h3><p>Ajustes voltados a reduzir consumo sem cortar funções essenciais.</p><i>+</i>
+        </button>
+      </div>
+      <div class="sistema__status"><span>CORE</span><b>CHROMIUM</b><span>PLATFORM</span><b>LINUX</b><span>FORMAT</span><b>APPIMAGE</b></div>
+    </section>
+
+    <section class="executar" id="executar">
+      <div><p class="capitulo">03 — LAUNCH</p><h2>Seu navegador.<br />Sua máquina.</h2></div>
+      <div class="terminal">
+        <header><span></span><span></span><span></span><b>brasilium — bash</b></header>
+        <code><i>$</i> chmod +x Brasilium.AppImage<br /><i>$</i> ./Brasilium.AppImage<span class="cursor">_</span></code>
+        <footer><span>STATUS</span><b>EM DESENVOLVIMENTO</b></footer>
+      </div>
+    </section>
+  </main>
+
+  <footer class="rodape"><span>BRASILIUM / PERSONAL BROWSER</span><a href="index.html?skipboot=1#projetos">Voltar ao portfólio ↗</a><span>© 2026</span></footer>
+  <script type="module" src="src/js/brasilium-site.js?v=20260819a"></script>
+</body>
+</html>
