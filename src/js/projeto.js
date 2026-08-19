@@ -11,6 +11,7 @@ const projetos = {
 
 const slug = new URLSearchParams(location.search).get('projeto') || 'jarvis';
 if (slug === 'brasilium') location.replace('projeto-brasilium.html');
+if (slug === 'jarvis') location.replace('projeto-jarvis.html');
 const projeto = projetos[slug] || projetos.jarvis;
 const setText = (id, value) => { document.getElementById(id).textContent = value; };
 const visuais = {
@@ -61,10 +62,3 @@ const atualizarNarrativa = () => {
 };
 window.addEventListener('scroll', atualizarNarrativa, { passive: true });
 atualizarNarrativa();
-if (projeto.visual === 'jarvis') {
-  import('./jarvis-3d.js?v=20260819a').then(({ iniciarJarvis3D }) => iniciarJarvis3D(visual));
-  visual.addEventListener('click', () => {
-    const status = document.getElementById('consoleStatus');
-    status.textContent = status.textContent === 'PROCESSING' ? projeto.status : 'PROCESSING';
-  });
-}
