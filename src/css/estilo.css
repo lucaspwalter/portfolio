@@ -1880,7 +1880,7 @@ html.cursor-imersivo button { cursor: none !important; }
 }
 
 /* Direção visual da tela de entrada */
-:root { --fonte-display: 'Space Grotesk', var(--fonte-principal); --fonte-tecnica: 'DM Mono', var(--fonte-mono); }
+:root { --fonte-display: 'Space Grotesk', var(--fonte-principal); --fonte-tecnica: 'Orbitron', var(--fonte-mono); }
 .boot-screen { background: #07080d; font-family: var(--fonte-display); isolation: isolate; }
 .boot-screen::before {
   content: '';
