@@ -1919,12 +1919,13 @@ html.cursor-imersivo button { cursor: none !important; }
 @keyframes orbitoFlutua { 50% { transform: translateY(-18px) translateX(-10px); } }
 @keyframes orbitoPulsa { 50% { box-shadow: 0 0 90px rgba(124,106,247,.38), inset 0 0 50px rgba(124,106,247,.2); } }
 @keyframes orbitoGira { to { transform: rotate(360deg); } }
-.boot-screen__status { margin-top: 8rem; color: #d4d7eb; font: .85rem var(--fonte-tecnica); }
+.boot-screen__status { margin-top: 8rem; color: #d4d7eb; font: 500 .82rem var(--fonte-tecnica); letter-spacing: .08em; }
 .boot-screen__barra { margin: .7rem 0 .65rem; background: #171a28; }
 .boot-screen__terminal { margin-bottom: 1rem; color: #69718e; font-family: var(--fonte-tecnica); }
-.boot-unlock { position: relative; overflow: hidden; max-width: 390px; height: 3.2rem; padding-right: 1rem; background: linear-gradient(90deg, rgba(124,106,247,.2) var(--progresso, 0%), rgba(255,255,255,.04) var(--progresso, 0%)); font-family: var(--fonte-tecnica); touch-action: none; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease; }
+.boot-unlock { position: relative; overflow: hidden; max-width: 390px; height: 3.2rem; margin-inline: auto; justify-content: center; padding-right: 1rem; background: linear-gradient(90deg, rgba(124,106,247,.2) var(--progresso, 0%), rgba(255,255,255,.04) var(--progresso, 0%)); font-family: var(--fonte-tecnica); touch-action: none; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease; }
 .boot-unlock:not(:disabled):hover { border-color: rgba(167,139,250,.7); box-shadow: 0 0 28px rgba(124,106,247,.2); }
 .boot-unlock.arrastando { border-color: #a78bfa; box-shadow: 0 0 34px rgba(124,106,247,.35); }
+.boot-unlock.retorno .boot-unlock__controle { transition-duration: .45s; }
 .boot-unlock__controle { width: 2.45rem; height: 2.45rem; transition: transform .12s cubic-bezier(.2,.8,.2,1), box-shadow .2s ease; }
 .boot-unlock:not(:disabled) .boot-unlock__controle { animation: controlePulso 2.4s ease-in-out infinite; }
 .boot-unlock:not(:disabled)::after { content: ''; position: absolute; inset: 0; border-radius: inherit; background: linear-gradient(100deg, transparent 30%, rgba(255,255,255,.16) 50%, transparent 70%); transform: translateX(-100%); animation: trilhaDesbloqueio 3.2s ease-in-out infinite; pointer-events: none; }

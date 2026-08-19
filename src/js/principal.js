@@ -394,7 +394,16 @@ if (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1') {
     bootUnlock.setPointerCapture(evento.pointerId);
   });
   bootUnlock.addEventListener('pointermove', moverDesbloqueio);
-  const terminarArraste = () => { arrastando = false; bootUnlock.classList.remove('arrastando'); };
+  const terminarArraste = () => {
+    if (!arrastando) return;
+    arrastando = false;
+    bootUnlock.classList.remove('arrastando');
+    bootUnlock.classList.add('retorno');
+    bootUnlock.querySelector('.boot-unlock__controle').style.transform = 'translateX(0)';
+    bootUnlock.style.setProperty('--progresso', '0%');
+    bootUnlock.querySelector('span:last-child').style.opacity = '1';
+    window.setTimeout(() => bootUnlock.classList.remove('retorno'), 450);
+  };
   bootUnlock.addEventListener('pointerup', terminarArraste);
   bootUnlock.addEventListener('pointercancel', terminarArraste);
   bootUnlock.addEventListener('keydown', evento => {
