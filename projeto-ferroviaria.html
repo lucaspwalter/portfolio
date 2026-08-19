@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="src/css/ferroviaria-site.css?v=20260819a" />
-  <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+  <link rel="stylesheet" href="src/css/ferroviaria-lite.css?v=20260819a" />
 </head>
 <body>
   <header class="dispatch-bar">
@@ -27,11 +27,22 @@
       </div>
 
       <div class="rail-scene" id="railScene">
-        <canvas id="trainCanvas" aria-label="Trem tridimensional interativo em movimento com câmera 360 graus"></canvas>
+        <div class="train-stage" id="trainStage">
+          <div class="train-stage__frame" aria-hidden="true"></div>
+          <img class="train-stage__image" src="public/assets/images/ferroviaria-hero.webp" alt="Locomotiva azul e amarela avançando em alta velocidade" />
+          <div class="train-stage__speed" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="train-stage__glow" aria-hidden="true"></div>
+        </div>
         <div class="rail-scene__hud">
-          <span>TRAIN / LLGR-01</span><b id="speedReadout">086 KM/H</b><small>ARRASTE: CÂMERA 360° · RODA: ZOOM</small>
+          <span>TRAIN / LLGR-01</span><b id="speedReadout">086 KM/H</b><small>MOVA O CURSOR: PROFUNDIDADE 3D</small>
         </div>
         <button class="rail-scene__throttle" id="throttle" type="button"><span>VELOCIDADE</span><b id="throttleLabel">CRUZEIRO</b><i></i></button>
+        <div class="signal-console" aria-label="Controle ferroviário interativo">
+          <span>SINAL DA VIA</span>
+          <div><button class="signal is-active" data-signal="green" type="button" aria-label="Sinal verde"></button><button class="signal" data-signal="yellow" type="button" aria-label="Sinal amarelo"></button><button class="signal" data-signal="red" type="button" aria-label="Sinal vermelho"></button></div>
+          <b id="signalStatus">VIA LIVRE</b>
+          <button class="horn" id="horn" type="button">ACIONAR BUZINA</button>
+        </div>
       </div>
 
       <div class="hero__ticker" aria-hidden="true"><span>ESTAÇÃO NORTE</span><i></i><span>SETOR INDUSTRIAL</span><i></i><span>TERMINAL CENTRAL</span><i></i><span>PÁTIO SUL</span></div>
@@ -69,6 +80,6 @@
   </main>
 
   <footer><span>FERROVIÁRIA LLGR</span><span>PHP / MYSQL / DOCKER</span><span>SESI SENAI · 2026</span></footer>
-  <script type="module" src="src/js/ferroviaria-site.js?v=20260819k"></script>
+  <script src="src/js/ferroviaria-lite.js?v=20260819a"></script>
 </body>
 </html>
