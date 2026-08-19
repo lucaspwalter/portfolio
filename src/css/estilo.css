@@ -1786,9 +1786,9 @@ body.cursor-imersivo button { cursor: none; }
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transform: scale(1.06);
-  clip-path: circle(0% at 50% 50%);
-  filter: blur(8px);
+  transform: translateY(-2%);
+  clip-path: inset(0 0 100% 0);
+  filter: blur(5px);
   transition: opacity .95s ease, visibility .95s ease, transform .95s cubic-bezier(.2,.8,.2,1), clip-path .95s cubic-bezier(.76,0,.24,1), filter .95s ease;
 }
 
@@ -1815,7 +1815,7 @@ body.site-desbloqueado > .progresso-pagina {
   inset: 0;
   z-index: 2001;
   pointer-events: none;
-  background: radial-gradient(circle at 50% 50%, transparent 0 5%, rgba(124,106,247,.18) 22%, rgba(7,8,13,.94) 72%);
+  background: linear-gradient(180deg, transparent 0 48%, rgba(167,139,250,.72) 49.5%, transparent 51%), radial-gradient(circle at 50% 50%, rgba(124,106,247,.14), transparent 52%);
   animation: portalDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
 }
 .desbloqueio-transicao::before {
@@ -1823,19 +1823,19 @@ body.site-desbloqueado > .progresso-pagina {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 12rem;
+  width: 8rem;
   aspect-ratio: 1;
   border: 1px solid rgba(198,185,255,.9);
   border-radius: 50%;
-  box-shadow: 0 0 35px #7c6af7, inset 0 0 35px rgba(167,139,250,.8);
+  box-shadow: 0 0 28px #7c6af7, inset 0 0 24px rgba(167,139,250,.55);
   transform: translate(-50%, -50%) scale(.1);
   animation: anelDesbloqueio 1.05s cubic-bezier(.2,.8,.2,1) both;
 }
 .desbloqueio-transicao::after {
-  content: 'ACCESS GRANTED  //  PORTFOLIO ONLINE';
+  content: 'SYSTEM ONLINE  //  PORTFOLIO READY';
   position: absolute;
   left: 50%;
-  top: calc(50% + 8rem);
+  top: calc(50% + 5.5rem);
   color: #d8d5ff;
   font: 500 .66rem 'Orbitron', var(--fonte-mono);
   letter-spacing: .18em;
@@ -1844,7 +1844,7 @@ body.site-desbloqueado > .progresso-pagina {
   animation: textoDesbloqueio 1.05s ease both;
 }
 @keyframes portalDesbloqueio { 0% { opacity: 1; } 72% { opacity: 1; } 100% { opacity: 0; } }
-@keyframes anelDesbloqueio { to { transform: translate(-50%, -50%) scale(12); opacity: 0; } }
+@keyframes anelDesbloqueio { to { transform: translate(-50%, -50%) scale(4.5); opacity: 0; } }
 @keyframes textoDesbloqueio { 0%, 30% { opacity: 0; transform: translateX(-50%) translateY(8px); } 55%, 80% { opacity: 1; } 100% { opacity: 0; transform: translateX(-50%) translateY(-8px); } }
 
 body.bootando { overflow: hidden; }
