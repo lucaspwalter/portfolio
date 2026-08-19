@@ -3,11 +3,20 @@ const chartTotal = document.getElementById('chartTotal');
 const chart = document.getElementById('riskChart');
 const people = [...document.querySelectorAll('.person')];
 const detail = document.getElementById('personDetail');
+const rangeBars = {
+  '30': [[78,48,25],[52,68,31],[66,42,54],[34,60,72],[23,35,84]],
+  '90': [[64,56,34],[61,74,42],[58,48,62],[43,66,58],[31,44,78]],
+  '365': [[48,39,31],[44,55,38],[51,36,47],[29,49,61],[20,31,70]]
+};
+const barGroups = [...chart.querySelectorAll(':scope > div')];
+const paintBars = (range) => barGroups.forEach((group, groupIndex) => group.querySelectorAll(':scope > i').forEach((bar, barIndex) => bar.style.setProperty('--bar', `${rangeBars[range][groupIndex][barIndex]}%`)));
+paintBars('30');
 
 document.querySelectorAll('[data-range]').forEach((button) => button.addEventListener('click', () => {
   document.querySelectorAll('[data-range]').forEach((item) => item.classList.remove('is-active'));
   button.classList.add('is-active');
   const range = button.dataset.range;
+  paintBars(range);
   score.textContent = range === '365' ? '61' : range === '90' ? '65' : '68';
   chartTotal.textContent = range === '365' ? '9 ALTO RISCO' : range === '90' ? '10 ALTO RISCO' : '12 ALTO RISCO';
   chart.classList.remove('chart--pulse');
