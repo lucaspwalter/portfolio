@@ -4,3 +4,4 @@
 .chart>div{min-width:78px;max-width:120px}.chart-card footer{flex-wrap:wrap;align-items:center;gap:1rem 1.4rem}.chart-card footer span{display:inline-flex;align-items:center;white-space:nowrap}
 @media(max-width:800px){.chart>div{min-width:0;max-width:none}}
 .chart>div{flex-direction:row!important}.chart i,.chart i:nth-child(1),.chart i:nth-child(2),.chart i:nth-child(3){flex:0 0 30%!important;width:30%!important}.chart-card footer span{gap:.35rem}
+.chart>div{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));align-items:end;justify-items:stretch;gap:6px}.chart i,.chart i:nth-child(1),.chart i:nth-child(2),.chart i:nth-child(3){width:auto!important;min-width:0;flex:none!important}.factor-card header{gap:1rem}.factor-card li span{min-width:0}.factor-card li b{padding-left:1rem}.chart-card footer{gap:1rem 2rem}
