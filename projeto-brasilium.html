@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Brasilium Browser, navegador pessoal baseado em Chromium para Linux." />
+  <meta name="description" content="Brasilium, modificação do Helium para Linux focada em reduzir consumo de RAM." />
   <title>Brasilium Browser</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -30,9 +30,9 @@
   <main>
     <section class="abertura" id="inicio">
       <div class="abertura__texto">
-        <p class="micro">PERSONAL BROWSER / LINUX / 2026</p>
+        <p class="micro">HELIUM MOD / LOW RAM / LINUX / 2026</p>
         <h1><span>Navegue</span><span>do seu</span><em>jeito.</em></h1>
-        <p class="abertura__resumo">Chromium reconstruído como espaço pessoal: identidade própria, perfil persistente e execução ajustada para consumir menos.</p>
+        <p class="abertura__resumo">Modificação do Helium criada com um objetivo direto: diminuir o consumo de RAM no Linux sem transformar o projeto em outro navegador.</p>
         <div class="abertura__acoes">
           <a href="https://github.com/lucaspwalter/helium-performance" target="_blank" rel="noreferrer">Abrir código <span>↗</span></a>
           <button type="button" id="entrarEspaco">Entrar no espaço <span>↓</span></button>
@@ -43,7 +43,7 @@
       <div class="orbita" id="orbita">
         <canvas id="brasiliumScene" aria-label="Espaço tridimensional interativo do Brasilium"></canvas>
         <div class="orbita__mira" aria-hidden="true"><span></span><span></span></div>
-        <div class="orbita__legenda"><b id="modoAtual">PRIVATE SPACE</b><span>MOVE / DRAG / CLICK</span></div>
+        <div class="orbita__legenda"><b id="modoAtual">LOW RAM MODE</b><span>MOVE / DRAG / CLICK</span></div>
       </div>
 
       <div class="rolagem"><span>SCROLL TO NAVIGATE</span><i></i></div>
@@ -52,27 +52,27 @@
     <section class="manifesto" id="manifesto">
       <p class="capitulo">01 — MANIFESTO</p>
       <div class="manifesto__frase">
-        <span>Internet aberta.</span>
-        <span>Interface silenciosa.</span>
-        <span>Controle <em>seu.</em></span>
+        <span>Mesmo Helium.</span>
+        <span>Menos processos.</span>
+        <span>Menos <em>RAM.</em></span>
       </div>
-      <aside><b>MENOS RUÍDO</b><p>Um navegador moldado para uso diário, sem remover recursos essenciais.</p></aside>
+      <aside><b>OBJETIVO</b><p>Reduzir memória usada pelos renderizadores, mantendo abas, extensões e sites modernos funcionais.</p></aside>
     </section>
 
     <section class="sistema" id="sistema">
-      <header><p class="capitulo">02 — SYSTEM MAP</p><h2>Três camadas.<br />Uma experiência.</h2></header>
+      <header><p class="capitulo">02 — SYSTEM MAP</p><h2>Helium ajustado<br />para usar menos.</h2></header>
       <div class="trilhas" role="list">
-        <button class="trilha is-open" type="button" role="listitem" data-camada="identity">
-          <span>01</span><h3>Identidade</h3><p>Branding Brasilium aplicado sobre base Chromium.</p><i>+</i>
+        <button class="trilha is-open" type="button" role="listitem" data-camada="helium">
+          <span>01</span><h3>Base Helium</h3><p>Não é navegador novo: é uma modificação do empacotamento Linux do Helium.</p><i>+</i>
         </button>
         <button class="trilha" type="button" role="listitem" data-camada="memory">
-          <span>02</span><h3>Memória</h3><p>Perfil pessoal persistente entre execuções.</p><i>+</i>
+          <span>02</span><h3>Política de RAM</h3><p>Usa processo por site e limita renderizadores a quatro por padrão.</p><i>+</i>
         </button>
-        <button class="trilha" type="button" role="listitem" data-camada="runtime">
-          <span>03</span><h3>Execução</h3><p>Ajustes voltados a reduzir consumo sem cortar funções essenciais.</p><i>+</i>
+        <button class="trilha" type="button" role="listitem" data-camada="build">
+          <span>03</span><h3>Build otimizada</h3><p>PGO, ThinLTO, compilação jumbo, VA-API e otimização de tamanho.</p><i>+</i>
         </button>
       </div>
-      <div class="sistema__status"><span>CORE</span><b>CHROMIUM</b><span>PLATFORM</span><b>LINUX</b><span>FORMAT</span><b>APPIMAGE</b></div>
+      <div class="sistema__status"><span>BASE</span><b>HELIUM</b><span>MODE</span><b>LOW RAM</b><span>TARGET</span><b>LINUX X86_64</b></div>
     </section>
 
     <section class="executar" id="executar">
@@ -85,7 +85,7 @@
     </section>
   </main>
 
-  <footer class="rodape"><span>BRASILIUM / PERSONAL BROWSER</span><a href="index.html?skipboot=1#projetos">Voltar ao portfólio ↗</a><span>© 2026</span></footer>
+  <footer class="rodape"><span>BRASILIUM / HELIUM LOW-RAM MOD</span><a href="index.html?skipboot=1#projetos">Voltar ao portfólio ↗</a><span>© 2026</span></footer>
   <script type="module" src="src/js/brasilium-site.js?v=20260819a"></script>
 </body>
 </html>

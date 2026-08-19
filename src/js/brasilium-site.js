@@ -42,7 +42,7 @@ const pointData=new Float32Array(1800*3);for(let i=0;i<1800;i+=1){pointData[i*3]
 const pointsGeometry=new THREE.BufferGeometry();pointsGeometry.setAttribute('position',new THREE.BufferAttribute(pointData,3));const points=new THREE.Points(pointsGeometry,new THREE.PointsMaterial({color:0x83d8ba,size:.025,transparent:true,opacity:.62}));scene.add(points);
 scene.add(new THREE.HemisphereLight(0xdffff5,0x062019,2.2));const lamp=new THREE.PointLight(0xb8ff36,70,18);lamp.position.set(3,3,5);scene.add(lamp);
 
-const pointer=new THREE.Vector2();const target=new THREE.Vector2();let dragging=false;let mode=0;const modes=['PRIVATE SPACE','MEMORY FIELD','VELOCITY CORE'];
+const pointer=new THREE.Vector2();const target=new THREE.Vector2();let dragging=false;let mode=0;const modes=['LOW RAM MODE','4 RENDERERS','PROCESS PER SITE'];
 holder.addEventListener('pointermove',event=>{const rect=holder.getBoundingClientRect();target.set((event.clientX-rect.left)/rect.width*2-1,-((event.clientY-rect.top)/rect.height*2-1));if(dragging){structure.rotation.y+=event.movementX*.008;structure.rotation.x+=event.movementY*.006;}});
 holder.addEventListener('pointerdown',event=>{dragging=true;holder.setPointerCapture?.(event.pointerId);});holder.addEventListener('pointerup',()=>dragging=false);
 holder.addEventListener('click',()=>{mode=(mode+1)%modes.length;document.getElementById('modoAtual').textContent=modes[mode];windows.forEach((panel,index)=>panel.material.emissiveIntensity=index%3===mode?2:.8);});
