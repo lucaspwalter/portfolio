@@ -357,7 +357,8 @@ const sairDoBoot = () => {
   window.setTimeout(() => bootScreen.remove(), 800);
 };
 
-if (sessionStorage.getItem('portfolio-booted') === '1') {
+const repetirBoot = new URLSearchParams(window.location.search).get('boot') === 'show';
+if (!repetirBoot && sessionStorage.getItem('portfolio-booted') === '1') {
   bootScreen.remove();
 } else {
   document.body.classList.add('bootando');

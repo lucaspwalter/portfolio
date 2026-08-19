@@ -1730,7 +1730,7 @@ body.cursor-imersivo button { cursor: none; }
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 500;
+  z-index: 1200;
   width: 22px;
   height: 22px;
   border: 1px solid rgba(167,139,250,.9);
@@ -1877,4 +1877,43 @@ html.cursor-imersivo button { cursor: none !important; }
 
 @media (prefers-reduced-motion: reduce) {
   .boot-screen__grade, .boot-screen__orbito { animation: none; }
+}
+
+/* Direção visual da tela de entrada */
+:root { --fonte-display: 'Space Grotesk', var(--fonte-principal); --fonte-tecnica: 'DM Mono', var(--fonte-mono); }
+.boot-screen { background: #07080d; font-family: var(--fonte-display); }
+.boot-screen__conteudo { width: min(620px, calc(100% - 2rem)); text-align: left; }
+.boot-screen__topo, .boot-screen__rodape { display: flex; justify-content: space-between; color: #656c88; font: .65rem var(--fonte-tecnica); letter-spacing: .12em; }
+.boot-screen__marca { display: block; margin-top: 3.5rem; color: #d8d5ff; font: 600 clamp(1.5rem, 4vw, 2.6rem) var(--fonte-display); letter-spacing: -.06em; }
+.boot-screen__titulo { margin: .7rem 0 0; color: #f4f2ff; font: 600 clamp(3.5rem, 9vw, 7.8rem)/.86 var(--fonte-display); letter-spacing: -.09em; }
+.boot-screen__titulo em { color: #a78bfa; font-style: normal; }
+.boot-screen__subtitulo { margin: 1.25rem 0 0; color: #8e96b3; font: 1rem var(--fonte-display); }
+.boot-screen__orbito { position: absolute; right: 12%; top: 36%; width: 170px; height: 170px; margin: 0; border-color: rgba(167,139,250,.28); }
+.boot-screen__orbito span { margin: 77px auto; }
+.boot-screen__status { margin-top: 8rem; color: #d4d7eb; font: .85rem var(--fonte-tecnica); }
+.boot-screen__barra { margin: .7rem 0 .65rem; background: #171a28; }
+.boot-screen__terminal { margin-bottom: 1rem; color: #69718e; font-family: var(--fonte-tecnica); }
+.boot-unlock { max-width: 390px; height: 3.2rem; padding-right: 1rem; background: rgba(255,255,255,.04); font-family: var(--fonte-tecnica); }
+.boot-unlock__controle { width: 2.45rem; height: 2.45rem; }
+.boot-screen__rodape { margin-top: 1.2rem; }
+.boot-skip { display: block; margin: .85rem 0 0 auto; font-family: var(--fonte-tecnica); }
+
+@media (max-width: 700px) {
+  .boot-screen__conteudo { text-align: center; }
+  .boot-screen__marca { margin-top: 2rem; }
+  .boot-screen__titulo { font-size: clamp(3.1rem, 15vw, 5rem); }
+  .boot-screen__orbito { position: relative; right: auto; top: auto; width: 100px; height: 100px; margin: 1.8rem auto; }
+  .boot-screen__orbito span { margin: 42px auto; }
+  .boot-screen__status { margin-top: 0; }
+  .boot-screen__rodape { font-size: .55rem; }
+  .boot-unlock { max-width: none; }
+}
+
+@media (max-height: 720px) {
+  .boot-screen__orbito { position: relative; top: auto; right: auto; width: 82px; height: 82px; margin: .8rem auto; }
+  .boot-screen__orbito span { margin: 33px auto; }
+  .boot-screen__status { margin-top: .8rem; }
+  .boot-screen__titulo { font-size: clamp(2.8rem, 8vw, 5rem); }
+  .boot-screen__subtitulo { margin-top: .65rem; }
+  .boot-screen__rodape { display: none; }
 }
