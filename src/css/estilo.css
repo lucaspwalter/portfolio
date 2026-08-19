@@ -1386,14 +1386,89 @@ a {
 [hidden] { display: none !important; }
 
 :root.tema-claro {
-  --cor-fundo: #f5f7fb;
-  --cor-fundo-secundario: #e9edf7;
+  --cor-fundo: #f8fafc;
+  --cor-fundo-secundario: #eef2ff;
   --cor-fundo-cartao: #ffffff;
-  --cor-borda: rgba(32, 38, 58, 0.14);
-  --cor-texto: #1b2233;
-  --cor-texto-suave: #526078;
-  --cor-texto-fraco: #68758d;
-  --cor-foto-vazia: #e5e9f5;
+  --cor-borda: rgba(43, 55, 92, 0.14);
+  --cor-destaque: #3157d5;
+  --cor-destaque-clara: #7c3aed;
+  --cor-texto: #172033;
+  --cor-texto-suave: #4c5b73;
+  --cor-texto-fraco: #71809a;
+  --cor-foto-vazia: #e8edfb;
+  --sombra: 0 12px 35px rgba(43, 55, 92, .1);
+  --sombra-destaque: 0 15px 40px rgba(49, 87, 213, .16);
+}
+
+:root.tema-claro body {
+  background-image: radial-gradient(circle at 8% 10%, rgba(124, 58, 237, .1), transparent 30%), radial-gradient(circle at 92% 35%, rgba(49, 87, 213, .09), transparent 28%);
+}
+
+:root.tema-claro .navegacao {
+  background: rgba(255, 255, 255, .72);
+  box-shadow: 0 8px 30px rgba(43, 55, 92, .06);
+}
+
+:root.tema-claro .navegacao.rolada {
+  background: rgba(255, 255, 255, .9);
+  box-shadow: 0 8px 30px rgba(43, 55, 92, .1);
+}
+
+:root.tema-claro .topo__grade-fundo {
+  background-image: linear-gradient(rgba(49, 87, 213, .07) 1px, transparent 1px), linear-gradient(90deg, rgba(49, 87, 213, .07) 1px, transparent 1px);
+}
+
+:root.tema-claro .topo::before {
+  background: radial-gradient(ellipse, rgba(124, 58, 237, .14) 0%, transparent 70%);
+}
+
+:root.tema-claro .topo__tag {
+  background: rgba(49, 87, 213, .08);
+  border-color: rgba(49, 87, 213, .24);
+}
+
+:root.tema-claro .botao--primario {
+  background: linear-gradient(135deg, #3157d5, #7c3aed);
+  box-shadow: 0 12px 24px rgba(49, 87, 213, .22);
+}
+
+:root.tema-claro .botao--fantasma {
+  background: rgba(255, 255, 255, .72);
+  border-color: rgba(49, 87, 213, .22);
+}
+
+:root.tema-claro .secao--escura {
+  background: linear-gradient(135deg, #eef2ff 0%, #f7f5ff 52%, #edf7ff 100%);
+}
+
+:root.tema-claro .projeto-card,
+:root.tema-claro .cartao-stat,
+:root.tema-claro .habilidade-item,
+:root.tema-claro .link-contato {
+  box-shadow: 0 10px 30px rgba(43, 55, 92, .07);
+}
+
+:root.tema-claro .projeto-card:hover,
+:root.tema-claro .cartao-stat:hover,
+:root.tema-claro .habilidade-item:hover {
+  border-color: rgba(49, 87, 213, .35);
+  box-shadow: 0 18px 42px rgba(49, 87, 213, .15);
+}
+
+:root.tema-claro .filtro-btn {
+  border-color: rgba(43, 55, 92, .18);
+  color: var(--cor-texto-suave);
+  background: rgba(255, 255, 255, .7);
+}
+
+:root.tema-claro .filtro-btn:hover {
+  color: var(--cor-texto);
+  background: #fff;
+}
+
+:root.tema-claro .filtro-btn--ativo {
+  color: #fff;
+  background: linear-gradient(135deg, #3157d5, #7c3aed);
 }
 
 :root.tema-claro .navegacao.rolada {
