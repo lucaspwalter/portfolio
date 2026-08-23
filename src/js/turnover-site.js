@@ -25,6 +25,25 @@ const paintBars = (range) => {
 };
 paintBars('30');
 
+const orbit = document.querySelector('.risk-orbit');
+const orbitTags = [...document.querySelectorAll('.orbit__tag')];
+orbit.addEventListener('pointermove', (event) => {
+  const box = orbit.getBoundingClientRect();
+  const x = (event.clientX - box.left) / box.width - .5;
+  const y = (event.clientY - box.top) / box.height - .5;
+  orbit.style.setProperty('--rx', `${y * -8}deg`);
+  orbit.style.setProperty('--ry', `${x * 8}deg`);
+});
+orbit.addEventListener('pointerleave', () => {
+  orbit.style.setProperty('--rx', '0deg');
+  orbit.style.setProperty('--ry', '0deg');
+});
+orbitTags.forEach((tag) => tag.addEventListener('click', () => {
+  orbitTags.forEach((item) => item.classList.remove('is-selected'));
+  tag.classList.add('is-selected');
+  score.textContent = tag.classList.contains('orbit__tag--a') ? '82' : tag.classList.contains('orbit__tag--b') ? '61' : '24';
+}));
+
 document.querySelectorAll('[data-range]').forEach((button) => button.addEventListener('click', () => {
   document.querySelectorAll('[data-range]').forEach((item) => item.classList.remove('is-active'));
   button.classList.add('is-active');
