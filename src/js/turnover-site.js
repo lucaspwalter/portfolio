@@ -11,17 +11,20 @@ const rangeBars = {
 };
 const paintBars = (range) => {
   chart.replaceChildren();
-  rangeBars[range].flatMap((group) => group).forEach((value, index) => {
-    const bar = document.createElement('i');
-    bar.className = ['bar-high', 'bar-medium', 'bar-low'][index % 3];
-    bar.style.setProperty('--bar', `${value}%`);
-    chart.append(bar);
-  });
-  ['Engenharia', 'Produto', 'Operações', 'Logística', 'Comercial'].forEach((name) => {
+  ['Engenharia', 'Produto', 'Operações', 'Logística', 'Comercial'].forEach((name, groupIndex) => {
+    const group = document.createElement('div');
+    group.className = 'dept-group';
+    rangeBars[range][groupIndex].forEach((value, barIndex) => {
+      const bar = document.createElement('i');
+      bar.className = ['bar-high', 'bar-medium', 'bar-low'][barIndex];
+      bar.style.setProperty('--bar', `${value}%`);
+      group.append(bar);
+    });
     const label = document.createElement('span');
     label.className = 'dept-label';
     label.textContent = name;
-    chart.append(label);
+    group.append(label);
+    chart.append(group);
   });
 };
 paintBars('30');
