@@ -14,6 +14,7 @@ if (slug === 'brasilium') location.replace('projeto-brasilium.html');
 if (slug === 'jarvis') location.replace('projeto-jarvis.html');
 if (slug === 'ferroviaria') location.replace('projeto-ferroviaria.html');
 if (slug === 'turnover') location.replace('projeto-turnover.html');
+if (slug === 'pricewatch') location.replace('projeto-pricewatch.html');
 const projeto = projetos[slug] || projetos.jarvis;
 const setText = (id, value) => { document.getElementById(id).textContent = value; };
 const visuais = {
