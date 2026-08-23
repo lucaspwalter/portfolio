@@ -40,7 +40,7 @@
       </div>
 
       <div class="orbita" id="orbita">
-        <canvas id="brasiliumScene" aria-label="Espaço tridimensional interativo do Brasilium"></canvas>
+        <canvas id="brasiliumFallback" aria-label="Núcleo interativo do Brasilium"></canvas><canvas id="brasiliumScene" aria-label="Espaço tridimensional interativo do Brasilium"></canvas>
         <div class="orbita__mira" aria-hidden="true"><span></span><span></span></div>
         <div class="orbita__legenda"><b id="modoAtual">LOW RAM MODE</b><span>MOVE / DRAG / CLICK</span></div>
       </div>
@@ -85,6 +85,6 @@
   </main>
 
   <footer class="rodape"><span>BRASILIUM / HELIUM LOW-RAM MOD</span><span>LOW RAM / LINUX / X86_64</span><span>© 2026</span></footer>
-  <script type="module" src="src/js/brasilium-site.js?v=20260819a"></script>
+  <script src="src/js/brasilium-fallback.js?v=20260823a"></script><script type="module" src="src/js/brasilium-site.js?v=20260819a"></script>
 </body>
 </html>
