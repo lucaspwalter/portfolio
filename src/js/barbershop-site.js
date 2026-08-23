@@ -1,0 +1,7 @@
+const chair = document.querySelector('.chair');
+chair.addEventListener('pointermove', (event) => { const box = chair.getBoundingClientRect(); chair.style.transform = `perspective(900px) rotateX(${((event.clientY-box.top)/box.height-.5)*-5}deg) rotateY(${((event.clientX-box.left)/box.width-.5)*5}deg)`; });
+chair.addEventListener('pointerleave', () => { chair.style.transform = ''; });
+document.querySelectorAll('.barber').forEach((button) => button.addEventListener('click', () => { document.querySelectorAll('.barber').forEach((item) => item.classList.remove('is-active')); button.classList.add('is-active'); }));
+document.querySelectorAll('.day-tabs button').forEach((button) => button.addEventListener('click', () => { document.querySelectorAll('.day-tabs button').forEach((item) => item.classList.remove('is-active')); button.classList.add('is-active'); }));
+const booking = document.getElementById('booking');
+document.querySelectorAll('.slot').forEach((slot) => slot.addEventListener('click', () => { document.querySelectorAll('.slot').forEach((item) => item.classList.remove('selected')); slot.classList.add('selected'); booking.textContent = slot.classList.contains('available') ? `${slot.querySelector('b').textContent} está livre. Clique novamente para confirmar sua reserva.` : 'Este horário já está ocupado; você pode entrar na fila de espera.'; }));
