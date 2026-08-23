@@ -3,6 +3,7 @@ const chartTotal = document.getElementById('chartTotal');
 const chart = document.getElementById('riskChart');
 const people = [...document.querySelectorAll('.person')];
 const detail = document.getElementById('personDetail');
+document.querySelector('.orbit__core span').textContent = 'RISCO / 100';
 const rangeBars = {
   '30': [[78,48,25],[52,68,31],[66,42,54],[34,60,72],[23,35,84]],
   '90': [[64,56,34],[61,74,42],[58,48,62],[43,66,58],[31,44,78]],
