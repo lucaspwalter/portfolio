@@ -1,3 +1,7 @@
+const layoutOverride = document.createElement('link');
+layoutOverride.rel = 'stylesheet';
+layoutOverride.href = 'src/css/barbershop-override.css?v=20260823b';
+document.head.append(layoutOverride);
 const chair = document.querySelector('.chair');
 chair.addEventListener('pointermove', (event) => { const box = chair.getBoundingClientRect(); chair.style.transform = `perspective(900px) rotateX(${((event.clientY-box.top)/box.height-.5)*-5}deg) rotateY(${((event.clientX-box.left)/box.width-.5)*5}deg)`; });
 chair.addEventListener('pointerleave', () => { chair.style.transform = ''; });
