@@ -33,10 +33,14 @@ orbit.addEventListener('pointermove', (event) => {
   const y = (event.clientY - box.top) / box.height - .5;
   orbit.style.setProperty('--rx', `${y * -8}deg`);
   orbit.style.setProperty('--ry', `${x * 8}deg`);
+  orbit.style.setProperty('--tx', `${x * 18}px`);
+  orbit.style.setProperty('--ty', `${y * 18}px`);
 });
 orbit.addEventListener('pointerleave', () => {
   orbit.style.setProperty('--rx', '0deg');
   orbit.style.setProperty('--ry', '0deg');
+  orbit.style.setProperty('--tx', '0px');
+  orbit.style.setProperty('--ty', '0px');
 });
 orbitTags.forEach((tag) => tag.addEventListener('click', () => {
   orbitTags.forEach((item) => item.classList.remove('is-selected'));
