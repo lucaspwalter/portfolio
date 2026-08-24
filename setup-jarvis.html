@@ -115,6 +115,11 @@ ollama pull qwen2.5:0.5b</code>
         <a href="https://github.com/lucaspwalter/jarvis" class="botao botao--fantasma" target="_blank" rel="noreferrer">Abrir repositório</a>
       </div>
     </div>
+    <section class="setup__bloco"><h2>Windows 10/11</h2><p>O caminho mais confiável é usar WSL 2 com Ubuntu. Instale WSL, Python 3.11, Git e os pacotes de áudio dentro do Ubuntu; execute os mesmos comandos Linux deste guia.</p><p>Microfone, PipeWire e atalhos do desktop Linux não funcionam nativamente no PowerShell. Para testar apenas a transcrição, use WSLg e confirme o dispositivo de áudio antes de executar.</p><code class="setup__codigo">wsl --install -d Ubuntu
+git clone https://github.com/lucaspwalter/jarvis.git
+cd jarvis
+python -m venv .venv
+source .venv/bin/activate</code></section>
   </main>
   <script src="src/js/transicoes.js"></script>
 </body>
