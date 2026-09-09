@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Job Scraper — Como Rodar Localmente</title>
+  <title>Monitor de Vagas — Como Rodar Localmente</title>
   <link rel="stylesheet" href="src/css/estilo.css" />
   <link rel="stylesheet" href="src/css/transicoes.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -127,16 +127,16 @@
   <main class="setup">
     <div class="container">
       <header class="setup__cabecalho aparece-cima">
-        <span class="secao__rotulo">Job Scraper</span>
-        <h1 class="setup__titulo">Job Scraper — Como Rodar Localmente</h1>
+        <span class="secao__rotulo">Monitor de Vagas</span>
+        <h1 class="setup__titulo">Monitor de Vagas — Como Rodar Localmente</h1>
         <p class="setup__texto">Aplicativo web para monitorar vagas e workspace do Codex para pesquisar, classificar, adaptar documentos e preparar entrevistas.</p>
       </header>
 
       <div class="setup__lista">
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Opção recomendada — Docker</h2>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
-cd job-scraper
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/monitor-de-vagas-codex.git
+cd monitor-de-vagas-codex
 docker compose up --build</code>
           <p>Acesse a interface em <strong>http://localhost:5173</strong>, a API em <strong>http://localhost:8000</strong> e a documentação em <strong>http://localhost:8000/docs</strong>.</p>
           <p>PostgreSQL, API, frontend e agendador são iniciados automaticamente.</p>
@@ -149,7 +149,7 @@ docker compose up --build</code>
   cd .agents/skills/$tool/cli &amp;&amp; bun install &amp;&amp; cd ../../../..
 done</code>
           <p>Depois inicie o Codex:</p>
-          <code class="setup__codigo">cd job-scraper
+          <code class="setup__codigo">cd monitor-de-vagas-codex
 codex
 $setup</code>
           <p>O <code>$setup</code> pode ler CV, LinkedIn, diplomas e referências colocados em <code>documents/</code>. Depois use <code>$scrape</code>, <code>$rank</code>, <code>$apply &lt;URL&gt;</code> e <code>$interview</code>.</p>
@@ -159,8 +159,8 @@ $setup</code>
           <h2>Instalação manual rápida — SQLite</h2>
           <p>Não exige Docker nem PostgreSQL. Email e WhatsApp são opcionais.</p>
           <p><strong>Terminal 1 — API</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git
-cd job-scraper/backend
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/monitor-de-vagas-codex.git
+cd monitor-de-vagas-codex/backend
 cp .env.example .env
 python3 -m venv .venv
 source .venv/bin/activate
@@ -169,7 +169,7 @@ python3 seed.py
 python3 main.py</code>
           <p>Se não usar notificações, deixe todas as variáveis <code>SMTP_*</code> e <code>NOTIFY_*</code> vazias no <code>.env</code>.</p>
           <p><strong>Terminal 2 — Frontend</strong></p>
-          <code class="setup__codigo">cd job-scraper/frontend
+          <code class="setup__codigo">cd monitor-de-vagas-codex/frontend
 npm install
 npm start</code>
           <p>Windows: troque <code>python3</code> por <code>py</code>, ativação por <code>.\.venv\Scripts\Activate.ps1</code> e <code>cp</code> por <code>Copy-Item</code>.</p>
@@ -207,7 +207,7 @@ npm start</code>
         <a href="index.html" class="botao botao--primario">Voltar ao Portfólio</a>
       </div>
     </div>
-    <section class="setup__bloco"><h2>Windows e Linux — caminho recomendado</h2><p><strong>Windows 10/11:</strong> instale Docker Desktop + WSL 2 e abra o PowerShell:</p><code class="setup__codigo">git clone https://github.com/lucaspwalter/job-scraper.git &amp;&amp; cd job-scraper &amp;&amp; docker compose up --build</code><p><strong>Linux:</strong> instale Git, Docker Engine e Compose; rode o mesmo comando. Configure currículo e notificações no <code>.env</code>. Parar: <code>docker compose down</code>.</p></section>
+    <section class="setup__bloco"><h2>Windows e Linux — caminho recomendado</h2><p><strong>Windows 10/11:</strong> instale Docker Desktop + WSL 2 e abra o PowerShell:</p><code class="setup__codigo">git clone https://github.com/lucaspwalter/monitor-de-vagas-codex.git &amp;&amp; cd monitor-de-vagas-codex &amp;&amp; docker compose up --build</code><p><strong>Linux:</strong> instale Git, Docker Engine e Compose; rode o mesmo comando. Configure currículo e notificações no <code>.env</code>. Parar: <code>docker compose down</code>.</p></section>
   </main>
   <script src="src/js/transicoes.js"></script>
 </body>

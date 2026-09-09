@@ -58,8 +58,8 @@ command -v parec pactl pw-play ffmpeg wtype</code>
 
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>2. Baixar e preparar o Python</h2>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/jarvis.git
-cd jarvis
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/assistente-virtual.git
+cd assistente-virtual
 python -m venv .venv
 .venv/bin/pip install -r requirements.txt
 cp config.example.toml config.toml</code>
@@ -112,12 +112,12 @@ ollama pull qwen2.5:0.5b</code>
 
       <div class="setup__acoes aparece-cima atraso-4">
         <a href="projeto.html?projeto=jarvis" class="botao botao--primario">Voltar ao JARVIS</a>
-        <a href="https://github.com/lucaspwalter/jarvis" class="botao botao--fantasma" target="_blank" rel="noreferrer">Abrir repositório</a>
+        <a href="https://github.com/lucaspwalter/assistente-virtual.git" class="botao botao--fantasma" target="_blank" rel="noreferrer">Abrir repositório</a>
       </div>
     </div>
     <section class="setup__bloco"><h2>Windows 10/11</h2><p>O caminho mais confiável é usar WSL 2 com Ubuntu. Instale WSL, Python 3.11, Git e os pacotes de áudio dentro do Ubuntu; execute os mesmos comandos Linux deste guia.</p><p>Microfone, PipeWire e atalhos do desktop Linux não funcionam nativamente no PowerShell. Para testar apenas a transcrição, use WSLg e confirme o dispositivo de áudio antes de executar.</p><code class="setup__codigo">wsl --install -d Ubuntu
-git clone https://github.com/lucaspwalter/jarvis.git
-cd jarvis
+git clone https://github.com/lucaspwalter/assistente-virtual.git
+cd assistente-virtual
 python -m venv .venv
 source .venv/bin/activate</code></section>
   </main>

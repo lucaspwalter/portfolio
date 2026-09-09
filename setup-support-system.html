@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Support System — Como Rodar Localmente</title>
+  <title>Sistema de Suporte — Como Rodar Localmente</title>
   <link rel="stylesheet" href="src/css/estilo.css" />
   <link rel="stylesheet" href="src/css/transicoes.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -127,16 +127,16 @@
   <main class="setup">
     <div class="container">
       <header class="setup__cabecalho aparece-cima">
-        <span class="secao__rotulo">Support System</span>
-        <h1 class="setup__titulo">Support System — Como Rodar Localmente</h1>
+        <span class="secao__rotulo">Sistema de Suporte</span>
+        <h1 class="setup__titulo">Sistema de Suporte — Como Rodar Localmente</h1>
         <p class="setup__texto">Guia manual para executar o back-end, front-end e banco localmente.</p>
       </header>
 
       <div class="setup__lista">
         <section class="setup__bloco aparece-cima atraso-1">
           <h2>Opção recomendada — Docker</h2>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/support-system.git
-cd support-system
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/sistema-de-suporte.git
+cd sistema-de-suporte
 docker compose up --build</code>
           <p>Acesse <strong>http://localhost:3000/client</strong>. Banco, backend e frontend são iniciados automaticamente.</p>
         </section>
@@ -145,11 +145,11 @@ docker compose up --build</code>
           <h2>Instalação manual rápida</h2>
           <p>Use Docker apenas para banco e backend; execute frontend no computador:</p>
           <p><strong>Terminal 1</strong></p>
-          <code class="setup__codigo">git clone https://github.com/lucaspwalter/support-system.git
-cd support-system
+          <code class="setup__codigo">git clone https://github.com/lucaspwalter/sistema-de-suporte.git
+cd sistema-de-suporte
 docker compose up -d db backend</code>
           <p><strong>Terminal 2</strong></p>
-          <code class="setup__codigo">cd support-system/frontend
+          <code class="setup__codigo">cd sistema-de-suporte/frontend
 cp .env.example .env.local
 npm install
 npm run dev</code>
@@ -182,7 +182,7 @@ npm run dev</code>
         <a href="index.html" class="botao botao--primario">Voltar ao Portfólio</a>
       </div>
     </div>
-    <section class="setup__bloco"><h2>Windows e Linux — caminho recomendado</h2><p><strong>Windows 10/11:</strong> instale Docker Desktop + WSL 2 e execute no PowerShell:</p><code class="setup__codigo">git clone https://github.com/lucaspwalter/support-system.git &amp;&amp; cd support-system &amp;&amp; docker compose up --build</code><p><strong>Linux:</strong> instale Git, Docker Engine e Compose; rode o mesmo comando. Abra a URL indicada pelo Compose. Parar: <code>docker compose down</code>.</p></section>
+    <section class="setup__bloco"><h2>Windows e Linux — caminho recomendado</h2><p><strong>Windows 10/11:</strong> instale Docker Desktop + WSL 2 e execute no PowerShell:</p><code class="setup__codigo">git clone https://github.com/lucaspwalter/sistema-de-suporte.git &amp;&amp; cd sistema-de-suporte &amp;&amp; docker compose up --build</code><p><strong>Linux:</strong> instale Git, Docker Engine e Compose; rode o mesmo comando. Abra a URL indicada pelo Compose. Parar: <code>docker compose down</code>.</p></section>
   </main>
   <script src="src/js/transicoes.js"></script>
 </body>
