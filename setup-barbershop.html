@@ -129,7 +129,7 @@
       <header class="setup__cabecalho aparece-cima">
         <span class="secao__rotulo">Agenda de Barbearia</span>
         <h1 class="setup__titulo">Agenda de Barbearia — Como Rodar Localmente</h1>
-        <p class="setup__texto">Guia manual para executar o back-end, front-end e banco localmente.</p>
+        <p class="setup__texto">Guia manual para executar o servidor, a interface web e o banco localmente.</p>
       </header>
 
       <div class="setup__lista">
@@ -138,7 +138,7 @@
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/agenda-de-barbearia.git
 cd agenda-de-barbearia
 docker compose up</code>
-          <p>Acesse <strong>http://localhost:3000</strong>. Para popular dados demonstrativos, rode <code>npm run seed</code> em outro terminal após o backend iniciar.</p>
+          <p>Acesse <strong>http://localhost:3000</strong>. Para popular dados demonstrativos, rode <code>npm run seed</code> em outro terminal após o servidor iniciar.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
@@ -147,12 +147,12 @@ docker compose up</code>
           <code class="setup__codigo">git clone https://github.com/lucaspwalter/agenda-de-barbearia.git
 cd agenda-de-barbearia
 docker run -d --name barbershop-db -e POSTGRES_USER=barbershop -e POSTGRES_PASSWORD=barbershop -e POSTGRES_DB=barbershop -p 5433:5432 postgres:16</code>
-          <p><strong>Terminal 1 — Backend</strong></p>
+          <p><strong>Terminal 1 — Servidor</strong></p>
           <code class="setup__codigo">cp .env.example .env
 npm install
 npm run migrate
 npm run dev</code>
-          <p><strong>Terminal 2 — Frontend</strong></p>
+          <p><strong>Terminal 2 — Interface web</strong></p>
           <code class="setup__codigo">cd agenda-de-barbearia/frontend
 cp .env.example .env.local
 npm install
@@ -173,7 +173,7 @@ npm run dev</code>
 
         <section class="setup__bloco aparece-cima atraso-4">
           <h2>Notificações WhatsApp</h2>
-          <p>As notificações via WhatsApp requerem uma instância própria da Evolution API. Sem ela, o sistema funciona normalmente — as notificações falham silenciosamente e ficam registradas como failed na página de Notificações do front-end.</p>
+          <p>As notificações via WhatsApp requerem uma instância própria da Evolution API. Sem ela, o sistema funciona normalmente — as notificações falham silenciosamente e ficam registradas como com falha na página de Notificações da interface web.</p>
           <p>Documentação: <a href="https://doc.evolution-api.com" target="_blank">https://doc.evolution-api.com</a></p>
         </section>
       </div>

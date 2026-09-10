@@ -139,7 +139,7 @@
 cd monitor-de-vagas-codex
 docker compose up --build</code>
           <p>Acesse a interface em <strong>http://localhost:5173</strong>, a API em <strong>http://localhost:8000</strong> e a documentação em <strong>http://localhost:8000/docs</strong>.</p>
-          <p>PostgreSQL, API, frontend e agendador são iniciados automaticamente.</p>
+          <p>PostgreSQL, API, interface web e agendador são iniciados automaticamente.</p>
         </section>
 
         <section class="setup__bloco aparece-cima atraso-1">
@@ -168,7 +168,7 @@ pip install -r requirements.txt
 python3 seed.py
 python3 main.py</code>
           <p>Se não usar notificações, deixe todas as variáveis <code>SMTP_*</code> e <code>NOTIFY_*</code> vazias no <code>.env</code>.</p>
-          <p><strong>Terminal 2 — Frontend</strong></p>
+          <p><strong>Terminal 2 — Interface web</strong></p>
           <code class="setup__codigo">cd monitor-de-vagas-codex/frontend
 npm install
 npm start</code>
