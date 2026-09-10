@@ -73,5 +73,5 @@ document.querySelectorAll('[data-dept]').forEach((button) => button.addEventList
 people.forEach((person) => person.addEventListener('click', () => {
   people.forEach((item) => item.classList.remove('is-selected'));
   person.classList.add('is-selected');
-  detail.textContent = `${person.querySelector('strong').firstChild.textContent.trim()}: seis sinais combinados. Score ${person.querySelector('i').textContent}/100. Abra o dashboard para investigar o contexto.`;
+  detail.textContent = `${person.querySelector('strong').firstChild.textContent.trim()}: seis sinais combinados. Pontuação ${person.querySelector('i').textContent}/100. Abra o dashboard para investigar o contexto.`;
 }));

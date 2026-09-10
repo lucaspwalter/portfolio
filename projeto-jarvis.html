@@ -15,14 +15,14 @@
   <div class="scanlines" aria-hidden="true"></div>
   <header class="topbar">
     <nav class="topbar__actions" aria-label="Ações do projeto"><a href="index.html?skipboot=1#projetos"><span>←</span> Portfólio</a><a href="https://github.com/lucaspwalter/assistente-virtual.git" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><a href="setup-jarvis.html">Como rodar <span>↓</span></a></nav>
-    <div class="topbar__identity"><i></i><b>JARVIS</b><span>LOCAL INTELLIGENCE</span></div>
+    <div class="topbar__identity"><i></i><b>JARVIS</b><span>INTELIGÊNCIA LOCAL</span></div>
     <div class="topbar__clock"><span id="relogio">00:00:00</span><b>BRASIL / LOCAL</b></div>
   </header>
 
   <main>
     <section class="core" id="inicio">
       <div class="core__title">
-        <p>PROJECT 007 / VOICE SYSTEM</p>
+        <p>PROJETO 007 / SISTEMA DE VOZ</p>
         <h1>JAR<br /><span>VIS</span></h1>
         <div class="core__summary">Assistente de voz local para Linux. Escuta, transcreve em português e executa somente comandos registrados.</div>
       </div>
@@ -34,10 +34,10 @@
       </div>
 
       <div class="diagnostics">
-        <div><span>WAKE WORD</span><b>OPENWAKEWORD</b><i class="ok">READY</i></div>
+        <div><span>PALAVRA DE ATIVAÇÃO</span><b>OPENWAKEWORD</b><i class="ok">PRONTO</i></div>
         <div><span>TRANSCRIÇÃO</span><b>FASTER-WHISPER</b><i class="ok">PT-BR</i></div>
         <div><span>VOZ</span><b>PIPER</b><i class="ok">LOCAL</i></div>
-        <div><span>INTERPRETAÇÃO</span><b>OLLAMA</b><i>OPTIONAL</i></div>
+        <div><span>INTERPRETAÇÃO</span><b>OLLAMA</b><i>OPCIONAL</i></div>
       </div>
 
       <div class="wave" aria-hidden="true" id="wave"></div>
@@ -46,15 +46,15 @@
     <section class="pipeline" id="pipeline">
       <header><span>01</span><p>FLUXO OPERACIONAL</p><h2>Da sua voz<br />até a ação.</h2></header>
       <div class="pipeline__steps">
-        <article data-step="01"><span>01 / DETECT</span><h3>“Jarvis”</h3><p>OpenWakeWord detecta ativação localmente.</p></article>
-        <article data-step="02"><span>02 / LISTEN</span><h3>Comando</h3><p>PipeWire captura somente a fala seguinte.</p></article>
-        <article data-step="03"><span>03 / UNDERSTAND</span><h3>Texto</h3><p>Faster-Whisper transcreve em português na CPU.</p></article>
-        <article data-step="04"><span>04 / CONTROL</span><h3>Ação</h3><p>Registro fixo decide o que pode ser executado.</p></article>
+        <article data-step="01"><span>01 / DETECTAR</span><h3>“Jarvis”</h3><p>OpenWakeWord detecta ativação localmente.</p></article>
+        <article data-step="02"><span>02 / OUVIR</span><h3>Comando</h3><p>PipeWire captura somente a fala seguinte.</p></article>
+        <article data-step="03"><span>03 / ENTENDER</span><h3>Texto</h3><p>Faster-Whisper transcreve em português na CPU.</p></article>
+        <article data-step="04"><span>04 / CONTROLAR</span><h3>Ação</h3><p>Registro fixo decide o que pode ser executado.</p></article>
       </div>
     </section>
 
     <section class="security" id="seguranca">
-      <div class="security__label"><span>02 / SECURITY PROTOCOL</span><b>LOCAL<br />BY<br />DESIGN</b></div>
+      <div class="security__label"><span>02 / PROTOCOLO DE SEGURANÇA</span><b>LOCAL<br />POR<br />PROJETO</b></div>
       <div class="security__content">
         <h2>IA interpreta.<br /><em>Não controla.</em></h2>
         <p>Ollama ajuda somente quando o reconhecimento determinístico falha. Ele escolhe entre intenções conhecidas e nunca recebe acesso direto ao shell.</p>
@@ -63,18 +63,18 @@
     </section>
 
     <section class="commands" id="comandos">
-      <header><p>03 / COMMAND DECK</p><h2>Experimente<br />uma intenção.</h2></header>
+      <header><p>03 / PAINEL DE COMANDOS</p><h2>Experimente<br />uma intenção.</h2></header>
       <div class="commands__deck">
         <button type="button" data-command="ABRINDO FIREFOX">Abrir Firefox <span>01</span></button>
         <button type="button" data-command="MOSTRANDO DISPOSITIVOS DE ÁUDIO">Mostrar áudio <span>02</span></button>
         <button type="button" data-command="CAPTURANDO TELA">Capturar tela <span>03</span></button>
         <button type="button" data-command="PAUSANDO MÍDIA">Pausar mídia <span>04</span></button>
       </div>
-      <div class="commands__response"><span>JARVIS RESPONSE</span><b id="respostaComando">AGUARDANDO COMANDO_</b></div>
+      <div class="commands__response"><span>RESPOSTA DO JARVIS</span><b id="respostaComando">AGUARDANDO COMANDO_</b></div>
     </section>
 
     <section class="launch" id="executar">
-      <p>04 / RUN LOCAL</p>
+      <p>04 / EXECUÇÃO LOCAL</p>
       <h2>Leve a inteligência<br />para sua máquina.</h2>
       <pre><code><span>$</span> git clone https://github.com/lucaspwalter/assistente-virtual.git
 <span>$</span> cd assistente-virtual
@@ -84,7 +84,7 @@
     </section>
   </main>
 
-  <footer><span>JARVIS / LOCAL INTELLIGENCE</span><span>PYTHON · WHISPER · OLLAMA · PIPER</span><span>© 2026</span></footer>
+  <footer><span>JARVIS / INTELIGÊNCIA LOCAL</span><span>PYTHON · WHISPER · OLLAMA · PIPER</span><span>© 2026</span></footer>
   <script type="module" src="src/js/jarvis-site.js?v=20260819h"></script>
 </body>
 </html>

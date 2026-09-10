@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Brasilium, modificação do Helium para Linux focada em reduzir consumo de RAM." />
-  <title>Brasilium Browser</title>
+  <title>Brasilium Navegador</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Manrope:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
@@ -16,7 +16,7 @@
 
   <header class="barra">
     <a class="barra__marca" href="#inicio" aria-label="Brasilium, início"><span>B</span><b>BRASILIUM</b></a>
-    <div class="barra__estado"><i></i><span>CHROMIUM CORE</span><b>ACTIVE</b></div>
+    <div class="barra__estado"><i></i><span>NÚCLEO CHROMIUM</span><b>ATIVO</b></div>
     <nav class="barra__acoes" aria-label="Ações do projeto"><a href="index.html?skipboot=1#projetos">← Portfólio</a><a href="https://github.com/lucaspwalter/helium-performance" target="_blank" rel="noreferrer">GitHub ↗</a><a href="setup-brasilium.html">Como rodar ↓</a></nav>
     <button class="barra__menu" type="button" aria-expanded="false" aria-controls="menu"><span>Menu</span><i></i></button>
   </header>
@@ -31,7 +31,7 @@
   <main>
     <section class="abertura" id="inicio">
       <div class="abertura__texto">
-        <p class="micro">HELIUM MOD / LOW RAM / LINUX / 2026</p>
+        <p class="micro">HELIUM MODIFICADO / BAIXO USO DE RAM / LINUX / 2026</p>
         <h1><span>Navegue</span><span>do seu</span><em>jeito.</em></h1>
         <p class="abertura__resumo">Modificação do Helium criada com um objetivo direto: diminuir o consumo de RAM no Linux sem transformar o projeto em outro navegador.</p>
         <div class="abertura__acoes">
@@ -42,10 +42,10 @@
       <div class="orbita" id="orbita">
         <canvas id="brasiliumFallback" aria-label="Núcleo interativo do Brasilium"></canvas><canvas id="brasiliumScene" aria-label="Espaço tridimensional interativo do Brasilium"></canvas>
         <div class="orbita__mira" aria-hidden="true"><span></span><span></span></div>
-        <div class="orbita__legenda"><b id="modoAtual">LOW RAM MODE</b><span>MOVE / DRAG / CLICK</span></div>
+        <div class="orbita__legenda"><b id="modoAtual">MODO DE BAIXO USO DE RAM</b><span>MOVA / ARRASTE / CLIQUE</span></div>
       </div>
 
-      <div class="rolagem"><span>SCROLL TO NAVIGATE</span><i></i></div>
+      <div class="rolagem"><span>ROLE PARA NAVEGAR</span><i></i></div>
     </section>
 
     <section class="manifesto" id="manifesto">
@@ -59,7 +59,7 @@
     </section>
 
     <section class="sistema" id="sistema">
-      <header><p class="capitulo">02 — SYSTEM MAP</p><h2>Helium ajustado<br />para usar menos.</h2></header>
+      <header><p class="capitulo">02 — MAPA DO SISTEMA</p><h2>Helium ajustado<br />para usar menos.</h2></header>
       <div class="trilhas" role="list">
         <button class="trilha is-open" type="button" role="listitem" data-camada="helium">
           <span>01</span><h3>Base Helium</h3><p>Não é navegador novo: é uma modificação do empacotamento Linux do Helium.</p><i>+</i>
@@ -68,14 +68,14 @@
           <span>02</span><h3>Política de RAM</h3><p>Usa processo por site e limita renderizadores a quatro por padrão.</p><i>+</i>
         </button>
         <button class="trilha" type="button" role="listitem" data-camada="build">
-          <span>03</span><h3>Build otimizada</h3><p>PGO, ThinLTO, compilação jumbo, VA-API e otimização de tamanho.</p><i>+</i>
+          <span>03</span><h3>Compilação otimizada</h3><p>PGO, ThinLTO, compilação jumbo, VA-API e otimização de tamanho.</p><i>+</i>
         </button>
       </div>
-      <div class="sistema__status"><span>BASE</span><b>HELIUM</b><span>MODE</span><b>LOW RAM</b><span>TARGET</span><b>LINUX X86_64</b></div>
+      <div class="sistema__status"><span>BASE</span><b>HELIUM</b><span>MODO</span><b>BAIXO USO DE RAM</b><span>DESTINO</span><b>LINUX X86_64</b></div>
     </section>
 
     <section class="executar" id="executar">
-      <div><p class="capitulo">03 — LAUNCH</p><h2>Seu navegador.<br />Sua máquina.</h2></div>
+      <div><p class="capitulo">03 — EXECUÇÃO</p><h2>Seu navegador.<br />Sua máquina.</h2></div>
       <div class="terminal">
         <header><span></span><span></span><span></span><b>brasilium — bash</b></header>
         <code><i>$</i> chmod +x Brasilium.AppImage<br /><i>$</i> ./Brasilium.AppImage<span class="cursor">_</span></code>
@@ -84,7 +84,7 @@
     </section>
   </main>
 
-  <footer class="rodape"><span>BRASILIUM / HELIUM LOW-RAM MOD</span><span>LOW RAM / LINUX / X86_64</span><span>© 2026</span></footer>
+  <footer class="rodape"><span>BRASILIUM / HELIUM MODIFICAÇÃO DE BAIXO USO DE RAM</span><span>BAIXO USO DE RAM / LINUX / X86_64</span><span>© 2026</span></footer>
   <script src="src/js/brasilium-fallback.js?v=20260823a"></script><script type="module" src="src/js/brasilium-site.js?v=20260819a"></script>
 </body>
 </html>
